@@ -48,9 +48,15 @@ jobs:
           SECRET: ${{ secrets.BGMX_SECRET }}
         run: |
           bgmx sync bangumi --log sync-bangumi.md --out-dir data/bangumi
+
+      - name: Commit bangumi data
+        continue-on-error: true
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
           git add data/bangumi
           git pull
-          git commit -m "feat: sync bangumi data"
+          git commit -m "feat: sync bangumi data at $(date +"%Y-%m-%d %T")"
           git push
 
       - name: Update execution log
