@@ -18,9 +18,28 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4.2.0
+
+      - name: Setup node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24.10.0
+          cache: pnpm
+
+      - name: Checkout repository
+        uses: actions/checkout@v5
         with:
           repository: yjl9903/bgmx
+          path: bgmx
 
       - run: |
-          pwd
-          ls
+          cd bgmx
+          pnpm i
+          pnpm build
+          cd apps/bgmx
+          pnpm link -g
+
+      - run: |
+          bgmx --help
