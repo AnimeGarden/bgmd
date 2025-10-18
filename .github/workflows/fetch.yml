@@ -1,4 +1,4 @@
-name: Fetch data
+name: Sync data
 
 on:
   # schedule:
@@ -43,14 +43,14 @@ jobs:
           cd apps/bgmx
           pnpm link -g
 
-      - name: Fetch and update bangumi
+      - name: Sync bangumi data
         env:
           SECRET: ${{ secrets.BGMX_SECRET }}
         run: |
-          bgmx fetch bangumi --log fetch-bangumi.md --out-dir data/bangumi
+          bgmx sync bangumi --log sync-bangumi.md --out-dir data/bangumi
           git add data/bangumi
-          git pull --rebase
-          git commit -m "feat: update bangumi data"
+          git pull
+          git commit -m "feat: sync bangumi data"
           git push
 
       - name: Update execution log
@@ -64,8 +64,8 @@ jobs:
             const path = require('path');
 
             try {
-              // 读取 fetch-bangumi.md 文件内容
-              const logFilePath = 'fetch-bangumi.md';
+              // 读取 sync-bangumi.md 文件内容
+              const logFilePath = 'sync-bangumi.md';
               const logContent = fs.readFileSync(logFilePath, 'utf8');
               
               // 构建新的 issue 内容
