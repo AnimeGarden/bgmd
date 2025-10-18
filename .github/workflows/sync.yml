@@ -1,0 +1,92 @@
+name: Sync data
+
+on:
+  # schedule:
+  #   - cron: '11 11 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  bangumi:
+    name: Sync Bangumi data
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      issues: write
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4.2.0
+
+      - name: Setup node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24.10.0
+          cache: pnpm
+
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          repository: yjl9903/bgmx
+          path: bgmx
+
+      - name: Prepare bgmx
+        working-directory: bgmx
+        run: |
+          pnpm i
+          pnpm build
+          cd apps/bgmx
+          pnpm link -g
+
+      - name: Sync bangumi data
+        env:
+          SECRET: ${{ secrets.BGMX_SECRET }}
+        run: |
+          bgmx sync bangumi --log sync-bangumi.md --out-dir data/bangumi
+
+      - name: Commit bangumi data
+        continue-on-error: true
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add data/bangumi
+          git pull
+          git commit -m "feat: sync bangumi data at $(date +"%Y-%m-%d %T")"
+          git push
+
+      - name: Update execution log
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // 待更新的 issue 编号
+            const issueNumber = 1;
+            
+            const fs = require('fs');
+            const path = require('path');
+
+            try {
+              // 读取 sync-bangumi.md 文件内容
+              const logFilePath = 'sync-bangumi.md';
+              const logContent = fs.readFileSync(logFilePath, 'utf8');
+              
+              // 构建新的 issue 内容
+              const newBody = `${logContent}`;
+            
+              // 更新 issue 内容
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body: newBody
+              });
+              
+              console.log(`✅ 成功更新 issue #${issueNumber}`);
+            } catch (error) {
+              console.error(`❌ 更新 issue #${issueNumber} 时出错:`, error);
+              throw error;
+            }
