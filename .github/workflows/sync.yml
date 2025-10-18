@@ -1,8 +1,8 @@
 name: Sync data
 
 on:
-  # schedule:
-  #   - cron: '11 11 * * *'
+  schedule:
+    - cron: '11 11 * * *'
 
   workflow_dispatch:
 
