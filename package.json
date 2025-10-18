@@ -1,20 +1,21 @@
 {
   "name": "bgmd",
-  "version": "0.0.64",
-  "description": "Bangumi Data",
+  "version": "0.20251018.0",
+  "description": "Bangumi data",
   "keywords": [
     "anime",
+    "animegarden",
     "bangumi",
     "bgm",
     "tmdb"
   ],
-  "homepage": "https://github.com/yjl9903/bgmc#readme",
+  "homepage": "https://github.com/AnimeGarden/bgmd#readme",
   "bugs": {
-    "url": "https://github.com/yjl9903/bgmc/issues"
+    "url": "https://github.com/AnimeGarden/bgmd/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yjl9903/bgmc.git"
+    "url": "git+https://github.com/AnimeGarden/bgmd.git"
   },
   "license": "MIT",
   "author": "XLor",
@@ -35,16 +36,6 @@
       "types": "./calendar.d.ts",
       "import": "./data/calendar.json",
       "require": "./data/calendar.json"
-    },
-    "./transform": {
-      "types": "./dist/transform.d.ts",
-      "import": "./dist/transform.mjs",
-      "require": "./dist/transform.cjs"
-    },
-    "./types": {
-      "types": "./dist/types.d.ts",
-      "import": "./dist/types.mjs",
-      "require": "./dist/types.cjs"
     }
   },
   "main": "data/index.json",
@@ -71,23 +62,11 @@
     "test:ci": "vitest --run",
     "typecheck": "tsc --noEmit"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "tsx": "^4.20.6"
+  },
   "packageManager": "pnpm@10.18.3",
   "engines": {
     "node": ">=v20.8.0"
-  },
-  "release-it": {
-    "git": {
-      "commitMessage": "chore(bgmd): release v${version}",
-      "tag": true,
-      "push": true
-    },
-    "npm": {
-      "publish": true
-    },
-    "hooks": {
-      "before:init": "pnpm run build && pnpm run test:ci"
-    }
   }
 }
