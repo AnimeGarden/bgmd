@@ -22,9 +22,10 @@ console.log('Release next version:', nextVersion);
 
 await fs.writeFile(
   'package.json',
-  (
-    await fs.readFile('package.json', 'utf-8')
-  ).replace(`"version": "${version}"`, `"version": "${nextVersion}"`),
+  (await fs.readFile('package.json', 'utf-8')).replace(
+    `"version": "${version}"`,
+    `"version": "${nextVersion}"`
+  ),
   'utf-8'
 );
 

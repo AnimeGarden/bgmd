@@ -1,17 +1,21 @@
-export type SubjectRating = {
+type SubjectRating = {
   score: number;
   rank: number;
 };
 
-export type SubjectImage = {};
+type SubjectImage = {
+  provider: 'bgm' | 'tmdb';
+  quality: string;
+  src: string;
+};
 
-export type SubjectSearch = {
+type SubjectSearch = {
   include: string[];
 
   exclude?: string[] | null | undefined;
 };
 
-export type BasicSubject = {
+type BasicSubject = {
   id: number;
 
   title: string;
@@ -29,7 +33,7 @@ export type BasicSubject = {
   search: SubjectSearch;
 };
 
-export type FullSubject = BasicSubject & {
+type FullSubject = BasicSubject & {
   summary: string;
 
   alias: string[];
@@ -37,8 +41,15 @@ export type FullSubject = BasicSubject & {
   images: SubjectImage[];
 };
 
-declare type BasicData = {
+declare const _default: {
   subjects: BasicSubject[];
 };
 
-export default BasicData;
+export {
+  SubjectRating,
+  SubjectImage,
+  SubjectSearch,
+  BasicSubject,
+  FullSubject,
+  _default as default
+};

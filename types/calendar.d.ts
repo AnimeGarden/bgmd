@@ -1,8 +1,6 @@
 import type { BasicSubject } from './index.d.ts';
 
-export type * from './index.d.ts';
-
-declare type CalendarData = {
+declare const _default: {
   calendar: [
     BasicSubject[],
     BasicSubject[],
@@ -15,4 +13,4 @@ declare type CalendarData = {
   web: BasicSubject[];
 };
 
-export default CalendarData;
+export = _default;

@@ -42,7 +42,7 @@ for (const file of files) {
 full.sort((a, b) => a.id - b.id);
 
 await fs.writeJSON('dist/index.json', {
-  subjects: full.map(item => ({
+  subjects: full.map((item) => ({
     id: item.id,
     title: item.title,
     platform: item.platform,
@@ -50,8 +50,8 @@ await fs.writeJSON('dist/index.json', {
     rating: item.rating,
     poster: item.poster,
     tags: item.tags,
-    search: item.search,
-  })),
+    search: item.search
+  }))
 });
 
 await fs.writeJSON('dist/full.json', { subjects: full });

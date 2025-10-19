@@ -1,8 +1,6 @@
 import type { FullSubject } from './index.d.ts';
 
-export type * from './index.d.ts';
-
-declare type FullData = {
+declare const _default: {
   subjects: FullSubject[];
 };
 
