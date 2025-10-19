@@ -1,20 +1,21 @@
 {
   "name": "bgmd",
-  "version": "0.0.64",
-  "description": "Bangumi Data",
+  "version": "0.20251019.6",
+  "description": "Bangumi data",
   "keywords": [
     "anime",
+    "animegarden",
     "bangumi",
     "bgm",
     "tmdb"
   ],
-  "homepage": "https://github.com/yjl9903/bgmc#readme",
+  "homepage": "https://github.com/AnimeGarden/bgmd#readme",
   "bugs": {
-    "url": "https://github.com/yjl9903/bgmc/issues"
+    "url": "https://github.com/AnimeGarden/bgmd/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yjl9903/bgmc.git"
+    "url": "git+https://github.com/AnimeGarden/bgmd.git"
   },
   "license": "MIT",
   "author": "XLor",
@@ -22,72 +23,51 @@
   "type": "module",
   "exports": {
     ".": {
-      "types": "./index.d.ts",
-      "import": "./data/index.json",
-      "require": "./data/index.json"
+      "types": "./types/index.d.ts",
+      "import": "./dist/index.json",
+      "require": "./dist/index.json"
     },
     "./full": {
-      "types": "./full.d.ts",
-      "import": "./data/full.json",
-      "require": "./data/full.json"
+      "types": "./types/full.d.ts",
+      "import": "./dist/full.json",
+      "require": "./dist/full.json"
     },
     "./calendar": {
-      "types": "./calendar.d.ts",
-      "import": "./data/calendar.json",
-      "require": "./data/calendar.json"
-    },
-    "./transform": {
-      "types": "./dist/transform.d.ts",
-      "import": "./dist/transform.mjs",
-      "require": "./dist/transform.cjs"
-    },
-    "./types": {
-      "types": "./dist/types.d.ts",
-      "import": "./dist/types.mjs",
-      "require": "./dist/types.cjs"
+      "types": "./types/calendar.d.ts",
+      "import": "./dist/calendar.json",
+      "require": "./dist/calendar.json"
     }
   },
-  "main": "data/index.json",
-  "module": "data/index.json",
-  "types": "index.d.ts",
+  "main": "dist/index.json",
+  "module": "dist/index.json",
+  "types": "types/index.d.ts",
   "typesVersions": {
     "*": {
       "*": [
-        "./dist/*",
+        "./types/*",
         "./*"
       ]
     }
   },
   "files": [
     "dist",
-    "data",
-    "*.d.ts"
+    "types"
   ],
   "scripts": {
-    "build": "tsdown",
-    "format": "prettier --write 'src/**/*.ts' 'test/**/*.ts'",
-    "release": "release-it",
-    "test": "vitest",
-    "test:ci": "vitest --run",
-    "typecheck": "tsc --noEmit"
+    "build": "tsx scripts/build.ts",
+    "format": "prettier --write './**/*.ts'",
+    "release": "tsx scripts/release.ts"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^24.8.1",
+    "bgmx": "^0.0.3",
+    "execa": "^9.6.0",
+    "fs-extra": "^11.3.2",
+    "tsx": "^4.20.6"
+  },
   "packageManager": "pnpm@10.18.3",
   "engines": {
     "node": ">=v20.8.0"
-  },
-  "release-it": {
-    "git": {
-      "commitMessage": "chore(bgmd): release v${version}",
-      "tag": true,
-      "push": true
-    },
-    "npm": {
-      "publish": true
-    },
-    "hooks": {
-      "before:init": "pnpm run build && pnpm run test:ci"
-    }
   }
 }

@@ -1,8 +1,8 @@
 name: Sync data
 
 on:
-  # schedule:
-  #   - cron: '11 11 * * *'
+  schedule:
+    - cron: '11 11 * * *'
 
   workflow_dispatch:
 
@@ -17,6 +17,9 @@ jobs:
       contents: write
 
     steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
+
       - name: Checkout repository
         uses: actions/checkout@v5
 
