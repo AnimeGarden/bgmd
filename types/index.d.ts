@@ -28,7 +28,7 @@ type BasicSubject = {
 
   poster: string;
 
-  tags: string;
+  tags: string[];
 
   search: SubjectSearch;
 };
