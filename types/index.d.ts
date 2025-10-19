@@ -37,4 +37,8 @@ export type FullSubject = BasicSubject & {
   images: SubjectImage[];
 };
 
-export const subjects: BasicSubject[];
+declare type BasicData = {
+  subjects: BasicSubject[];
+};
+
+export default BasicData;
