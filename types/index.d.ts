@@ -41,6 +41,8 @@ type FullSubject = BasicSubject & {
   images: SubjectImage[];
 };
 
+declare const _subjects: BasicSubject[];
+
 declare const _default: {
   subjects: BasicSubject[];
 };
@@ -51,5 +53,6 @@ export {
   SubjectSearch,
   BasicSubject,
   FullSubject,
+  _subjects as subjects,
   _default as default
 };
