@@ -32,9 +32,9 @@ console.log('Run: pnpm build');
 await $`pnpm build`;
 
 console.log('Commit changes');
-await $`git add package.json data/calendar.json`;
-await $`git commit -m "chore: release ${nextVersion}"`;
-await $`git tag v${nextVersion}`;
+await $`git add package.json data/`;
+await $`git commit -m ${`chore: release ${nextVersion}`}`;
+await $`git tag ${'v' + nextVersion}`;
 await $`git push`;
 
 console.log('Release to npm');
