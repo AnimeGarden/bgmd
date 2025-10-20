@@ -131,27 +131,22 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
           "name": "经典",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "恋爱",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "こだま兼嗣",
-          "count": 6,
+          "name": "动画",
+          "count": 7,
           "total_cont": 0
         },
         {
           "name": "竹内啓雄",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "恋爱",
           "count": 6,
           "total_cont": 0
         },
@@ -161,7 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "东京Movie新社",
+          "name": "こだま兼嗣",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "儿玉兼嗣",
           "count": 5,
           "total_cont": 0
         }
@@ -248,7 +248,7 @@
         }
       ],
       "rating": {
-        "rank": 1906,
+        "rank": 1904,
         "total": 1239,
         "count": {
           "1": 1,
@@ -268,8 +268,8 @@
       "collection": {
         "on_hold": 211,
         "dropped": 81,
-        "wish": 675,
-        "collect": 2125,
+        "wish": 676,
+        "collect": 2126,
         "doing": 186
       },
       "id": 9304,
@@ -1571,7 +1571,7 @@
         "id": 588283
       }
     ],
-    "updatedAt": "2025-10-18T17:36:43.311Z"
+    "updatedAt": "2025-10-20T11:38:39.337Z"
   },
   {
     "id": 10560,
@@ -1793,7 +1793,7 @@
         }
       ],
       "rating": {
-        "rank": 2284,
+        "rank": 2285,
         "total": 282,
         "count": {
           "1": 1,
@@ -2954,7 +2954,7 @@
         "id": 12719
       }
     ],
-    "updatedAt": "2025-10-18T17:37:54.200Z"
+    "updatedAt": "2025-10-20T11:40:04.994Z"
   },
   {
     "id": 37167,
@@ -3227,7 +3227,7 @@
         }
       ],
       "rating": {
-        "rank": 4317,
+        "rank": 4255,
         "total": 62,
         "count": {
           "1": 2,
@@ -4777,7 +4777,7 @@
         "id": 509521
       }
     ],
-    "updatedAt": "2025-10-18T17:43:17.755Z"
+    "updatedAt": "2025-10-20T11:46:16.187Z"
   },
   {
     "id": 47673,
@@ -4969,7 +4969,7 @@
         }
       ],
       "rating": {
-        "rank": 2873,
+        "rank": 2871,
         "total": 55,
         "count": {
           "1": 0,
@@ -5751,7 +5751,7 @@
         "id": 192783
       }
     ],
-    "updatedAt": "2025-10-18T17:45:56.825Z"
+    "updatedAt": "2025-10-20T11:49:19.124Z"
   },
   {
     "id": 54297,
@@ -6005,7 +6005,7 @@
         }
       ],
       "rating": {
-        "rank": 2741,
+        "rank": 2742,
         "total": 134,
         "count": {
           "1": 0,
@@ -6574,7 +6574,7 @@
         "id": 536431
       }
     ],
-    "updatedAt": "2025-10-18T17:47:08.146Z"
+    "updatedAt": "2025-10-20T11:50:40.351Z"
   },
   {
     "id": 79790,
@@ -7098,9 +7098,23 @@
         "relation": "书籍",
         "type": 1,
         "id": 157649
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/15/429643_7OWsf.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/15/429643_7OWsf.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/f9/15/429643_7OWsf.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/15/429643_7OWsf.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/15/429643_7OWsf.jpg"
+        },
+        "name": "手塚治虫ワールドBest of Best「24時間テレビ～愛は地球を救う&ユニコ」オリジナル・サウンドトラック",
+        "name_cn": "手冢治虫的世界精选集「24小时电视_爱心救地球&UNICO」OST",
+        "relation": "其他",
+        "type": 3,
+        "id": 429643
       }
     ],
-    "updatedAt": "2025-10-18T17:50:09.470Z"
+    "updatedAt": "2025-10-20T11:54:06.062Z"
   },
   {
     "id": 192783,
@@ -8043,7 +8057,7 @@
         "id": 192793
       }
     ],
-    "updatedAt": "2025-10-18T18:01:07.766Z"
+    "updatedAt": "2025-10-20T12:06:30.765Z"
   },
   {
     "id": 449224,
@@ -8440,6 +8454,6 @@
         "id": 449226
       }
     ],
-    "updatedAt": "2025-10-18T18:19:38.573Z"
+    "updatedAt": "2025-10-20T12:27:50.183Z"
   }
 ]
