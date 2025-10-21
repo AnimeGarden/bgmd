@@ -101,32 +101,12 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "哆啦A夢",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "子供向",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "映画",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "动画电影",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "奇幻",
           "count": 4,
           "total_cont": 0
         },
@@ -136,12 +116,27 @@
           "total_cont": 0
         },
         {
-          "name": "劇場版",
-          "count": 3,
+          "name": "子供向",
+          "count": 4,
           "total_cont": 0
         },
         {
-          "name": "原创",
+          "name": "日本动画",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "映画",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "哆啦A夢",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "1980年",
           "count": 3,
           "total_cont": 0
         },
@@ -156,12 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "冒险",
+          "name": "原创",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "1980年",
+          "name": "劇場版",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "冒险",
           "count": 3,
           "total_cont": 0
         }
@@ -321,7 +321,7 @@
       ],
       "rating": {
         "rank": 1832,
-        "total": 901,
+        "total": 902,
         "count": {
           "1": 0,
           "2": 1,
@@ -329,7 +329,7 @@
           "4": 3,
           "5": 29,
           "6": 152,
-          "7": 406,
+          "7": 407,
           "8": 239,
           "9": 39,
           "10": 30
@@ -341,7 +341,7 @@
         "on_hold": 20,
         "dropped": 19,
         "wish": 74,
-        "collect": 1820,
+        "collect": 1824,
         "doing": 13
       },
       "id": 425,
@@ -1897,7 +1897,7 @@
         "id": 440040
       }
     ],
-    "updatedAt": "2025-10-20T11:28:43.211Z"
+    "updatedAt": "2025-10-21T11:28:15.447Z"
   },
   {
     "id": 37285,
@@ -2973,7 +2973,7 @@
         "id": 525887
       }
     ],
-    "updatedAt": "2025-10-20T11:46:44.640Z"
+    "updatedAt": "2025-10-21T11:43:50.126Z"
   },
   {
     "id": 67754,
@@ -3173,7 +3173,7 @@
         },
         {
           "key": "原作",
-          "value": "ちばてつや、梶原一騎（高森朝雄）"
+          "value": "ちばてつや、梶原一騎(高森朝雄)"
         },
         {
           "key": "导演",
@@ -3217,11 +3217,11 @@
         },
         {
           "key": "插入歌演出",
-          "value": "清水保男、スザンナ・スー"
+          "value": "清水保雄、スザンナ・スー(白冰冰)"
         }
       ],
       "rating": {
-        "rank": 3571,
+        "rank": 3563,
         "total": 100,
         "count": {
           "1": 0,
@@ -3260,6 +3260,204 @@
     "persons": [
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/3b/b8/46838_prsn_DbDmL.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/3b/b8/46838_prsn_DbDmL.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/3b/b8/46838_prsn_DbDmL.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/3b/b8/46838_prsn_DbDmL.jpg"
+        },
+        "name": "ジョー山中",
+        "relation": "插入歌作曲",
+        "career": [
+          "artist",
+          "seiyu"
+        ],
+        "type": 1,
+        "id": 46838,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/9b/6a/2602_prsn_rwN0M.jpg?r=1717164056",
+          "grid": "https://lain.bgm.tv/pic/crt/g/9b/6a/2602_prsn_rwN0M.jpg?r=1717164056",
+          "large": "https://lain.bgm.tv/pic/crt/l/9b/6a/2602_prsn_rwN0M.jpg?r=1717164056",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9b/6a/2602_prsn_rwN0M.jpg?r=1717164056"
+        },
+        "name": "平尾昌晃",
+        "relation": "插入歌作曲",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2602,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7f/d9/1358_prsn_xw0w0.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7f/d9/1358_prsn_xw0w0.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7f/d9/1358_prsn_xw0w0.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7f/d9/1358_prsn_xw0w0.jpg"
+        },
+        "name": "梶原一騎",
+        "relation": "插入歌作词",
+        "career": [
+          "writer",
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1358,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b7/12/82053_prsn_2snYN.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b7/12/82053_prsn_2snYN.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b7/12/82053_prsn_2snYN.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b7/12/82053_prsn_2snYN.jpg"
+        },
+        "name": "村上龍",
+        "relation": "插入歌作词",
+        "career": [
+          "producer",
+          "artist"
+        ],
+        "type": 1,
+        "id": 82053,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/77/9e/2959_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/77/9e/2959_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/77/9e/2959_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/77/9e/2959_prsn_anidb.jpg"
+        },
+        "name": "虫プロダクション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 2959,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7f/d9/1358_prsn_xw0w0.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7f/d9/1358_prsn_xw0w0.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7f/d9/1358_prsn_xw0w0.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7f/d9/1358_prsn_xw0w0.jpg"
+        },
+        "name": "梶原一騎",
+        "relation": "执行制片人",
+        "career": [
+          "writer",
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1358,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a4/2f/82048_prsn_2WiHl.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a4/2f/82048_prsn_2WiHl.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a4/2f/82048_prsn_2WiHl.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a4/2f/82048_prsn_2WiHl.jpg"
+        },
+        "name": "清水保雄",
+        "relation": "插入歌演出",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 82048,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b4/da/17156_prsn_bK8eE.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b4/da/17156_prsn_bK8eE.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b4/da/17156_prsn_bK8eE.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b4/da/17156_prsn_bK8eE.jpg"
+        },
+        "name": "白冰冰",
+        "relation": "插入歌演出",
+        "career": [
+          "actor"
+        ],
+        "type": 1,
+        "id": 17156,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2e/24/82050_prsn_s2mc9.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2e/24/82050_prsn_s2mc9.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2e/24/82050_prsn_s2mc9.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2e/24/82050_prsn_s2mc9.jpg"
+        },
+        "name": "おぼたけし",
+        "relation": "主题歌演出",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 82050,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5b/ec/82051_prsn_3pRRO.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/5b/ec/82051_prsn_3pRRO.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/5b/ec/82051_prsn_3pRRO.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5b/ec/82051_prsn_3pRRO.jpg"
+        },
+        "name": "たかたかし",
+        "relation": "主题歌作词",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 82051,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/14/3c/82046_prsn_8070j.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/14/3c/82046_prsn_8070j.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/14/3c/82046_prsn_8070j.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/14/3c/82046_prsn_8070j.jpg"
+        },
+        "name": "鈴木邦彦",
+        "relation": "主题歌作曲",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 82046,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/14/3c/82046_prsn_8070j.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/14/3c/82046_prsn_8070j.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/14/3c/82046_prsn_8070j.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/14/3c/82046_prsn_8070j.jpg"
+        },
+        "name": "鈴木邦彦",
+        "relation": "主题歌编曲",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 82046,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/95/8a/1874_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/95/8a/1874_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/95/8a/1874_prsn_anidb.jpg",
@@ -3272,22 +3470,6 @@
         ],
         "type": 1,
         "id": 1874,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/11/b9/556_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/11/b9/556_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/11/b9/556_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/11/b9/556_prsn_anidb.jpg"
-        },
-        "name": "荒木伸吾",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 556,
         "eps": ""
       },
       {
@@ -3320,6 +3502,38 @@
         ],
         "type": 1,
         "id": 1788,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/11/b9/556_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/11/b9/556_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/11/b9/556_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/11/b9/556_prsn_anidb.jpg"
+        },
+        "name": "荒木伸吾",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 556,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/14/3c/82046_prsn_8070j.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/14/3c/82046_prsn_8070j.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/14/3c/82046_prsn_8070j.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/14/3c/82046_prsn_8070j.jpg"
+        },
+        "name": "鈴木邦彦",
+        "relation": "音乐",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 82046,
         "eps": ""
       },
       {
@@ -3375,36 +3589,34 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7f/d9/1358_prsn_xw0w0.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/7f/d9/1358_prsn_xw0w0.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/7f/d9/1358_prsn_xw0w0.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7f/d9/1358_prsn_xw0w0.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/84/d0/82056_prsn_4dUdf.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/84/d0/82056_prsn_4dUdf.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/84/d0/82056_prsn_4dUdf.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/84/d0/82056_prsn_4dUdf.jpg"
         },
-        "name": "梶原一騎",
-        "relation": "执行制片人",
+        "name": "渡辺茂樹",
+        "relation": "插入歌编曲",
         "career": [
-          "writer",
-          "producer",
-          "mangaka"
+          "artist"
         ],
         "type": 1,
-        "id": 1358,
+        "id": 82056,
         "eps": ""
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/77/9e/2959_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/77/9e/2959_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/77/9e/2959_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/77/9e/2959_prsn_anidb.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/17/66/82055_prsn_sclZb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/17/66/82055_prsn_sclZb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/17/66/82055_prsn_sclZb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/17/66/82055_prsn_sclZb.jpg"
         },
-        "name": "虫プロダクション",
-        "relation": "动画制作",
+        "name": "篠原信彦",
+        "relation": "插入歌编曲",
         "career": [
-          "producer"
+          "artist"
         ],
-        "type": 2,
-        "id": 2959,
+        "type": 1,
+        "id": 82055,
         "eps": ""
       }
     ],
@@ -3660,7 +3872,7 @@
           "medium": "https://lain.bgm.tv/r/800/pic/cover/l/00/6e/132921_jp.jpg",
           "common": "https://lain.bgm.tv/r/400/pic/cover/l/00/6e/132921_jp.jpg"
         },
-        "name": "あしたのジョー ソングファイル ( サウンド・トラック ) TKCA-72506-K",
+        "name": "あしたのジョー ソングファイル",
         "name_cn": "",
         "relation": "其他",
         "type": 3,
@@ -3751,7 +3963,7 @@
         "id": 542196
       }
     ],
-    "updatedAt": "2025-10-20T11:52:21.793Z"
+    "updatedAt": "2025-10-21T11:48:37.327Z"
   },
   {
     "id": 114192,
@@ -3981,7 +4193,7 @@
         "id": 11683
       }
     ],
-    "updatedAt": "2025-10-20T11:59:09.425Z"
+    "updatedAt": "2025-10-21T11:54:48.779Z"
   },
   {
     "id": 127777,
@@ -4436,7 +4648,7 @@
         "id": 474112
       }
     ],
-    "updatedAt": "2025-10-20T12:00:42.972Z"
+    "updatedAt": "2025-10-21T11:56:10.708Z"
   },
   {
     "id": 188232,
@@ -4749,6 +4961,6 @@
         "id": 148633
       }
     ],
-    "updatedAt": "2025-10-20T12:05:52.537Z"
+    "updatedAt": "2025-10-21T12:00:47.523Z"
   }
 ]

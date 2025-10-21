@@ -17,7 +17,7 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 27,
+          "count": 28,
           "total_cont": 0
         },
         {
@@ -31,7 +31,7 @@
           "total_cont": 0
         },
         {
-          "name": "1989",
+          "name": "1989年",
           "count": 11,
           "total_cont": 0
         },
@@ -46,17 +46,17 @@
           "total_cont": 0
         },
         {
+          "name": "游戏改编",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
           "name": "渡部高志",
           "count": 6,
           "total_cont": 0
         },
         {
           "name": "游戏改",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "游戏改编",
           "count": 6,
           "total_cont": 0
         },
@@ -81,6 +81,16 @@
           "total_cont": 0
         },
         {
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "成吉思汗",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "神谷純",
           "count": 2,
           "total_cont": 0
@@ -91,32 +101,27 @@
           "total_cont": 0
         },
         {
-          "name": "成吉思汗",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "早川正",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "东京Kids",
+          "name": "动画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "中泽一登",
+          "name": "日本",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "東京キッズ",
+          "name": "补番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1989年",
           "count": 1,
           "total_cont": 0
         },
@@ -126,7 +131,7 @@
           "total_cont": 0
         },
         {
-          "name": "藤泽道雄",
+          "name": "中泽一登",
           "count": 1,
           "total_cont": 0
         },
@@ -136,27 +141,22 @@
           "total_cont": 0
         },
         {
-          "name": "阿豆撸",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "游戏",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "冒险",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "OAD",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "藤泽道雄",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "东京Kids",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "東京キッズ",
           "count": 1,
           "total_cont": 0
         }
@@ -199,11 +199,11 @@
           "value": "松村康弘"
         },
         {
-          "key": "作画监督助手",
+          "key": "作画监督助理",
           "value": "松山光治"
         },
         {
-          "key": "音楽监督",
+          "key": "音乐监督",
           "value": "藤泽道雄"
         },
         {
@@ -217,11 +217,15 @@
         {
           "key": "制作",
           "value": "キングレコード株式会社（KING RECORDS CO., LTD.）"
+        },
+        {
+          "key": "动画制作",
+          "value": "アーバン・プロダクト、東京キッズ"
         }
       ],
       "rating": {
-        "rank": 6250,
-        "total": 66,
+        "rank": 6251,
+        "total": 67,
         "count": {
           "1": 1,
           "2": 3,
@@ -229,7 +233,7 @@
           "4": 8,
           "5": 11,
           "6": 20,
-          "7": 15,
+          "7": 16,
           "8": 6,
           "9": 0,
           "10": 1
@@ -241,7 +245,7 @@
         "on_hold": 8,
         "dropped": 14,
         "wish": 44,
-        "collect": 104,
+        "collect": 105,
         "doing": 5
       },
       "id": 30224,
@@ -258,18 +262,35 @@
     "persons": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/45/8d/8704_prsn_BHRCb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/45/8d/8704_prsn_BHRCb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/45/8d/8704_prsn_BHRCb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/45/8d/8704_prsn_BHRCb.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/03/39/7219_prsn_h6s3z.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/03/39/7219_prsn_h6s3z.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/03/39/7219_prsn_h6s3z.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/03/39/7219_prsn_h6s3z.jpg"
         },
-        "name": "南翔子",
-        "relation": "主题歌演出",
+        "name": "Falcom Sound Team jdk",
+        "relation": "主题歌作曲",
         "career": [
+          "producer",
           "artist"
         ],
         "type": 1,
-        "id": 8704,
+        "id": 7219,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "和田至亮",
+        "relation": "剪辑",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 50850,
         "eps": ""
       },
       {
@@ -295,6 +316,22 @@
           "large": "",
           "medium": ""
         },
+        "name": "菅原浩喜",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11844,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "石川哲也",
         "relation": "作画监督",
         "career": [
@@ -311,13 +348,46 @@
           "large": "",
           "medium": ""
         },
-        "name": "菅原浩喜",
+        "name": "松岡秀明",
         "relation": "作画监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 11844,
+        "id": 955,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "木村早苗",
+        "relation": "色彩设计",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1753,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "西香代子",
+        "relation": "色彩设计",
+        "career": [
+          "writer",
+          "producer"
+        ],
+        "type": 1,
+        "id": 1439,
         "eps": ""
       },
       {
@@ -359,30 +429,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "西香代子",
-        "relation": "色彩设计",
-        "career": [
-          "writer",
-          "producer"
-        ],
-        "type": 1,
-        "id": 1439,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "木村早苗",
-        "relation": "色彩设计",
+        "name": "藤田勉",
+        "relation": "美术监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 1753,
+        "id": 12073,
         "eps": ""
       },
       {
@@ -408,22 +461,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "藤田勉",
-        "relation": "美术监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 12073,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "長尾仁",
         "relation": "美术监督",
         "career": [
@@ -440,6 +477,22 @@
           "large": "",
           "medium": ""
         },
+        "name": "松岡秀明",
+        "relation": "人物设定",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 955,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "石川哲也",
         "relation": "人物设定",
         "career": [
@@ -447,6 +500,22 @@
         ],
         "type": 1,
         "id": 12070,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a5/a5/8994_prsn_y14F1.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a5/a5/8994_prsn_y14F1.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a5/a5/8994_prsn_y14F1.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a5/a5/8994_prsn_y14F1.jpg"
+        },
+        "name": "藤澤道雄",
+        "relation": "音乐",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 8994,
         "eps": ""
       },
       {
@@ -468,22 +537,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a5/a5/8994_prsn_y14F1.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a5/a5/8994_prsn_y14F1.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/a5/a5/8994_prsn_y14F1.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a5/a5/8994_prsn_y14F1.jpg"
-        },
-        "name": "藤澤道雄",
-        "relation": "音乐",
-        "career": [
-          "artist"
-        ],
-        "type": 1,
-        "id": 8994,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/20/1d/1840_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/20/1d/1840_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/20/1d/1840_prsn_anidb.jpg",
@@ -500,18 +553,18 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
+          "large": "https://lain.bgm.tv/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384"
         },
-        "name": "出口頼房",
+        "name": "神谷純",
         "relation": "演出",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 12078,
+        "id": 616,
         "eps": ""
       },
       {
@@ -532,13 +585,29 @@
       },
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "出口頼房",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 12078,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
           "grid": "https://lain.bgm.tv/pic/crt/g/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
           "large": "https://lain.bgm.tv/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384"
         },
         "name": "神谷純",
-        "relation": "演出",
+        "relation": "分镜",
         "career": [
           "producer"
         ],
@@ -564,71 +633,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/80/a8/6792_prsn_Rg15G.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/80/a8/6792_prsn_Rg15G.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/80/a8/6792_prsn_Rg15G.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/80/a8/6792_prsn_Rg15G.jpg"
-        },
-        "name": "日本ファルコム",
-        "relation": "原作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 6792,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/03/39/7219_prsn_h6s3z.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/03/39/7219_prsn_h6s3z.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/03/39/7219_prsn_h6s3z.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/03/39/7219_prsn_h6s3z.jpg"
-        },
-        "name": "Falcom Sound Team jdk",
-        "relation": "主题歌作曲",
-        "career": [
-          "producer",
-          "artist"
-        ],
-        "type": 1,
-        "id": 7219,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
-          "large": "https://lain.bgm.tv/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384"
-        },
-        "name": "神谷純",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 616,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
-          "large": "https://lain.bgm.tv/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384"
-        },
-        "name": "神谷純",
-        "relation": "导演",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 616,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/1f/f8/172_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/1f/f8/172_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/1f/f8/172_prsn_anidb.jpg",
@@ -645,6 +649,86 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
+          "large": "https://lain.bgm.tv/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a4/1b/616_prsn_XX0dr.jpg?r=1709289384"
+        },
+        "name": "神谷純",
+        "relation": "导演",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 616,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/80/a8/6792_prsn_Rg15G.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/80/a8/6792_prsn_Rg15G.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/80/a8/6792_prsn_Rg15G.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/80/a8/6792_prsn_Rg15G.jpg"
+        },
+        "name": "日本ファルコム",
+        "relation": "原作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 6792,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "松山光治",
+        "relation": "作画监督助理",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 13758,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "東京キッズ",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 12089,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/45/8d/8704_prsn_BHRCb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/45/8d/8704_prsn_BHRCb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/45/8d/8704_prsn_BHRCb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/45/8d/8704_prsn_BHRCb.jpg"
+        },
+        "name": "南翔子",
+        "relation": "主题歌演出",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 8704,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -657,54 +741,6 @@
         ],
         "type": 1,
         "id": 27218,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "和田至亮",
-        "relation": "剪辑",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 50850,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "松岡秀明",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 955,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "松岡秀明",
-        "relation": "人物设定",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 955,
         "eps": ""
       }
     ],
@@ -1023,7 +1059,7 @@
         "id": 139684
       }
     ],
-    "updatedAt": "2025-10-20T11:45:12.200Z"
+    "updatedAt": "2025-10-21T11:42:31.910Z"
   },
   {
     "id": 55060,
@@ -1067,6 +1103,11 @@
           "total_cont": 0
         },
         {
+          "name": "独立ova",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "百合",
           "count": 4,
           "total_cont": 0
@@ -1077,8 +1118,8 @@
           "total_cont": 0
         },
         {
-          "name": "独立ova",
-          "count": 4,
+          "name": "科幻",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -1087,8 +1128,8 @@
           "total_cont": 0
         },
         {
-          "name": "科幻",
-          "count": 3,
+          "name": "StudioFantasia",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -1097,12 +1138,12 @@
           "total_cont": 0
         },
         {
-          "name": "StudioFantasia",
-          "count": 2,
+          "name": "1989年",
+          "count": 1,
           "total_cont": 0
         },
         {
-          "name": "篠原恵美",
+          "name": "lxy",
           "count": 1,
           "total_cont": 0
         },
@@ -1117,7 +1158,17 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
+          "name": "其他",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "伊藤美紀",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "篠原恵美",
           "count": 1,
           "total_cont": 0
         },
@@ -1127,12 +1178,12 @@
           "total_cont": 0
         },
         {
-          "name": "1989年",
+          "name": "林原めぐみ",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "其他",
+          "name": "SF",
           "count": 1,
           "total_cont": 0
         },
@@ -1147,7 +1198,7 @@
           "total_cont": 0
         },
         {
-          "name": "林原めぐみ",
+          "name": "80年代",
           "count": 1,
           "total_cont": 0
         },
@@ -1157,22 +1208,7 @@
           "total_cont": 0
         },
         {
-          "name": "80年代",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "伊藤美紀",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "赛璐珞",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "lxy",
           "count": 1,
           "total_cont": 0
         }
@@ -1201,7 +1237,7 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 42,
+        "total": 43,
         "count": {
           "1": 0,
           "2": 0,
@@ -1209,20 +1245,20 @@
           "4": 0,
           "5": 13,
           "6": 20,
-          "7": 7,
+          "7": 8,
           "8": 1,
           "9": 0,
           "10": 0
         },
-        "score": 5.8
+        "score": 5.9
       },
       "total_episodes": 1,
       "collection": {
         "on_hold": 4,
         "dropped": 8,
         "wish": 28,
-        "collect": 68,
-        "doing": 7
+        "collect": 69,
+        "doing": 6
       },
       "id": 55060,
       "eps": 1,
@@ -1475,6 +1511,6 @@
         "id": 455113
       }
     ],
-    "updatedAt": "2025-10-20T11:50:55.597Z"
+    "updatedAt": "2025-10-21T11:47:24.044Z"
   }
 ]
