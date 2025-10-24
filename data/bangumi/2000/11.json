@@ -101,22 +101,22 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 10,
-          "total_cont": 0
-        },
-        {
           "name": "BLOOD系列",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "blood+",
-          "count": 9,
+          "name": "日本",
+          "count": 10,
           "total_cont": 0
         },
         {
           "name": "血腥",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
+          "name": "blood+",
           "count": 9,
           "total_cont": 0
         },
@@ -126,12 +126,12 @@
           "total_cont": 0
         },
         {
-          "name": "Production",
+          "name": "冲浦启之",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "冲浦启之",
+          "name": "Production",
           "count": 7,
           "total_cont": 0
         },
@@ -161,7 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "电影",
+          "name": "池頼広",
           "count": 4,
           "total_cont": 0
         }
@@ -205,7 +205,7 @@
         }
       ],
       "rating": {
-        "rank": 2159,
+        "rank": 2158,
         "total": 1192,
         "count": {
           "1": 0,
@@ -225,9 +225,9 @@
       "collection": {
         "on_hold": 63,
         "dropped": 22,
-        "wish": 746,
+        "wish": 747,
         "collect": 1754,
-        "doing": 38
+        "doing": 39
       },
       "id": 2084,
       "eps": 1,
@@ -825,22 +825,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/da/ac/1286_prsn_866WJ.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/da/ac/1286_prsn_866WJ.jpg"
-        },
-        "name": "Production I.G",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 1286,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -853,6 +837,22 @@
         ],
         "type": 1,
         "id": 11605,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/da/ac/1286_prsn_866WJ.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/da/ac/1286_prsn_866WJ.jpg"
+        },
+        "name": "Production I.G",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 1286,
         "eps": ""
       },
       {
@@ -1115,7 +1115,7 @@
         "id": 337747
       }
     ],
-    "updatedAt": "2025-10-23T11:32:03.981Z"
+    "updatedAt": "2025-10-24T11:33:10.750Z"
   },
   {
     "id": 348822,
@@ -1569,6 +1569,6 @@
         "id": 425945
       }
     ],
-    "updatedAt": "2025-10-23T12:19:27.071Z"
+    "updatedAt": "2025-10-24T12:19:47.358Z"
   }
 ]

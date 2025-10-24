@@ -429,22 +429,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/da/ac/1286_prsn_866WJ.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/da/ac/1286_prsn_866WJ.jpg"
-        },
-        "name": "Production I.G",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 1286,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/26/46/26051_prsn_YQ33D.jpg?r=1606650066",
           "grid": "https://lain.bgm.tv/pic/crt/g/26/46/26051_prsn_YQ33D.jpg?r=1606650066",
           "large": "https://lain.bgm.tv/pic/crt/l/26/46/26051_prsn_YQ33D.jpg?r=1606650066",
@@ -1513,6 +1497,22 @@
         ],
         "type": 1,
         "id": 27121,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/da/ac/1286_prsn_866WJ.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/da/ac/1286_prsn_866WJ.jpg"
+        },
+        "name": "Production I.G",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 1286,
         "eps": ""
       },
       {
@@ -3330,7 +3330,7 @@
         "id": 404024
       }
     ],
-    "updatedAt": "2025-10-23T12:08:31.703Z"
+    "updatedAt": "2025-10-24T12:09:37.809Z"
   },
   {
     "id": 260772,
@@ -3489,12 +3489,12 @@
           "total_cont": 0
         },
         {
-          "name": "水濑祈",
+          "name": "内田真礼",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "productiondoA",
+          "name": "水濑祈",
           "count": 6,
           "total_cont": 0
         }
@@ -3603,7 +3603,7 @@
       ],
       "rating": {
         "rank": 1527,
-        "total": 2309,
+        "total": 2310,
         "count": {
           "1": 4,
           "2": 2,
@@ -3611,7 +3611,7 @@
           "4": 10,
           "5": 78,
           "6": 372,
-          "7": 1006,
+          "7": 1007,
           "8": 585,
           "9": 120,
           "10": 132
@@ -3620,10 +3620,10 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 129,
+        "on_hold": 130,
         "dropped": 47,
         "wish": 933,
-        "collect": 4468,
+        "collect": 4471,
         "doing": 207
       },
       "id": 260772,
@@ -5410,7 +5410,7 @@
         "id": 291304
       }
     ],
-    "updatedAt": "2025-10-23T12:11:33.516Z"
+    "updatedAt": "2025-10-24T12:12:20.821Z"
   },
   {
     "id": 269090,
@@ -5430,12 +5430,12 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 2425,
+          "count": 2424,
           "total_cont": 0
         },
         {
           "name": "恋爱",
-          "count": 1852,
+          "count": 1853,
           "total_cont": 0
         },
         {
@@ -5445,7 +5445,7 @@
         },
         {
           "name": "科幻",
-          "count": 1588,
+          "count": 1589,
           "total_cont": 0
         },
         {
@@ -5455,7 +5455,7 @@
         },
         {
           "name": "Graphinica",
-          "count": 708,
+          "count": 709,
           "total_cont": 0
         },
         {
@@ -5490,7 +5490,7 @@
         },
         {
           "name": "动画电影",
-          "count": 170,
+          "count": 171,
           "total_cont": 0
         },
         {
@@ -5554,17 +5554,17 @@
           "total_cont": 0
         },
         {
-          "name": "纯爱",
-          "count": 14,
-          "total_cont": 0
-        },
-        {
           "name": "爱情",
           "count": 14,
           "total_cont": 0
         },
         {
           "name": "你好世界",
+          "count": 14,
+          "total_cont": 0
+        },
+        {
+          "name": "纯爱",
           "count": 14,
           "total_cont": 0
         },
@@ -5694,18 +5694,18 @@
         }
       ],
       "rating": {
-        "rank": 3390,
-        "total": 7446,
+        "rank": 3385,
+        "total": 7453,
         "count": {
           "1": 14,
           "2": 25,
           "3": 64,
           "4": 179,
           "5": 551,
-          "6": 1747,
-          "7": 2962,
-          "8": 1457,
-          "9": 294,
+          "6": 1748,
+          "7": 2965,
+          "8": 1459,
+          "9": 295,
           "10": 153
         },
         "score": 6.8
@@ -5714,8 +5714,8 @@
       "collection": {
         "on_hold": 161,
         "dropped": 70,
-        "wish": 2024,
-        "collect": 11887,
+        "wish": 2025,
+        "collect": 11896,
         "doing": 193
       },
       "id": 269090,
@@ -7894,7 +7894,7 @@
         "id": 303794
       }
     ],
-    "updatedAt": "2025-10-23T12:12:10.984Z"
+    "updatedAt": "2025-10-24T12:12:55.716Z"
   },
   {
     "id": 278449,
@@ -8297,7 +8297,7 @@
         "id": 211035
       }
     ],
-    "updatedAt": "2025-10-23T12:12:57.903Z"
+    "updatedAt": "2025-10-24T12:13:38.476Z"
   },
   {
     "id": 279219,
@@ -8317,47 +8317,47 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 426,
+          "count": 427,
           "total_cont": 0
         },
         {
           "name": "音乐",
-          "count": 242,
+          "count": 243,
           "total_cont": 0
         },
         {
           "name": "2019年7月",
-          "count": 223,
+          "count": 224,
           "total_cont": 0
         },
         {
           "name": "原创",
-          "count": 187,
+          "count": 188,
           "total_cont": 0
         },
         {
           "name": "乐队",
-          "count": 183,
+          "count": 184,
           "total_cont": 0
         },
         {
           "name": "偶像",
-          "count": 175,
+          "count": 176,
           "total_cont": 0
         },
         {
           "name": "BanGDream！",
-          "count": 121,
+          "count": 122,
           "total_cont": 0
         },
         {
           "name": "BanGDream",
-          "count": 118,
+          "count": 119,
           "total_cont": 0
         },
         {
           "name": "SANZIGEN",
-          "count": 81,
+          "count": 82,
           "total_cont": 0
         },
         {
@@ -8421,6 +8421,11 @@
           "total_cont": 0
         },
         {
+          "name": "2019年9月",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "日本",
           "count": 5,
           "total_cont": 0
@@ -8428,16 +8433,6 @@
         {
           "name": "邦邦",
           "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "2019年9月",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "绫奈由仁子",
-          "count": 4,
           "total_cont": 0
         },
         {
@@ -8451,17 +8446,22 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "绫奈由仁子",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "伊藤美来",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "爱美",
+          "name": "校园",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "续作",
+          "name": "TV",
           "count": 3,
           "total_cont": 0
         }
@@ -8609,15 +8609,15 @@
         }
       ],
       "rating": {
-        "rank": 2078,
-        "total": 1026,
+        "rank": 2080,
+        "total": 1027,
         "count": {
           "1": 3,
           "2": 0,
           "3": 2,
           "4": 3,
           "5": 49,
-          "6": 167,
+          "6": 168,
           "7": 497,
           "8": 225,
           "9": 41,
@@ -8627,10 +8627,10 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 40,
+        "on_hold": 41,
         "dropped": 33,
         "wish": 323,
-        "collect": 1867,
+        "collect": 1868,
         "doing": 85
       },
       "id": 279219,
@@ -10459,7 +10459,7 @@
         "id": 302228
       }
     ],
-    "updatedAt": "2025-10-23T12:13:07.402Z"
+    "updatedAt": "2025-10-24T12:13:48.280Z"
   },
   {
     "id": 279700,
@@ -10479,17 +10479,17 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 865,
+          "count": 866,
           "total_cont": 0
         },
         {
           "name": "BONES",
-          "count": 616,
+          "count": 617,
           "total_cont": 0
         },
         {
           "name": "2019年9月",
-          "count": 377,
+          "count": 378,
           "total_cont": 0
         },
         {
@@ -10499,22 +10499,22 @@
         },
         {
           "name": "漫画改",
-          "count": 338,
+          "count": 339,
           "total_cont": 0
         },
         {
           "name": "超能力",
-          "count": 303,
+          "count": 304,
           "total_cont": 0
         },
         {
           "name": "漫改",
-          "count": 295,
+          "count": 296,
           "total_cont": 0
         },
         {
           "name": "奇幻",
-          "count": 236,
+          "count": 237,
           "total_cont": 0
         },
         {
@@ -10588,22 +10588,22 @@
           "total_cont": 0
         },
         {
-          "name": "川井宪次",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "治愈",
+          "name": "剧场版",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "剧场版",
+          "name": "川井宪次",
+          "count": 7,
+          "total_cont": 0
+        },
+        {
+          "name": "治愈",
           "count": 7,
           "total_cont": 0
         },
@@ -10667,7 +10667,7 @@
         }
       ],
       "rating": {
-        "rank": 1839,
+        "rank": 1840,
         "total": 2488,
         "count": {
           "1": 3,
@@ -10687,8 +10687,8 @@
       "collection": {
         "on_hold": 52,
         "dropped": 19,
-        "wish": 448,
-        "collect": 5063,
+        "wish": 450,
+        "collect": 5064,
         "doing": 94
       },
       "id": 279700,
@@ -11308,7 +11308,7 @@
         "id": 269374
       }
     ],
-    "updatedAt": "2025-10-23T12:13:14.915Z"
+    "updatedAt": "2025-10-24T12:13:55.134Z"
   },
   {
     "id": 280837,
@@ -11382,12 +11382,12 @@
           "total_cont": 0
         },
         {
-          "name": "小说改",
+          "name": "2019年9月",
           "count": 212,
           "total_cont": 0
         },
         {
-          "name": "2019年9月",
+          "name": "小说改",
           "count": 212,
           "total_cont": 0
         },
@@ -11442,12 +11442,12 @@
           "total_cont": 0
         },
         {
-          "name": "续作",
+          "name": "石立太一",
           "count": 16,
           "total_cont": 0
         },
         {
-          "name": "石立太一",
+          "name": "续作",
           "count": 16,
           "total_cont": 0
         },
@@ -11457,22 +11457,22 @@
           "total_cont": 0
         },
         {
-          "name": "悠木碧",
-          "count": 13,
-          "total_cont": 0
-        },
-        {
           "name": "外传",
           "count": 13,
           "total_cont": 0
         },
         {
-          "name": "ヴァイオレット・エヴァーガーデン",
-          "count": 12,
+          "name": "悠木碧",
+          "count": 13,
           "total_cont": 0
         },
         {
           "name": "电影",
+          "count": 12,
+          "total_cont": 0
+        },
+        {
+          "name": "ヴァイオレット・エヴァーガーデン",
           "count": 12,
           "total_cont": 0
         }
@@ -11640,17 +11640,17 @@
         }
       ],
       "rating": {
-        "rank": 941,
-        "total": 9610,
+        "rank": 940,
+        "total": 9611,
         "count": {
           "1": 11,
           "2": 8,
           "3": 23,
           "4": 52,
           "5": 247,
-          "6": 1126,
-          "7": 3392,
-          "8": 3440,
+          "6": 1127,
+          "7": 3391,
+          "8": 3441,
           "9": 801,
           "10": 510
         },
@@ -11661,8 +11661,8 @@
         "on_hold": 215,
         "dropped": 67,
         "wish": 1688,
-        "collect": 16503,
-        "doing": 222
+        "collect": 16510,
+        "doing": 223
       },
       "id": 280837,
       "eps": 1,
@@ -14807,7 +14807,7 @@
         "id": 368398
       }
     ],
-    "updatedAt": "2025-10-23T12:13:18.867Z"
+    "updatedAt": "2025-10-24T12:13:58.328Z"
   },
   {
     "id": 285545,
@@ -15050,7 +15050,7 @@
         }
       ],
       "rating": {
-        "rank": 4396,
+        "rank": 4392,
         "total": 556,
         "count": {
           "1": 0,
@@ -15785,7 +15785,7 @@
         "id": 243787
       }
     ],
-    "updatedAt": "2025-10-23T12:13:38.890Z"
+    "updatedAt": "2025-10-24T12:14:18.149Z"
   },
   {
     "id": 289310,
@@ -15820,12 +15820,12 @@
         },
         {
           "name": "科幻",
-          "count": 284,
+          "count": 285,
           "total_cont": 0
         },
         {
           "name": "恋爱",
-          "count": 270,
+          "count": 271,
           "total_cont": 0
         },
         {
@@ -15840,7 +15840,7 @@
         },
         {
           "name": "短片",
-          "count": 171,
+          "count": 172,
           "total_cont": 0
         },
         {
@@ -15850,12 +15850,12 @@
         },
         {
           "name": "伊藤智彦",
-          "count": 93,
+          "count": 94,
           "total_cont": 0
         },
         {
           "name": "青春",
-          "count": 79,
+          "count": 80,
           "total_cont": 0
         },
         {
@@ -16005,8 +16005,8 @@
         }
       ],
       "rating": {
-        "rank": 2961,
-        "total": 1461,
+        "rank": 2960,
+        "total": 1463,
         "count": {
           "1": 1,
           "2": 3,
@@ -16014,8 +16014,8 @@
           "4": 12,
           "5": 83,
           "6": 315,
-          "7": 706,
-          "8": 263,
+          "7": 707,
+          "8": 264,
           "9": 33,
           "10": 36
         },
@@ -16026,8 +16026,8 @@
         "on_hold": 53,
         "dropped": 27,
         "wish": 617,
-        "collect": 2449,
-        "doing": 64
+        "collect": 2452,
+        "doing": 63
       },
       "id": 289310,
       "eps": 3,
@@ -16430,7 +16430,7 @@
         "id": 269090
       }
     ],
-    "updatedAt": "2025-10-23T12:13:58.556Z"
+    "updatedAt": "2025-10-24T12:14:36.942Z"
   },
   {
     "id": 290387,
@@ -17464,7 +17464,7 @@
         "id": 328428
       }
     ],
-    "updatedAt": "2025-10-23T12:14:04.660Z"
+    "updatedAt": "2025-10-24T12:14:43.613Z"
   },
   {
     "id": 302157,
@@ -17812,7 +17812,7 @@
         "id": 318579
       }
     ],
-    "updatedAt": "2025-10-23T12:15:30.471Z"
+    "updatedAt": "2025-10-24T12:16:03.709Z"
   },
   {
     "id": 302363,
@@ -18202,6 +18202,6 @@
         "id": 137894
       }
     ],
-    "updatedAt": "2025-10-23T12:15:33.087Z"
+    "updatedAt": "2025-10-24T12:16:06.391Z"
   }
 ]

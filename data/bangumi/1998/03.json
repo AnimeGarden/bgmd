@@ -71,13 +71,18 @@
           "total_cont": 0
         },
         {
+          "name": "ドラえもん",
+          "count": 10,
+          "total_cont": 0
+        },
+        {
           "name": "日本",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "ドラえもん",
-          "count": 10,
+          "name": "奇幻",
+          "count": 7,
           "total_cont": 0
         },
         {
@@ -91,18 +96,8 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
           "name": "芝山努",
           "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "90年代",
-          "count": 4,
           "total_cont": 0
         },
         {
@@ -116,12 +111,22 @@
           "total_cont": 0
         },
         {
-          "name": "1998年3月",
-          "count": 3,
+          "name": "90年代",
+          "count": 4,
           "total_cont": 0
         },
         {
           "name": "动画电影",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "补标",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "1998年3月",
           "count": 3,
           "total_cont": 0
         },
@@ -137,11 +142,6 @@
         },
         {
           "name": "战斗",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "补标",
           "count": 3,
           "total_cont": 0
         },
@@ -302,7 +302,7 @@
       ],
       "rating": {
         "rank": 2963,
-        "total": 498,
+        "total": 499,
         "count": {
           "1": 1,
           "2": 0,
@@ -311,7 +311,7 @@
           "5": 29,
           "6": 119,
           "7": 233,
-          "8": 83,
+          "8": 84,
           "9": 13,
           "10": 14
         },
@@ -322,7 +322,7 @@
         "on_hold": 15,
         "dropped": 19,
         "wish": 70,
-        "collect": 1077,
+        "collect": 1078,
         "doing": 12
       },
       "id": 460,
@@ -376,22 +376,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/da/ac/1286_prsn_866WJ.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/da/ac/1286_prsn_866WJ.jpg"
-        },
-        "name": "Production I.G",
-        "relation": "协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 1286,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/1c/33/2715_prsn_0CGaC.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/1c/33/2715_prsn_0CGaC.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/1c/33/2715_prsn_0CGaC.jpg",
@@ -404,6 +388,22 @@
         ],
         "type": 2,
         "id": 2715,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/da/ac/1286_prsn_866WJ.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/da/ac/1286_prsn_866WJ.jpg"
+        },
+        "name": "Production I.G",
+        "relation": "协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 1286,
         "eps": ""
       },
       {
@@ -1860,7 +1860,7 @@
         "id": 461604
       }
     ],
-    "updatedAt": "2025-10-23T11:28:56.441Z"
+    "updatedAt": "2025-10-24T11:30:09.540Z"
   },
   {
     "id": 33930,
@@ -2713,7 +2713,7 @@
         "id": 204179
       }
     ],
-    "updatedAt": "2025-10-23T11:44:50.061Z"
+    "updatedAt": "2025-10-24T11:45:59.942Z"
   },
   {
     "id": 37471,
@@ -5108,7 +5108,7 @@
         "id": 511579
       }
     ],
-    "updatedAt": "2025-10-23T11:46:00.066Z"
+    "updatedAt": "2025-10-24T11:47:10.034Z"
   },
   {
     "id": 39923,
@@ -5242,12 +5242,12 @@
           "total_cont": 0
         },
         {
-          "name": "心理",
+          "name": "1998年3月",
           "count": 20,
           "total_cont": 0
         },
         {
-          "name": "1998年3月",
+          "name": "心理",
           "count": 20,
           "total_cont": 0
         },
@@ -5312,7 +5312,7 @@
       ],
       "rating": {
         "rank": 48,
-        "total": 7734,
+        "total": 7735,
         "count": {
           "1": 30,
           "2": 7,
@@ -5321,7 +5321,7 @@
           "5": 58,
           "6": 212,
           "7": 842,
-          "8": 2498,
+          "8": 2499,
           "9": 2552,
           "10": 1517
         },
@@ -5331,8 +5331,8 @@
       "collection": {
         "on_hold": 143,
         "dropped": 90,
-        "wish": 1250,
-        "collect": 14696,
+        "wish": 1252,
+        "collect": 14698,
         "doing": 101
       },
       "id": 39923,
@@ -5757,6 +5757,6 @@
         "id": 20202
       }
     ],
-    "updatedAt": "2025-10-23T11:46:52.064Z"
+    "updatedAt": "2025-10-24T11:48:01.463Z"
   }
 ]

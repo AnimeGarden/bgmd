@@ -1314,7 +1314,7 @@
         "id": 269842
       }
     ],
-    "updatedAt": "2025-10-23T12:05:33.078Z"
+    "updatedAt": "2025-10-24T12:06:59.822Z"
   },
   {
     "id": 221021,
@@ -1423,17 +1423,7 @@
           "total_cont": 0
         },
         {
-          "name": "搞笑",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "2019年1月",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "乙女向",
+          "name": "国创",
           "count": 3,
           "total_cont": 0
         },
@@ -1443,7 +1433,7 @@
           "total_cont": 0
         },
         {
-          "name": "国创",
+          "name": "2019年1月",
           "count": 3,
           "total_cont": 0
         },
@@ -1453,12 +1443,17 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 2,
+          "name": "搞笑",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "少女向",
+          "name": "乙女向",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "女性向",
           "count": 2,
           "total_cont": 0
         },
@@ -1468,7 +1463,7 @@
           "total_cont": 0
         },
         {
-          "name": "女性向",
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
@@ -1478,7 +1473,12 @@
           "total_cont": 0
         },
         {
-          "name": "轻改",
+          "name": "少女向",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "喜剧",
           "count": 1,
           "total_cont": 0
         }
@@ -1755,7 +1755,7 @@
         "on_hold": 57,
         "dropped": 64,
         "wish": 108,
-        "collect": 664,
+        "collect": 665,
         "doing": 72
       },
       "id": 221021,
@@ -3163,7 +3163,7 @@
         "id": 352153
       }
     ],
-    "updatedAt": "2025-10-23T12:08:12.327Z"
+    "updatedAt": "2025-10-24T12:09:22.619Z"
   },
   {
     "id": 240037,
@@ -3227,12 +3227,12 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "福利",
           "count": 110,
           "total_cont": 0
         },
         {
-          "name": "福利",
+          "name": "奇幻",
           "count": 110,
           "total_cont": 0
         },
@@ -3322,12 +3322,12 @@
           "total_cont": 0
         },
         {
-          "name": "真后宫",
+          "name": "CCTV推荐",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "種田梨沙",
+          "name": "第三季",
           "count": 3,
           "total_cont": 0
         }
@@ -3438,8 +3438,8 @@
       "collection": {
         "on_hold": 89,
         "dropped": 64,
-        "wish": 599,
-        "collect": 3102,
+        "wish": 601,
+        "collect": 3103,
         "doing": 181
       },
       "id": 240037,
@@ -5482,7 +5482,7 @@
         "id": 520591
       }
     ],
-    "updatedAt": "2025-10-23T12:09:58.046Z"
+    "updatedAt": "2025-10-24T12:10:50.830Z"
   },
   {
     "id": 240287,
@@ -5581,12 +5581,12 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "长峰达也",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "长峰达也",
+          "name": "奇幻",
           "count": 9,
           "total_cont": 0
         },
@@ -5611,12 +5611,7 @@
           "total_cont": 0
         },
         {
-          "name": "动画电影",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ映画",
+          "name": "水树奈奈",
           "count": 5,
           "total_cont": 0
         },
@@ -5626,7 +5621,12 @@
           "total_cont": 0
         },
         {
-          "name": "水树奈奈",
+          "name": "アニメ映画",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "动画电影",
           "count": 5,
           "total_cont": 0
         },
@@ -5835,7 +5835,7 @@
         "on_hold": 22,
         "dropped": 31,
         "wish": 145,
-        "collect": 3166,
+        "collect": 3167,
         "doing": 21
       },
       "id": 240287,
@@ -6416,6 +6416,22 @@
         ],
         "type": 2,
         "id": 1781,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "片山貴仁",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 37068,
         "eps": ""
       },
       {
@@ -8743,22 +8759,6 @@
         "type": 1,
         "id": 37227,
         "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "片山貴仁",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 37068,
-        "eps": ""
       }
     ],
     "characters": [
@@ -9697,7 +9697,7 @@
         "id": 48928
       }
     ],
-    "updatedAt": "2025-10-23T12:10:00.563Z"
+    "updatedAt": "2025-10-24T12:10:53.255Z"
   },
   {
     "id": 251831,
@@ -9717,47 +9717,47 @@
       "tags": [
         {
           "name": "搞笑",
-          "count": 1696,
+          "count": 1697,
           "total_cont": 0
         },
         {
           "name": "J.C.STAFF",
-          "count": 1089,
+          "count": 1090,
           "total_cont": 0
         },
         {
           "name": "校园",
-          "count": 906,
+          "count": 907,
           "total_cont": 0
         },
         {
           "name": "漫画改",
-          "count": 887,
+          "count": 888,
           "total_cont": 0
         },
         {
           "name": "TV",
-          "count": 614,
+          "count": 615,
           "total_cont": 0
         },
         {
           "name": "2018年12月",
-          "count": 610,
+          "count": 612,
           "total_cont": 0
         },
         {
           "name": "超能力",
-          "count": 593,
+          "count": 594,
           "total_cont": 0
         },
         {
           "name": "齐木楠雄的灾难",
-          "count": 544,
+          "count": 545,
           "total_cont": 0
         },
         {
           "name": "日常",
-          "count": 505,
+          "count": 506,
           "total_cont": 0
         },
         {
@@ -9816,13 +9816,13 @@
           "total_cont": 0
         },
         {
-          "name": "2018年12月",
+          "name": "EGGFIRM",
           "count": 17,
           "total_cont": 0
         },
         {
-          "name": "EGGFIRM",
-          "count": 16,
+          "name": "2018年12月",
+          "count": 17,
           "total_cont": 0
         },
         {
@@ -9831,22 +9831,22 @@
           "total_cont": 0
         },
         {
-          "name": "恋爱",
-          "count": 14,
-          "total_cont": 0
-        },
-        {
           "name": "JUMP",
           "count": 14,
           "total_cont": 0
         },
         {
-          "name": "2018年10月",
-          "count": 12,
+          "name": "恋爱",
+          "count": 14,
           "total_cont": 0
         },
         {
           "name": "治愈",
+          "count": 12,
+          "total_cont": 0
+        },
+        {
+          "name": "2018年10月",
           "count": 12,
           "total_cont": 0
         },
@@ -9914,7 +9914,7 @@
       ],
       "rating": {
         "rank": 876,
-        "total": 6770,
+        "total": 6772,
         "count": {
           "1": 3,
           "2": 1,
@@ -9922,8 +9922,8 @@
           "4": 23,
           "5": 99,
           "6": 588,
-          "7": 2609,
-          "8": 2784,
+          "7": 2610,
+          "8": 2785,
           "9": 420,
           "10": 239
         },
@@ -9934,8 +9934,8 @@
         "on_hold": 121,
         "dropped": 49,
         "wish": 650,
-        "collect": 12985,
-        "doing": 110
+        "collect": 12995,
+        "doing": 113
       },
       "id": 251831,
       "eps": 2,
@@ -11042,7 +11042,7 @@
         "id": 278899
       }
     ],
-    "updatedAt": "2025-10-23T12:10:56.656Z"
+    "updatedAt": "2025-10-24T12:11:47.270Z"
   },
   {
     "id": 251989,
@@ -11230,7 +11230,7 @@
         }
       ],
       "rating": {
-        "rank": 4502,
+        "rank": 4503,
         "total": 291,
         "count": {
           "1": 0,
@@ -11357,7 +11357,7 @@
         "id": 273835
       }
     ],
-    "updatedAt": "2025-10-23T12:10:59.399Z"
+    "updatedAt": "2025-10-24T12:11:49.770Z"
   },
   {
     "id": 259070,
@@ -11600,7 +11600,7 @@
       "collection": {
         "on_hold": 16,
         "dropped": 15,
-        "wish": 141,
+        "wish": 142,
         "collect": 357,
         "doing": 13
       },
@@ -12817,7 +12817,7 @@
         "id": 274245
       }
     ],
-    "updatedAt": "2025-10-23T12:11:26.816Z"
+    "updatedAt": "2025-10-24T12:12:14.298Z"
   },
   {
     "id": 262382,
@@ -14610,7 +14610,7 @@
         "id": 270473
       }
     ],
-    "updatedAt": "2025-10-23T12:11:39.841Z"
+    "updatedAt": "2025-10-24T12:12:26.991Z"
   },
   {
     "id": 266787,
@@ -14870,7 +14870,7 @@
         }
       ],
       "rating": {
-        "rank": 7848,
+        "rank": 7850,
         "total": 91,
         "count": {
           "1": 2,
@@ -14890,7 +14890,7 @@
       "collection": {
         "on_hold": 27,
         "dropped": 59,
-        "wish": 97,
+        "wish": 98,
         "collect": 119,
         "doing": 18
       },
@@ -15492,7 +15492,7 @@
         "id": 289509
       }
     ],
-    "updatedAt": "2025-10-23T12:11:59.429Z"
+    "updatedAt": "2025-10-24T12:12:45.398Z"
   },
   {
     "id": 270963,
@@ -16119,7 +16119,7 @@
         "id": 298639
       }
     ],
-    "updatedAt": "2025-10-23T12:12:21.543Z"
+    "updatedAt": "2025-10-24T12:13:05.807Z"
   },
   {
     "id": 279468,
@@ -16708,7 +16708,7 @@
         "id": 303551
       }
     ],
-    "updatedAt": "2025-10-23T12:13:10.102Z"
+    "updatedAt": "2025-10-24T12:13:51.262Z"
   },
   {
     "id": 303877,
@@ -17203,6 +17203,6 @@
         "id": 341352
       }
     ],
-    "updatedAt": "2025-10-23T12:15:46.169Z"
+    "updatedAt": "2025-10-24T12:16:19.192Z"
   }
 ]

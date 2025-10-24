@@ -2996,7 +2996,7 @@
         "id": 445950
       }
     ],
-    "updatedAt": "2025-10-23T11:33:34.587Z"
+    "updatedAt": "2025-10-24T11:34:41.776Z"
   },
   {
     "id": 3769,
@@ -3135,11 +3135,6 @@
           "total_cont": 0
         },
         {
-          "name": "科幻",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "不吉波普不笑",
           "count": 4,
           "total_cont": 0
@@ -3150,17 +3145,22 @@
           "total_cont": 0
         },
         {
-          "name": "6分",
+          "name": "科幻",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "2000s",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "村井贞之",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "2000年1月",
           "count": 3,
           "total_cont": 0
         }
@@ -3334,8 +3334,8 @@
         }
       ],
       "rating": {
-        "rank": 1551,
-        "total": 483,
+        "rank": 1553,
+        "total": 484,
         "count": {
           "1": 1,
           "2": 2,
@@ -3343,7 +3343,7 @@
           "4": 7,
           "5": 15,
           "6": 84,
-          "7": 171,
+          "7": 172,
           "8": 130,
           "9": 50,
           "10": 21
@@ -3354,8 +3354,8 @@
       "collection": {
         "on_hold": 103,
         "dropped": 43,
-        "wish": 990,
-        "collect": 709,
+        "wish": 991,
+        "collect": 710,
         "doing": 139
       },
       "id": 3769,
@@ -5462,7 +5462,7 @@
         "id": 240039
       }
     ],
-    "updatedAt": "2025-10-23T11:34:56.328Z"
+    "updatedAt": "2025-10-24T11:36:08.981Z"
   },
   {
     "id": 4047,
@@ -7351,7 +7351,7 @@
         "id": 493818
       }
     ],
-    "updatedAt": "2025-10-23T11:35:22.309Z"
+    "updatedAt": "2025-10-24T11:36:34.772Z"
   },
   {
     "id": 37487,
@@ -7797,22 +7797,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/da/ac/1286_prsn_866WJ.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/da/ac/1286_prsn_866WJ.jpg"
-        },
-        "name": "Production I.G",
-        "relation": "3DCG",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 1286,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/b7/1a/41_prsn_jL3JE.jpg?r=1712719287",
           "grid": "https://lain.bgm.tv/pic/crt/g/b7/1a/41_prsn_jL3JE.jpg?r=1712719287",
           "large": "https://lain.bgm.tv/pic/crt/l/b7/1a/41_prsn_jL3JE.jpg?r=1712719287",
@@ -7825,6 +7809,22 @@
         ],
         "type": 2,
         "id": 41,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/da/ac/1286_prsn_866WJ.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/da/ac/1286_prsn_866WJ.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/da/ac/1286_prsn_866WJ.jpg"
+        },
+        "name": "Production I.G",
+        "relation": "3DCG",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 1286,
         "eps": ""
       },
       {
@@ -9359,7 +9359,7 @@
         "id": 119848
       }
     ],
-    "updatedAt": "2025-10-23T11:46:01.782Z"
+    "updatedAt": "2025-10-24T11:47:11.131Z"
   },
   {
     "id": 85771,
@@ -10052,6 +10052,6 @@
         "id": 238312
       }
     ],
-    "updatedAt": "2025-10-23T11:53:55.914Z"
+    "updatedAt": "2025-10-24T11:55:15.082Z"
   }
 ]
