@@ -32,7 +32,7 @@
         },
         {
           "name": "TV",
-          "count": 270,
+          "count": 271,
           "total_cont": 0
         },
         {
@@ -131,17 +131,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "1990s",
           "count": 6,
           "total_cont": 0
         },
         {
           "name": "TVA",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 6,
           "total_cont": 0
         },
@@ -156,12 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "鹭巢诗郎",
+          "name": "补旧番",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "貞本義行",
+          "name": "SF",
           "count": 4,
           "total_cont": 0
         }
@@ -311,9 +311,9 @@
       },
       "total_episodes": 39,
       "collection": {
-        "on_hold": 261,
-        "dropped": 76,
-        "wish": 1695,
+        "on_hold": 262,
+        "dropped": 75,
+        "wish": 1696,
         "collect": 2011,
         "doing": 232
       },
@@ -332,6 +332,22 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/84/3e/484_prsn_yA55b.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/84/3e/484_prsn_yA55b.jpg"
+        },
+        "name": "グループ・タック",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 484,
+        "eps": ""
+      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/73/e1/93_prsn_rvEE8.jpg",
@@ -1958,22 +1974,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/84/3e/484_prsn_yA55b.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/84/3e/484_prsn_yA55b.jpg"
-        },
-        "name": "グループ・タック",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 484,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/2c/20/59166_prsn_NarDw.jpg?r=1702786463",
           "grid": "https://lain.bgm.tv/pic/crt/g/2c/20/59166_prsn_NarDw.jpg?r=1702786463",
           "large": "https://lain.bgm.tv/pic/crt/l/2c/20/59166_prsn_NarDw.jpg?r=1702786463",
@@ -2648,7 +2648,7 @@
         "id": 568164
       }
     ],
-    "updatedAt": "2025-10-26T11:28:09.286Z"
+    "updatedAt": "2025-10-27T11:31:55.694Z"
   },
   {
     "id": 8622,
@@ -4364,7 +4364,7 @@
         "id": 375693
       }
     ],
-    "updatedAt": "2025-10-26T11:33:18.162Z"
+    "updatedAt": "2025-10-27T11:37:52.308Z"
   },
   {
     "id": 10408,
@@ -7411,7 +7411,7 @@
         "id": 565050
       }
     ],
-    "updatedAt": "2025-10-26T11:34:30.732Z"
+    "updatedAt": "2025-10-27T11:39:13.525Z"
   },
   {
     "id": 11730,
@@ -8677,7 +8677,7 @@
         "id": 454183
       }
     ],
-    "updatedAt": "2025-10-26T11:35:14.412Z"
+    "updatedAt": "2025-10-27T11:40:03.009Z"
   },
   {
     "id": 87782,
@@ -9688,7 +9688,7 @@
         "id": 439648
       }
     ],
-    "updatedAt": "2025-10-26T11:47:14.653Z"
+    "updatedAt": "2025-10-27T11:53:53.769Z"
   },
   {
     "id": 131171,
@@ -10835,6 +10835,6 @@
         "id": 141050
       }
     ],
-    "updatedAt": "2025-10-26T11:51:48.160Z"
+    "updatedAt": "2025-10-27T11:59:01.206Z"
   }
 ]

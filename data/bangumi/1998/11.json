@@ -240,6 +240,22 @@
     "persons": [
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/bd/e9/29_prsn_AoyjJ.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/bd/e9/29_prsn_AoyjJ.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/bd/e9/29_prsn_AoyjJ.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/bd/e9/29_prsn_AoyjJ.jpg"
+        },
+        "name": "鶴岡陽太",
+        "relation": "音响监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 29,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/0e/2b/27_prsn_R67r8.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/0e/2b/27_prsn_R67r8.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/0e/2b/27_prsn_R67r8.jpg",
@@ -326,6 +342,38 @@
           "large": "",
           "medium": ""
         },
+        "name": "ながはまのりひこ",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2255,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "ながはまのりひこ",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2255,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "神戸一彦",
         "relation": "脚本",
         "career": [
@@ -358,29 +406,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "ながはまのりひこ",
-        "relation": "分镜",
+        "name": "平田哲",
+        "relation": "音响",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 2255,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "ながはまのりひこ",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 2255,
+        "id": 82249,
         "eps": ""
       },
       {
@@ -397,22 +429,6 @@
         ],
         "type": 2,
         "id": 390,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/bd/e9/29_prsn_AoyjJ.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/bd/e9/29_prsn_AoyjJ.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/bd/e9/29_prsn_AoyjJ.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/bd/e9/29_prsn_AoyjJ.jpg"
-        },
-        "name": "鶴岡陽太",
-        "relation": "音响监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 29,
         "eps": ""
       }
     ],
@@ -541,7 +557,7 @@
         "id": 45772
       }
     ],
-    "updatedAt": "2025-10-26T11:41:45.689Z"
+    "updatedAt": "2025-10-27T11:47:33.219Z"
   },
   {
     "id": 85210,
@@ -817,7 +833,7 @@
         }
       ],
       "rating": {
-        "rank": 3693,
+        "rank": 3696,
         "total": 73,
         "count": {
           "1": 0,
@@ -1934,7 +1950,7 @@
         "id": 453567
       }
     ],
-    "updatedAt": "2025-10-26T11:46:56.861Z"
+    "updatedAt": "2025-10-27T11:53:33.937Z"
   },
   {
     "id": 86438,
@@ -3018,7 +3034,7 @@
         "id": 428949
       }
     ],
-    "updatedAt": "2025-10-26T11:47:05.999Z"
+    "updatedAt": "2025-10-27T11:53:44.041Z"
   },
   {
     "id": 86528,
@@ -3583,6 +3599,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-10-26T11:47:06.981Z"
+    "updatedAt": "2025-10-27T11:53:45.036Z"
   }
 ]

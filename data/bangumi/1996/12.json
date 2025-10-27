@@ -275,22 +275,6 @@
     "persons": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/84/3e/484_prsn_yA55b.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/84/3e/484_prsn_yA55b.jpg"
-        },
-        "name": "グループ・タック",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 484,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -822,22 +806,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/84/3e/484_prsn_yA55b.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/84/3e/484_prsn_yA55b.jpg"
-        },
-        "name": "グループ・タック",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 484,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/1c/c3/930_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/1c/c3/930_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/1c/c3/930_prsn_anidb.jpg",
@@ -882,6 +850,38 @@
         ],
         "type": 1,
         "id": 360,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/84/3e/484_prsn_yA55b.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/84/3e/484_prsn_yA55b.jpg"
+        },
+        "name": "グループ・タック",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 484,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/84/3e/484_prsn_yA55b.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/84/3e/484_prsn_yA55b.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/84/3e/484_prsn_yA55b.jpg"
+        },
+        "name": "グループ・タック",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 484,
         "eps": ""
       }
     ],
@@ -934,7 +934,7 @@
         "id": 507153
       }
     ],
-    "updatedAt": "2025-10-26T11:30:39.547Z"
+    "updatedAt": "2025-10-27T11:34:51.765Z"
   },
   {
     "id": 9387,
@@ -1138,7 +1138,7 @@
         }
       ],
       "rating": {
-        "rank": 4623,
+        "rank": 4668,
         "total": 303,
         "count": {
           "1": 0,
@@ -1461,7 +1461,7 @@
         "id": 45892
       }
     ],
-    "updatedAt": "2025-10-26T11:33:40.771Z"
+    "updatedAt": "2025-10-27T11:38:16.533Z"
   },
   {
     "id": 49277,
@@ -2420,7 +2420,7 @@
         "id": 566469
       }
     ],
-    "updatedAt": "2025-10-26T11:42:29.949Z"
+    "updatedAt": "2025-10-27T11:48:24.274Z"
   },
   {
     "id": 49424,
@@ -2469,12 +2469,12 @@
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "OVA",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "OVA",
+          "name": "漫改",
           "count": 10,
           "total_cont": 0
         },
@@ -2494,11 +2494,6 @@
           "total_cont": 0
         },
         {
-          "name": "東映アニメーション",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "动画",
           "count": 4,
           "total_cont": 0
@@ -2509,13 +2504,13 @@
           "total_cont": 0
         },
         {
-          "name": "悬疑",
-          "count": 3,
+          "name": "東映アニメーション",
+          "count": 4,
           "total_cont": 0
         },
         {
-          "name": "90年代",
-          "count": 2,
+          "name": "悬疑",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -2529,6 +2524,21 @@
           "total_cont": 0
         },
         {
+          "name": "90年代",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "电影",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "动画长片",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "大长篇",
           "count": 1,
           "total_cont": 0
@@ -2539,12 +2549,7 @@
           "total_cont": 0
         },
         {
-          "name": "剧情",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "『剧场版』",
+          "name": "8分",
           "count": 1,
           "total_cont": 0
         },
@@ -2554,12 +2559,22 @@
           "total_cont": 0
         },
         {
-          "name": "爱奇艺",
+          "name": "和田薫",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "电影",
+          "name": "lxy",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "金田一少年",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "平田広明",
           "count": 1,
           "total_cont": 0
         },
@@ -2569,22 +2584,7 @@
           "total_cont": 0
         },
         {
-          "name": "和田薫",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "山口胜平",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "8分",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "动画长片",
           "count": 1,
           "total_cont": 0
         }
@@ -2647,15 +2647,15 @@
         }
       ],
       "rating": {
-        "rank": 1702,
-        "total": 166,
+        "rank": 1723,
+        "total": 167,
         "count": {
           "1": 0,
           "2": 0,
           "3": 1,
           "4": 1,
           "5": 6,
-          "6": 16,
+          "6": 17,
           "7": 73,
           "8": 61,
           "9": 6,
@@ -3256,6 +3256,6 @@
         "id": 576738
       }
     ],
-    "updatedAt": "2025-10-26T11:42:33.420Z"
+    "updatedAt": "2025-10-27T11:48:27.937Z"
   }
 ]
