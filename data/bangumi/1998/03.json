@@ -146,22 +146,22 @@
           "total_cont": 0
         },
         {
+          "name": "哆啦A夢",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "SF",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "アニメ映画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "劇場版",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         }
@@ -301,14 +301,14 @@
         }
       ],
       "rating": {
-        "rank": 2965,
-        "total": 501,
+        "rank": 2962,
+        "total": 500,
         "count": {
           "1": 1,
           "2": 0,
           "3": 2,
           "4": 4,
-          "5": 30,
+          "5": 29,
           "6": 120,
           "7": 233,
           "8": 84,
@@ -321,8 +321,8 @@
       "collection": {
         "on_hold": 15,
         "dropped": 19,
-        "wish": 69,
-        "collect": 1082,
+        "wish": 70,
+        "collect": 1081,
         "doing": 12
       },
       "id": 460,
@@ -1860,7 +1860,7 @@
         "id": 461604
       }
     ],
-    "updatedAt": "2025-10-27T11:29:04.368Z"
+    "updatedAt": "2025-10-28T11:28:02.035Z"
   },
   {
     "id": 33930,
@@ -2251,6 +2251,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -2279,22 +2295,6 @@
         ],
         "type": 1,
         "id": 2140,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
         "eps": ""
       },
       {
@@ -2713,7 +2713,7 @@
         "id": 204179
       }
     ],
-    "updatedAt": "2025-10-27T11:44:39.519Z"
+    "updatedAt": "2025-10-28T11:43:58.255Z"
   },
   {
     "id": 37471,
@@ -5108,7 +5108,7 @@
         "id": 511579
       }
     ],
-    "updatedAt": "2025-10-27T11:45:49.855Z"
+    "updatedAt": "2025-10-28T11:45:09.354Z"
   },
   {
     "id": 39923,
@@ -5148,12 +5148,12 @@
         },
         {
           "name": "1998年3月",
-          "count": 673,
+          "count": 674,
           "total_cont": 0
         },
         {
           "name": "原创",
-          "count": 578,
+          "count": 579,
           "total_cont": 0
         },
         {
@@ -5312,7 +5312,7 @@
       ],
       "rating": {
         "rank": 48,
-        "total": 7753,
+        "total": 7758,
         "count": {
           "1": 30,
           "2": 7,
@@ -5320,10 +5320,10 @@
           "4": 10,
           "5": 59,
           "6": 212,
-          "7": 844,
-          "8": 2506,
+          "7": 845,
+          "8": 2509,
           "9": 2557,
-          "10": 1520
+          "10": 1521
         },
         "score": 8.5
       },
@@ -5331,9 +5331,9 @@
       "collection": {
         "on_hold": 144,
         "dropped": 90,
-        "wish": 1251,
-        "collect": 14734,
-        "doing": 108
+        "wish": 1252,
+        "collect": 14746,
+        "doing": 107
       },
       "id": 39923,
       "eps": 3,
@@ -5757,6 +5757,6 @@
         "id": 20202
       }
     ],
-    "updatedAt": "2025-10-27T11:46:39.024Z"
+    "updatedAt": "2025-10-28T11:46:02.915Z"
   }
 ]

@@ -348,6 +348,22 @@
     "persons": [
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/72/02/8005_prsn_rYrj2.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/72/02/8005_prsn_rYrj2.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/72/02/8005_prsn_rYrj2.jpg",
@@ -502,7 +518,9 @@
         "name": "山本優",
         "relation": "主题歌作词",
         "career": [
-          "producer"
+          "writer",
+          "producer",
+          "artist"
         ],
         "type": 1,
         "id": 1622,
@@ -550,7 +568,9 @@
         "name": "山本優",
         "relation": "原案",
         "career": [
-          "producer"
+          "writer",
+          "producer",
+          "artist"
         ],
         "type": 1,
         "id": 1622,
@@ -662,7 +682,9 @@
         "name": "山本優",
         "relation": "系列构成",
         "career": [
-          "producer"
+          "writer",
+          "producer",
+          "artist"
         ],
         "type": 1,
         "id": 1622,
@@ -806,7 +828,9 @@
         "name": "山本優",
         "relation": "脚本",
         "career": [
-          "producer"
+          "writer",
+          "producer",
+          "artist"
         ],
         "type": 1,
         "id": 1622,
@@ -874,22 +898,6 @@
         ],
         "type": 1,
         "id": 1688,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
         "eps": ""
       }
     ],
@@ -994,7 +1002,7 @@
         "id": 474985
       }
     ],
-    "updatedAt": "2025-10-27T11:45:20.802Z"
+    "updatedAt": "2025-10-28T11:44:40.028Z"
   },
   {
     "id": 67751,
@@ -1048,12 +1056,12 @@
           "total_cont": 0
         },
         {
-          "name": "杉野昭夫",
+          "name": "科幻",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "科幻",
+          "name": "杉野昭夫",
           "count": 9,
           "total_cont": 0
         },
@@ -1073,17 +1081,12 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "80年代",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "寺沢武一",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
           "count": 3,
           "total_cont": 0
         },
@@ -1098,13 +1101,8 @@
           "total_cont": 0
         },
         {
-          "name": "山崎晴哉",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "冒险",
-          "count": 2,
+          "name": "80年代",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -1118,47 +1116,57 @@
           "total_cont": 0
         },
         {
+          "name": "冒险",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "漫改",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "御姐",
+          "name": "山崎晴哉",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "必補",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "若本规夫",
+          "name": "映画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "BB",
+          "name": "山本泰一郎",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "哥普拉",
+          "name": "东京电影新社",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "新世界的神",
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "乳首",
+          "name": "大塚伸治",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "福岛敦子",
+          "name": "80-84",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "动画长片",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         }
@@ -1269,8 +1277,8 @@
         }
       ],
       "rating": {
-        "rank": 3034,
-        "total": 87,
+        "rank": 3033,
+        "total": 88,
         "count": {
           "1": 0,
           "2": 0,
@@ -1278,7 +1286,7 @@
           "4": 2,
           "5": 5,
           "6": 26,
-          "7": 31,
+          "7": 32,
           "8": 17,
           "9": 4,
           "10": 1
@@ -1290,7 +1298,7 @@
         "on_hold": 8,
         "dropped": 12,
         "wish": 107,
-        "collect": 114,
+        "collect": 115,
         "doing": 9
       },
       "id": 67751,
@@ -2820,7 +2828,7 @@
         "id": 530333
       }
     ],
-    "updatedAt": "2025-10-27T11:50:49.047Z"
+    "updatedAt": "2025-10-28T11:50:13.435Z"
   },
   {
     "id": 82718,
@@ -3064,7 +3072,7 @@
         "on_hold": 1,
         "dropped": 5,
         "wish": 13,
-        "collect": 18,
+        "collect": 17,
         "doing": 0
       },
       "id": 82718,
@@ -3114,22 +3122,6 @@
         ],
         "type": 1,
         "id": 1160,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
         "eps": ""
       },
       {
@@ -3322,22 +3314,6 @@
         ],
         "type": 1,
         "id": 62691,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
         "eps": ""
       },
       {
@@ -3563,6 +3539,22 @@
         ],
         "type": 1,
         "id": 11727,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
         "eps": ""
       },
       {
@@ -4077,6 +4069,22 @@
         "type": 1,
         "id": 13840,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
       }
     ],
     "characters": [
@@ -4155,7 +4163,7 @@
         "id": 440138
       }
     ],
-    "updatedAt": "2025-10-27T11:52:57.800Z"
+    "updatedAt": "2025-10-28T11:52:27.056Z"
   },
   {
     "id": 127779,
@@ -4389,7 +4397,7 @@
         }
       ],
       "rating": {
-        "rank": 2595,
+        "rank": 2596,
         "total": 56,
         "count": {
           "1": 0,
@@ -5054,7 +5062,7 @@
         "id": 530840
       }
     ],
-    "updatedAt": "2025-10-27T11:58:43.609Z"
+    "updatedAt": "2025-10-28T11:58:18.257Z"
   },
   {
     "id": 210888,
@@ -5262,6 +5270,22 @@
     "persons": [
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/c7/d3/403_prsn_enSyY.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/c7/d3/403_prsn_enSyY.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/c7/d3/403_prsn_enSyY.jpg",
@@ -5290,6 +5314,22 @@
         ],
         "type": 1,
         "id": 1270,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
         "eps": ""
       },
       {
@@ -6000,38 +6040,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/73/37/18194_prsn_KQDNl.jpg?r=1695793281",
           "grid": "https://lain.bgm.tv/pic/crt/g/73/37/18194_prsn_KQDNl.jpg?r=1695793281",
           "large": "https://lain.bgm.tv/pic/crt/l/73/37/18194_prsn_KQDNl.jpg?r=1695793281",
@@ -6064,6 +6072,6 @@
         "id": 210886
       }
     ],
-    "updatedAt": "2025-10-27T12:06:08.043Z"
+    "updatedAt": "2025-10-28T12:05:50.027Z"
   }
 ]

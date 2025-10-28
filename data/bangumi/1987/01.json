@@ -227,7 +227,7 @@
       "collection": {
         "on_hold": 9,
         "dropped": 7,
-        "wish": 48,
+        "wish": 49,
         "collect": 26,
         "doing": 5
       },
@@ -828,7 +828,7 @@
         "id": 570712
       }
     ],
-    "updatedAt": "2025-10-27T11:51:03.165Z"
+    "updatedAt": "2025-10-28T11:50:27.951Z"
   },
   {
     "id": 134961,
@@ -954,6 +954,22 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
@@ -1917,22 +1933,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/d5/8c/724_prsn_cnjWJ.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/d5/8c/724_prsn_cnjWJ.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/d5/8c/724_prsn_cnjWJ.jpg",
@@ -1966,7 +1966,7 @@
         "id": 134960
       }
     ],
-    "updatedAt": "2025-10-27T11:59:21.409Z"
+    "updatedAt": "2025-10-28T11:58:56.555Z"
   },
   {
     "id": 333344,
@@ -2086,6 +2086,6 @@
         "id": 73928
       }
     ],
-    "updatedAt": "2025-10-27T12:18:03.382Z"
+    "updatedAt": "2025-10-28T12:17:47.027Z"
   }
 ]

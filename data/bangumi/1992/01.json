@@ -213,7 +213,7 @@
         }
       ],
       "rating": {
-        "rank": 1315,
+        "rank": 1318,
         "total": 121,
         "count": {
           "1": 0,
@@ -258,7 +258,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
         },
         "name": "東映アニメーション",
-        "relation": "动画制作",
+        "relation": "制作协力",
         "career": [
           "producer"
         ],
@@ -377,6 +377,22 @@
         ],
         "type": 1,
         "id": 11777,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
         "eps": ""
       },
       {
@@ -569,22 +585,6 @@
         ],
         "type": 1,
         "id": 1728,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
         "eps": ""
       }
     ],
@@ -2300,7 +2300,7 @@
         "id": 529641
       }
     ],
-    "updatedAt": "2025-10-27T11:47:43.662Z"
+    "updatedAt": "2025-10-28T11:47:10.330Z"
   },
   {
     "id": 76637,
@@ -2324,7 +2324,7 @@
           "total_cont": 0
         },
         {
-          "name": "1992，",
+          "name": "1992",
           "count": 28,
           "total_cont": 0
         },
@@ -2344,11 +2344,6 @@
           "total_cont": 0
         },
         {
-          "name": "搞笑",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
           "name": "日常",
           "count": 7,
           "total_cont": 0
@@ -2359,12 +2354,17 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
-          "count": 5,
+          "name": "搞笑",
+          "count": 7,
           "total_cont": 0
         },
         {
           "name": "童年",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
           "count": 5,
           "total_cont": 0
         },
@@ -2409,62 +2409,62 @@
           "total_cont": 0
         },
         {
-          "name": "SUNRISE，",
+          "name": "サンライズ",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "童年回忆",
+          "name": "90年代",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "赛璐珞",
+          "name": "2000",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1992，",
+          "name": "伊藤美紀",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "こおろぎさとみ",
+          "name": "部",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "育儿",
+          "name": "子育て",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "妈妈是小学四年生",
+          "name": "1990s",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "少女",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "19",
+          "name": "长篇",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "4クール",
+          "name": "山口亮太",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "接近7分",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "富野由悠季",
           "count": 1,
           "total_cont": 0
         }
@@ -2600,7 +2600,7 @@
         "on_hold": 16,
         "dropped": 20,
         "wish": 115,
-        "collect": 75,
+        "collect": 76,
         "doing": 14
       },
       "id": 76637,
@@ -3933,6 +3933,6 @@
         "id": 510780
       }
     ],
-    "updatedAt": "2025-10-27T11:51:53.550Z"
+    "updatedAt": "2025-10-28T11:51:18.006Z"
   }
 ]

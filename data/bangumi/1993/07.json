@@ -379,7 +379,7 @@
         "id": 8248
       }
     ],
-    "updatedAt": "2025-10-27T11:37:31.812Z"
+    "updatedAt": "2025-10-28T11:36:40.505Z"
   },
   {
     "id": 8805,
@@ -583,7 +583,7 @@
         }
       ],
       "rating": {
-        "rank": 5973,
+        "rank": 5975,
         "total": 99,
         "count": {
           "1": 1,
@@ -953,7 +953,7 @@
         "id": 8803
       }
     ],
-    "updatedAt": "2025-10-27T11:37:57.083Z"
+    "updatedAt": "2025-10-28T11:37:06.191Z"
   },
   {
     "id": 8966,
@@ -997,12 +997,12 @@
           "total_cont": 0
         },
         {
-          "name": "童年",
+          "name": "SHIN-EI",
           "count": 31,
           "total_cont": 0
         },
         {
-          "name": "SHIN-EI",
+          "name": "童年",
           "count": 31,
           "total_cont": 0
         },
@@ -1037,6 +1037,11 @@
           "total_cont": 0
         },
         {
+          "name": "蠟筆小新",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "日本",
           "count": 4,
           "total_cont": 0
@@ -1047,17 +1052,7 @@
           "total_cont": 0
         },
         {
-          "name": "蠟筆小新",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "もとひら了",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "1993年7月",
+          "name": "1990s",
           "count": 3,
           "total_cont": 0
         },
@@ -1067,12 +1062,17 @@
           "total_cont": 0
         },
         {
-          "name": "1990s",
+          "name": "もとひら了",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "日本动画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "1993年7月",
           "count": 3,
           "total_cont": 0
         },
@@ -1218,15 +1218,15 @@
         }
       ],
       "rating": {
-        "rank": 4847,
-        "total": 496,
+        "rank": 4845,
+        "total": 495,
         "count": {
           "1": 1,
           "2": 3,
           "3": 3,
           "4": 13,
           "5": 57,
-          "6": 174,
+          "6": 173,
           "7": 165,
           "8": 56,
           "9": 5,
@@ -1238,8 +1238,8 @@
       "collection": {
         "on_hold": 13,
         "dropped": 12,
-        "wish": 40,
-        "collect": 965,
+        "wish": 41,
+        "collect": 964,
         "doing": 13
       },
       "id": 8966,
@@ -2132,7 +2132,7 @@
         "id": 409013
       }
     ],
-    "updatedAt": "2025-10-27T11:37:58.680Z"
+    "updatedAt": "2025-10-28T11:37:08.571Z"
   },
   {
     "id": 45394,
@@ -2399,7 +2399,7 @@
         }
       ],
       "rating": {
-        "rank": 3921,
+        "rank": 3922,
         "total": 218,
         "count": {
           "1": 0,
@@ -2503,6 +2503,22 @@
         ],
         "type": 1,
         "id": 2518,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
         "eps": ""
       },
       {
@@ -2620,6 +2636,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/2f/57/47537_prsn_U7wph.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/2f/57/47537_prsn_U7wph.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/2f/57/47537_prsn_U7wph.jpg",
@@ -2664,22 +2696,6 @@
         ],
         "type": 1,
         "id": 2300,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
         "eps": ""
       },
       {
@@ -2936,22 +2952,6 @@
         ],
         "type": 1,
         "id": 1314,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
         "eps": ""
       },
       {
@@ -4007,7 +4007,7 @@
         "id": 168968
       }
     ],
-    "updatedAt": "2025-10-27T11:47:30.916Z"
+    "updatedAt": "2025-10-28T11:46:56.849Z"
   },
   {
     "id": 82725,
@@ -4449,6 +4449,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/ff/11/49587_prsn_DKOh2.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/ff/11/49587_prsn_DKOh2.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/ff/11/49587_prsn_DKOh2.jpg",
@@ -4884,22 +4900,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
           "grid": "https://lain.bgm.tv/pic/crt/g/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
           "large": "https://lain.bgm.tv/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
@@ -5169,7 +5169,7 @@
         "id": 47243
       }
     ],
-    "updatedAt": "2025-10-27T11:52:59.633Z"
+    "updatedAt": "2025-10-28T11:52:29.006Z"
   },
   {
     "id": 84984,
@@ -5385,7 +5385,7 @@
         }
       ],
       "rating": {
-        "rank": 3405,
+        "rank": 3408,
         "total": 95,
         "count": {
           "1": 0,
@@ -5413,10 +5413,7 @@
       "eps": 1,
       "meta_tags": [
         "TV",
-        "TV",
         "日本",
-        "日本",
-        "漫画改",
         "漫画改"
       ],
       "volumes": 0,
@@ -5891,7 +5888,7 @@
         "id": 489803
       }
     ],
-    "updatedAt": "2025-10-27T11:53:26.561Z"
+    "updatedAt": "2025-10-28T11:52:56.681Z"
   },
   {
     "id": 89701,
@@ -6480,7 +6477,7 @@
         "id": 81562
       }
     ],
-    "updatedAt": "2025-10-27T11:54:09.000Z"
+    "updatedAt": "2025-10-28T11:53:39.843Z"
   },
   {
     "id": 104006,
@@ -6820,7 +6817,7 @@
         "id": 442956
       }
     ],
-    "updatedAt": "2025-10-27T11:56:00.466Z"
+    "updatedAt": "2025-10-28T11:55:32.197Z"
   },
   {
     "id": 306574,
@@ -7196,7 +7193,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-10-27T12:15:33.893Z"
+    "updatedAt": "2025-10-28T12:15:15.154Z"
   },
   {
     "id": 315561,
@@ -7351,6 +7348,6 @@
         "id": 479212
       }
     ],
-    "updatedAt": "2025-10-27T12:16:13.904Z"
+    "updatedAt": "2025-10-28T12:15:56.707Z"
   }
 ]

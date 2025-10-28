@@ -91,18 +91,13 @@
           "total_cont": 0
         },
         {
-          "name": "机器人",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "大河原邦男",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "1980s",
-          "count": 5,
+          "name": "机器人",
+          "count": 6,
           "total_cont": 0
         },
         {
@@ -116,8 +111,8 @@
           "total_cont": 0
         },
         {
-          "name": "年番",
-          "count": 4,
+          "name": "1980s",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -136,22 +131,12 @@
           "total_cont": 0
         },
         {
-          "name": "乾裕樹",
-          "count": 3,
+          "name": "年番",
+          "count": 4,
           "total_cont": 0
         },
         {
-          "name": "80s",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "塩山紀生",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "补旧番",
+          "name": "滝沢敏文",
           "count": 3,
           "total_cont": 0
         },
@@ -161,7 +146,22 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
+          "name": "robo",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "乾裕樹",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "塩山紀生",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "80s",
           "count": 3,
           "total_cont": 0
         }
@@ -3582,7 +3582,7 @@
         "id": 182011
       }
     ],
-    "updatedAt": "2025-10-27T11:39:01.843Z"
+    "updatedAt": "2025-10-28T11:38:12.665Z"
   },
   {
     "id": 25420,
@@ -3951,7 +3951,7 @@
         "id": 469888
       }
     ],
-    "updatedAt": "2025-10-27T11:43:13.156Z"
+    "updatedAt": "2025-10-28T11:42:30.930Z"
   },
   {
     "id": 37198,
@@ -4234,7 +4234,9 @@
         "name": "山本優",
         "relation": "原案",
         "career": [
-          "producer"
+          "writer",
+          "producer",
+          "artist"
         ],
         "type": 1,
         "id": 1622,
@@ -4298,7 +4300,9 @@
         "name": "山本優",
         "relation": "系列构成",
         "career": [
-          "producer"
+          "writer",
+          "producer",
+          "artist"
         ],
         "type": 1,
         "id": 1622,
@@ -4487,7 +4491,9 @@
         "name": "山本優",
         "relation": "脚本",
         "career": [
-          "producer"
+          "writer",
+          "producer",
+          "artist"
         ],
         "type": 1,
         "id": 1622,
@@ -4641,7 +4647,7 @@
         "id": 476470
       }
     ],
-    "updatedAt": "2025-10-27T11:45:21.198Z"
+    "updatedAt": "2025-10-28T11:44:40.240Z"
   },
   {
     "id": 41982,
@@ -4916,22 +4922,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/dc/9d/1187_prsn_VBvkQ.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/dc/9d/1187_prsn_VBvkQ.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/dc/9d/1187_prsn_VBvkQ.jpg",
@@ -5186,6 +5176,22 @@
         ],
         "type": 1,
         "id": 26464,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
         "eps": ""
       },
       {
@@ -6987,7 +6993,7 @@
         "id": 215106
       }
     ],
-    "updatedAt": "2025-10-27T11:47:01.190Z"
+    "updatedAt": "2025-10-28T11:46:25.753Z"
   },
   {
     "id": 53755,
@@ -8219,7 +8225,7 @@
         "id": 499326
       }
     ],
-    "updatedAt": "2025-10-27T11:48:55.930Z"
+    "updatedAt": "2025-10-28T11:48:22.658Z"
   },
   {
     "id": 72394,
@@ -8691,7 +8697,7 @@
         "id": 469890
       }
     ],
-    "updatedAt": "2025-10-27T11:51:25.279Z"
+    "updatedAt": "2025-10-28T11:50:50.313Z"
   },
   {
     "id": 85367,
@@ -8715,13 +8721,23 @@
           "total_cont": 0
         },
         {
+          "name": "科普",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "原创动画",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "科普",
-          "count": 3,
+          "name": "横田和善",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "教育",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -8740,32 +8756,7 @@
           "total_cont": 0
         },
         {
-          "name": "横田和善",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "教育",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画公司",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "补",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "SF",
           "count": 1,
           "total_cont": 0
         },
@@ -8776,6 +8767,11 @@
         },
         {
           "name": "80年代",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         },
@@ -8791,6 +8787,16 @@
         },
         {
           "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "SF",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画公司",
           "count": 1,
           "total_cont": 0
         }
@@ -8835,7 +8841,7 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 6,
+        "total": 7,
         "count": {
           "1": 0,
           "2": 0,
@@ -8846,9 +8852,9 @@
           "7": 0,
           "8": 4,
           "9": 1,
-          "10": 0
+          "10": 1
         },
-        "score": 7.8
+        "score": 8.1
       },
       "total_episodes": 52,
       "collection": {
@@ -8856,7 +8862,7 @@
         "dropped": 7,
         "wish": 14,
         "collect": 8,
-        "doing": 3
+        "doing": 4
       },
       "id": 85367,
       "eps": 127,
@@ -9067,7 +9073,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-10-27T11:53:36.357Z"
+    "updatedAt": "2025-10-28T11:53:06.840Z"
   },
   {
     "id": 213669,
@@ -11226,7 +11232,7 @@
         "id": 581275
       }
     ],
-    "updatedAt": "2025-10-27T12:06:51.962Z"
+    "updatedAt": "2025-10-28T12:06:34.082Z"
   },
   {
     "id": 381162,
@@ -11425,7 +11431,7 @@
         "id": 513602
       }
     ],
-    "updatedAt": "2025-10-27T12:20:53.748Z"
+    "updatedAt": "2025-10-28T12:20:38.699Z"
   },
   {
     "id": 381165,
@@ -11598,6 +11604,6 @@
         "id": 467514
       }
     ],
-    "updatedAt": "2025-10-27T12:20:54.550Z"
+    "updatedAt": "2025-10-28T12:20:39.180Z"
   }
 ]

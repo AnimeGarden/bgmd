@@ -36,27 +36,17 @@
           "total_cont": 0
         },
         {
-          "name": "东映动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "1962年6月",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 1,
+          "name": "东映动画",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "東映動画長編アニメ映画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "动画电影",
+          "name": "薮下泰司",
           "count": 1,
           "total_cont": 0
         },
@@ -66,7 +56,7 @@
           "total_cont": 0
         },
         {
-          "name": "旧物",
+          "name": "1962年四月番",
           "count": 1,
           "total_cont": 0
         },
@@ -76,12 +66,12 @@
           "total_cont": 0
         },
         {
-          "name": "薮下泰司",
+          "name": "动画电影",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1962年四月番",
+          "name": "富田勋",
           "count": 1,
           "total_cont": 0
         },
@@ -96,7 +86,17 @@
           "total_cont": 0
         },
         {
-          "name": "富田勋",
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "東映動画長編アニメ映画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         }
@@ -145,7 +145,7 @@
         "on_hold": 2,
         "dropped": 5,
         "wish": 19,
-        "collect": 19,
+        "collect": 18,
         "doing": 3
       },
       "id": 145277,
@@ -160,6 +160,22 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/12/6e/35194_prsn_xjf9a.jpg",
@@ -324,22 +340,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -446,6 +446,6 @@
         "id": 480577
       }
     ],
-    "updatedAt": "2025-10-27T12:00:12.975Z"
+    "updatedAt": "2025-10-28T11:59:49.257Z"
   }
 ]

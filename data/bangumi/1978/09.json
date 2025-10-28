@@ -131,27 +131,12 @@
           "total_cont": 0
         },
         {
-          "name": "フジテレビ",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "青木望",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "荒木伸吾",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "童年",
+          "name": "TVA",
           "count": 2,
           "total_cont": 0
         },
@@ -161,7 +146,22 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "补番",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "童年",
           "count": 2,
           "total_cont": 0
         }
@@ -245,7 +245,7 @@
         }
       ],
       "rating": {
-        "rank": 517,
+        "rank": 518,
         "total": 276,
         "count": {
           "1": 2,
@@ -265,7 +265,7 @@
       "collection": {
         "on_hold": 153,
         "dropped": 50,
-        "wish": 1253,
+        "wish": 1254,
         "collect": 406,
         "doing": 97
       },
@@ -314,38 +314,6 @@
         ],
         "type": 1,
         "id": 18186,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
         "eps": ""
       },
       {
@@ -1890,6 +1858,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -1918,6 +1902,22 @@
         ],
         "type": 1,
         "id": 980,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
         "eps": ""
       },
       {
@@ -2605,7 +2605,7 @@
         "id": 23307
       }
     ],
-    "updatedAt": "2025-10-27T11:39:07.175Z"
+    "updatedAt": "2025-10-28T11:38:17.108Z"
   },
   {
     "id": 97133,
@@ -2964,6 +2964,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-10-27T11:55:06.209Z"
+    "updatedAt": "2025-10-28T11:54:35.888Z"
   }
 ]

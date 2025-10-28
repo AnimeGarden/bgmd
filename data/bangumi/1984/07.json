@@ -289,7 +289,7 @@
       "collection": {
         "on_hold": 119,
         "dropped": 51,
-        "wish": 1371,
+        "wish": 1372,
         "collect": 3203,
         "doing": 91
       },
@@ -2270,7 +2270,7 @@
         "id": 192961
       }
     ],
-    "updatedAt": "2025-10-27T11:34:09.536Z"
+    "updatedAt": "2025-10-28T11:33:12.997Z"
   },
   {
     "id": 46043,
@@ -2809,7 +2809,7 @@
         "id": 422700
       }
     ],
-    "updatedAt": "2025-10-27T11:47:38.522Z"
+    "updatedAt": "2025-10-28T11:47:04.173Z"
   },
   {
     "id": 67779,
@@ -3846,7 +3846,7 @@
         "id": 501796
       }
     ],
-    "updatedAt": "2025-10-27T11:50:55.274Z"
+    "updatedAt": "2025-10-28T11:50:20.148Z"
   },
   {
     "id": 77938,
@@ -3870,7 +3870,12 @@
           "total_cont": 0
         },
         {
-          "name": "赛璐珞",
+          "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "童年",
           "count": 1,
           "total_cont": 0
         },
@@ -3890,17 +3895,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "童年",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "1984",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "赛璐珞",
           "count": 1,
           "total_cont": 0
         }
@@ -3921,7 +3921,7 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 0,
+        "total": 1,
         "count": {
           "1": 0,
           "2": 0,
@@ -3929,12 +3929,12 @@
           "4": 0,
           "5": 0,
           "6": 0,
-          "7": 0,
+          "7": 1,
           "8": 0,
           "9": 0,
           "10": 0
         },
-        "score": 0
+        "score": 7
       },
       "total_episodes": 26,
       "collection": {
@@ -3942,7 +3942,7 @@
         "dropped": 6,
         "wish": 10,
         "collect": 2,
-        "doing": 2
+        "doing": 3
       },
       "id": 77938,
       "eps": 26,
@@ -4168,7 +4168,7 @@
         "id": 449389
       }
     ],
-    "updatedAt": "2025-10-27T11:52:04.860Z"
+    "updatedAt": "2025-10-28T11:51:29.470Z"
   },
   {
     "id": 215100,
@@ -4315,22 +4315,6 @@
     "persons": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/5f/bd/1773_prsn_8pz1D.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/5f/bd/1773_prsn_8pz1D.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/5f/bd/1773_prsn_8pz1D.jpg",
@@ -4343,6 +4327,22 @@
         ],
         "type": 1,
         "id": 1773,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
         "eps": ""
       },
       {
@@ -4670,6 +4670,6 @@
         "id": 41982
       }
     ],
-    "updatedAt": "2025-10-27T12:06:58.502Z"
+    "updatedAt": "2025-10-28T12:06:40.318Z"
   }
 ]

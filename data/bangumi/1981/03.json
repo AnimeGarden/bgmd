@@ -321,15 +321,15 @@
         }
       ],
       "rating": {
-        "rank": 2464,
-        "total": 574,
+        "rank": 2458,
+        "total": 573,
         "count": {
           "1": 0,
           "2": 2,
           "3": 1,
           "4": 3,
           "5": 20,
-          "6": 123,
+          "6": 122,
           "7": 270,
           "8": 126,
           "9": 14,
@@ -341,8 +341,8 @@
       "collection": {
         "on_hold": 21,
         "dropped": 17,
-        "wish": 60,
-        "collect": 1153,
+        "wish": 61,
+        "collect": 1152,
         "doing": 12
       },
       "id": 436,
@@ -1735,7 +1735,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2025-10-27T11:28:55.264Z"
+    "updatedAt": "2025-10-28T11:27:52.326Z"
   },
   {
     "id": 32489,
@@ -2443,7 +2443,7 @@
         "id": 429643
       }
     ],
-    "updatedAt": "2025-10-27T11:44:28.978Z"
+    "updatedAt": "2025-10-28T11:43:48.056Z"
   },
   {
     "id": 37235,
@@ -3276,7 +3276,7 @@
         "id": 466943
       }
     ],
-    "updatedAt": "2025-10-27T11:45:25.769Z"
+    "updatedAt": "2025-10-28T11:44:44.864Z"
   },
   {
     "id": 38435,
@@ -3345,12 +3345,12 @@
           "total_cont": 0
         },
         {
-          "name": "总集篇",
+          "name": "机战",
           "count": 50,
           "total_cont": 0
         },
         {
-          "name": "机战",
+          "name": "总集篇",
           "count": 50,
           "total_cont": 0
         },
@@ -3385,12 +3385,12 @@
           "total_cont": 0
         },
         {
-          "name": "藤原良二",
+          "name": "大河原邦男",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "大河原邦男",
+          "name": "藤原良二",
           "count": 7,
           "total_cont": 0
         },
@@ -3415,22 +3415,17 @@
           "total_cont": 0
         },
         {
-          "name": "池田秀一",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "战斗",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "电影",
-          "count": 3,
+          "name": "池田秀一",
+          "count": 4,
           "total_cont": 0
         },
         {
-          "name": "SF",
+          "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
@@ -3440,7 +3435,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "SF",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "电影",
           "count": 3,
           "total_cont": 0
         }
@@ -3540,8 +3540,8 @@
         }
       ],
       "rating": {
-        "rank": 1483,
-        "total": 1217,
+        "rank": 1484,
+        "total": 1218,
         "count": {
           "1": 1,
           "2": 0,
@@ -3550,7 +3550,7 @@
           "5": 22,
           "6": 159,
           "7": 577,
-          "8": 363,
+          "8": 364,
           "9": 69,
           "10": 23
         },
@@ -3561,17 +3561,14 @@
         "on_hold": 23,
         "dropped": 30,
         "wish": 279,
-        "collect": 2004,
+        "collect": 2006,
         "doing": 30
       },
       "id": 38435,
       "eps": 1,
       "meta_tags": [
         "科幻",
-        "科幻",
         "剧场版",
-        "剧场版",
-        "原创",
         "原创"
       ],
       "volumes": 0,
@@ -3993,7 +3990,9 @@
         "name": "山本優",
         "relation": "脚本",
         "career": [
-          "producer"
+          "writer",
+          "producer",
+          "artist"
         ],
         "type": 1,
         "id": 1622,
@@ -5199,7 +5198,7 @@
         "id": 189900
       }
     ],
-    "updatedAt": "2025-10-27T11:46:14.423Z"
+    "updatedAt": "2025-10-28T11:45:35.673Z"
   },
   {
     "id": 52771,
@@ -5288,17 +5287,7 @@
           "total_cont": 0
         },
         {
-          "name": "恋爱",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "富沢和雄",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "OVA",
           "count": 3,
           "total_cont": 0
         },
@@ -5308,7 +5297,17 @@
           "total_cont": 0
         },
         {
+          "name": "恋爱",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "漫改",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "OVA",
           "count": 3,
           "total_cont": 0
         },
@@ -5430,7 +5429,7 @@
         }
       ],
       "rating": {
-        "rank": 3071,
+        "rank": 3072,
         "total": 112,
         "count": {
           "1": 1,
@@ -5466,6 +5465,22 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/f3/80/603_prsn_WSmvG.jpg",
@@ -5676,22 +5691,6 @@
         "type": 1,
         "id": 804,
         "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
-        "eps": ""
       }
     ],
     "characters": [],
@@ -5739,7 +5738,7 @@
         "id": 186457
       }
     ],
-    "updatedAt": "2025-10-27T11:48:47.571Z"
+    "updatedAt": "2025-10-28T11:48:14.214Z"
   },
   {
     "id": 73723,
@@ -6073,7 +6072,7 @@
         "id": 72448
       }
     ],
-    "updatedAt": "2025-10-27T11:51:36.043Z"
+    "updatedAt": "2025-10-28T11:51:00.753Z"
   },
   {
     "id": 213663,
@@ -6253,7 +6252,7 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-10-27T12:06:50.940Z"
+    "updatedAt": "2025-10-28T12:06:33.092Z"
   },
   {
     "id": 311838,
@@ -6411,6 +6410,6 @@
         "id": 9540
       }
     ],
-    "updatedAt": "2025-10-27T12:15:55.417Z"
+    "updatedAt": "2025-10-28T12:15:37.988Z"
   }
 ]

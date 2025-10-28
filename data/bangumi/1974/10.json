@@ -91,6 +91,11 @@
           "total_cont": 0
         },
         {
+          "name": "石黒昇",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "机战",
           "count": 4,
           "total_cont": 0
@@ -101,27 +106,7 @@
           "total_cont": 0
         },
         {
-          "name": "石黒昇",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "战争",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "西崎義展",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "オフィス・アカデミー",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "反战类",
+          "name": "西崎义展",
           "count": 3,
           "total_cont": 0
         },
@@ -131,7 +116,7 @@
           "total_cont": 0
         },
         {
-          "name": "西崎义展",
+          "name": "TVA",
           "count": 3,
           "total_cont": 0
         },
@@ -141,27 +126,42 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "西崎義展",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "SF",
+          "name": "战争",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "反战类",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "オフィス・アカデミー",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "宇宙",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "東映アニメーション",
+          "name": "舛田利雄",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "AcademyProductions",
+          "name": "漫画改",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "山本暎一",
+          "name": "童年的经典",
           "count": 2,
           "total_cont": 0
         }
@@ -281,8 +281,8 @@
         }
       ],
       "rating": {
-        "rank": 1768,
-        "total": 343,
+        "rank": 1759,
+        "total": 344,
         "count": {
           "1": 2,
           "2": 2,
@@ -291,7 +291,7 @@
           "5": 8,
           "6": 45,
           "7": 136,
-          "8": 98,
+          "8": 99,
           "9": 29,
           "10": 13
         },
@@ -302,8 +302,8 @@
         "on_hold": 100,
         "dropped": 47,
         "wish": 758,
-        "collect": 504,
-        "doing": 104
+        "collect": 505,
+        "doing": 105
       },
       "id": 10393,
       "eps": 26,
@@ -2308,7 +2308,7 @@
         "id": 48874
       }
     ],
-    "updatedAt": "2025-10-27T11:39:08.355Z"
+    "updatedAt": "2025-10-28T11:38:18.732Z"
   },
   {
     "id": 17873,
@@ -3170,7 +3170,7 @@
         "id": 17874
       }
     ],
-    "updatedAt": "2025-10-27T11:41:19.028Z"
+    "updatedAt": "2025-10-28T11:40:35.612Z"
   },
   {
     "id": 107437,
@@ -4274,7 +4274,9 @@
         "name": "山本優",
         "relation": "脚本",
         "career": [
-          "producer"
+          "writer",
+          "producer",
+          "artist"
         ],
         "type": 1,
         "id": 1622,
@@ -4449,6 +4451,6 @@
         "id": 216352
       }
     ],
-    "updatedAt": "2025-10-27T11:56:27.392Z"
+    "updatedAt": "2025-10-28T11:56:01.084Z"
   }
 ]

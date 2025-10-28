@@ -265,7 +265,7 @@
       "collection": {
         "on_hold": 79,
         "dropped": 33,
-        "wish": 522,
+        "wish": 523,
         "collect": 2716,
         "doing": 65
       },
@@ -1148,7 +1148,7 @@
         "id": 44716
       }
     ],
-    "updatedAt": "2025-10-27T11:33:54.480Z"
+    "updatedAt": "2025-10-28T11:32:57.999Z"
   },
   {
     "id": 4421,
@@ -1380,7 +1380,7 @@
         }
       ],
       "rating": {
-        "rank": 2489,
+        "rank": 2491,
         "total": 180,
         "count": {
           "1": 0,
@@ -1417,6 +1417,22 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
+        },
+        "name": "東映アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3045,
+        "eps": ""
+      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/5d/1d/919_prsn_VOwmM.jpg?r=1728981545",
@@ -1512,22 +1528,6 @@
         ],
         "type": 1,
         "id": 28092,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943"
-        },
-        "name": "東映アニメーション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 3045,
         "eps": ""
       },
       {
@@ -2368,7 +2368,7 @@
         "id": 440939
       }
     ],
-    "updatedAt": "2025-10-27T11:35:58.822Z"
+    "updatedAt": "2025-10-28T11:35:03.374Z"
   },
   {
     "id": 20692,
@@ -2678,7 +2678,7 @@
         "id": 41803
       }
     ],
-    "updatedAt": "2025-10-27T11:42:08.417Z"
+    "updatedAt": "2025-10-28T11:41:25.459Z"
   },
   {
     "id": 189918,
@@ -2890,7 +2890,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-10-27T12:03:55.305Z"
+    "updatedAt": "2025-10-28T12:03:34.506Z"
   },
   {
     "id": 464474,
@@ -3230,6 +3230,6 @@
         "id": 464033
       }
     ],
-    "updatedAt": "2025-10-27T12:25:05.310Z"
+    "updatedAt": "2025-10-28T12:24:51.302Z"
   }
 ]
