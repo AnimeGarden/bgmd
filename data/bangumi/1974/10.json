@@ -91,6 +91,11 @@
           "total_cont": 0
         },
         {
+          "name": "日本动画",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "石黒昇",
           "count": 4,
           "total_cont": 0
@@ -101,32 +106,7 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "西崎义展",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "石黑升",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "宮川泰",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "西崎義展",
           "count": 3,
           "total_cont": 0
         },
@@ -141,27 +121,47 @@
           "total_cont": 0
         },
         {
+          "name": "TVA",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "西崎义展",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "西崎義展",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "オフィス・アカデミー",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "宇宙",
+          "name": "宮川泰",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "AcademyProductions",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "舛田利雄",
+          "name": "山本暎一",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "漫画改",
+          "name": "富野由悠季",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "童年的经典",
+          "name": "萝卜",
           "count": 2,
           "total_cont": 0
         }
@@ -281,8 +281,8 @@
         }
       ],
       "rating": {
-        "rank": 1759,
-        "total": 344,
+        "rank": 1762,
+        "total": 345,
         "count": {
           "1": 2,
           "2": 2,
@@ -290,7 +290,7 @@
           "4": 4,
           "5": 8,
           "6": 45,
-          "7": 136,
+          "7": 137,
           "8": 99,
           "9": 29,
           "10": 13
@@ -302,7 +302,7 @@
         "on_hold": 100,
         "dropped": 47,
         "wish": 758,
-        "collect": 505,
+        "collect": 506,
         "doing": 105
       },
       "id": 10393,
@@ -2308,7 +2308,7 @@
         "id": 48874
       }
     ],
-    "updatedAt": "2025-10-28T11:38:18.732Z"
+    "updatedAt": "2025-10-29T11:39:50.657Z"
   },
   {
     "id": 17873,
@@ -3151,6 +3151,22 @@
         "type": 1,
         "id": 1256,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/07/59/82303_prsn_LaSuv.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/07/59/82303_prsn_LaSuv.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/07/59/82303_prsn_LaSuv.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/07/59/82303_prsn_LaSuv.jpg"
+        },
+        "name": "槌田幸一",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82303,
+        "eps": ""
       }
     ],
     "characters": [],
@@ -3170,7 +3186,7 @@
         "id": 17874
       }
     ],
-    "updatedAt": "2025-10-28T11:40:35.612Z"
+    "updatedAt": "2025-10-29T11:42:04.363Z"
   },
   {
     "id": 107437,
@@ -4451,6 +4467,6 @@
         "id": 216352
       }
     ],
-    "updatedAt": "2025-10-28T11:56:01.084Z"
+    "updatedAt": "2025-10-29T11:57:16.094Z"
   }
 ]
