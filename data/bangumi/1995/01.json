@@ -297,7 +297,7 @@
       "collection": {
         "on_hold": 60,
         "dropped": 32,
-        "wish": 165,
+        "wish": 166,
         "collect": 428,
         "doing": 31
       },
@@ -2096,7 +2096,7 @@
         "id": 440604
       }
     ],
-    "updatedAt": "2025-10-29T11:37:33.338Z"
+    "updatedAt": "2025-10-30T11:36:22.521Z"
   },
   {
     "id": 9270,
@@ -2104,11 +2104,11 @@
       "date": "1995-01-08",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/04/9270_zlMzw.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/04/9270_zlMzw.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/25/04/9270_zlMzw.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/04/9270_zlMzw.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/04/9270_zlMzw.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/04/9270_jRrZD.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/04/9270_jRrZD.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/25/04/9270_jRrZD.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/04/9270_jRrZD.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/04/9270_jRrZD.jpg"
       },
       "summary": "『ちびまる子ちゃん』（ちびまるこちゃん）は、さくらももこによる日本の漫画作品やそれを元にしたアニメ作品、またはその主人公のあだ名。作者の子供時代の思い出を軸に、普通の小学生の生活を綴るコメディ。また、ドラマでまる子を演じた森迫永依・伊藤綺夏も「ちびまる子ちゃん」と呼ばれることがある。",
       "name": "ちびまる子ちゃん",
@@ -2190,12 +2190,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本アニメーション",
+          "name": "日本",
           "count": 17,
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "日本アニメーション",
           "count": 17,
           "total_cont": 0
         },
@@ -2225,6 +2225,16 @@
           "total_cont": 0
         },
         {
+          "name": "90年代",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "TVB",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
           "name": "动画",
           "count": 6,
           "total_cont": 0
@@ -2235,13 +2245,8 @@
           "total_cont": 0
         },
         {
-          "name": "TVB",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "90年代",
-          "count": 6,
+          "name": "长篇",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -2255,12 +2260,7 @@
           "total_cont": 0
         },
         {
-          "name": "长篇",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "看",
+          "name": "大长篇",
           "count": 3,
           "total_cont": 0
         }
@@ -2342,7 +2342,7 @@
         }
       ],
       "rating": {
-        "rank": 779,
+        "rank": 775,
         "total": 1346,
         "count": {
           "1": 2,
@@ -2362,8 +2362,8 @@
       "collection": {
         "on_hold": 185,
         "dropped": 92,
-        "wish": 141,
-        "collect": 2300,
+        "wish": 140,
+        "collect": 2302,
         "doing": 83
       },
       "id": 9270,
@@ -6094,7 +6094,7 @@
         "id": 596844
       }
     ],
-    "updatedAt": "2025-10-29T11:38:56.201Z"
+    "updatedAt": "2025-10-30T11:37:44.509Z"
   },
   {
     "id": 10395,
@@ -6168,12 +6168,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "90年代",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "90年代",
+          "name": "日本",
           "count": 7,
           "total_cont": 0
         },
@@ -6188,26 +6188,6 @@
           "total_cont": 0
         },
         {
-          "name": "1990s",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画公司",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "岛田满",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "桧山修之",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "90s",
           "count": 3,
           "total_cont": 0
@@ -6218,7 +6198,27 @@
           "total_cont": 0
         },
         {
+          "name": "日本动画公司",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "1990s",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "OP",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "桧山修之",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "岛田满",
           "count": 3,
           "total_cont": 0
         },
@@ -6228,17 +6228,12 @@
           "total_cont": 0
         },
         {
-          "name": "1995年1月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "经典",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "补番",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1995年1月",
           "count": 2,
           "total_cont": 0
         },
@@ -6248,17 +6243,22 @@
           "total_cont": 0
         },
         {
-          "name": "老害最爱",
+          "name": "经典",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "中庸",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "没看全",
+          "name": "催泪",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "个人觉得没标记意义",
+          "name": "长篇",
           "count": 1,
           "total_cont": 0
         }
@@ -6394,7 +6394,7 @@
       "collection": {
         "on_hold": 37,
         "dropped": 32,
-        "wish": 480,
+        "wish": 479,
         "collect": 253,
         "doing": 35
       },
@@ -7257,7 +7257,7 @@
         "id": 328040
       }
     ],
-    "updatedAt": "2025-10-29T11:39:51.566Z"
+    "updatedAt": "2025-10-30T11:38:41.114Z"
   },
   {
     "id": 32493,
@@ -7975,7 +7975,7 @@
         "id": 477024
       }
     ],
-    "updatedAt": "2025-10-29T11:45:14.815Z"
+    "updatedAt": "2025-10-30T11:44:14.547Z"
   },
   {
     "id": 53737,
@@ -9403,6 +9403,6 @@
         "id": 89706
       }
     ],
-    "updatedAt": "2025-10-29T11:49:38.755Z"
+    "updatedAt": "2025-10-30T11:48:41.793Z"
   }
 ]

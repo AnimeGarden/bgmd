@@ -41,22 +41,22 @@
           "total_cont": 0
         },
         {
-          "name": "原创",
-          "count": 36,
-          "total_cont": 0
-        },
-        {
           "name": "龙之子",
           "count": 36,
           "total_cont": 0
         },
         {
-          "name": "林明美",
+          "name": "音乐",
           "count": 36,
           "total_cont": 0
         },
         {
-          "name": "音乐",
+          "name": "原创",
+          "count": 36,
+          "total_cont": 0
+        },
+        {
+          "name": "林明美",
           "count": 36,
           "total_cont": 0
         },
@@ -111,11 +111,6 @@
           "total_cont": 0
         },
         {
-          "name": "总集篇",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 3,
           "total_cont": 0
@@ -126,28 +121,8 @@
           "total_cont": 0
         },
         {
-          "name": "补番",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "爱情",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "1987年",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "短片",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
-          "count": 2,
+          "name": "总集篇",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -162,6 +137,31 @@
         },
         {
           "name": "1980s",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1987年",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "80年代",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "羽田健太郎",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "其他",
           "count": 2,
           "total_cont": 0
         }
@@ -265,7 +265,7 @@
       "collection": {
         "on_hold": 29,
         "dropped": 15,
-        "wish": 256,
+        "wish": 255,
         "collect": 630,
         "doing": 19
       },
@@ -282,6 +282,38 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/63/dc/696_prsn_uss93.jpg?r=1579055042",
+          "grid": "https://lain.bgm.tv/pic/crt/g/63/dc/696_prsn_uss93.jpg?r=1579055042",
+          "large": "https://lain.bgm.tv/pic/crt/l/63/dc/696_prsn_uss93.jpg?r=1579055042",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/63/dc/696_prsn_uss93.jpg?r=1579055042"
+        },
+        "name": "タツノコプロ",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 696,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a9/ac/993_prsn_UkneB.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a9/ac/993_prsn_UkneB.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a9/ac/993_prsn_UkneB.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a9/ac/993_prsn_UkneB.jpg"
+        },
+        "name": "ビック・ウエスト",
+        "relation": "制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 993,
+        "eps": ""
+      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/7d/3b/61568_prsn_jX02J.jpg?r=1708498292",
@@ -332,6 +364,38 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a9/ac/993_prsn_UkneB.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a9/ac/993_prsn_UkneB.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a9/ac/993_prsn_UkneB.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a9/ac/993_prsn_UkneB.jpg"
+        },
+        "name": "ビック・ウエスト",
+        "relation": "企画",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 993,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "稲野義信",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11345,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/96/b9/814_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/96/b9/814_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/96/b9/814_prsn_anidb.jpg",
@@ -360,22 +424,6 @@
         ],
         "type": 1,
         "id": 3697,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "稲野義信",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 11345,
         "eps": ""
       },
       {
@@ -527,50 +575,18 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a9/ac/993_prsn_UkneB.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a9/ac/993_prsn_UkneB.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/a9/ac/993_prsn_UkneB.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a9/ac/993_prsn_UkneB.jpg"
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
         },
-        "name": "ビック・ウエスト",
-        "relation": "企画",
+        "name": "吉田昇一",
+        "relation": "制作进行",
         "career": [
           "producer"
         ],
-        "type": 2,
-        "id": 993,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a9/ac/993_prsn_UkneB.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a9/ac/993_prsn_UkneB.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/a9/ac/993_prsn_UkneB.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a9/ac/993_prsn_UkneB.jpg"
-        },
-        "name": "ビック・ウエスト",
-        "relation": "制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 993,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/63/dc/696_prsn_uss93.jpg?r=1579055042",
-          "grid": "https://lain.bgm.tv/pic/crt/g/63/dc/696_prsn_uss93.jpg?r=1579055042",
-          "large": "https://lain.bgm.tv/pic/crt/l/63/dc/696_prsn_uss93.jpg?r=1579055042",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/63/dc/696_prsn_uss93.jpg?r=1579055042"
-        },
-        "name": "タツノコプロ",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 696,
+        "type": 1,
+        "id": 82345,
         "eps": ""
       },
       {
@@ -912,7 +928,7 @@
         "id": 532778
       }
     ],
-    "updatedAt": "2025-10-29T11:34:55.383Z"
+    "updatedAt": "2025-10-30T11:33:42.095Z"
   },
   {
     "id": 37241,
@@ -1685,6 +1701,6 @@
         "id": 141050
       }
     ],
-    "updatedAt": "2025-10-29T11:46:11.667Z"
+    "updatedAt": "2025-10-30T11:45:10.869Z"
   }
 ]
