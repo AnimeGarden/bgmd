@@ -309,7 +309,7 @@
         }
       ],
       "rating": {
-        "rank": 1001,
+        "rank": 1000,
         "total": 403,
         "count": {
           "1": 2,
@@ -329,9 +329,9 @@
       "collection": {
         "on_hold": 186,
         "dropped": 77,
-        "wish": 955,
+        "wish": 956,
         "collect": 618,
-        "doing": 190
+        "doing": 189
       },
       "id": 10388,
       "eps": 218,
@@ -5739,7 +5739,7 @@
         "id": 499325
       }
     ],
-    "updatedAt": "2025-10-30T11:38:37.672Z"
+    "updatedAt": "2025-10-31T11:36:13.063Z"
   },
   {
     "id": 32213,
@@ -6885,7 +6885,7 @@
         "id": 478295
       }
     ],
-    "updatedAt": "2025-10-30T11:44:10.681Z"
+    "updatedAt": "2025-10-31T11:40:47.946Z"
   },
   {
     "id": 37183,
@@ -6999,23 +6999,13 @@
           "total_cont": 0
         },
         {
-          "name": "サンライズ",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "TVA",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "80s",
-          "count": 3,
+          "name": "サンライズ",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -7024,7 +7014,12 @@
           "total_cont": 0
         },
         {
-          "name": "机器人",
+          "name": "日本动画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "长篇",
           "count": 3,
           "total_cont": 0
         },
@@ -7034,7 +7029,12 @@
           "total_cont": 0
         },
         {
-          "name": "长篇",
+          "name": "80s",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "机器人",
           "count": 3,
           "total_cont": 0
         },
@@ -7085,7 +7085,7 @@
         },
         {
           "key": "导演",
-          "value": "神田武幸、高橋良輔（1～31話）"
+          "value": "神田武幸 / 高橋良輔(1-31话)"
         },
         {
           "key": "Copyright",
@@ -7141,7 +7141,7 @@
       "collection": {
         "on_hold": 72,
         "dropped": 46,
-        "wish": 819,
+        "wish": 821,
         "collect": 316,
         "doing": 123
       },
@@ -8636,7 +8636,7 @@
         "id": 467503
       }
     ],
-    "updatedAt": "2025-10-30T11:45:02.376Z"
+    "updatedAt": "2025-10-31T11:41:32.797Z"
   },
   {
     "id": 37196,
@@ -8685,12 +8685,12 @@
           "total_cont": 0
         },
         {
-          "name": "原创",
+          "name": "J9",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "J9",
+          "name": "原创",
           "count": 7,
           "total_cont": 0
         },
@@ -8725,32 +8725,12 @@
           "total_cont": 0
         },
         {
-          "name": "待補0",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "三季番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1981年10月",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "东映",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "塩沢兼人",
+          "name": "1981年10月",
           "count": 1,
           "total_cont": 0
         },
@@ -8765,22 +8745,32 @@
           "total_cont": 0
         },
         {
-          "name": "一",
+          "name": "机甲",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "曽我部和行",
+          "name": "待補0",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "OP",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "中庸",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "80年代",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "冷门",
           "count": 1,
           "total_cont": 0
         },
@@ -8795,12 +8785,22 @@
           "total_cont": 0
         },
         {
-          "name": "冷门",
+          "name": "J9シリーズ",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "J9シリーズ",
+          "name": "三季番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "塩沢兼人",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         }
@@ -8945,13 +8945,13 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 22,
+        "total": 23,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 1,
-          "5": 0,
+          "5": 1,
           "6": 5,
           "7": 9,
           "8": 5,
@@ -8965,8 +8965,8 @@
         "on_hold": 13,
         "dropped": 10,
         "wish": 90,
-        "collect": 31,
-        "doing": 17
+        "collect": 32,
+        "doing": 16
       },
       "id": 37196,
       "eps": 39,
@@ -9831,7 +9831,7 @@
         "id": 548127
       }
     ],
-    "updatedAt": "2025-10-30T11:45:03.893Z"
+    "updatedAt": "2025-10-31T11:41:34.808Z"
   },
   {
     "id": 213652,
@@ -10432,7 +10432,7 @@
         "id": 465057
       }
     ],
-    "updatedAt": "2025-10-30T12:10:16.412Z"
+    "updatedAt": "2025-10-31T11:59:36.113Z"
   },
   {
     "id": 213654,
@@ -12040,7 +12040,7 @@
         "id": 210271
       }
     ],
-    "updatedAt": "2025-10-30T12:10:16.755Z"
+    "updatedAt": "2025-10-31T11:59:36.160Z"
   },
   {
     "id": 272058,
@@ -12928,7 +12928,7 @@
         "id": 448984
       }
     ],
-    "updatedAt": "2025-10-30T12:15:22.431Z"
+    "updatedAt": "2025-10-31T12:03:55.621Z"
   },
   {
     "id": 380722,
@@ -13645,6 +13645,6 @@
         "id": 526735
       }
     ],
-    "updatedAt": "2025-10-30T12:24:20.337Z"
+    "updatedAt": "2025-10-31T12:11:30.391Z"
   }
 ]

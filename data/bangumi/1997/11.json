@@ -1024,7 +1024,7 @@
         "id": 439188
       }
     ],
-    "updatedAt": "2025-10-30T11:34:56.664Z"
+    "updatedAt": "2025-10-31T11:33:04.480Z"
   },
   {
     "id": 5491,
@@ -1108,17 +1108,7 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "动画短片",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
           "count": 3,
           "total_cont": 0
         },
@@ -1128,12 +1118,27 @@
           "total_cont": 0
         },
         {
+          "name": "奇幻",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "科幻",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "独立剧场版",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "映画",
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -1143,12 +1148,12 @@
           "total_cont": 0
         },
         {
-          "name": "科幻",
+          "name": "森中英雄",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "映画",
           "count": 2,
           "total_cont": 0
         },
@@ -1163,32 +1168,27 @@
           "total_cont": 0
         },
         {
-          "name": "森中英雄",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "anime",
+          "name": "动画电影",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "undefined",
+          "name": "中庸",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "FF",
+          "name": "电影",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "作画",
+          "name": "短片集",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "90s",
+          "name": "平田秀一",
           "count": 1,
           "total_cont": 0
         }
@@ -1231,7 +1231,7 @@
         }
       ],
       "rating": {
-        "rank": 4545,
+        "rank": 4544,
         "total": 324,
         "count": {
           "1": 0,
@@ -1249,7 +1249,7 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 14,
+        "on_hold": 15,
         "dropped": 5,
         "wish": 256,
         "collect": 471,
@@ -1578,7 +1578,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-10-30T11:36:02.582Z"
+    "updatedAt": "2025-10-31T11:34:00.898Z"
   },
   {
     "id": 6297,
@@ -3335,7 +3335,7 @@
         "id": 6298
       }
     ],
-    "updatedAt": "2025-10-30T11:36:17.255Z"
+    "updatedAt": "2025-10-31T11:34:13.705Z"
   },
   {
     "id": 75515,
@@ -3364,11 +3364,6 @@
           "total_cont": 0
         },
         {
-          "name": "1997年",
-          "count": 13,
-          "total_cont": 0
-        },
-        {
           "name": "舛成孝二",
           "count": 13,
           "total_cont": 0
@@ -3379,12 +3374,17 @@
           "total_cont": 0
         },
         {
-          "name": "梶島正樹",
-          "count": 8,
+          "name": "1997年",
+          "count": 13,
           "total_cont": 0
         },
         {
           "name": "后宫",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "梶島正樹",
           "count": 8,
           "total_cont": 0
         },
@@ -3394,17 +3394,17 @@
           "total_cont": 0
         },
         {
-          "name": "科幻",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "竹内順子",
           "count": 5,
           "total_cont": 0
         },
         {
           "name": "黒田洋介",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "科幻",
           "count": 5,
           "total_cont": 0
         },
@@ -3429,31 +3429,6 @@
           "total_cont": 0
         },
         {
-          "name": "山寺宏一",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "原创",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "高橋しんや",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "1997年",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "漫改",
           "count": 2,
           "total_cont": 0
@@ -3464,42 +3439,67 @@
           "total_cont": 0
         },
         {
-          "name": "肉番",
+          "name": "1997年",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "原创",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "山寺宏一",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "漫画改",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "高橋しんや",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "正太",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "已收录(DVDRip)",
+          "name": "高桥信也",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "赛璐珞",
+          "name": "后宫番",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "旧物",
+          "name": "6.5",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "剧集",
+          "name": "90s",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "龙傲天",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "95-99",
+          "name": "战斗",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "市原由美",
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         }
@@ -3538,7 +3538,7 @@
         }
       ],
       "rating": {
-        "rank": 3894,
+        "rank": 3896,
         "total": 58,
         "count": {
           "1": 0,
@@ -3558,7 +3558,7 @@
       "collection": {
         "on_hold": 6,
         "dropped": 10,
-        "wish": 77,
+        "wish": 78,
         "collect": 89,
         "doing": 19
       },
@@ -4788,6 +4788,6 @@
         "id": 191074
       }
     ],
-    "updatedAt": "2025-10-30T11:51:33.156Z"
+    "updatedAt": "2025-10-31T11:46:57.971Z"
   }
 ]
