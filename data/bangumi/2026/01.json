@@ -107,7 +107,7 @@
         },
         {
           "name": "2026年1月",
-          "count": 12,
+          "count": 13,
           "total_cont": 0
         },
         {
@@ -131,11 +131,6 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "A-1",
           "count": 4,
           "total_cont": 0
@@ -146,8 +141,8 @@
           "total_cont": 0
         },
         {
-          "name": "热血",
-          "count": 3,
+          "name": "动画",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -161,7 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "剧场版",
+          "name": "热血",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "都市",
           "count": 2,
           "total_cont": 0
         }
@@ -268,7 +268,7 @@
         }
       ],
       "rating": {
-        "rank": 997,
+        "rank": 1000,
         "total": 1050,
         "count": {
           "1": 2,
@@ -277,8 +277,8 @@
           "4": 3,
           "5": 24,
           "6": 69,
-          "7": 404,
-          "8": 469,
+          "7": 406,
+          "8": 467,
           "9": 48,
           "10": 28
         },
@@ -288,7 +288,7 @@
       "collection": {
         "on_hold": 516,
         "dropped": 42,
-        "wish": 2210,
+        "wish": 2214,
         "collect": 1258,
         "doing": 2194
       },
@@ -2768,6 +2768,22 @@
         "type": 1,
         "id": 82278,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "TekinoTKN",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82497,
+        "eps": ""
       }
     ],
     "characters": [
@@ -3624,6 +3640,6 @@
         "id": 402128
       }
     ],
-    "updatedAt": "2025-10-31T12:14:26.192Z"
+    "updatedAt": "2025-11-01T12:23:30.710Z"
   }
 ]
