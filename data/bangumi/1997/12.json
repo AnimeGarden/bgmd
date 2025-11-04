@@ -106,17 +106,7 @@
           "total_cont": 0
         },
         {
-          "name": "富田祐弘",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "网野哲郎",
           "count": 5,
           "total_cont": 0
         },
@@ -126,7 +116,17 @@
           "total_cont": 0
         },
         {
+          "name": "富田祐弘",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "ProductionReed",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "网野哲郎",
           "count": 5,
           "total_cont": 0
         },
@@ -146,11 +146,6 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "神奈延年",
           "count": 2,
           "total_cont": 0
@@ -162,6 +157,11 @@
         },
         {
           "name": "机器人",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "伊藤岳史",
           "count": 2,
           "total_cont": 0
         }
@@ -245,7 +245,7 @@
         }
       ],
       "rating": {
-        "rank": 583,
+        "rank": 584,
         "total": 532,
         "count": {
           "1": 0,
@@ -263,11 +263,11 @@
       },
       "total_episodes": 4,
       "collection": {
-        "on_hold": 28,
+        "on_hold": 29,
         "dropped": 23,
         "wish": 299,
         "collect": 791,
-        "doing": 27
+        "doing": 26
       },
       "id": 3175,
       "eps": 4,
@@ -1094,7 +1094,7 @@
         "id": 102098
       }
     ],
-    "updatedAt": "2025-11-02T11:29:37.334Z"
+    "updatedAt": "2025-11-04T11:35:08.065Z"
   },
   {
     "id": 13554,
@@ -1310,7 +1310,7 @@
         }
       ],
       "rating": {
-        "rank": 3857,
+        "rank": 3859,
         "total": 363,
         "count": {
           "1": 1,
@@ -1717,6 +1717,38 @@
         "type": 1,
         "id": 59594,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/53/2c/82576_prsn_93o8s.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/53/2c/82576_prsn_93o8s.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/53/2c/82576_prsn_93o8s.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/53/2c/82576_prsn_93o8s.jpg"
+        },
+        "name": "干場豊",
+        "relation": "特效",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82576,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "前川孝",
+        "relation": "特效",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82581,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2004,7 +2036,7 @@
         "id": 516312
       }
     ],
-    "updatedAt": "2025-11-02T11:35:11.371Z"
+    "updatedAt": "2025-11-04T11:41:28.892Z"
   },
   {
     "id": 20929,
@@ -2308,7 +2340,7 @@
         }
       ],
       "rating": {
-        "rank": 2908,
+        "rank": 2912,
         "total": 254,
         "count": {
           "1": 0,
@@ -3826,6 +3858,22 @@
         "type": 1,
         "id": 2418,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "前川孝",
+        "relation": "特效",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82581,
+        "eps": ""
       }
     ],
     "characters": [
@@ -4210,7 +4258,7 @@
         "id": 290630
       }
     ],
-    "updatedAt": "2025-11-02T11:36:41.332Z"
+    "updatedAt": "2025-11-04T11:43:11.292Z"
   },
   {
     "id": 36810,
@@ -5234,6 +5282,22 @@
         "type": 2,
         "id": 2675,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "前川孝",
+        "relation": "特效",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82581,
+        "eps": ""
       }
     ],
     "characters": [
@@ -5334,6 +5398,6 @@
         "id": 513529
       }
     ],
-    "updatedAt": "2025-11-02T11:39:09.470Z"
+    "updatedAt": "2025-11-04T11:46:02.351Z"
   }
 ]

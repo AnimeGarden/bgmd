@@ -111,17 +111,17 @@
           "total_cont": 0
         },
         {
-          "name": "90年代",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "草尾毅",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "日本动画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "90年代",
           "count": 3,
           "total_cont": 0
         },
@@ -271,10 +271,10 @@
       },
       "total_episodes": 6,
       "collection": {
-        "on_hold": 35,
+        "on_hold": 36,
         "dropped": 17,
         "wish": 204,
-        "collect": 468,
+        "collect": 469,
         "doing": 19
       },
       "id": 3167,
@@ -884,6 +884,22 @@
         "type": 1,
         "id": 3401,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/53/2c/82576_prsn_93o8s.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/53/2c/82576_prsn_93o8s.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/53/2c/82576_prsn_93o8s.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/53/2c/82576_prsn_93o8s.jpg"
+        },
+        "name": "干場豊",
+        "relation": "特效",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82576,
+        "eps": ""
       }
     ],
     "characters": [
@@ -1407,7 +1423,7 @@
         "id": 473569
       }
     ],
-    "updatedAt": "2025-11-02T11:29:34.197Z"
+    "updatedAt": "2025-11-04T11:35:04.833Z"
   },
   {
     "id": 134971,
@@ -1900,7 +1916,7 @@
         "id": 339977
       }
     ],
-    "updatedAt": "2025-11-02T11:51:32.048Z"
+    "updatedAt": "2025-11-04T12:00:25.303Z"
   },
   {
     "id": 315429,
@@ -1990,6 +2006,6 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-02T12:06:01.919Z"
+    "updatedAt": "2025-11-04T12:17:10.985Z"
   }
 ]

@@ -27,7 +27,7 @@
         },
         {
           "name": "TV",
-          "count": 120,
+          "count": 121,
           "total_cont": 0
         },
         {
@@ -91,13 +91,18 @@
           "total_cont": 0
         },
         {
+          "name": "奇幻",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
           "name": "湖川友謙",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 6,
+          "name": "黑富野",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -111,17 +116,7 @@
           "total_cont": 0
         },
         {
-          "name": "黑富野",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "80s",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "机器人",
+          "name": "1983年2月",
           "count": 3,
           "total_cont": 0
         },
@@ -131,22 +126,32 @@
           "total_cont": 0
         },
         {
-          "name": "1983年2月",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "サンライズ",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "旧",
-          "count": 2,
+          "name": "机器人",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "80s",
+          "count": 3,
           "total_cont": 0
         },
         {
           "name": "robo",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "战争",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "补旧番",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "年番",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "补旧番",
+          "name": "旧",
           "count": 2,
           "total_cont": 0
         }
@@ -236,7 +236,7 @@
         },
         {
           "key": "色彩设计",
-          "value": "戸部尚代 [11-38]、高島清子 [39-]"
+          "value": "戸部尚代 [11-38]、高島清子 [39-]、吉野記通、村瀬幸司、松井望、長谷川和彦、吉井三恵子、広井勝夫"
         },
         {
           "key": "音响监督",
@@ -277,11 +277,19 @@
         {
           "key": "设定制作",
           "value": "風間洋、川瀬敏文；设定助手：福田倫子[6-36]、原田奈々[37-]"
+        },
+        {
+          "key": "制作进行",
+          "value": "中川一敏、目崎一彦、冨永恒雄、杉島邦久、渡辺努、山口美浩、西河稔、橋本昌志、佐々木裕、池部茂"
+        },
+        {
+          "key": "背景",
+          "value": "スタジオユニ、スタジオアクア、プロダクション・アイ、スタジオイースター"
         }
       ],
       "rating": {
-        "rank": 840,
-        "total": 345,
+        "rank": 839,
+        "total": 346,
         "count": {
           "1": 0,
           "2": 1,
@@ -290,7 +298,7 @@
           "5": 7,
           "6": 37,
           "7": 90,
-          "8": 141,
+          "8": 142,
           "9": 50,
           "10": 13
         },
@@ -300,9 +308,9 @@
       "collection": {
         "on_hold": 86,
         "dropped": 39,
-        "wish": 588,
-        "collect": 455,
-        "doing": 93
+        "wish": 587,
+        "collect": 457,
+        "doing": 94
       },
       "id": 10402,
       "eps": 49,
@@ -1315,6 +1323,22 @@
         ],
         "type": 1,
         "id": 26839,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/53/2c/82576_prsn_93o8s.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/53/2c/82576_prsn_93o8s.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/53/2c/82576_prsn_93o8s.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/53/2c/82576_prsn_93o8s.jpg"
+        },
+        "name": "干場豊",
+        "relation": "特效",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82576,
         "eps": ""
       }
     ],
@@ -2718,7 +2742,7 @@
         "id": 542270
       }
     ],
-    "updatedAt": "2025-11-02T11:33:59.602Z"
+    "updatedAt": "2025-11-04T11:40:04.835Z"
   },
   {
     "id": 40001,
@@ -2928,7 +2952,7 @@
         }
       ],
       "rating": {
-        "rank": 6126,
+        "rank": 6176,
         "total": 186,
         "count": {
           "1": 1,
@@ -4783,6 +4807,6 @@
         "id": 453988
       }
     ],
-    "updatedAt": "2025-11-02T11:40:33.282Z"
+    "updatedAt": "2025-11-04T11:47:38.143Z"
   }
 ]
