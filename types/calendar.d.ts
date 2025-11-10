@@ -1,5 +1,7 @@
 import type { BasicSubject } from './index.d.ts';
 
+declare const _version: string;
+
 declare const _calendar: [
   BasicSubject[],
   BasicSubject[],
@@ -17,4 +19,4 @@ declare const _default: {
   web: typeof _web;
 };
 
-export { _calendar as calendar, _web as web, _default as default };
+export { _version as version, _calendar as calendar, _web as web, _default as default };

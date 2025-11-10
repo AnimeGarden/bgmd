@@ -6,13 +6,15 @@ import { execa } from 'execa';
 
 import type { FullSubject } from '../types';
 
+import { version } from '../package.json';
+
 const $ = execa({ stdio: 'inherit' });
 
 await fs.rm('dist', { force: true, recursive: true });
 await fs.ensureDir('dist');
 
 console.log('bgmx calendar');
-await $`bgmx calendar --out data/calendar.json`;
+await $`bgmx calendar --out data/calendar.json --version ${version}`;
 await fs.copy('data/calendar.json', 'dist/calendar.json');
 
 console.log();
@@ -42,6 +44,7 @@ for (const file of files) {
 full.sort((a, b) => a.id - b.id);
 
 await fs.writeJSON('dist/index.json', {
+  version,
   subjects: full.map((item) => ({
     id: item.id,
     title: item.title,
@@ -54,4 +57,4 @@ await fs.writeJSON('dist/index.json', {
   }))
 });
 
-await fs.writeJSON('dist/full.json', { subjects: full });
+await fs.writeJSON('dist/full.json', { version, subjects: full });

@@ -41,6 +41,8 @@ type FullSubject = BasicSubject & {
   images: SubjectImage[];
 };
 
+declare const _version: string;
+
 declare const _subjects: BasicSubject[];
 
 declare const _default: {
@@ -53,6 +55,7 @@ export {
   SubjectSearch,
   BasicSubject,
   FullSubject,
+  _version as version,
   _subjects as subjects,
   _default as default
 };
