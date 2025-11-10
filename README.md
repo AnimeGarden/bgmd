@@ -33,6 +33,10 @@ If you don't want to download this large package, you can just use the following
 
 Or use the following helper functions in `bgmt/cdn` to fetch cdn.
 
+```bash
+npm i bgmt
+```
+
 ```ts
 import { fetchBasicSubjects, fetchFullSubjects, fetchCalendarSubjects } from 'bgmt/cdn'
 
