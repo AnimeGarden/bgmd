@@ -101,6 +101,11 @@
           "total_cont": 0
         },
         {
+          "name": "动画电影",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "經典",
           "count": 4,
           "total_cont": 0
@@ -111,17 +116,17 @@
           "total_cont": 0
         },
         {
-          "name": "动画电影",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
+          "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "2001年3月",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
           "count": 3,
           "total_cont": 0
         },
@@ -136,17 +141,17 @@
           "total_cont": 0
         },
         {
-          "name": "2001年3月",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "SF",
+          "name": "映画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "映画",
+          "name": "补标",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "movie",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ映画",
+          "name": "SF",
           "count": 2,
           "total_cont": 0
         }
@@ -309,7 +309,7 @@
         }
       ],
       "rating": {
-        "rank": 2694,
+        "rank": 2696,
         "total": 551,
         "count": {
           "1": 1,
@@ -329,8 +329,8 @@
       "collection": {
         "on_hold": 18,
         "dropped": 18,
-        "wish": 60,
-        "collect": 1194,
+        "wish": 61,
+        "collect": 1195,
         "doing": 12
       },
       "id": 465,
@@ -1697,6 +1697,22 @@
         "type": 1,
         "id": 630,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "橋爪朋二",
+        "relation": "特效",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82987,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2043,7 +2059,7 @@
         "id": 121749
       }
     ],
-    "updatedAt": "2025-11-04T11:30:09.115Z"
+    "updatedAt": "2025-11-10T12:46:03.042Z"
   },
   {
     "id": 1871,
@@ -2063,42 +2079,42 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 197,
+          "count": 198,
           "total_cont": 0
         },
         {
           "name": "海贼王",
-          "count": 137,
+          "count": 138,
           "total_cont": 0
         },
         {
           "name": "2001年3月",
-          "count": 73,
+          "count": 74,
           "total_cont": 0
         },
         {
           "name": "ONEPIECE",
-          "count": 52,
+          "count": 53,
           "total_cont": 0
         },
         {
           "name": "热血",
-          "count": 51,
+          "count": 52,
           "total_cont": 0
         },
         {
           "name": "东映",
-          "count": 39,
+          "count": 40,
           "total_cont": 0
         },
         {
           "name": "原创",
-          "count": 29,
+          "count": 30,
           "total_cont": 0
         },
         {
           "name": "尾田荣一郎",
-          "count": 25,
+          "count": 26,
           "total_cont": 0
         },
         {
@@ -2108,7 +2124,7 @@
         },
         {
           "name": "战斗",
-          "count": 20,
+          "count": 21,
           "total_cont": 0
         },
         {
@@ -2122,12 +2138,12 @@
           "total_cont": 0
         },
         {
-          "name": "東映アニメーション",
+          "name": "冒险",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "冒险",
+          "name": "東映アニメーション",
           "count": 10,
           "total_cont": 0
         },
@@ -2167,6 +2183,11 @@
           "total_cont": 0
         },
         {
+          "name": "日本",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "热血类",
           "count": 4,
           "total_cont": 0
@@ -2177,17 +2198,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "劇場版",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "动画电影",
+          "name": "アニメ映画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "海贼",
           "count": 2,
           "total_cont": 0
         },
@@ -2197,17 +2218,12 @@
           "total_cont": 0
         },
         {
-          "name": "剧场",
+          "name": "动画电影",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "映画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "动作",
+          "name": "漫改",
           "count": 2,
           "total_cont": 0
         }
@@ -2278,15 +2294,15 @@
         }
       ],
       "rating": {
-        "rank": 3907,
-        "total": 566,
+        "rank": 3913,
+        "total": 567,
         "count": {
           "1": 2,
           "2": 1,
           "3": 2,
           "4": 8,
           "5": 45,
-          "6": 180,
+          "6": 181,
           "7": 228,
           "8": 69,
           "9": 16,
@@ -2298,8 +2314,8 @@
       "collection": {
         "on_hold": 16,
         "dropped": 18,
-        "wish": 52,
-        "collect": 1099,
+        "wish": 51,
+        "collect": 1102,
         "doing": 8
       },
       "id": 1871,
@@ -2936,7 +2952,7 @@
         "id": 144667
       }
     ],
-    "updatedAt": "2025-11-04T11:32:27.079Z"
+    "updatedAt": "2025-11-10T12:48:23.504Z"
   },
   {
     "id": 3136,
@@ -3010,18 +3026,23 @@
           "total_cont": 0
         },
         {
-          "name": "数码兽",
+          "name": "劇場版",
           "count": 14,
           "total_cont": 0
         },
         {
-          "name": "劇場版",
+          "name": "数码兽",
           "count": 14,
           "total_cont": 0
         },
         {
           "name": "2001年3月",
           "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
+          "count": 7,
           "total_cont": 0
         },
         {
@@ -3035,8 +3056,8 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
-          "count": 7,
+          "name": "2001年3月",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -3050,17 +3071,7 @@
           "total_cont": 0
         },
         {
-          "name": "2001年3月",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "科幻",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "今村隆宽",
+          "name": "奇幻",
           "count": 4,
           "total_cont": 0
         },
@@ -3075,7 +3086,12 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "科幻",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "今村隆宽",
           "count": 4,
           "total_cont": 0
         },
@@ -3155,7 +3171,7 @@
         }
       ],
       "rating": {
-        "rank": 3786,
+        "rank": 3803,
         "total": 471,
         "count": {
           "1": 4,
@@ -3175,8 +3191,8 @@
       "collection": {
         "on_hold": 12,
         "dropped": 27,
-        "wish": 83,
-        "collect": 819,
+        "wish": 84,
+        "collect": 820,
         "doing": 9
       },
       "id": 3136,
@@ -4927,7 +4943,7 @@
         "id": 94315
       }
     ],
-    "updatedAt": "2025-11-04T11:34:58.232Z"
+    "updatedAt": "2025-11-10T12:51:01.976Z"
   },
   {
     "id": 25665,
@@ -4947,37 +4963,37 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 217,
+          "count": 219,
           "total_cont": 0
         },
         {
           "name": "大地丙太郎",
-          "count": 145,
+          "count": 147,
           "total_cont": 0
         },
         {
           "name": "原创",
+          "count": 109,
+          "total_cont": 0
+        },
+        {
+          "name": "2002年",
           "count": 108,
           "total_cont": 0
         },
         {
-          "name": "2002年9月",
-          "count": 107,
-          "total_cont": 0
-        },
-        {
           "name": "业界",
-          "count": 63,
+          "count": 64,
           "total_cont": 0
         },
         {
           "name": "励志",
-          "count": 45,
+          "count": 46,
           "total_cont": 0
         },
         {
           "name": "动画制作",
-          "count": 43,
+          "count": 44,
           "total_cont": 0
         },
         {
@@ -4987,12 +5003,12 @@
         },
         {
           "name": "制作进行",
-          "count": 33,
+          "count": 34,
           "total_cont": 0
         },
         {
           "name": "职场",
-          "count": 28,
+          "count": 30,
           "total_cont": 0
         },
         {
@@ -5007,7 +5023,7 @@
         },
         {
           "name": "2001",
-          "count": 16,
+          "count": 17,
           "total_cont": 0
         },
         {
@@ -5016,7 +5032,7 @@
           "total_cont": 0
         },
         {
-          "name": "2002年9月",
+          "name": "2002年",
           "count": 8,
           "total_cont": 0
         },
@@ -5026,18 +5042,13 @@
           "total_cont": 0
         },
         {
-          "name": "独立ova",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "治愈",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "梦太公司",
-          "count": 4,
+          "name": "独立ova",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -5046,8 +5057,8 @@
           "total_cont": 0
         },
         {
-          "name": "増田俊郎",
-          "count": 3,
+          "name": "梦太公司",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -5057,6 +5068,16 @@
         },
         {
           "name": "日本动画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "增田俊郎",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "増田俊郎",
           "count": 3,
           "total_cont": 0
         },
@@ -5071,27 +5092,22 @@
           "total_cont": 0
         },
         {
-          "name": "增田俊郎",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "TV",
+          "name": "ゆめ太カンパニー（旧）",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "伊丹秋",
+          "name": "梦太",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "马越嘉彦",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "2002年9月",
+          "name": "高桥良辅",
           "count": 2,
           "total_cont": 0
         }
@@ -5142,8 +5158,8 @@
         }
       ],
       "rating": {
-        "rank": 2047,
-        "total": 404,
+        "rank": 2055,
+        "total": 405,
         "count": {
           "1": 0,
           "2": 0,
@@ -5151,7 +5167,7 @@
           "4": 4,
           "5": 17,
           "6": 65,
-          "7": 180,
+          "7": 181,
           "8": 117,
           "9": 14,
           "10": 7
@@ -5162,9 +5178,9 @@
       "collection": {
         "on_hold": 32,
         "dropped": 14,
-        "wish": 291,
-        "collect": 538,
-        "doing": 15
+        "wish": 295,
+        "collect": 540,
+        "doing": 17
       },
       "id": 25665,
       "eps": 2,
@@ -5931,7 +5947,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-11-04T11:44:16.810Z"
+    "updatedAt": "2025-11-10T13:00:42.465Z"
   },
   {
     "id": 44758,
@@ -5951,7 +5967,7 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 83,
+          "count": 84,
           "total_cont": 0
         },
         {
@@ -5965,8 +5981,8 @@
           "total_cont": 0
         },
         {
-          "name": "2001年3月",
-          "count": 33,
+          "name": "2001年4月",
+          "count": 34,
           "total_cont": 0
         },
         {
@@ -5976,7 +5992,7 @@
         },
         {
           "name": "漫改",
-          "count": 12,
+          "count": 13,
           "total_cont": 0
         },
         {
@@ -5985,7 +6001,7 @@
           "total_cont": 0
         },
         {
-          "name": "2001年3月",
+          "name": "2001年4月",
           "count": 11,
           "total_cont": 0
         },
@@ -6010,12 +6026,12 @@
           "total_cont": 0
         },
         {
-          "name": "体育",
+          "name": "2000",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "2000",
+          "name": "体育",
           "count": 5,
           "total_cont": 0
         },
@@ -6050,7 +6066,42 @@
           "total_cont": 0
         },
         {
+          "name": "2001年4月",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "音乐",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "PASTEL",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "乳首",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "已下载",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "2001年3月",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "喜欢",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "致郁",
           "count": 1,
           "total_cont": 0
         },
@@ -6061,41 +6112,6 @@
         },
         {
           "name": "都市",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "PASTEL",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "致郁",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "根谷美智子",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "卖肉",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TV",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "喜欢",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "2001年3月",
           "count": 1,
           "total_cont": 0
         }
@@ -6137,13 +6153,13 @@
         }
       ],
       "rating": {
-        "rank": 4941,
-        "total": 244,
+        "rank": 4998,
+        "total": 245,
         "count": {
           "1": 6,
           "2": 1,
           "3": 4,
-          "4": 2,
+          "4": 3,
           "5": 20,
           "6": 74,
           "7": 104,
@@ -6151,14 +6167,14 @@
           "9": 3,
           "10": 4
         },
-        "score": 6.5
+        "score": 6.4
       },
       "total_episodes": 2,
       "collection": {
         "on_hold": 17,
         "dropped": 19,
         "wish": 95,
-        "collect": 513,
+        "collect": 514,
         "doing": 15
       },
       "id": 44758,
@@ -6489,7 +6505,7 @@
         "id": 77211
       }
     ],
-    "updatedAt": "2025-11-04T11:48:21.378Z"
+    "updatedAt": "2025-11-10T13:04:56.936Z"
   },
   {
     "id": 84222,
@@ -6538,42 +6554,17 @@
           "total_cont": 0
         },
         {
-          "name": "2001年1月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "スタジオコメット",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "童年",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "长篇",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "Dr.リンにきいてみて!",
-          "count": 1,
+          "name": "2001年1月",
+          "count": 2,
           "total_cont": 0
         },
         {
           "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "千葉紗子",
           "count": 1,
           "total_cont": 0
         },
@@ -6583,12 +6574,17 @@
           "total_cont": 0
         },
         {
-          "name": "补旧番",
+          "name": "千葉紗子",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "前川淳",
+          "name": "长篇",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "补旧番",
           "count": 1,
           "total_cont": 0
         },
@@ -6598,7 +6594,27 @@
           "total_cont": 0
         },
         {
+          "name": "前川淳",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "Dr.リンにきいてみて!",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "童年",
           "count": 1,
           "total_cont": 0
         }
@@ -6663,7 +6679,7 @@
       "total_episodes": 51,
       "collection": {
         "on_hold": 7,
-        "dropped": 14,
+        "dropped": 13,
         "wish": 28,
         "collect": 26,
         "doing": 4
@@ -7490,6 +7506,6 @@
         "id": 564092
       }
     ],
-    "updatedAt": "2025-11-04T11:54:16.707Z"
+    "updatedAt": "2025-11-10T13:11:02.022Z"
   }
 ]

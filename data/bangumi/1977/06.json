@@ -101,12 +101,42 @@
           "total_cont": 0
         },
         {
+          "name": "70年代",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "铃木良武",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "神田武幸",
           "count": 2,
           "total_cont": 0
         },
         {
           "name": "1970s",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "波鲁迪斯V",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1977年6月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "robo",
           "count": 2,
           "total_cont": 0
         },
@@ -121,47 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "1977年6月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "波鲁迪斯V",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "战争",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "铃木良武",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "robo",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "70年代",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "玄田哲章",
+          "name": "机甲",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "OP",
+          "name": "日本SUNRISE",
           "count": 1,
           "total_cont": 0
         }
@@ -249,7 +249,7 @@
         }
       ],
       "rating": {
-        "rank": 1981,
+        "rank": 1982,
         "total": 72,
         "count": {
           "1": 0,
@@ -271,7 +271,7 @@
         "dropped": 17,
         "wish": 143,
         "collect": 94,
-        "doing": 10
+        "doing": 11
       },
       "id": 37178,
       "eps": 40,
@@ -2025,7 +2025,7 @@
         "id": 9677
       }
     ],
-    "updatedAt": "2025-11-04T11:46:15.917Z"
+    "updatedAt": "2025-11-10T13:02:46.925Z"
   },
   {
     "id": 169499,
@@ -2138,6 +2138,38 @@
     "persons": [
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "小川隆雄",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 70050,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
+        },
+        "name": "富野由悠季",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 613,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/cd/78/1506_prsn_KwIDP.jpg?r=1525344346",
           "grid": "https://lain.bgm.tv/pic/crt/g/cd/78/1506_prsn_KwIDP.jpg?r=1525344346",
           "large": "https://lain.bgm.tv/pic/crt/l/cd/78/1506_prsn_KwIDP.jpg?r=1525344346",
@@ -2170,34 +2202,18 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
-        },
-        "name": "富野由悠季",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 613,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
           "medium": ""
         },
-        "name": "小川隆雄",
-        "relation": "作画监督",
+        "name": "小森昭宏",
+        "relation": "音乐",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 70050,
+        "id": 1838,
         "eps": ""
       },
       {
@@ -2248,6 +2264,6 @@
         "id": 516187
       }
     ],
-    "updatedAt": "2025-11-04T12:02:59.327Z"
+    "updatedAt": "2025-11-10T13:19:53.007Z"
   }
 ]

@@ -47,7 +47,7 @@
         },
         {
           "name": "近藤喜文",
-          "count": 34,
+          "count": 35,
           "total_cont": 0
         },
         {
@@ -86,6 +86,11 @@
           "total_cont": 0
         },
         {
+          "name": "TVA",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "宮崎駿",
           "count": 5,
           "total_cont": 0
@@ -96,8 +101,8 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
-          "count": 5,
+          "name": "治愈",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -111,32 +116,12 @@
           "total_cont": 0
         },
         {
-          "name": "治愈",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "undefined",
+          "name": "富野由悠季",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "00前",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "经典",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "补",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "70年代",
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
@@ -146,7 +131,7 @@
           "total_cont": 0
         },
         {
-          "name": "富野由悠季",
+          "name": "经典",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +141,27 @@
           "total_cont": 0
         },
         {
-          "name": "世界名作劇場",
+          "name": "00前",
           "count": 2,
           "total_cont": 0
         },
         {
           "name": "1979年1月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "补",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "undefined",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "70年代",
           "count": 2,
           "total_cont": 0
         }
@@ -285,7 +285,7 @@
         "on_hold": 47,
         "dropped": 28,
         "wish": 496,
-        "collect": 198,
+        "collect": 200,
         "doing": 77
       },
       "id": 18256,
@@ -1251,6 +1251,22 @@
         ],
         "type": 1,
         "id": 1506,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/33/32/1922_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/33/32/1922_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/33/32/1922_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/33/32/1922_prsn_anidb.jpg"
+        },
+        "name": "佐藤好春",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1922,
         "eps": ""
       }
     ],
@@ -2452,6 +2468,6 @@
         "id": 524801
       }
     ],
-    "updatedAt": "2025-11-04T11:42:24.033Z"
+    "updatedAt": "2025-11-10T12:58:47.901Z"
   }
 ]

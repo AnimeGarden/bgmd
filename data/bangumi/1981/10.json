@@ -121,16 +121,6 @@
           "total_cont": 0
         },
         {
-          "name": "经典",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "ぴえろ",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "スタジオディーン",
           "count": 5,
           "total_cont": 0
@@ -141,13 +131,13 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 4,
+          "name": "经典",
+          "count": 5,
           "total_cont": 0
         },
         {
-          "name": "神作",
-          "count": 4,
+          "name": "ぴえろ",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -161,7 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "校园",
+          "name": "奇幻",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "神作",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "长篇",
           "count": 4,
           "total_cont": 0
         }
@@ -309,7 +309,7 @@
         }
       ],
       "rating": {
-        "rank": 1001,
+        "rank": 1000,
         "total": 403,
         "count": {
           "1": 2,
@@ -328,10 +328,10 @@
       "total_episodes": 235,
       "collection": {
         "on_hold": 186,
-        "dropped": 77,
-        "wish": 956,
-        "collect": 619,
-        "doing": 191
+        "dropped": 79,
+        "wish": 957,
+        "collect": 620,
+        "doing": 190
       },
       "id": 10388,
       "eps": 218,
@@ -3154,22 +3154,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/cf/1f/1365_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
-        },
-        "name": "谷田部勝義",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1365,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/bc/33/494_prsn_PpQ6W.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/bc/33/494_prsn_PpQ6W.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/bc/33/494_prsn_PpQ6W.jpg",
@@ -3438,6 +3422,22 @@
         ],
         "type": 1,
         "id": 30432,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/cf/1f/1365_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
+        },
+        "name": "谷田部勝義",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1365,
         "eps": ""
       },
       {
@@ -3844,22 +3844,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ec/8f/319_prsn_fh7Ii.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg"
-        },
-        "name": "大橋志吉",
-        "relation": "脚本",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 319,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/55/b0/109_prsn_RX2K1.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/55/b0/109_prsn_RX2K1.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/55/b0/109_prsn_RX2K1.jpg",
@@ -4080,6 +4064,22 @@
         ],
         "type": 1,
         "id": 584,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ec/8f/319_prsn_fh7Ii.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg"
+        },
+        "name": "大橋志吉",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 319,
         "eps": ""
       },
       {
@@ -5739,7 +5739,7 @@
         "id": 499325
       }
     ],
-    "updatedAt": "2025-11-04T11:39:59.529Z"
+    "updatedAt": "2025-11-10T12:56:16.493Z"
   },
   {
     "id": 32213,
@@ -6027,8 +6027,8 @@
       "collection": {
         "on_hold": 21,
         "dropped": 29,
-        "wish": 86,
-        "collect": 226,
+        "wish": 87,
+        "collect": 227,
         "doing": 10
       },
       "id": 32213,
@@ -6885,7 +6885,7 @@
         "id": 478295
       }
     ],
-    "updatedAt": "2025-11-04T11:45:24.845Z"
+    "updatedAt": "2025-11-10T13:01:53.034Z"
   },
   {
     "id": 37183,
@@ -6910,7 +6910,7 @@
         },
         {
           "name": "TV",
-          "count": 119,
+          "count": 121,
           "total_cont": 0
         },
         {
@@ -6940,7 +6940,7 @@
         },
         {
           "name": "科幻",
-          "count": 57,
+          "count": 58,
           "total_cont": 0
         },
         {
@@ -6950,7 +6950,7 @@
         },
         {
           "name": "政治",
-          "count": 50,
+          "count": 51,
           "total_cont": 0
         },
         {
@@ -6960,7 +6960,7 @@
         },
         {
           "name": "战争",
-          "count": 24,
+          "count": 25,
           "total_cont": 0
         },
         {
@@ -6970,7 +6970,7 @@
         },
         {
           "name": "机战",
-          "count": 21,
+          "count": 22,
           "total_cont": 0
         },
         {
@@ -6989,18 +6989,13 @@
           "total_cont": 0
         },
         {
-          "name": "1981年10月",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "大河原邦男",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "TVA",
-          "count": 4,
+          "name": "1981年10月",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -7009,27 +7004,12 @@
           "total_cont": 0
         },
         {
-          "name": "经典",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "机器人",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "80s",
-          "count": 3,
+          "name": "TVA",
+          "count": 4,
           "total_cont": 0
         },
         {
           "name": "1980s",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "长篇",
           "count": 3,
           "total_cont": 0
         },
@@ -7039,8 +7019,23 @@
           "total_cont": 0
         },
         {
-          "name": "神作",
-          "count": 2,
+          "name": "长篇",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "经典",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "80s",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "机器人",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -7049,7 +7044,12 @@
           "total_cont": 0
         },
         {
-          "name": "补旧番",
+          "name": "80",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "robo",
           "count": 2,
           "total_cont": 0
         }
@@ -7121,8 +7121,8 @@
         }
       ],
       "rating": {
-        "rank": 152,
-        "total": 257,
+        "rank": 150,
+        "total": 258,
         "count": {
           "1": 1,
           "2": 1,
@@ -7132,17 +7132,17 @@
           "6": 8,
           "7": 38,
           "8": 76,
-          "9": 91,
+          "9": 92,
           "10": 39
         },
         "score": 8.4
       },
       "total_episodes": 75,
       "collection": {
-        "on_hold": 72,
+        "on_hold": 73,
         "dropped": 47,
         "wish": 822,
-        "collect": 317,
+        "collect": 319,
         "doing": 123
       },
       "id": 37183,
@@ -7368,22 +7368,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/cf/1f/1365_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
-        },
-        "name": "谷田部勝義",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1365,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/8c/62/1457_prsn_6C3YV.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/8c/62/1457_prsn_6C3YV.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/8c/62/1457_prsn_6C3YV.jpg",
@@ -7492,22 +7476,6 @@
         ],
         "type": 1,
         "id": 849,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/cf/1f/1365_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
-        },
-        "name": "谷田部勝義",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1365,
         "eps": ""
       },
       {
@@ -7717,6 +7685,22 @@
         ],
         "type": 1,
         "id": 486,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/cf/1f/1365_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
+        },
+        "name": "谷田部勝義",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1365,
         "eps": ""
       },
       {
@@ -7957,6 +7941,22 @@
         ],
         "type": 1,
         "id": 67981,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/cf/1f/1365_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
+        },
+        "name": "谷田部勝義",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1365,
         "eps": ""
       },
       {
@@ -8636,7 +8636,7 @@
         "id": 467503
       }
     ],
-    "updatedAt": "2025-11-04T11:46:17.207Z"
+    "updatedAt": "2025-11-10T13:02:48.188Z"
   },
   {
     "id": 37196,
@@ -9831,7 +9831,7 @@
         "id": 548127
       }
     ],
-    "updatedAt": "2025-11-04T11:46:18.789Z"
+    "updatedAt": "2025-11-10T13:02:49.653Z"
   },
   {
     "id": 213652,
@@ -10432,7 +10432,7 @@
         "id": 465057
       }
     ],
-    "updatedAt": "2025-11-04T12:07:48.562Z"
+    "updatedAt": "2025-11-10T13:24:45.612Z"
   },
   {
     "id": 213654,
@@ -12040,7 +12040,7 @@
         "id": 210271
       }
     ],
-    "updatedAt": "2025-11-04T12:07:49.459Z"
+    "updatedAt": "2025-11-10T13:24:46.195Z"
   },
   {
     "id": 272058,
@@ -12928,7 +12928,7 @@
         "id": 448984
       }
     ],
-    "updatedAt": "2025-11-04T12:12:57.916Z"
+    "updatedAt": "2025-11-10T13:30:03.276Z"
   },
   {
     "id": 380722,
@@ -13645,6 +13645,6 @@
         "id": 526735
       }
     ],
-    "updatedAt": "2025-11-04T12:21:55.796Z"
+    "updatedAt": "2025-11-10T13:39:11.962Z"
   }
 ]

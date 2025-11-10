@@ -86,12 +86,12 @@
           "total_cont": 0
         },
         {
-          "name": "1978年9月",
+          "name": "漫改",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "1978年9月",
           "count": 10,
           "total_cont": 0
         },
@@ -101,17 +101,17 @@
           "total_cont": 0
         },
         {
-          "name": "东映动画",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "西沢信孝",
           "count": 5,
           "total_cont": 0
         },
         {
           "name": "1970s",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "东映动画",
           "count": 5,
           "total_cont": 0
         },
@@ -131,22 +131,7 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "童年",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "补番",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "フジテレビ",
+          "name": "荒木伸吾",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +141,27 @@
           "total_cont": 0
         },
         {
-          "name": "青木望",
+          "name": "大长篇",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
         {
           "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "补番",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "童年",
           "count": 2,
           "total_cont": 0
         }
@@ -245,7 +245,7 @@
         }
       ],
       "rating": {
-        "rank": 517,
+        "rank": 515,
         "total": 276,
         "count": {
           "1": 2,
@@ -265,8 +265,8 @@
       "collection": {
         "on_hold": 155,
         "dropped": 50,
-        "wish": 1253,
-        "collect": 407,
+        "wish": 1256,
+        "collect": 408,
         "doing": 97
       },
       "id": 10392,
@@ -2015,6 +2015,22 @@
         "type": 1,
         "id": 2583,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/33/32/1922_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/33/32/1922_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/33/32/1922_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/33/32/1922_prsn_anidb.jpg"
+        },
+        "name": "佐藤好春",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1922,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2605,7 +2621,7 @@
         "id": 23307
       }
     ],
-    "updatedAt": "2025-11-04T11:40:01.144Z"
+    "updatedAt": "2025-11-10T12:56:18.754Z"
   },
   {
     "id": 97133,
@@ -2964,6 +2980,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-04T11:56:04.307Z"
+    "updatedAt": "2025-11-10T13:12:51.745Z"
   }
 ]

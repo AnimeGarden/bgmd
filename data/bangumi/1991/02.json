@@ -846,7 +846,7 @@
         "id": 437376
       }
     ],
-    "updatedAt": "2025-11-04T11:46:17.514Z"
+    "updatedAt": "2025-11-10T13:02:48.306Z"
   },
   {
     "id": 37246,
@@ -865,6 +865,11 @@
       "name_cn": "太阳勇者",
       "tags": [
         {
+          "name": "TV",
+          "count": 17,
+          "total_cont": 0
+        },
+        {
           "name": "SUNRISE",
           "count": 17,
           "total_cont": 0
@@ -875,8 +880,8 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
-          "count": 16,
+          "name": "童年",
+          "count": 12,
           "total_cont": 0
         },
         {
@@ -885,12 +890,7 @@
           "total_cont": 0
         },
         {
-          "name": "童年",
-          "count": 12,
-          "total_cont": 0
-        },
-        {
-          "name": "1991年作品",
+          "name": "1991年2月",
           "count": 9,
           "total_cont": 0
         },
@@ -900,12 +900,12 @@
           "total_cont": 0
         },
         {
-          "name": "科幻",
+          "name": "谷田部勝義",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "谷田部勝義",
+          "name": "科幻",
           "count": 6,
           "total_cont": 0
         },
@@ -925,11 +925,6 @@
           "total_cont": 0
         },
         {
-          "name": "勇者系列",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "星山博之",
           "count": 2,
           "total_cont": 0
@@ -940,7 +935,7 @@
           "total_cont": 0
         },
         {
-          "name": "太阳勇者",
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -950,7 +945,7 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "勇者系列",
           "count": 2,
           "total_cont": 0
         },
@@ -960,7 +955,32 @@
           "total_cont": 0
         },
         {
-          "name": "サンライズ",
+          "name": "太阳勇者",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "超级系",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "机器人",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1991年2月",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "大張正己",
           "count": 1,
           "total_cont": 0
         },
@@ -970,7 +990,7 @@
           "total_cont": 0
         },
         {
-          "name": "冷门",
+          "name": "TVB",
           "count": 1,
           "total_cont": 0
         },
@@ -980,37 +1000,17 @@
           "total_cont": 0
         },
         {
+          "name": "サンライズ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "待補1",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "伊倉一恵",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "robo",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1991年作品",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "谷田部胜义",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVB",
+          "name": "冷门",
           "count": 1,
           "total_cont": 0
         }
@@ -1091,27 +1091,27 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 44,
+        "total": 45,
         "count": {
           "1": 0,
           "2": 0,
           "3": 1,
           "4": 0,
           "5": 2,
-          "6": 9,
+          "6": 10,
           "7": 20,
           "8": 10,
           "9": 1,
           "10": 1
         },
-        "score": 7
+        "score": 6.9
       },
       "total_episodes": 48,
       "collection": {
         "on_hold": 7,
         "dropped": 11,
         "wish": 58,
-        "collect": 88,
+        "collect": 89,
         "doing": 8
       },
       "id": 37246,
@@ -1385,22 +1385,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/cf/1f/1365_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
-        },
-        "name": "谷田部勝義",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1365,
-        "eps": "1,13,20,27,40"
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/8a/cb/777_prsn_tmTRa.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/8a/cb/777_prsn_tmTRa.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/8a/cb/777_prsn_tmTRa.jpg",
@@ -1584,13 +1568,13 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
         },
         "name": "谷田部勝義",
-        "relation": "导演",
+        "relation": "分镜",
         "career": [
           "producer"
         ],
         "type": 1,
         "id": 1365,
-        "eps": ""
+        "eps": "1,13,20,27,40"
       },
       {
         "images": {
@@ -1606,6 +1590,22 @@
         ],
         "type": 3,
         "id": 99,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/cf/1f/1365_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
+        },
+        "name": "谷田部勝義",
+        "relation": "导演",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1365,
         "eps": ""
       },
       {
@@ -3295,7 +3295,7 @@
         "id": 551642
       }
     ],
-    "updatedAt": "2025-11-04T11:46:26.871Z"
+    "updatedAt": "2025-11-10T13:02:57.855Z"
   },
   {
     "id": 81581,
@@ -3899,6 +3899,6 @@
         "id": 485857
       }
     ],
-    "updatedAt": "2025-11-04T11:53:49.296Z"
+    "updatedAt": "2025-11-10T13:10:33.855Z"
   }
 ]

@@ -310,8 +310,8 @@
         }
       ],
       "rating": {
-        "rank": 1707,
-        "total": 171,
+        "rank": 1715,
+        "total": 172,
         "count": {
           "1": 0,
           "2": 0,
@@ -319,7 +319,7 @@
           "4": 3,
           "5": 5,
           "6": 27,
-          "7": 59,
+          "7": 60,
           "8": 61,
           "9": 11,
           "10": 4
@@ -330,9 +330,9 @@
       "collection": {
         "on_hold": 54,
         "dropped": 23,
-        "wish": 377,
-        "collect": 261,
-        "doing": 33
+        "wish": 379,
+        "collect": 264,
+        "doing": 32
       },
       "id": 10389,
       "eps": 26,
@@ -1620,7 +1620,7 @@
         "id": 514683
       }
     ],
-    "updatedAt": "2025-11-04T11:39:59.968Z"
+    "updatedAt": "2025-11-10T12:56:17.460Z"
   },
   {
     "id": 37180,
@@ -1689,12 +1689,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "富野由悠季",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "富野由悠季",
+          "name": "日本",
           "count": 5,
           "total_cont": 0
         },
@@ -1729,16 +1729,6 @@
           "total_cont": 0
         },
         {
-          "name": "70s",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "五武冬史",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "70",
           "count": 2,
           "total_cont": 0
@@ -1754,7 +1744,7 @@
           "total_cont": 0
         },
         {
-          "name": "神田武幸",
+          "name": "70s",
           "count": 2,
           "total_cont": 0
         },
@@ -1764,27 +1754,37 @@
           "total_cont": 0
         },
         {
-          "name": "巴姆星人",
+          "name": "五武冬史",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "神田武幸",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "井上瑶",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "机战登场作",
+          "name": "經典",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "豆浆",
+          "name": "恋爱",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1970-1979",
+          "name": "补",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "机甲",
+          "name": "铃木良武",
           "count": 1,
           "total_cont": 0
         }
@@ -1836,7 +1836,7 @@
         }
       ],
       "rating": {
-        "rank": 1527,
+        "rank": 1529,
         "total": 67,
         "count": {
           "1": 0,
@@ -1856,7 +1856,7 @@
       "collection": {
         "on_hold": 18,
         "dropped": 17,
-        "wish": 143,
+        "wish": 142,
         "collect": 104,
         "doing": 23
       },
@@ -3303,7 +3303,7 @@
         "id": 525887
       }
     ],
-    "updatedAt": "2025-11-04T11:46:16.040Z"
+    "updatedAt": "2025-11-10T13:02:47.038Z"
   },
   {
     "id": 44932,
@@ -4183,6 +4183,22 @@
         "type": 1,
         "id": 29960,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/33/32/1922_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/33/32/1922_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/33/32/1922_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/33/32/1922_prsn_anidb.jpg"
+        },
+        "name": "佐藤好春",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1922,
+        "eps": ""
       }
     ],
     "characters": [],
@@ -4244,7 +4260,7 @@
         "id": 530671
       }
     ],
-    "updatedAt": "2025-11-04T11:48:23.328Z"
+    "updatedAt": "2025-11-10T13:04:58.031Z"
   },
   {
     "id": 65264,
@@ -4571,6 +4587,6 @@
         "id": 65265
       }
     ],
-    "updatedAt": "2025-11-04T11:51:22.552Z"
+    "updatedAt": "2025-11-10T13:08:01.234Z"
   }
 ]

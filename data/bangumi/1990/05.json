@@ -41,17 +41,7 @@
           "total_cont": 0
         },
         {
-          "name": "补旧番",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "葦プロダクション",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
           "count": 4,
           "total_cont": 0
         },
@@ -61,13 +51,28 @@
           "total_cont": 0
         },
         {
-          "name": "1990年",
-          "count": 3,
+          "name": "补旧番",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 4,
           "total_cont": 0
         },
         {
           "name": "欢欢仙子",
           "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "1990年",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "笠原弘子",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -86,47 +91,7 @@
           "total_cont": 0
         },
         {
-          "name": "笠原弘子",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "年番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "佐々木望",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "经典",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "ぶらざあのっぽ",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "番剧",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "动",
           "count": 1,
           "total_cont": 0
         },
@@ -146,12 +111,47 @@
           "total_cont": 0
         },
         {
+          "name": "佐々木望",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "动",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "番剧",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "日本动画",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "童年",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "ぶらざあのっぽ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "年番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         }
@@ -215,7 +215,7 @@
       "collection": {
         "on_hold": 6,
         "dropped": 8,
-        "wish": 53,
+        "wish": 55,
         "collect": 31,
         "doing": 9
       },
@@ -458,6 +458,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ec/8f/319_prsn_fh7Ii.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg"
+        },
+        "name": "大橋志吉",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 319,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/f9/d1/1861_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/f9/d1/1861_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/f9/d1/1861_prsn_anidb.jpg",
@@ -648,22 +664,6 @@
         ],
         "type": 1,
         "id": 634,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ec/8f/319_prsn_fh7Ii.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ec/8f/319_prsn_fh7Ii.jpg"
-        },
-        "name": "大橋志吉",
-        "relation": "脚本",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 319,
         "eps": ""
       },
       {
@@ -907,7 +907,7 @@
         "id": 199363
       }
     ],
-    "updatedAt": "2025-11-04T11:40:57.860Z"
+    "updatedAt": "2025-11-10T12:57:18.150Z"
   },
   {
     "id": 73436,
@@ -1573,7 +1573,7 @@
         "id": 119332
       }
     ],
-    "updatedAt": "2025-11-04T11:52:32.279Z"
+    "updatedAt": "2025-11-10T13:09:13.319Z"
   },
   {
     "id": 325237,
@@ -1745,6 +1745,6 @@
         "id": 37243
       }
     ],
-    "updatedAt": "2025-11-04T12:18:18.042Z"
+    "updatedAt": "2025-11-10T13:35:29.834Z"
   }
 ]

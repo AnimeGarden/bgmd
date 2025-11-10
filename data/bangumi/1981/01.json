@@ -278,6 +278,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/33/32/1922_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/33/32/1922_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/33/32/1922_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/33/32/1922_prsn_anidb.jpg"
+        },
+        "name": "佐藤好春",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1922,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/0f/40/1514_prsn_fxWsj.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/0f/40/1514_prsn_fxWsj.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/0f/40/1514_prsn_fxWsj.jpg",
@@ -1096,22 +1112,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/33/32/1922_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/33/32/1922_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/33/32/1922_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/33/32/1922_prsn_anidb.jpg"
-        },
-        "name": "佐藤好春",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1922,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -1137,8 +1137,8 @@
           "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/fa/233895_Fzl7g.jpg",
           "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/fa/233895_Fzl7g.jpg"
         },
-        "name": "Robinson Crusoe",
-        "name_cn": "鲁滨逊漂流记",
+        "name": "The Life and Strange Surprizing Adventures of Robinson Crusoe, Of York, Mariner: Who lived Eight and Twenty Years, all alone in an un-inhabited Island on the Coast of America, near the Mouth of the Great River of Oroonoque; Having been cast on Shore by Shipwreck, wherein all the Men perished but himself. With An Account how he was at last as strangely deliver'd by Pyrates",
+        "name_cn": "关于一名叫做鲁滨逊‧克鲁索，诞生于约克镇，并且因为船难而独活在一个美洲海岸边、接近奥里诺科河河口的小岛长达二十八年的水手的陌生又奇妙的冒险故事",
         "relation": "书籍",
         "type": 1,
         "id": 233895
@@ -1198,9 +1198,23 @@
         "relation": "插入歌",
         "type": 3,
         "id": 448983
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/eb/d3/605113_yeAoY.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/eb/d3/605113_yeAoY.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/eb/d3/605113_yeAoY.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/eb/d3/605113_yeAoY.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/eb/d3/605113_yeAoY.jpg"
+        },
+        "name": "家族ロビンソン漂流記 ふしぎな島のフローネ 音楽編",
+        "name_cn": "鲁滨逊一家漂流记 音乐篇",
+        "relation": "原声集",
+        "type": 3,
+        "id": 605113
       }
     ],
-    "updatedAt": "2025-11-04T11:43:50.320Z"
+    "updatedAt": "2025-11-10T13:00:17.002Z"
   },
   {
     "id": 37287,
@@ -2480,7 +2494,7 @@
         "id": 525887
       }
     ],
-    "updatedAt": "2025-11-04T11:46:37.584Z"
+    "updatedAt": "2025-11-10T13:03:08.309Z"
   },
   {
     "id": 219469,
@@ -2833,6 +2847,6 @@
         "id": 115781
       }
     ],
-    "updatedAt": "2025-11-04T12:08:28.437Z"
+    "updatedAt": "2025-11-10T13:25:27.361Z"
   }
 ]

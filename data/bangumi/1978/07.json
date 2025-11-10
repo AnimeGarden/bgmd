@@ -580,11 +580,27 @@
         "type": 1,
         "id": 895,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "グリーン・ボックス",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82986,
+        "eps": ""
       }
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-04T11:46:36.210Z"
+    "updatedAt": "2025-11-10T13:03:07.482Z"
   },
   {
     "id": 80846,
@@ -970,6 +986,20 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/a6/72449_t1nMU.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/a6/72449_t1nMU.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/37/a6/72449_t1nMU.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/a6/72449_t1nMU.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/a6/72449_t1nMU.jpg"
+        },
+        "name": "交響組曲 科学忍者隊ガッチャマン",
+        "name_cn": "交响组曲 科学忍者队",
+        "relation": "原声集",
+        "type": 3,
+        "id": 72449
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/4b/86888_No2zn.jpg",
           "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/4b/86888_No2zn.jpg",
           "large": "https://lain.bgm.tv/pic/cover/l/89/4b/86888_No2zn.jpg",
@@ -983,7 +1013,7 @@
         "id": 86888
       }
     ],
-    "updatedAt": "2025-11-04T11:53:35.014Z"
+    "updatedAt": "2025-11-10T13:10:20.115Z"
   },
   {
     "id": 127778,
@@ -1414,6 +1444,6 @@
         "id": 38639
       }
     ],
-    "updatedAt": "2025-11-04T11:59:43.727Z"
+    "updatedAt": "2025-11-10T13:16:33.815Z"
   }
 ]

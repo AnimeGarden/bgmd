@@ -1816,6 +1816,22 @@
         "type": 2,
         "id": 110,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/cf/1f/1365_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/cf/1f/1365_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/1f/1365_prsn_anidb.jpg"
+        },
+        "name": "谷田部勝義",
+        "relation": "制作进行",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1365,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2077,11 +2093,11 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/ae/37298_jr1o1.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/ae/37298_jr1o1.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/06/ae/37298_jr1o1.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/ae/37298_jr1o1.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/ae/37298_jr1o1.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/ae/37298_x64zo.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/ae/37298_x64zo.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/06/ae/37298_x64zo.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/ae/37298_x64zo.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/ae/37298_x64zo.jpg"
         },
         "name": "タイムボカンシリーズ ヤットデタマン",
         "name_cn": "龙威",
@@ -2090,7 +2106,7 @@
         "id": 37298
       }
     ],
-    "updatedAt": "2025-11-04T11:42:07.826Z"
+    "updatedAt": "2025-11-10T12:58:32.485Z"
   },
   {
     "id": 23609,
@@ -2109,13 +2125,13 @@
       "name_cn": "小浣熊",
       "tags": [
         {
-          "name": "1977",
-          "count": 7,
+          "name": "TV",
+          "count": 9,
           "total_cont": 0
         },
         {
-          "name": "TV",
-          "count": 7,
+          "name": "1977",
+          "count": 8,
           "total_cont": 0
         },
         {
@@ -2139,12 +2155,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画公司",
+          "name": "童年系",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "童年系",
+          "name": "日本动画公司",
           "count": 2,
           "total_cont": 0
         },
@@ -2360,28 +2376,28 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 14,
+        "total": 15,
         "count": {
           "1": 0,
           "2": 0,
           "3": 1,
           "4": 1,
-          "5": 1,
+          "5": 2,
           "6": 7,
           "7": 2,
           "8": 2,
           "9": 0,
           "10": 0
         },
-        "score": 6
+        "score": 5.9
       },
       "total_episodes": 52,
       "collection": {
         "on_hold": 9,
         "dropped": 9,
         "wish": 30,
-        "collect": 24,
-        "doing": 2
+        "collect": 25,
+        "doing": 3
       },
       "id": 23609,
       "eps": 52,
@@ -3237,6 +3253,6 @@
         "id": 532693
       }
     ],
-    "updatedAt": "2025-11-04T11:43:48.481Z"
+    "updatedAt": "2025-11-10T13:00:15.443Z"
   }
 ]
