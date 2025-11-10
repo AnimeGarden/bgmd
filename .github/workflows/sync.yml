@@ -39,12 +39,13 @@ jobs:
           path: bgmx
 
       - name: Prepare bgmx
-        working-directory: bgmx
         run: |
+          cd bgmx
           pnpm i
           pnpm build
           cd apps/bgmx
           pnpm link -g
+          bgmx --version
 
       - name: Sync bangumi data
         env:
