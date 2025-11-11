@@ -2797,7 +2797,7 @@
         "id": 391873
       }
     ],
-    "updatedAt": "2025-11-10T12:49:52.773Z"
+    "updatedAt": "2025-11-11T11:33:57.469Z"
   },
   {
     "id": 3631,
@@ -4830,7 +4830,7 @@
         "id": 197427
       }
     ],
-    "updatedAt": "2025-11-10T12:51:47.593Z"
+    "updatedAt": "2025-11-11T11:35:48.912Z"
   },
   {
     "id": 3805,
@@ -4954,12 +4954,12 @@
           "total_cont": 0
         },
         {
-          "name": "2009年11月",
+          "name": "后宫",
           "count": 8,
           "total_cont": 0
         },
         {
-          "name": "后宫",
+          "name": "2009年11月",
           "count": 8,
           "total_cont": 0
         },
@@ -4979,11 +4979,6 @@
           "total_cont": 0
         },
         {
-          "name": "沙发套",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "动画",
           "count": 4,
           "total_cont": 0
@@ -4995,6 +4990,11 @@
         },
         {
           "name": "社会问题",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "TV",
           "count": 4,
           "total_cont": 0
         }
@@ -5194,7 +5194,7 @@
         }
       ],
       "rating": {
-        "rank": 611,
+        "rank": 610,
         "total": 1227,
         "count": {
           "1": 3,
@@ -5214,8 +5214,8 @@
       "collection": {
         "on_hold": 92,
         "dropped": 24,
-        "wish": 909,
-        "collect": 2238,
+        "wish": 908,
+        "collect": 2239,
         "doing": 58
       },
       "id": 3805,
@@ -5346,6 +5346,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
+          "grid": "https://lain.bgm.tv/pic/crt/g/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
+          "large": "https://lain.bgm.tv/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725"
+        },
+        "name": "SHAFT",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 2751,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/22/db/3728_prsn_015fh.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/22/db/3728_prsn_015fh.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/22/db/3728_prsn_015fh.jpg",
@@ -5422,22 +5438,6 @@
         ],
         "type": 1,
         "id": 6756,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
-          "grid": "https://lain.bgm.tv/pic/crt/g/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
-          "large": "https://lain.bgm.tv/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725"
-        },
-        "name": "SHAFT",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 2751,
         "eps": ""
       },
       {
@@ -7805,7 +7805,7 @@
         "id": 156801
       }
     ],
-    "updatedAt": "2025-11-10T12:52:08.109Z"
+    "updatedAt": "2025-11-11T11:36:08.847Z"
   },
   {
     "id": 8122,
@@ -7850,7 +7850,7 @@
         },
         {
           "name": "片渕须直",
-          "count": 58,
+          "count": 57,
           "total_cont": 0
         },
         {
@@ -7870,16 +7870,16 @@
         },
         {
           "name": "片渊须直",
-          "count": 18,
-          "total_cont": 0
-        },
-        {
-          "name": "乡下妹和富家女",
-          "count": 17,
+          "count": 19,
           "total_cont": 0
         },
         {
           "name": "生活",
+          "count": 17,
+          "total_cont": 0
+        },
+        {
+          "name": "乡下妹和富家女",
           "count": 17,
           "total_cont": 0
         },
@@ -7899,12 +7899,12 @@
           "total_cont": 0
         },
         {
-          "name": "电影",
+          "name": "映画",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "映画",
+          "name": "电影",
           "count": 7,
           "total_cont": 0
         },
@@ -7959,17 +7959,17 @@
           "total_cont": 0
         },
         {
-          "name": "undefined",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "原创",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "2000s",
+          "name": "独立剧场版",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "浦谷千恵",
           "count": 2,
           "total_cont": 0
         }
@@ -8084,7 +8084,7 @@
         }
       ],
       "rating": {
-        "rank": 2607,
+        "rank": 2608,
         "total": 442,
         "count": {
           "1": 0,
@@ -9252,7 +9252,7 @@
         "id": 157896
       }
     ],
-    "updatedAt": "2025-11-10T12:54:38.222Z"
+    "updatedAt": "2025-11-11T11:38:30.320Z"
   },
   {
     "id": 113877,
@@ -9449,6 +9449,6 @@
         "id": 521194
       }
     ],
-    "updatedAt": "2025-11-10T13:15:02.164Z"
+    "updatedAt": "2025-11-11T11:58:26.518Z"
   }
 ]

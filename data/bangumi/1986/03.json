@@ -382,6 +382,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
+          "grid": "https://lain.bgm.tv/pic/crt/g/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
+          "large": "https://lain.bgm.tv/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725"
+        },
+        "name": "SHAFT",
+        "relation": "协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 2751,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/1c/33/2715_prsn_0CGaC.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/1c/33/2715_prsn_0CGaC.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/1c/33/2715_prsn_0CGaC.jpg",
@@ -459,22 +475,6 @@
         ],
         "type": 1,
         "id": 2560,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
-          "grid": "https://lain.bgm.tv/pic/crt/g/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
-          "large": "https://lain.bgm.tv/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/05/c2/2751_prsn_Xs33b.jpg?r=1642318725"
-        },
-        "name": "SHAFT",
-        "relation": "协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 2751,
         "eps": ""
       },
       {
@@ -1643,7 +1643,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2025-11-10T12:45:55.230Z"
+    "updatedAt": "2025-11-11T11:30:07.951Z"
   },
   {
     "id": 2921,
@@ -1757,17 +1757,17 @@
           "total_cont": 0
         },
         {
+          "name": "80年代",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
           "name": "管理员小姐",
           "count": 9,
           "total_cont": 0
         },
         {
           "name": "安濃高志",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
-          "name": "80年代",
           "count": 9,
           "total_cont": 0
         },
@@ -1782,11 +1782,6 @@
           "total_cont": 0
         },
         {
-          "name": "1980s",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "川井宪次",
           "count": 6,
           "total_cont": 0
@@ -1797,8 +1792,8 @@
           "total_cont": 0
         },
         {
-          "name": "STUDIO_DEEN",
-          "count": 4,
+          "name": "1980s",
+          "count": 6,
           "total_cont": 0
         },
         {
@@ -1807,7 +1802,12 @@
           "total_cont": 0
         },
         {
-          "name": "高橋留美子",
+          "name": "80s",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
           "count": 4,
           "total_cont": 0
         }
@@ -1903,7 +1903,7 @@
         }
       ],
       "rating": {
-        "rank": 200,
+        "rank": 201,
         "total": 641,
         "count": {
           "1": 2,
@@ -1923,7 +1923,7 @@
       "collection": {
         "on_hold": 187,
         "dropped": 72,
-        "wish": 1321,
+        "wish": 1323,
         "collect": 837,
         "doing": 225
       },
@@ -4626,7 +4626,7 @@
         "id": 443064
       }
     ],
-    "updatedAt": "2025-11-10T12:50:32.209Z"
+    "updatedAt": "2025-11-11T11:34:35.927Z"
   },
   {
     "id": 4213,
@@ -4775,11 +4775,6 @@
           "total_cont": 0
         },
         {
-          "name": "热血",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 5,
           "total_cont": 0
@@ -4791,6 +4786,11 @@
         },
         {
           "name": "UC",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "年番",
           "count": 5,
           "total_cont": 0
         }
@@ -4964,7 +4964,7 @@
         "dropped": 58,
         "wish": 657,
         "collect": 2587,
-        "doing": 316
+        "doing": 317
       },
       "id": 4213,
       "eps": 47,
@@ -8675,17 +8675,31 @@
     "subjects": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/80/267261_z9znE.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/80/267261_z9znE.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/cc/80/267261_z9znE.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/80/267261_z9znE.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/80/267261_z9znE.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
         },
-        "name": "スーパーロボット大戦T",
-        "name_cn": "超级机器人大战T",
-        "relation": "联动",
+        "name": "スーパーロボット大戦DD",
+        "name_cn": "超级机器人大战DD",
+        "relation": "游戏",
         "type": 4,
-        "id": 267261
+        "id": 271927
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/6b/318416_1ztc0.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/6b/318416_1ztc0.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/71/6b/318416_1ztc0.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/6b/318416_1ztc0.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/6b/318416_1ztc0.jpg"
+        },
+        "name": "機動戦士ガンダム　新ジオンの再興",
+        "name_cn": "机动战士高达 新吉恩的再兴",
+        "relation": "单行本",
+        "type": 1,
+        "id": 318416
       },
       {
         "images": {
@@ -8787,31 +8801,31 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/0f/325934_8BD16.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/0f/325934_8BD16.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/0c/0f/325934_8BD16.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/0f/325934_8BD16.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/0f/325934_8BD16.jpg"
         },
-        "name": "スーパーロボット大戦DD",
-        "name_cn": "超级机器人大战DD",
-        "relation": "游戏",
+        "name": "スーパーロボット大戦コンプリートボックス",
+        "name_cn": "超级机器人大战Complete Box",
+        "relation": "联动",
         "type": 4,
-        "id": 271927
+        "id": 325934
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/6b/318416_1ztc0.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/6b/318416_1ztc0.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/71/6b/318416_1ztc0.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/6b/318416_1ztc0.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/6b/318416_1ztc0.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/80/267261_z9znE.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/80/267261_z9znE.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/cc/80/267261_z9znE.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/80/267261_z9znE.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/80/267261_z9znE.jpg"
         },
-        "name": "機動戦士ガンダム　新ジオンの再興",
-        "name_cn": "机动战士高达 新吉恩的再兴",
-        "relation": "单行本",
-        "type": 1,
-        "id": 318416
+        "name": "スーパーロボット大戦T",
+        "name_cn": "超级机器人大战T",
+        "relation": "联动",
+        "type": 4,
+        "id": 267261
       },
       {
         "images": {
@@ -8913,17 +8927,31 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/a2/391873_17RPU.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/a2/391873_17RPU.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/1f/a2/391873_17RPU.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1f/a2/391873_17RPU.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/a2/391873_17RPU.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/ce/462900_gI7hv.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/ce/462900_gI7hv.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/d7/ce/462900_gI7hv.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/ce/462900_gI7hv.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/ce/462900_gI7hv.jpg"
         },
-        "name": "スーパーロボット大戦Card Chronicle",
-        "name_cn": "超级机器人大战Card Chronicle",
-        "relation": "联动",
+        "name": "GUNDAM FRAG.",
+        "name_cn": "机动战士高达ZZ：数据碎片",
+        "relation": "番外篇",
+        "type": 2,
+        "id": 462900
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/23/606282_onNtq.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/23/606282_onNtq.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/f3/23/606282_onNtq.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/23/606282_onNtq.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/23/606282_onNtq.jpg"
+        },
+        "name": "スーパーロボット大戦COMPACT for WonderSwanColor",
+        "name_cn": "超级机器人大战COMPACTfor WonderSwanColor",
+        "relation": "游戏",
         "type": 4,
-        "id": 391873
+        "id": 606282
       },
       {
         "images": {
@@ -9025,20 +9053,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/ce/462900_gI7hv.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/ce/462900_gI7hv.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/d7/ce/462900_gI7hv.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/ce/462900_gI7hv.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/ce/462900_gI7hv.jpg"
-        },
-        "name": "GUNDAM FRAG.",
-        "name_cn": "机动战士高达ZZ：数据碎片",
-        "relation": "番外篇",
-        "type": 2,
-        "id": 462900
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/18/213352_4f3ON.jpg",
           "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/18/213352_4f3ON.jpg",
           "large": "https://lain.bgm.tv/pic/cover/l/3e/18/213352_4f3ON.jpg",
@@ -9050,6 +9064,20 @@
         "relation": "联动",
         "type": 4,
         "id": 213352
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/a2/391873_17RPU.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/a2/391873_17RPU.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/1f/a2/391873_17RPU.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1f/a2/391873_17RPU.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/a2/391873_17RPU.jpg"
+        },
+        "name": "スーパーロボット大戦Card Chronicle",
+        "name_cn": "超级机器人大战Card Chronicle",
+        "relation": "联动",
+        "type": 4,
+        "id": 391873
       },
       {
         "images": {
@@ -9134,20 +9162,6 @@
         "relation": "联动",
         "type": 4,
         "id": 339375
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/0f/325934_8BD16.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/0f/325934_8BD16.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/0c/0f/325934_8BD16.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/0f/325934_8BD16.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/0f/325934_8BD16.jpg"
-        },
-        "name": "スーパーロボット大戦コンプリートボックス",
-        "name_cn": "超级机器人大战Complete Box",
-        "relation": "联动",
-        "type": 4,
-        "id": 325934
       },
       {
         "images": {
@@ -9654,7 +9668,7 @@
         "id": 139570
       }
     ],
-    "updatedAt": "2025-11-10T12:52:40.231Z"
+    "updatedAt": "2025-11-11T11:36:40.086Z"
   },
   {
     "id": 67781,
@@ -10664,7 +10678,7 @@
         "id": 504663
       }
     ],
-    "updatedAt": "2025-11-10T13:08:32.783Z"
+    "updatedAt": "2025-11-11T11:52:05.894Z"
   },
   {
     "id": 82714,
@@ -12112,7 +12126,7 @@
         "id": 449726
       }
     ],
-    "updatedAt": "2025-11-10T13:10:40.256Z"
+    "updatedAt": "2025-11-11T11:54:09.051Z"
   },
   {
     "id": 211094,
@@ -12265,7 +12279,7 @@
         "id": 116538
       }
     ],
-    "updatedAt": "2025-11-10T13:24:09.580Z"
+    "updatedAt": "2025-11-11T12:07:19.825Z"
   },
   {
     "id": 215105,
@@ -12884,7 +12898,7 @@
         "id": 41982
       }
     ],
-    "updatedAt": "2025-11-10T13:24:56.757Z"
+    "updatedAt": "2025-11-11T12:08:04.941Z"
   },
   {
     "id": 313669,
@@ -13665,6 +13679,6 @@
         "id": 313670
       }
     ],
-    "updatedAt": "2025-11-10T13:34:11.653Z"
+    "updatedAt": "2025-11-11T12:17:00.221Z"
   }
 ]

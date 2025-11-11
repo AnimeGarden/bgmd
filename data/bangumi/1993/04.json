@@ -350,7 +350,7 @@
         "dropped": 69,
         "wish": 721,
         "collect": 1317,
-        "doing": 174
+        "doing": 175
       },
       "id": 985,
       "eps": 51,
@@ -802,6 +802,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8d/33/1359_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8d/33/1359_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8d/33/1359_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8d/33/1359_prsn_anidb.jpg"
+        },
+        "name": "園田英樹",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1359,
+        "eps": "2,3,5,6,9,22,26,27,33,38,41,44,51"
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/69/74/1251_prsn_p0whw.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/69/74/1251_prsn_p0whw.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/69/74/1251_prsn_p0whw.jpg",
@@ -975,22 +991,6 @@
         "type": 1,
         "id": 668,
         "eps": "1,7,11,12,14,16,20,23,24,25,28,29,30,31,34,35,37,39,40,42,43,47,48,49,50"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8d/33/1359_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8d/33/1359_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/8d/33/1359_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8d/33/1359_prsn_anidb.jpg"
-        },
-        "name": "園田英樹",
-        "relation": "脚本",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1359,
-        "eps": "2,3,5,6,9,22,26,27,33,38,41,44,51"
       },
       {
         "images": {
@@ -5160,7 +5160,7 @@
         "id": 45165
       }
     ],
-    "updatedAt": "2025-11-10T12:47:07.388Z"
+    "updatedAt": "2025-11-11T11:31:19.465Z"
   },
   {
     "id": 4264,
@@ -5395,7 +5395,7 @@
         }
       ],
       "rating": {
-        "rank": 1011,
+        "rank": 1012,
         "total": 503,
         "count": {
           "1": 1,
@@ -6167,7 +6167,7 @@
         "id": 509225
       }
     ],
-    "updatedAt": "2025-11-10T12:52:47.420Z"
+    "updatedAt": "2025-11-11T11:36:46.593Z"
   },
   {
     "id": 5468,
@@ -6411,7 +6411,7 @@
         }
       ],
       "rating": {
-        "rank": 2987,
+        "rank": 2986,
         "total": 311,
         "count": {
           "1": 0,
@@ -9435,7 +9435,7 @@
         "id": 598081
       }
     ],
-    "updatedAt": "2025-11-10T12:53:33.887Z"
+    "updatedAt": "2025-11-11T11:37:28.042Z"
   },
   {
     "id": 13618,
@@ -9455,7 +9455,7 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 67,
+          "count": 68,
           "total_cont": 0
         },
         {
@@ -9470,12 +9470,12 @@
         },
         {
           "name": "1993年",
-          "count": 39,
+          "count": 40,
           "total_cont": 0
         },
         {
           "name": "漫画改",
-          "count": 24,
+          "count": 25,
           "total_cont": 0
         },
         {
@@ -9509,12 +9509,12 @@
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "旧番",
           "count": 8,
           "total_cont": 0
         },
         {
-          "name": "旧番",
+          "name": "漫改",
           "count": 8,
           "total_cont": 0
         },
@@ -9534,12 +9534,7 @@
           "total_cont": 0
         },
         {
-          "name": "神作",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "案納正美",
+          "name": "90~94年",
           "count": 3,
           "total_cont": 0
         },
@@ -9549,27 +9544,22 @@
           "total_cont": 0
         },
         {
-          "name": "90~94年",
+          "name": "案納正美",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "日常",
-          "count": 2,
+          "name": "神作",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "大橋志吉",
+          "name": "真人化",
           "count": 2,
           "total_cont": 0
         },
         {
           "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "真人化",
           "count": 2,
           "total_cont": 0
         },
@@ -9584,22 +9574,32 @@
           "total_cont": 0
         },
         {
-          "name": "8分",
+          "name": "大橋志吉",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日常",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "日产",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "anime",
+          "name": "童年",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "~1999",
+          "name": "有生之年",
           "count": 1,
           "total_cont": 0
         }
@@ -9635,7 +9635,7 @@
         }
       ],
       "rating": {
-        "rank": 1790,
+        "rank": 1789,
         "total": 221,
         "count": {
           "1": 0,
@@ -9657,7 +9657,7 @@
         "dropped": 29,
         "wish": 187,
         "collect": 412,
-        "doing": 34
+        "doing": 35
       },
       "id": 13618,
       "eps": 10,
@@ -10296,7 +10296,7 @@
         "id": 476709
       }
     ],
-    "updatedAt": "2025-11-10T12:57:54.242Z"
+    "updatedAt": "2025-11-11T11:41:39.166Z"
   },
   {
     "id": 28114,
@@ -10518,7 +10518,7 @@
         }
       ],
       "rating": {
-        "rank": 3012,
+        "rank": 3010,
         "total": 123,
         "count": {
           "1": 0,
@@ -10960,7 +10960,7 @@
         "id": 518523
       }
     ],
-    "updatedAt": "2025-11-10T13:01:16.031Z"
+    "updatedAt": "2025-11-11T11:44:57.164Z"
   },
   {
     "id": 37273,
@@ -11259,7 +11259,7 @@
         }
       ],
       "rating": {
-        "rank": 2185,
+        "rank": 2183,
         "total": 62,
         "count": {
           "1": 0,
@@ -14599,7 +14599,7 @@
         "id": 510923
       }
     ],
-    "updatedAt": "2025-11-10T13:03:05.672Z"
+    "updatedAt": "2025-11-11T11:46:44.145Z"
   },
   {
     "id": 76800,
@@ -15360,6 +15360,6 @@
         "id": 488232
       }
     ],
-    "updatedAt": "2025-11-10T13:09:33.229Z"
+    "updatedAt": "2025-11-11T11:53:03.825Z"
   }
 ]

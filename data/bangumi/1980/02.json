@@ -1646,7 +1646,7 @@
         "id": 525887
       }
     ],
-    "updatedAt": "2025-11-10T13:03:08.241Z"
+    "updatedAt": "2025-11-11T11:46:47.171Z"
   },
   {
     "id": 53759,
@@ -2084,7 +2084,7 @@
         "id": 463760
       }
     ],
-    "updatedAt": "2025-11-10T13:06:33.883Z"
+    "updatedAt": "2025-11-11T11:50:08.816Z"
   },
   {
     "id": 220039,
@@ -2224,7 +2224,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-10T13:25:33.681Z"
+    "updatedAt": "2025-11-11T12:08:41.695Z"
   },
   {
     "id": 309128,
@@ -2357,7 +2357,73 @@
       "nsfw": false,
       "type": 2
     },
-    "persons": [],
+    "persons": [
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "黒田昌郎",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2399,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/32/50/791_prsn_nnb13.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/32/50/791_prsn_nnb13.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/32/50/791_prsn_nnb13.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/32/50/791_prsn_nnb13.jpg"
+        },
+        "name": "日本アニメーション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 791,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6e/5a/504_prsn_33YRo.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6e/5a/504_prsn_33YRo.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/6e/5a/504_prsn_33YRo.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6e/5a/504_prsn_33YRo.jpg"
+        },
+        "name": "矢野立美",
+        "relation": "音乐",
+        "career": [
+          "producer",
+          "artist"
+        ],
+        "type": 1,
+        "id": 504,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "柏倉敏之",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2523,
+        "eps": ""
+      }
+    ],
     "characters": [],
     "subjects": [
       {
@@ -2375,6 +2441,6 @@
         "id": 448697
       }
     ],
-    "updatedAt": "2025-11-10T13:33:50.597Z"
+    "updatedAt": "2025-11-11T12:16:38.741Z"
   }
 ]
