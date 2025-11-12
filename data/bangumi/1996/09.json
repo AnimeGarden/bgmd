@@ -715,7 +715,7 @@
         "id": 380927
       }
     ],
-    "updatedAt": "2025-11-11T11:41:47.520Z"
+    "updatedAt": "2025-11-12T11:40:51.084Z"
   },
   {
     "id": 25716,
@@ -932,7 +932,7 @@
         }
       ],
       "rating": {
-        "rank": 1048,
+        "rank": 1047,
         "total": 526,
         "count": {
           "1": 1,
@@ -1103,12 +1103,12 @@
     "characters": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ee/49/70772_crt_EIACB.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ee/49/70772_crt_EIACB.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ee/49/70772_crt_EIACB.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ee/49/70772_crt_EIACB.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ee/49/70772_crt_N999y.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ee/49/70772_crt_N999y.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ee/49/70772_crt_N999y.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ee/49/70772_crt_N999y.jpg"
         },
-        "name": "Optimus Prime",
+        "name": "Optimus Prime(g1)",
         "relation": "客串",
         "actors": [],
         "type": 1,
@@ -1116,12 +1116,12 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5c/4f/70775_crt_Emz28.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/5c/4f/70775_crt_Emz28.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/5c/4f/70775_crt_Emz28.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5c/4f/70775_crt_Emz28.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5c/4f/70775_crt_1w4Qt.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/5c/4f/70775_crt_1w4Qt.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/5c/4f/70775_crt_1w4Qt.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5c/4f/70775_crt_1w4Qt.jpg"
         },
-        "name": "Megatron",
+        "name": "Megatron(g1)",
         "relation": "客串",
         "actors": [
           {
@@ -1547,7 +1547,7 @@
         "id": 443469
       }
     ],
-    "updatedAt": "2025-11-11T11:44:25.369Z"
+    "updatedAt": "2025-11-12T11:43:22.885Z"
   },
   {
     "id": 37955,
@@ -1582,7 +1582,7 @@
         },
         {
           "name": "漫画改",
-          "count": 12,
+          "count": 13,
           "total_cont": 0
         },
         {
@@ -1631,13 +1631,23 @@
           "total_cont": 0
         },
         {
+          "name": "TVA",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "TVA",
-          "count": 3,
+          "name": "影山由美",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "马越嘉彦",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -1647,11 +1657,6 @@
         },
         {
           "name": "東映アニメーション",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "马越嘉彦",
           "count": 2,
           "total_cont": 0
         },
@@ -1666,8 +1671,28 @@
           "total_cont": 0
         },
         {
-          "name": "影山由美",
-          "count": 2,
+          "name": "anime",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "90代",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "馬越嘉彦",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "补番",
+          "count": 1,
           "total_cont": 0
         },
         {
@@ -1686,32 +1711,7 @@
           "total_cont": 0
         },
         {
-          "name": "补番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "经典",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "90年代",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "8JA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "乙女向",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "原画",
+          "name": "少女",
           "count": 1,
           "total_cont": 0
         }
@@ -1803,7 +1803,7 @@
       "collection": {
         "on_hold": 16,
         "dropped": 10,
-        "wish": 89,
+        "wish": 90,
         "collect": 72,
         "doing": 6
       },
@@ -2884,7 +2884,7 @@
         "id": 257122
       }
     ],
-    "updatedAt": "2025-11-11T11:47:14.095Z"
+    "updatedAt": "2025-11-12T11:46:07.946Z"
   },
   {
     "id": 75624,
@@ -3161,7 +3161,7 @@
         }
       ],
       "rating": {
-        "rank": 4926,
+        "rank": 4925,
         "total": 81,
         "count": {
           "1": 0,
@@ -4062,6 +4062,6 @@
         "id": 506305
       }
     ],
-    "updatedAt": "2025-11-11T11:52:59.596Z"
+    "updatedAt": "2025-11-12T11:51:48.559Z"
   }
 ]
