@@ -72,7 +72,7 @@
         },
         {
           "name": "杉井仪三郎",
-          "count": 16,
+          "count": 17,
           "total_cont": 0
         },
         {
@@ -101,12 +101,12 @@
           "total_cont": 0
         },
         {
-          "name": "童话",
+          "name": "电影",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "电影",
+          "name": "童话",
           "count": 7,
           "total_cont": 0
         },
@@ -151,17 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "经典",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "グループ・タック",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "经典",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "轻改",
           "count": 2,
           "total_cont": 0
         }
@@ -201,7 +201,7 @@
         }
       ],
       "rating": {
-        "rank": 1150,
+        "rank": 1151,
         "total": 791,
         "count": {
           "1": 1,
@@ -222,8 +222,8 @@
         "on_hold": 65,
         "dropped": 27,
         "wish": 858,
-        "collect": 1209,
-        "doing": 62
+        "collect": 1210,
+        "doing": 61
       },
       "id": 19208,
       "eps": 1,
@@ -952,7 +952,7 @@
         "id": 462860
       }
     ],
-    "updatedAt": "2025-11-14T11:41:42.160Z"
+    "updatedAt": "2025-11-15T11:37:28.937Z"
   },
   {
     "id": 66390,
@@ -1200,7 +1200,7 @@
         }
       ],
       "rating": {
-        "rank": 2172,
+        "rank": 2175,
         "total": 80,
         "count": {
           "1": 1,
@@ -2261,7 +2261,7 @@
         "id": 455097
       }
     ],
-    "updatedAt": "2025-11-14T11:50:24.948Z"
+    "updatedAt": "2025-11-15T11:45:20.320Z"
   },
   {
     "id": 67758,
@@ -2469,7 +2469,7 @@
         }
       ],
       "rating": {
-        "rank": 3899,
+        "rank": 3898,
         "total": 145,
         "count": {
           "1": 0,
@@ -3364,7 +3364,7 @@
         "id": 455091
       }
     ],
-    "updatedAt": "2025-11-14T11:50:42.813Z"
+    "updatedAt": "2025-11-15T11:45:36.394Z"
   },
   {
     "id": 82721,
@@ -4401,7 +4401,7 @@
         "id": 47243
       }
     ],
-    "updatedAt": "2025-11-14T11:52:59.157Z"
+    "updatedAt": "2025-11-15T11:47:31.359Z"
   },
   {
     "id": 215103,
@@ -4959,7 +4959,7 @@
         "id": 41982
       }
     ],
-    "updatedAt": "2025-11-14T12:07:32.126Z"
+    "updatedAt": "2025-11-15T11:59:53.085Z"
   },
   {
     "id": 317022,
@@ -6297,7 +6297,7 @@
         "id": 470800
       }
     ],
-    "updatedAt": "2025-11-14T12:17:14.308Z"
+    "updatedAt": "2025-11-15T12:08:18.488Z"
   },
   {
     "id": 442368,
@@ -9478,19 +9478,32 @@
         ],
         "type": 1,
         "id": 167302
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b1/dd/190706_crt_8GZJr.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b1/dd/190706_crt_8GZJr.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b1/dd/190706_crt_8GZJr.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b1/dd/190706_crt_8GZJr.jpg"
+        },
+        "name": "Bumblebee (g1)",
+        "relation": "配角",
+        "actors": [],
+        "type": 1,
+        "id": 190706
       }
     ],
     "subjects": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/1e/1639_9JPHh.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/1e/1639_9JPHh.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/3c/1e/1639_9JPHh.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/1e/1639_9JPHh.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/1e/1639_9JPHh.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/1e/1639_V7UKN.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/1e/1639_V7UKN.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/3c/1e/1639_V7UKN.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/1e/1639_V7UKN.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/1e/1639_V7UKN.jpg"
         },
-        "name": "The Transformers",
-        "name_cn": "变形金刚（G1）",
+        "name": "The Transformers Season 1",
+        "name_cn": "变形金刚 第一季（G1）",
         "relation": "不同演绎",
         "type": 2,
         "id": 1639
@@ -9536,8 +9549,22 @@
         "relation": "印象曲",
         "type": 3,
         "id": 484491
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/be/607652_cpw58.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/be/607652_cpw58.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/ef/be/607652_cpw58.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/be/607652_cpw58.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/be/607652_cpw58.jpg"
+        },
+        "name": "The Transformers Season 2",
+        "name_cn": "变形金刚 第二季（G1）",
+        "relation": "不同演绎",
+        "type": 2,
+        "id": 607652
       }
     ],
-    "updatedAt": "2025-11-14T12:24:49.908Z"
+    "updatedAt": "2025-11-15T12:15:04.382Z"
   }
 ]

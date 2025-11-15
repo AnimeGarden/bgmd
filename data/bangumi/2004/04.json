@@ -17,12 +17,12 @@
       "tags": [
         {
           "name": "GAINAX",
-          "count": 67,
+          "count": 68,
           "total_cont": 0
         },
         {
           "name": "TV",
-          "count": 60,
+          "count": 61,
           "total_cont": 0
         },
         {
@@ -37,7 +37,12 @@
         },
         {
           "name": "原创",
-          "count": 38,
+          "count": 39,
+          "total_cont": 0
+        },
+        {
+          "name": "意识流",
+          "count": 33,
           "total_cont": 0
         },
         {
@@ -46,13 +51,8 @@
           "total_cont": 0
         },
         {
-          "name": "意识流",
-          "count": 32,
-          "total_cont": 0
-        },
-        {
           "name": "榎户洋司",
-          "count": 25,
+          "count": 26,
           "total_cont": 0
         },
         {
@@ -67,7 +67,7 @@
         },
         {
           "name": "奇幻",
-          "count": 8,
+          "count": 9,
           "total_cont": 0
         },
         {
@@ -106,27 +106,7 @@
           "total_cont": 0
         },
         {
-          "name": "保志総一朗",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "中原麻衣",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "周防義和",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "04番",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "2004年4月",
+          "name": "战斗",
           "count": 2,
           "total_cont": 0
         },
@@ -136,12 +116,7 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
+          "name": "04番",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +131,37 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "下野紘",
+          "name": "保志総一朗",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "中原麻衣",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "2004年4月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "周防義和",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "2004-04",
           "count": 1,
           "total_cont": 0
         }
@@ -265,15 +265,15 @@
         }
       ],
       "rating": {
-        "rank": 6342,
-        "total": 157,
+        "rank": 6341,
+        "total": 158,
         "count": {
           "1": 4,
           "2": 3,
           "3": 1,
           "4": 16,
           "5": 22,
-          "6": 47,
+          "6": 48,
           "7": 41,
           "8": 16,
           "9": 2,
@@ -286,7 +286,7 @@
         "on_hold": 41,
         "dropped": 40,
         "wish": 324,
-        "collect": 243,
+        "collect": 244,
         "doing": 33
       },
       "id": 329,
@@ -2622,7 +2622,7 @@
         "id": 147715
       }
     ],
-    "updatedAt": "2025-11-14T11:29:10.011Z"
+    "updatedAt": "2025-11-15T11:26:14.680Z"
   },
   {
     "id": 472,
@@ -2898,7 +2898,7 @@
         "on_hold": 67,
         "dropped": 30,
         "wish": 875,
-        "collect": 1391,
+        "collect": 1392,
         "doing": 38
       },
       "id": 472,
@@ -3535,7 +3535,7 @@
         "id": 111819
       }
     ],
-    "updatedAt": "2025-11-14T11:29:26.793Z"
+    "updatedAt": "2025-11-15T11:26:29.159Z"
   },
   {
     "id": 895,
@@ -3771,7 +3771,7 @@
         }
       ],
       "rating": {
-        "rank": 4305,
+        "rank": 4303,
         "total": 956,
         "count": {
           "1": 4,
@@ -5495,7 +5495,7 @@
         "id": 554020
       }
     ],
-    "updatedAt": "2025-11-14T11:30:11.188Z"
+    "updatedAt": "2025-11-15T11:27:09.068Z"
   },
   {
     "id": 1418,
@@ -5810,7 +5810,7 @@
         }
       ],
       "rating": {
-        "rank": 3240,
+        "rank": 3238,
         "total": 465,
         "count": {
           "1": 1,
@@ -7666,7 +7666,7 @@
         "id": 456261
       }
     ],
-    "updatedAt": "2025-11-14T11:30:52.564Z"
+    "updatedAt": "2025-11-15T11:27:46.797Z"
   },
   {
     "id": 1849,
@@ -12891,6 +12891,22 @@
         "type": 1,
         "id": 456,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "Lee Si-Eun",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 83247,
+        "eps": ""
       }
     ],
     "characters": [
@@ -12927,10 +12943,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/12/9160_crt_22xJk.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/f4/12/9160_crt_22xJk.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/f4/12/9160_crt_22xJk.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f4/12/9160_crt_22xJk.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/12/9160_crt_22xJk.jpg?r=1763199036",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f4/12/9160_crt_22xJk.jpg?r=1763199036",
+          "large": "https://lain.bgm.tv/pic/crt/l/f4/12/9160_crt_22xJk.jpg?r=1763199036",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f4/12/9160_crt_22xJk.jpg?r=1763199036"
         },
         "name": "ケロロ軍曹",
         "relation": "主角",
@@ -13219,10 +13235,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/3d/d3/26305_crt_tITcF.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/3d/d3/26305_crt_tITcF.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/3d/d3/26305_crt_tITcF.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/3d/d3/26305_crt_tITcF.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/3d/d3/26305_crt_tITcF.jpg?r=1763199059",
+          "grid": "https://lain.bgm.tv/pic/crt/g/3d/d3/26305_crt_tITcF.jpg?r=1763199059",
+          "large": "https://lain.bgm.tv/pic/crt/l/3d/d3/26305_crt_tITcF.jpg?r=1763199059",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/3d/d3/26305_crt_tITcF.jpg?r=1763199059"
         },
         "name": "タママ二等兵",
         "relation": "主角",
@@ -14546,7 +14562,7 @@
         "id": 502929
       }
     ],
-    "updatedAt": "2025-11-14T11:31:33.823Z"
+    "updatedAt": "2025-11-15T11:28:23.218Z"
   },
   {
     "id": 1959,
@@ -14566,12 +14582,12 @@
       "tags": [
         {
           "name": "浦泽直树",
-          "count": 1086,
+          "count": 1087,
           "total_cont": 0
         },
         {
           "name": "心理",
-          "count": 896,
+          "count": 897,
           "total_cont": 0
         },
         {
@@ -14586,12 +14602,12 @@
         },
         {
           "name": "怪物",
-          "count": 576,
+          "count": 577,
           "total_cont": 0
         },
         {
           "name": "TV",
-          "count": 552,
+          "count": 553,
           "total_cont": 0
         },
         {
@@ -14601,7 +14617,7 @@
         },
         {
           "name": "MONSTER",
-          "count": 386,
+          "count": 387,
           "total_cont": 0
         },
         {
@@ -14616,7 +14632,7 @@
         },
         {
           "name": "悬疑",
-          "count": 257,
+          "count": 258,
           "total_cont": 0
         },
         {
@@ -14680,12 +14696,12 @@
           "total_cont": 0
         },
         {
-          "name": "长篇",
+          "name": "2004年4月",
           "count": 19,
           "total_cont": 0
         },
         {
-          "name": "2004年4月",
+          "name": "长篇",
           "count": 19,
           "total_cont": 0
         },
@@ -14846,9 +14862,9 @@
       "collection": {
         "on_hold": 940,
         "dropped": 193,
-        "wish": 5172,
+        "wish": 5174,
         "collect": 5478,
-        "doing": 1229
+        "doing": 1231
       },
       "id": 1959,
       "eps": 74,
@@ -19894,7 +19910,7 @@
         "id": 246945
       }
     ],
-    "updatedAt": "2025-11-14T11:31:59.227Z"
+    "updatedAt": "2025-11-15T11:28:46.187Z"
   },
   {
     "id": 2126,
@@ -20171,7 +20187,7 @@
         }
       ],
       "rating": {
-        "rank": 2996,
+        "rank": 3000,
         "total": 885,
         "count": {
           "1": 2,
@@ -21647,7 +21663,7 @@
         "id": 223475
       }
     ],
-    "updatedAt": "2025-11-14T11:32:29.388Z"
+    "updatedAt": "2025-11-15T11:29:12.444Z"
   },
   {
     "id": 2167,
@@ -21977,7 +21993,7 @@
         }
       ],
       "rating": {
-        "rank": 6778,
+        "rank": 6777,
         "total": 562,
         "count": {
           "1": 2,
@@ -22372,10 +22388,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/59/8e/5983_prsn_F04KW.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/59/8e/5983_prsn_F04KW.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/59/8e/5983_prsn_F04KW.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/59/8e/5983_prsn_F04KW.jpg"
         },
         "name": "瀬山武司",
         "relation": "剪辑",
@@ -24153,7 +24169,7 @@
         "id": 398078
       }
     ],
-    "updatedAt": "2025-11-14T11:32:33.494Z"
+    "updatedAt": "2025-11-15T11:29:15.465Z"
   },
   {
     "id": 2169,
@@ -24409,7 +24425,7 @@
         }
       ],
       "rating": {
-        "rank": 5436,
+        "rank": 5433,
         "total": 109,
         "count": {
           "1": 1,
@@ -25774,7 +25790,7 @@
         "id": 190479
       }
     ],
-    "updatedAt": "2025-11-14T11:32:34.215Z"
+    "updatedAt": "2025-11-15T11:29:15.876Z"
   },
   {
     "id": 2750,
@@ -25898,17 +25914,12 @@
           "total_cont": 0
         },
         {
-          "name": "卖肉",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "黑",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "吐槽",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "卖肉",
           "count": 4,
           "total_cont": 0
         },
@@ -25918,13 +25929,8 @@
           "total_cont": 0
         },
         {
-          "name": "浪川大輔",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 3,
+          "name": "黑",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -25938,7 +25944,17 @@
           "total_cont": 0
         },
         {
-          "name": "肉番",
+          "name": "浪川大輔",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "冒险",
           "count": 2,
           "total_cont": 0
         }
@@ -26078,7 +26094,7 @@
         }
       ],
       "rating": {
-        "rank": 6246,
+        "rank": 6243,
         "total": 963,
         "count": {
           "1": 16,
@@ -26099,7 +26115,7 @@
         "on_hold": 144,
         "dropped": 116,
         "wish": 829,
-        "collect": 1526,
+        "collect": 1528,
         "doing": 108
       },
       "id": 2750,
@@ -27525,7 +27541,7 @@
         "id": 234042
       }
     ],
-    "updatedAt": "2025-11-14T11:33:19.397Z"
+    "updatedAt": "2025-11-15T11:29:56.892Z"
   },
   {
     "id": 2974,
@@ -27664,12 +27680,12 @@
           "total_cont": 0
         },
         {
-          "name": "トムス・エンタテインメント",
+          "name": "剧情",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "トムス・エンタテインメント",
           "count": 10,
           "total_cont": 0
         },
@@ -27689,7 +27705,7 @@
           "total_cont": 0
         },
         {
-          "name": "大野克夫",
+          "name": "动画",
           "count": 7,
           "total_cont": 0
         }
@@ -27876,7 +27892,7 @@
         }
       ],
       "rating": {
-        "rank": 4091,
+        "rank": 4090,
         "total": 3896,
         "count": {
           "1": 1,
@@ -27897,7 +27913,7 @@
         "on_hold": 23,
         "dropped": 23,
         "wish": 90,
-        "collect": 7349,
+        "collect": 7353,
         "doing": 21
       },
       "id": 2974,
@@ -32324,7 +32340,7 @@
         "id": 520924
       }
     ],
-    "updatedAt": "2025-11-14T11:33:45.577Z"
+    "updatedAt": "2025-11-15T11:30:21.146Z"
   },
   {
     "id": 2980,
@@ -33205,7 +33221,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-14T11:33:48.503Z"
+    "updatedAt": "2025-11-15T11:30:23.480Z"
   },
   {
     "id": 3407,
@@ -33527,7 +33543,7 @@
         }
       ],
       "rating": {
-        "rank": 7475,
+        "rank": 7472,
         "total": 255,
         "count": {
           "1": 1,
@@ -34670,7 +34686,7 @@
         "id": 568164
       }
     ],
-    "updatedAt": "2025-11-14T11:34:30.118Z"
+    "updatedAt": "2025-11-15T11:31:00.607Z"
   },
   {
     "id": 3816,
@@ -34700,7 +34716,7 @@
         },
         {
           "name": "2004年4月",
-          "count": 115,
+          "count": 116,
           "total_cont": 0
         },
         {
@@ -34765,7 +34781,7 @@
         },
         {
           "name": "日本",
-          "count": 14,
+          "count": 15,
           "total_cont": 0
         },
         {
@@ -34775,7 +34791,7 @@
         },
         {
           "name": "运动",
-          "count": 10,
+          "count": 11,
           "total_cont": 0
         },
         {
@@ -34799,12 +34815,12 @@
           "total_cont": 0
         },
         {
-          "name": "熊猫车",
+          "name": "冨永恒雄",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "冨永恒雄",
+          "name": "熊猫车",
           "count": 7,
           "total_cont": 0
         },
@@ -34964,8 +34980,8 @@
         }
       ],
       "rating": {
-        "rank": 1042,
-        "total": 1092,
+        "rank": 1041,
+        "total": 1093,
         "count": {
           "1": 1,
           "2": 1,
@@ -34974,7 +34990,7 @@
           "5": 20,
           "6": 114,
           "7": 417,
-          "8": 403,
+          "8": 404,
           "9": 95,
           "10": 32
         },
@@ -34985,7 +35001,7 @@
         "on_hold": 69,
         "dropped": 31,
         "wish": 210,
-        "collect": 1907,
+        "collect": 1908,
         "doing": 82
       },
       "id": 3816,
@@ -37059,7 +37075,7 @@
         "id": 77248
       }
     ],
-    "updatedAt": "2025-11-14T11:35:11.057Z"
+    "updatedAt": "2025-11-15T11:31:37.031Z"
   },
   {
     "id": 4371,
@@ -37339,7 +37355,7 @@
         }
       ],
       "rating": {
-        "rank": 6405,
+        "rank": 6404,
         "total": 643,
         "count": {
           "1": 3,
@@ -39166,7 +39182,7 @@
         "id": 122861
       }
     ],
-    "updatedAt": "2025-11-14T11:35:55.779Z"
+    "updatedAt": "2025-11-15T11:32:16.823Z"
   },
   {
     "id": 4471,
@@ -39476,7 +39492,7 @@
         }
       ],
       "rating": {
-        "rank": 4332,
+        "rank": 4331,
         "total": 216,
         "count": {
           "1": 0,
@@ -41375,7 +41391,7 @@
         "id": 496890
       }
     ],
-    "updatedAt": "2025-11-14T11:36:02.749Z"
+    "updatedAt": "2025-11-15T11:32:23.614Z"
   },
   {
     "id": 6997,
@@ -41583,7 +41599,7 @@
         }
       ],
       "rating": {
-        "rank": 3279,
+        "rank": 3280,
         "total": 216,
         "count": {
           "1": 0,
@@ -42793,7 +42809,7 @@
         "id": 346375
       }
     ],
-    "updatedAt": "2025-11-14T11:37:01.695Z"
+    "updatedAt": "2025-11-15T11:33:16.834Z"
   },
   {
     "id": 7354,
@@ -43057,7 +43073,7 @@
         }
       ],
       "rating": {
-        "rank": 2527,
+        "rank": 2528,
         "total": 202,
         "count": {
           "1": 1,
@@ -44417,7 +44433,7 @@
         "id": 444174
       }
     ],
-    "updatedAt": "2025-11-14T11:37:12.917Z"
+    "updatedAt": "2025-11-15T11:33:26.809Z"
   },
   {
     "id": 7904,
@@ -45644,7 +45660,7 @@
         "id": 148011
       }
     ],
-    "updatedAt": "2025-11-14T11:37:25.771Z"
+    "updatedAt": "2025-11-15T11:33:38.890Z"
   },
   {
     "id": 8991,
@@ -45773,32 +45789,22 @@
           "total_cont": 0
         },
         {
-          "name": "00年代",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "热血",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "劇場版",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "童年系",
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "续作",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "アニメ映画",
+          "name": "热血",
           "count": 2,
           "total_cont": 0
         },
@@ -45809,6 +45815,16 @@
         },
         {
           "name": "子供向",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "童年系",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "00年代",
           "count": 2,
           "total_cont": 0
         }
@@ -45875,8 +45891,8 @@
         }
       ],
       "rating": {
-        "rank": 529,
-        "total": 972,
+        "rank": 533,
+        "total": 973,
         "count": {
           "1": 1,
           "2": 1,
@@ -45884,7 +45900,7 @@
           "4": 1,
           "5": 15,
           "6": 84,
-          "7": 260,
+          "7": 261,
           "8": 422,
           "9": 117,
           "10": 68
@@ -45896,7 +45912,7 @@
         "on_hold": 18,
         "dropped": 24,
         "wish": 144,
-        "collect": 1778,
+        "collect": 1779,
         "doing": 8
       },
       "id": 8991,
@@ -47198,7 +47214,7 @@
         "id": 409013
       }
     ],
-    "updatedAt": "2025-11-14T11:38:05.330Z"
+    "updatedAt": "2025-11-15T11:34:14.296Z"
   },
   {
     "id": 9731,
@@ -47317,17 +47333,12 @@
           "total_cont": 0
         },
         {
-          "name": "治愈",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "2004年4月",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "日常",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "治愈",
           "count": 5,
           "total_cont": 0
         },
@@ -47342,13 +47353,8 @@
           "total_cont": 0
         },
         {
-          "name": "恋风",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 4,
+          "name": "2004年4月",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -47357,7 +47363,17 @@
           "total_cont": 0
         },
         {
+          "name": "恋风",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "吉田基已",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 4,
           "total_cont": 0
         },
@@ -47498,7 +47514,7 @@
         }
       ],
       "rating": {
-        "rank": 1590,
+        "rank": 1589,
         "total": 580,
         "count": {
           "1": 1,
@@ -47518,7 +47534,7 @@
       "collection": {
         "on_hold": 105,
         "dropped": 46,
-        "wish": 1303,
+        "wish": 1304,
         "collect": 820,
         "doing": 100
       },
@@ -49881,7 +49897,7 @@
         "id": 165397
       }
     ],
-    "updatedAt": "2025-11-14T11:38:30.746Z"
+    "updatedAt": "2025-11-15T11:34:36.145Z"
   },
   {
     "id": 10382,
@@ -50173,7 +50189,7 @@
         }
       ],
       "rating": {
-        "rank": 1675,
+        "rank": 1674,
         "total": 102,
         "count": {
           "1": 1,
@@ -51069,7 +51085,7 @@
         "id": 453323
       }
     ],
-    "updatedAt": "2025-11-14T11:39:01.967Z"
+    "updatedAt": "2025-11-15T11:35:05.787Z"
   },
   {
     "id": 14153,
@@ -51983,7 +51999,7 @@
         "id": 513097
       }
     ],
-    "updatedAt": "2025-11-14T11:40:40.219Z"
+    "updatedAt": "2025-11-15T11:36:34.637Z"
   },
   {
     "id": 16190,
@@ -55162,7 +55178,7 @@
         "id": 25897
       }
     ],
-    "updatedAt": "2025-11-14T11:41:03.373Z"
+    "updatedAt": "2025-11-15T11:36:54.398Z"
   },
   {
     "id": 19703,
@@ -56448,7 +56464,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-11-14T11:41:51.544Z"
+    "updatedAt": "2025-11-15T11:37:38.426Z"
   },
   {
     "id": 20996,
@@ -57346,10 +57362,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/38/2b/72222_prsn_2CNhD.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/38/2b/72222_prsn_2CNhD.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/38/2b/72222_prsn_2CNhD.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/38/2b/72222_prsn_2CNhD.jpg"
         },
         "name": "山脇光太郎",
         "relation": "原画",
@@ -57614,7 +57630,7 @@
         "id": 72405
       }
     ],
-    "updatedAt": "2025-11-14T11:42:12.633Z"
+    "updatedAt": "2025-11-15T11:37:56.875Z"
   },
   {
     "id": 22517,
@@ -58129,10 +58145,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/59/8e/5983_prsn_F04KW.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/59/8e/5983_prsn_F04KW.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/59/8e/5983_prsn_F04KW.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/59/8e/5983_prsn_F04KW.jpg"
         },
         "name": "瀬山武司",
         "relation": "剪辑",
@@ -58653,7 +58669,7 @@
         "id": 208867
       }
     ],
-    "updatedAt": "2025-11-14T11:42:27.036Z"
+    "updatedAt": "2025-11-15T11:38:09.663Z"
   },
   {
     "id": 25414,
@@ -58712,17 +58728,17 @@
           "total_cont": 0
         },
         {
+          "name": "萝卜",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "科幻",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "独立ova",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "萝卜",
           "count": 3,
           "total_cont": 0
         },
@@ -58737,7 +58753,47 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "无剧情",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日常",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "松井仁之",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "まついひとゆき",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "2004-04",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "駒都えーじ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "robo",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "ゲーム原作",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "机战",
           "count": 1,
           "total_cont": 0
         },
@@ -58752,6 +58808,16 @@
           "total_cont": 0
         },
         {
+          "name": "异世界",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "奇幻",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "游戏",
           "count": 1,
           "total_cont": 0
@@ -58762,62 +58828,12 @@
           "total_cont": 0
         },
         {
-          "name": "娜诺卡",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "机战",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "[NBG]",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "2004-04",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "駒都えーじ",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "ゲーム原作",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "2004年4月",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "世纪初",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "2004年4月",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "萌",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "异世界",
+          "name": "娜诺卡",
           "count": 1,
           "total_cont": 0
         }
@@ -58853,7 +58869,7 @@
         }
       ],
       "rating": {
-        "rank": 6229,
+        "rank": 6228,
         "total": 61,
         "count": {
           "1": 1,
@@ -58873,7 +58889,7 @@
       "collection": {
         "on_hold": 7,
         "dropped": 10,
-        "wish": 73,
+        "wish": 74,
         "collect": 94,
         "doing": 5
       },
@@ -59367,7 +59383,7 @@
         "id": 971
       }
     ],
-    "updatedAt": "2025-11-14T11:43:06.304Z"
+    "updatedAt": "2025-11-15T11:38:44.984Z"
   },
   {
     "id": 25920,
@@ -59563,7 +59579,7 @@
         }
       ],
       "rating": {
-        "rank": 2857,
+        "rank": 2856,
         "total": 232,
         "count": {
           "1": 0,
@@ -60359,7 +60375,7 @@
         "id": 161321
       }
     ],
-    "updatedAt": "2025-11-14T11:43:14.517Z"
+    "updatedAt": "2025-11-15T11:38:52.872Z"
   },
   {
     "id": 27711,
@@ -61848,7 +61864,7 @@
         "id": 451667
       }
     ],
-    "updatedAt": "2025-11-14T11:43:35.374Z"
+    "updatedAt": "2025-11-15T11:39:11.875Z"
   },
   {
     "id": 28169,
@@ -62235,7 +62251,7 @@
         "id": 512085
       }
     ],
-    "updatedAt": "2025-11-14T11:43:44.083Z"
+    "updatedAt": "2025-11-15T11:39:19.473Z"
   },
   {
     "id": 31258,
@@ -62435,7 +62451,7 @@
         }
       ],
       "rating": {
-        "rank": 2530,
+        "rank": 2531,
         "total": 109,
         "count": {
           "1": 0,
@@ -63628,7 +63644,7 @@
         "id": 526489
       }
     ],
-    "updatedAt": "2025-11-14T11:44:11.669Z"
+    "updatedAt": "2025-11-15T11:39:44.236Z"
   },
   {
     "id": 37262,
@@ -63682,12 +63698,12 @@
           "total_cont": 0
         },
         {
-          "name": "TVB",
+          "name": "PALM",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "PALM",
+          "name": "TVB",
           "count": 7,
           "total_cont": 0
         },
@@ -63697,18 +63713,13 @@
           "total_cont": 0
         },
         {
-          "name": "robo",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "元祖",
-          "count": 4,
+          "name": "robo",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -63717,12 +63728,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 2,
+          "name": "元祖",
+          "count": 4,
           "total_cont": 0
         },
         {
           "name": "2004年4月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
           "count": 2,
           "total_cont": 0
         },
@@ -63732,67 +63748,57 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
+          "name": "横山光輝",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "待看",
+          "name": "神作",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "超越原作的重制版",
+          "name": "2004.4",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "老害最爱",
+          "name": "补",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "パルム",
+          "name": "機器人",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "待補0",
+          "name": "社会",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "机器人",
+          "name": "重置",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "千住明",
+          "name": "一",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "机甲",
+          "name": "04-04",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "怀旧",
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "冷门",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "暂无资源",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "00s",
+          "name": "动画",
           "count": 1,
           "total_cont": 0
         }
@@ -63956,7 +63962,7 @@
         }
       ],
       "rating": {
-        "rank": 1953,
+        "rank": 1955,
         "total": 59,
         "count": {
           "1": 0,
@@ -63974,11 +63980,11 @@
       },
       "total_episodes": 26,
       "collection": {
-        "on_hold": 23,
+        "on_hold": 22,
         "dropped": 20,
         "wish": 173,
         "collect": 95,
-        "doing": 12
+        "doing": 13
       },
       "id": 37262,
       "eps": 26,
@@ -65044,10 +65050,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/59/8e/5983_prsn_F04KW.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/59/8e/5983_prsn_F04KW.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/59/8e/5983_prsn_F04KW.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/59/8e/5983_prsn_F04KW.jpg"
         },
         "name": "瀬山武司",
         "relation": "剪辑",
@@ -65763,7 +65769,7 @@
         "id": 400899
       }
     ],
-    "updatedAt": "2025-11-14T11:45:24.977Z"
+    "updatedAt": "2025-11-15T11:40:49.303Z"
   },
   {
     "id": 67990,
@@ -65976,7 +65982,7 @@
         }
       ],
       "rating": {
-        "rank": 4571,
+        "rank": 4569,
         "total": 143,
         "count": {
           "1": 0,
@@ -67123,7 +67129,7 @@
         "id": 144734
       }
     ],
-    "updatedAt": "2025-11-14T11:50:50.817Z"
+    "updatedAt": "2025-11-15T11:45:42.602Z"
   },
   {
     "id": 84547,
@@ -67402,7 +67408,7 @@
         }
       ],
       "rating": {
-        "rank": 6687,
+        "rank": 6685,
         "total": 88,
         "count": {
           "1": 0,
@@ -68733,7 +68739,7 @@
         "id": 294665
       }
     ],
-    "updatedAt": "2025-11-14T11:53:21.612Z"
+    "updatedAt": "2025-11-15T11:47:50.856Z"
   },
   {
     "id": 91790,
@@ -69255,7 +69261,7 @@
         "id": 37500
       }
     ],
-    "updatedAt": "2025-11-14T11:54:35.136Z"
+    "updatedAt": "2025-11-15T11:48:54.262Z"
   },
   {
     "id": 102041,
@@ -71876,7 +71882,7 @@
         "id": 605066
       }
     ],
-    "updatedAt": "2025-11-14T11:55:52.410Z"
+    "updatedAt": "2025-11-15T11:49:58.206Z"
   },
   {
     "id": 127133,
@@ -72136,7 +72142,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-11-14T11:58:51.130Z"
+    "updatedAt": "2025-11-15T11:52:30.621Z"
   },
   {
     "id": 133219,
@@ -73809,7 +73815,7 @@
         "id": 424685
       }
     ],
-    "updatedAt": "2025-11-14T11:59:28.848Z"
+    "updatedAt": "2025-11-15T11:53:01.828Z"
   },
   {
     "id": 139340,
@@ -74473,10 +74479,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/38/2b/72222_prsn_2CNhD.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/38/2b/72222_prsn_2CNhD.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/38/2b/72222_prsn_2CNhD.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/38/2b/72222_prsn_2CNhD.jpg"
         },
         "name": "山脇光太郎",
         "relation": "原画",
@@ -74780,7 +74786,7 @@
         "id": 139341
       }
     ],
-    "updatedAt": "2025-11-14T12:00:02.947Z"
+    "updatedAt": "2025-11-15T11:53:32.059Z"
   },
   {
     "id": 161690,
@@ -75374,7 +75380,7 @@
         "id": 199210
       }
     ],
-    "updatedAt": "2025-11-14T12:01:44.726Z"
+    "updatedAt": "2025-11-15T11:54:57.802Z"
   },
   {
     "id": 188894,
@@ -75633,7 +75639,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-14T12:04:09.706Z"
+    "updatedAt": "2025-11-15T11:56:59.530Z"
   },
   {
     "id": 293614,
@@ -75832,10 +75838,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/59/8e/5983_prsn_F04KW.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/59/8e/5983_prsn_F04KW.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/59/8e/5983_prsn_F04KW.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/59/8e/5983_prsn_F04KW.jpg"
         },
         "name": "瀬山武司",
         "relation": "剪辑",
@@ -76418,6 +76424,6 @@
         "id": 471765
       }
     ],
-    "updatedAt": "2025-11-14T12:14:40.647Z"
+    "updatedAt": "2025-11-15T12:06:06.136Z"
   }
 ]
