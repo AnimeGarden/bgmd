@@ -111,17 +111,7 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ映画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "电影",
+          "name": "SF",
           "count": 2,
           "total_cont": 0
         },
@@ -131,7 +121,7 @@
           "total_cont": 0
         },
         {
-          "name": "2020",
+          "name": "Shin-EiAnimation",
           "count": 2,
           "total_cont": 0
         },
@@ -141,12 +131,12 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
+          "name": "电影",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "Shin-EiAnimation",
+          "name": "喜剧",
           "count": 2,
           "total_cont": 0
         },
@@ -161,7 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "喜剧",
+          "name": "2020",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ映画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         }
@@ -293,7 +293,7 @@
         }
       ],
       "rating": {
-        "rank": 1980,
+        "rank": 1981,
         "total": 500,
         "count": {
           "1": 1,
@@ -314,7 +314,7 @@
         "on_hold": 16,
         "dropped": 17,
         "wish": 77,
-        "collect": 1027,
+        "collect": 1028,
         "doing": 12
       },
       "id": 458,
@@ -723,10 +723,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7b/06/30356_prsn_hJNat.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7b/06/30356_prsn_hJNat.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7b/06/30356_prsn_hJNat.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7b/06/30356_prsn_hJNat.jpg"
         },
         "name": "川本征平",
         "relation": "背景设定",
@@ -755,10 +755,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7b/06/30356_prsn_hJNat.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7b/06/30356_prsn_hJNat.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7b/06/30356_prsn_hJNat.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7b/06/30356_prsn_hJNat.jpg"
         },
         "name": "川本征平",
         "relation": "设定",
@@ -1558,7 +1558,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2025-11-15T11:26:25.446Z"
+    "updatedAt": "2025-11-16T11:26:46.137Z"
   },
   {
     "id": 5434,
@@ -4765,6 +4765,20 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/7a/297980_XGkGm.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/7a/297980_XGkGm.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/17/7a/297980_XGkGm.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/7a/297980_XGkGm.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/7a/297980_XGkGm.jpg"
+        },
+        "name": "美少女戦士セーラームーン メモリアル・ソング・ボックス",
+        "name_cn": "",
+        "relation": "其他",
+        "type": 3,
+        "id": 297980
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/4d/129607_aa6Q4.jpg",
           "grid": "https://lain.bgm.tv/r/100/pic/cover/l/48/4d/129607_aa6Q4.jpg",
           "large": "https://lain.bgm.tv/pic/cover/l/48/4d/129607_aa6Q4.jpg",
@@ -4988,7 +5002,7 @@
         "id": 5981
       }
     ],
-    "updatedAt": "2025-11-15T11:32:45.323Z"
+    "updatedAt": "2025-11-16T11:34:27.067Z"
   },
   {
     "id": 23452,
@@ -6502,7 +6516,7 @@
         "id": 528170
       }
     ],
-    "updatedAt": "2025-11-15T11:38:24.139Z"
+    "updatedAt": "2025-11-16T11:41:10.914Z"
   },
   {
     "id": 27206,
@@ -7785,7 +7799,7 @@
         "id": 360159
       }
     ],
-    "updatedAt": "2025-11-15T11:39:03.675Z"
+    "updatedAt": "2025-11-16T11:41:56.467Z"
   },
   {
     "id": 48944,
@@ -7814,7 +7828,7 @@
           "total_cont": 0
         },
         {
-          "name": "1996年3月",
+          "name": "1996",
           "count": 35,
           "total_cont": 0
         },
@@ -7849,23 +7863,18 @@
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "日本",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "漫改",
           "count": 9,
           "total_cont": 0
         },
         {
           "name": "动画",
           "count": 7,
-          "total_cont": 0
-        },
-        {
-          "name": "JUMP",
-          "count": 4,
           "total_cont": 0
         },
         {
@@ -7879,22 +7888,22 @@
           "total_cont": 0
         },
         {
+          "name": "JUMP",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "科幻",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ映画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "童年",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -7914,7 +7923,32 @@
           "total_cont": 0
         },
         {
-          "name": "动作",
+          "name": "アニメ映画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "OVA-OAD",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "东映动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "热血系",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "剧场",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "龙珠系列",
           "count": 1,
           "total_cont": 0
         },
@@ -7924,32 +7958,12 @@
           "total_cont": 0
         },
         {
-          "name": "2018",
+          "name": "西游记",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "热血战斗",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "東映",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "鸟山明",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "童年系列",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1996年3月",
+          "name": "草尾毅",
           "count": 1,
           "total_cont": 0
         }
@@ -8037,7 +8051,7 @@
         }
       ],
       "rating": {
-        "rank": 3752,
+        "rank": 3759,
         "total": 188,
         "count": {
           "1": 0,
@@ -8058,7 +8072,7 @@
         "on_hold": 9,
         "dropped": 15,
         "wish": 35,
-        "collect": 370,
+        "collect": 369,
         "doing": 5
       },
       "id": 48944,
@@ -9618,10 +9632,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/45/95/34295_prsn_jdDsC.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/45/95/34295_prsn_jdDsC.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/45/95/34295_prsn_jdDsC.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/45/95/34295_prsn_jdDsC.jpg"
         },
         "name": "辻忠直",
         "relation": "美术设计",
@@ -10501,7 +10515,7 @@
         "id": 168968
       }
     ],
-    "updatedAt": "2025-11-15T11:43:17.295Z"
+    "updatedAt": "2025-11-16T11:46:56.569Z"
   },
   {
     "id": 80698,
@@ -10530,7 +10544,7 @@
           "total_cont": 0
         },
         {
-          "name": "1996年3月",
+          "name": "1996年",
           "count": 39,
           "total_cont": 0
         },
@@ -10575,12 +10589,12 @@
           "total_cont": 0
         },
         {
-          "name": "科幻",
+          "name": "StudioPierrot",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "StudioPierrot",
+          "name": "科幻",
           "count": 7,
           "total_cont": 0
         },
@@ -10590,7 +10604,7 @@
           "total_cont": 0
         },
         {
-          "name": "1996年3月",
+          "name": "1996年",
           "count": 4,
           "total_cont": 0
         },
@@ -10625,47 +10639,47 @@
           "total_cont": 0
         },
         {
-          "name": "福利",
+          "name": "漫画改编",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1996年3月",
+          "name": "旧番",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "妹妹",
+          "name": "保刈久明",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "肉",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "卖肉",
+          "name": "田中比呂人",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "百合",
+          "name": "改编",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "90",
+          "name": "1990-1999",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "补",
+          "name": "7",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "90s",
+          "name": "宫村优子",
           "count": 1,
           "total_cont": 0
         }
@@ -10715,7 +10729,7 @@
         }
       ],
       "rating": {
-        "rank": 3318,
+        "rank": 3316,
         "total": 113,
         "count": {
           "1": 0,
@@ -10735,9 +10749,9 @@
       "collection": {
         "on_hold": 8,
         "dropped": 12,
-        "wish": 150,
+        "wish": 153,
         "collect": 140,
-        "doing": 9
+        "doing": 10
       },
       "id": 80698,
       "eps": 3,
@@ -11088,6 +11102,6 @@
         "id": 491781
       }
     ],
-    "updatedAt": "2025-11-15T11:47:09.034Z"
+    "updatedAt": "2025-11-16T11:51:28.369Z"
   }
 ]
