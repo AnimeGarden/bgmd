@@ -101,17 +101,17 @@
           "total_cont": 0
         },
         {
-          "name": "动画电影",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "經典",
           "count": 4,
           "total_cont": 0
         },
         {
           "name": "奇幻",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "动画电影",
           "count": 4,
           "total_cont": 0
         },
@@ -141,17 +141,12 @@
           "total_cont": 0
         },
         {
+          "name": "SF",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "映画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "补标",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         },
@@ -161,7 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
+          "name": "movie",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         }
@@ -309,7 +309,7 @@
         }
       ],
       "rating": {
-        "rank": 2695,
+        "rank": 2694,
         "total": 552,
         "count": {
           "1": 1,
@@ -2059,7 +2059,7 @@
         "id": 121749
       }
     ],
-    "updatedAt": "2025-11-17T11:30:13.202Z"
+    "updatedAt": "2025-11-19T11:30:26.072Z"
   },
   {
     "id": 1871,
@@ -2089,7 +2089,7 @@
         },
         {
           "name": "2001年3月",
-          "count": 74,
+          "count": 75,
           "total_cont": 0
         },
         {
@@ -2173,6 +2173,11 @@
           "total_cont": 0
         },
         {
+          "name": "东映动画",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "2001年3月",
           "count": 5,
           "total_cont": 0
@@ -2188,11 +2193,6 @@
           "total_cont": 0
         },
         {
-          "name": "东映动画",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "日本",
           "count": 4,
           "total_cont": 0
@@ -2203,12 +2203,12 @@
           "total_cont": 0
         },
         {
-          "name": "橋本裕志",
+          "name": "漫改",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "橋本裕志",
           "count": 2,
           "total_cont": 0
         },
@@ -2294,7 +2294,7 @@
         }
       ],
       "rating": {
-        "rank": 3915,
+        "rank": 3914,
         "total": 567,
         "count": {
           "1": 2,
@@ -2618,6 +2618,22 @@
         ],
         "type": 1,
         "id": 42643,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "录音工作室",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
         "eps": ""
       },
       {
@@ -2952,7 +2968,7 @@
         "id": 144667
       }
     ],
-    "updatedAt": "2025-11-17T11:32:28.510Z"
+    "updatedAt": "2025-11-19T11:32:42.650Z"
   },
   {
     "id": 3136,
@@ -3171,7 +3187,7 @@
         }
       ],
       "rating": {
-        "rank": 3804,
+        "rank": 3805,
         "total": 471,
         "count": {
           "1": 4,
@@ -4943,7 +4959,7 @@
         "id": 94315
       }
     ],
-    "updatedAt": "2025-11-17T11:34:58.679Z"
+    "updatedAt": "2025-11-19T11:35:15.617Z"
   },
   {
     "id": 25665,
@@ -5947,7 +5963,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-11-17T11:44:05.392Z"
+    "updatedAt": "2025-11-19T11:44:26.128Z"
   },
   {
     "id": 44758,
@@ -6153,7 +6169,7 @@
         }
       ],
       "rating": {
-        "rank": 4997,
+        "rank": 5001,
         "total": 245,
         "count": {
           "1": 6,
@@ -6505,7 +6521,7 @@
         "id": 77211
       }
     ],
-    "updatedAt": "2025-11-17T11:48:02.650Z"
+    "updatedAt": "2025-11-19T11:48:24.285Z"
   },
   {
     "id": 84222,
@@ -7506,6 +7522,6 @@
         "id": 564092
       }
     ],
-    "updatedAt": "2025-11-17T11:53:30.108Z"
+    "updatedAt": "2025-11-19T11:54:13.815Z"
   }
 ]

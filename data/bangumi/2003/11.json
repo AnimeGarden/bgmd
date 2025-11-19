@@ -22,7 +22,7 @@
         },
         {
           "name": "剧场版",
-          "count": 1877,
+          "count": 1878,
           "total_cont": 0
         },
         {
@@ -37,7 +37,7 @@
         },
         {
           "name": "原创",
-          "count": 852,
+          "count": 853,
           "total_cont": 0
         },
         {
@@ -52,12 +52,12 @@
         },
         {
           "name": "家人",
-          "count": 443,
+          "count": 444,
           "total_cont": 0
         },
         {
           "name": "治愈",
-          "count": 436,
+          "count": 439,
           "total_cont": 0
         },
         {
@@ -286,7 +286,7 @@
       ],
       "rating": {
         "rank": 102,
-        "total": 7676,
+        "total": 7678,
         "count": {
           "1": 7,
           "2": 6,
@@ -294,8 +294,8 @@
           "4": 9,
           "5": 44,
           "6": 217,
-          "7": 1014,
-          "8": 3386,
+          "7": 1015,
+          "8": 3387,
           "9": 2190,
           "10": 798
         },
@@ -305,8 +305,8 @@
       "collection": {
         "on_hold": 207,
         "dropped": 50,
-        "wish": 3362,
-        "collect": 11137,
+        "wish": 3363,
+        "collect": 11140,
         "doing": 188
       },
       "id": 842,
@@ -1928,7 +1928,7 @@
         "id": 335714
       }
     ],
-    "updatedAt": "2025-11-17T11:30:50.327Z"
+    "updatedAt": "2025-11-19T11:31:04.278Z"
   },
   {
     "id": 1926,
@@ -2219,7 +2219,7 @@
         }
       ],
       "rating": {
-        "rank": 1179,
+        "rank": 1181,
         "total": 1154,
         "count": {
           "1": 4,
@@ -2239,8 +2239,8 @@
       "collection": {
         "on_hold": 210,
         "dropped": 72,
-        "wish": 1327,
-        "collect": 1628,
+        "wish": 1328,
+        "collect": 1629,
         "doing": 127
       },
       "id": 1926,
@@ -4915,7 +4915,7 @@
         "id": 78268
       }
     ],
-    "updatedAt": "2025-11-17T11:32:36.149Z"
+    "updatedAt": "2025-11-19T11:32:51.548Z"
   },
   {
     "id": 4686,
@@ -6614,7 +6614,7 @@
         "id": 170395
       }
     ],
-    "updatedAt": "2025-11-17T11:37:06.010Z"
+    "updatedAt": "2025-11-19T11:37:23.504Z"
   },
   {
     "id": 39254,
@@ -7114,6 +7114,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "录音工作室",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/4b/08/26606_prsn_e6qig.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/4b/08/26606_prsn_e6qig.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/4b/08/26606_prsn_e6qig.jpg",
@@ -7462,22 +7478,6 @@
         ],
         "type": 1,
         "id": 37014,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
-        },
-        "name": "タバック",
-        "relation": "录音",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 18992,
         "eps": ""
       },
       {
@@ -9560,6 +9560,6 @@
         "id": 512059
       }
     ],
-    "updatedAt": "2025-11-17T11:47:09.284Z"
+    "updatedAt": "2025-11-19T11:47:31.291Z"
   }
 ]

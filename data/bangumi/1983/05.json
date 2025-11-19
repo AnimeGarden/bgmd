@@ -912,7 +912,7 @@
         "id": 455046
       }
     ],
-    "updatedAt": "2025-11-17T11:49:27.626Z"
+    "updatedAt": "2025-11-19T11:49:48.189Z"
   },
   {
     "id": 82321,
@@ -1575,7 +1575,7 @@
         "id": 549248
       }
     ],
-    "updatedAt": "2025-11-17T11:53:08.765Z"
+    "updatedAt": "2025-11-19T11:53:50.912Z"
   },
   {
     "id": 255511,
@@ -1624,37 +1624,7 @@
           "total_cont": 0
         },
         {
-          "name": "东映动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "古谷徹",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "80s",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "原画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "東映アニメーション",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "恋爱",
           "count": 2,
           "total_cont": 0
         },
@@ -1664,27 +1634,42 @@
           "total_cont": 0
         },
         {
+          "name": "恋爱",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "旧物",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 1,
+          "name": "原画",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "TVA",
-          "count": 1,
+          "name": "古谷徹",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "无来源",
-          "count": 1,
+          "name": "东映动画",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "补",
+          "name": "日本",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "東映アニメーション",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "后宫",
           "count": 1,
           "total_cont": 0
         },
@@ -1694,7 +1679,7 @@
           "total_cont": 0
         },
         {
-          "name": "后宫",
+          "name": "补",
           "count": 1,
           "total_cont": 0
         },
@@ -1704,7 +1689,22 @@
           "total_cont": 0
         },
         {
+          "name": "无来源",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "酷儿角色",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         }
@@ -1879,7 +1879,7 @@
       "collection": {
         "on_hold": 10,
         "dropped": 7,
-        "wish": 79,
+        "wish": 80,
         "collect": 24,
         "doing": 18
       },
@@ -3344,6 +3344,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "录音工作室",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -3356,6 +3372,22 @@
         ],
         "type": 1,
         "id": 82987,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "剪辑",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
         "eps": ""
       }
     ],
@@ -3390,6 +3422,6 @@
         "id": 449142
       }
     ],
-    "updatedAt": "2025-11-17T12:10:20.007Z"
+    "updatedAt": "2025-11-19T12:11:22.678Z"
   }
 ]

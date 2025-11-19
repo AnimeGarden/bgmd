@@ -106,11 +106,6 @@
           "total_cont": 0
         },
         {
-          "name": "童年的经典",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
           "name": "漫改",
           "count": 9,
           "total_cont": 0
@@ -121,12 +116,17 @@
           "total_cont": 0
         },
         {
-          "name": "冒险",
-          "count": 8,
+          "name": "童年的经典",
+          "count": 9,
           "total_cont": 0
         },
         {
           "name": "长篇",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "冒险",
           "count": 8,
           "total_cont": 0
         },
@@ -156,12 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "经典",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "日本动画",
           "count": 6,
           "total_cont": 0
         }
@@ -233,8 +233,8 @@
         }
       ],
       "rating": {
-        "rank": 1528,
-        "total": 1725,
+        "rank": 1521,
+        "total": 1726,
         "count": {
           "1": 5,
           "2": 3,
@@ -245,7 +245,7 @@
           "7": 634,
           "8": 468,
           "9": 134,
-          "10": 104
+          "10": 105
         },
         "score": 7.3
       },
@@ -254,8 +254,8 @@
         "on_hold": 116,
         "dropped": 63,
         "wish": 182,
-        "collect": 2930,
-        "doing": 77
+        "collect": 2934,
+        "doing": 76
       },
       "id": 9566,
       "eps": 64,
@@ -575,22 +575,6 @@
         ],
         "type": 2,
         "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
-        },
-        "name": "タバック",
-        "relation": "录音",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 18992,
         "eps": ""
       },
       {
@@ -1280,6 +1264,22 @@
         ],
         "type": 2,
         "id": 3045,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "录音工作室",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
         "eps": ""
       }
     ],
@@ -2778,6 +2778,6 @@
         "id": 543599
       }
     ],
-    "updatedAt": "2025-11-17T11:39:12.772Z"
+    "updatedAt": "2025-11-19T11:39:33.112Z"
   }
 ]

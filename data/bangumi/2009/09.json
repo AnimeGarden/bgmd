@@ -1000,6 +1000,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "录音工作室",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -1111,22 +1127,6 @@
         ],
         "type": 2,
         "id": 3638,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
-        },
-        "name": "タバック",
-        "relation": "录音",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 18992,
         "eps": ""
       },
       {
@@ -2659,7 +2659,7 @@
         "id": 520590
       }
     ],
-    "updatedAt": "2025-11-17T11:33:56.691Z"
+    "updatedAt": "2025-11-19T11:34:12.843Z"
   },
   {
     "id": 3153,
@@ -2798,18 +2798,13 @@
           "total_cont": 0
         },
         {
-          "name": "釘宮理恵",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "战斗",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 4,
+          "name": "釘宮理恵",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -2824,6 +2819,11 @@
         },
         {
           "name": "阪口大助",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "中井和哉",
           "count": 4,
           "total_cont": 0
         }
@@ -2878,7 +2878,7 @@
         }
       ],
       "rating": {
-        "rank": 427,
+        "rank": 425,
         "total": 880,
         "count": {
           "1": 16,
@@ -2900,7 +2900,7 @@
         "dropped": 46,
         "wish": 483,
         "collect": 1668,
-        "doing": 48
+        "doing": 49
       },
       "id": 3153,
       "eps": 1,
@@ -3443,7 +3443,7 @@
         "id": 255029
       }
     ],
-    "updatedAt": "2025-11-17T11:35:02.468Z"
+    "updatedAt": "2025-11-19T11:35:18.821Z"
   },
   {
     "id": 3341,
@@ -6900,7 +6900,7 @@
         "id": 520724
       }
     ],
-    "updatedAt": "2025-11-17T11:35:17.539Z"
+    "updatedAt": "2025-11-19T11:35:34.960Z"
   },
   {
     "id": 14766,
@@ -6984,37 +6984,17 @@
           "total_cont": 0
         },
         {
-          "name": "2000s",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "富冈淳广",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "日升",
-          "count": 4,
+          "name": "2000s",
+          "count": 5,
           "total_cont": 0
         },
         {
           "name": "战斗之魂",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "奇幻",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "冨岡淳広",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "打牌",
           "count": 4,
           "total_cont": 0
         },
@@ -7024,7 +7004,22 @@
           "total_cont": 0
         },
         {
+          "name": "冨岡淳広",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "日升本气",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "日升",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "打牌",
           "count": 4,
           "total_cont": 0
         },
@@ -7034,22 +7029,12 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
-          "count": 3,
+          "name": "奇幻",
+          "count": 4,
           "total_cont": 0
         },
         {
           "name": "2009年9月",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
           "count": 3,
           "total_cont": 0
         },
@@ -7059,12 +7044,27 @@
           "total_cont": 0
         },
         {
+          "name": "战斗",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "矢立肇",
           "count": 3,
           "total_cont": 0
         },
         {
+          "name": "日本",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "バトルスピリッツ",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
           "count": 3,
           "total_cont": 0
         }
@@ -7248,8 +7248,8 @@
         }
       ],
       "rating": {
-        "rank": 1155,
-        "total": 150,
+        "rank": 1161,
+        "total": 151,
         "count": {
           "1": 0,
           "2": 0,
@@ -7257,7 +7257,7 @@
           "4": 2,
           "5": 3,
           "6": 14,
-          "7": 51,
+          "7": 52,
           "8": 63,
           "9": 14,
           "10": 3
@@ -7268,8 +7268,8 @@
       "collection": {
         "on_hold": 28,
         "dropped": 22,
-        "wish": 132,
-        "collect": 208,
+        "wish": 133,
+        "collect": 209,
         "doing": 32
       },
       "id": 14766,
@@ -10204,7 +10204,7 @@
         "id": 83086
       }
     ],
-    "updatedAt": "2025-11-17T11:41:44.825Z"
+    "updatedAt": "2025-11-19T11:42:03.140Z"
   },
   {
     "id": 62930,
@@ -10918,7 +10918,7 @@
         "id": 425951
       }
     ],
-    "updatedAt": "2025-11-17T11:50:51.238Z"
+    "updatedAt": "2025-11-19T11:51:14.492Z"
   },
   {
     "id": 162688,
@@ -11158,7 +11158,7 @@
         }
       ],
       "rating": {
-        "rank": 1997,
+        "rank": 1996,
         "total": 343,
         "count": {
           "1": 6,
@@ -12784,7 +12784,7 @@
         "id": 4705
       }
     ],
-    "updatedAt": "2025-11-17T12:01:33.462Z"
+    "updatedAt": "2025-11-19T12:02:29.199Z"
   },
   {
     "id": 210715,
@@ -12894,6 +12894,6 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-17T12:05:53.625Z"
+    "updatedAt": "2025-11-19T12:06:52.913Z"
   }
 ]

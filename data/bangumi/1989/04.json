@@ -276,7 +276,7 @@
       ],
       "rating": {
         "rank": 707,
-        "total": 1756,
+        "total": 1758,
         "count": {
           "1": 0,
           "2": 2,
@@ -284,8 +284,8 @@
           "4": 3,
           "5": 39,
           "6": 155,
-          "7": 607,
-          "8": 678,
+          "7": 608,
+          "8": 679,
           "9": 174,
           "10": 96
         },
@@ -295,8 +295,8 @@
       "collection": {
         "on_hold": 326,
         "dropped": 101,
-        "wish": 1168,
-        "collect": 2738,
+        "wish": 1173,
+        "collect": 2740,
         "doing": 353
       },
       "id": 2789,
@@ -2715,7 +2715,7 @@
         "id": 517084
       }
     ],
-    "updatedAt": "2025-11-17T11:34:16.002Z"
+    "updatedAt": "2025-11-19T11:34:32.443Z"
   },
   {
     "id": 4653,
@@ -2844,11 +2844,6 @@
           "total_cont": 0
         },
         {
-          "name": "战斗系",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "西久保瑞穗",
           "count": 3,
           "total_cont": 0
@@ -2859,12 +2854,22 @@
           "total_cont": 0
         },
         {
+          "name": "战斗系",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "官方崩坏",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "果体海滩对谈",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "80s",
+          "name": "7分",
           "count": 2,
           "total_cont": 0
         },
@@ -2874,12 +2879,7 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "7分",
+          "name": "80s",
           "count": 2,
           "total_cont": 0
         }
@@ -3007,7 +3007,7 @@
       "collection": {
         "on_hold": 65,
         "dropped": 39,
-        "wish": 339,
+        "wish": 341,
         "collect": 499,
         "doing": 31
       },
@@ -4358,7 +4358,7 @@
         "id": 284188
       }
     ],
-    "updatedAt": "2025-11-17T11:37:04.817Z"
+    "updatedAt": "2025-11-19T11:37:22.672Z"
   },
   {
     "id": 5467,
@@ -4667,7 +4667,7 @@
         }
       ],
       "rating": {
-        "rank": 1859,
+        "rank": 1860,
         "total": 1164,
         "count": {
           "1": 0,
@@ -4687,7 +4687,7 @@
       "collection": {
         "on_hold": 81,
         "dropped": 34,
-        "wish": 146,
+        "wish": 147,
         "collect": 1959,
         "doing": 35
       },
@@ -5492,6 +5492,22 @@
       },
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "松浦錠平",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1473,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/8a/cb/777_prsn_tmTRa.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/8a/cb/777_prsn_tmTRa.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/8a/cb/777_prsn_tmTRa.jpg",
@@ -5520,22 +5536,6 @@
         ],
         "type": 1,
         "id": 1016,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "松浦錠平",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1473,
         "eps": ""
       },
       {
@@ -5584,22 +5584,6 @@
         ],
         "type": 1,
         "id": 707,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "松浦錠平",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1473,
         "eps": ""
       },
       {
@@ -5874,6 +5858,22 @@
         ],
         "type": 2,
         "id": 189,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "松浦錠平",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1473,
         "eps": ""
       }
     ],
@@ -7077,7 +7077,7 @@
         "id": 445950
       }
     ],
-    "updatedAt": "2025-11-17T11:37:21.233Z"
+    "updatedAt": "2025-11-19T11:37:39.697Z"
   },
   {
     "id": 9005,
@@ -7102,7 +7102,7 @@
         },
         {
           "name": "童年",
-          "count": 660,
+          "count": 661,
           "total_cont": 0
         },
         {
@@ -7187,7 +7187,7 @@
         },
         {
           "name": "经典",
-          "count": 23,
+          "count": 24,
           "total_cont": 0
         },
         {
@@ -7206,11 +7206,6 @@
           "total_cont": 0
         },
         {
-          "name": "长篇",
-          "count": 13,
-          "total_cont": 0
-        },
-        {
           "name": "80年代",
           "count": 13,
           "total_cont": 0
@@ -7221,12 +7216,17 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 12,
+          "name": "长篇",
+          "count": 13,
           "total_cont": 0
         },
         {
           "name": "1989年4月",
+          "count": 12,
+          "total_cont": 0
+        },
+        {
+          "name": "奇幻",
           "count": 12,
           "total_cont": 0
         },
@@ -7236,12 +7236,12 @@
           "total_cont": 0
         },
         {
-          "name": "设定系",
+          "name": "TVA",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "续作",
+          "name": "设定系",
           "count": 7,
           "total_cont": 0
         }
@@ -7322,7 +7322,7 @@
       ],
       "rating": {
         "rank": 143,
-        "total": 3655,
+        "total": 3658,
         "count": {
           "1": 6,
           "2": 3,
@@ -7330,19 +7330,19 @@
           "4": 5,
           "5": 42,
           "6": 213,
-          "7": 649,
+          "7": 650,
           "8": 1327,
-          "9": 842,
-          "10": 565
+          "9": 843,
+          "10": 566
         },
         "score": 8.2
       },
       "total_episodes": 291,
       "collection": {
-        "on_hold": 191,
+        "on_hold": 193,
         "dropped": 94,
-        "wish": 389,
-        "collect": 6190,
+        "wish": 390,
+        "collect": 6195,
         "doing": 162
       },
       "id": 9005,
@@ -11034,7 +11034,7 @@
         "id": 495019
       }
     ],
-    "updatedAt": "2025-11-17T11:39:00.112Z"
+    "updatedAt": "2025-11-19T11:39:20.495Z"
   },
   {
     "id": 10262,
@@ -12493,7 +12493,7 @@
         "id": 135826
       }
     ],
-    "updatedAt": "2025-11-17T11:39:42.343Z"
+    "updatedAt": "2025-11-19T11:40:02.201Z"
   },
   {
     "id": 23177,
@@ -13248,7 +13248,7 @@
         "id": 3621
       }
     ],
-    "updatedAt": "2025-11-17T11:43:32.887Z"
+    "updatedAt": "2025-11-19T11:43:53.395Z"
   },
   {
     "id": 26592,
@@ -13454,7 +13454,7 @@
         }
       ],
       "rating": {
-        "rank": 2653,
+        "rank": 2652,
         "total": 574,
         "count": {
           "1": 1,
@@ -14078,7 +14078,7 @@
         "id": 108705
       }
     ],
-    "updatedAt": "2025-11-17T11:44:16.094Z"
+    "updatedAt": "2025-11-19T11:44:36.566Z"
   },
   {
     "id": 67764,
@@ -14402,7 +14402,7 @@
         }
       ],
       "rating": {
-        "rank": 3233,
+        "rank": 3234,
         "total": 101,
         "count": {
           "1": 0,
@@ -15895,7 +15895,7 @@
         "id": 496915
       }
     ],
-    "updatedAt": "2025-11-17T11:51:21.525Z"
+    "updatedAt": "2025-11-19T11:51:48.551Z"
   },
   {
     "id": 73023,
@@ -16111,7 +16111,7 @@
         }
       ],
       "rating": {
-        "rank": 7001,
+        "rank": 7002,
         "total": 87,
         "count": {
           "1": 1,
@@ -16278,7 +16278,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-17T11:51:56.693Z"
+    "updatedAt": "2025-11-19T11:52:27.120Z"
   },
   {
     "id": 77940,
@@ -17036,7 +17036,7 @@
         "id": 378356
       }
     ],
-    "updatedAt": "2025-11-17T11:52:26.226Z"
+    "updatedAt": "2025-11-19T11:53:01.173Z"
   },
   {
     "id": 78256,
@@ -18072,7 +18072,7 @@
         "id": 282148
       }
     ],
-    "updatedAt": "2025-11-17T11:52:30.093Z"
+    "updatedAt": "2025-11-19T11:53:04.780Z"
   },
   {
     "id": 81574,
@@ -18611,7 +18611,7 @@
         "id": 439420
       }
     ],
-    "updatedAt": "2025-11-17T11:53:04.231Z"
+    "updatedAt": "2025-11-19T11:53:44.367Z"
   },
   {
     "id": 81576,
@@ -18978,7 +18978,7 @@
         "id": 188851
       }
     ],
-    "updatedAt": "2025-11-17T11:53:04.049Z"
+    "updatedAt": "2025-11-19T11:53:45.244Z"
   },
   {
     "id": 213111,
@@ -19017,17 +19017,12 @@
           "total_cont": 0
         },
         {
-          "name": "三田ゆう子",
+          "name": "漫画改",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "古川登志夫",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "80s",
+          "name": "赛璐珞",
           "count": 1,
           "total_cont": 0
         },
@@ -19042,47 +19037,7 @@
           "total_cont": 0
         },
         {
-          "name": "漫改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "赛璐珞",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "东映",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "优秀子供向",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "佐藤顺一",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "佐藤順一",
           "count": 1,
           "total_cont": 0
         },
@@ -19092,7 +19047,62 @@
           "total_cont": 0
         },
         {
+          "name": "佐藤顺一",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "80s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "三田ゆう子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "山内重保",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "佐藤順一",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "漫改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "古川登志夫",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "都市传说",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "王道",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "东映",
           "count": 1,
           "total_cont": 0
         }
@@ -19177,11 +19187,11 @@
       },
       "total_episodes": 42,
       "collection": {
-        "on_hold": 4,
+        "on_hold": 3,
         "dropped": 5,
         "wish": 9,
         "collect": 9,
-        "doing": 6
+        "doing": 7
       },
       "id": 213111,
       "eps": 42,
@@ -19263,6 +19273,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "录音工作室",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
           "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
           "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
@@ -19275,22 +19301,6 @@
         ],
         "type": 1,
         "id": 456,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
-        },
-        "name": "タバック",
-        "relation": "录音",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 18992,
         "eps": ""
       },
       {
@@ -19483,22 +19493,6 @@
         ],
         "type": 1,
         "id": 828,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
-        },
-        "name": "タバック",
-        "relation": "剪辑",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 18992,
         "eps": ""
       },
       {
@@ -20735,6 +20729,22 @@
         "type": 1,
         "id": 82581,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "剪辑",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
+        "eps": ""
       }
     ],
     "characters": [
@@ -21021,6 +21031,6 @@
         "id": 414961
       }
     ],
-    "updatedAt": "2025-11-17T12:06:32.952Z"
+    "updatedAt": "2025-11-19T12:07:31.765Z"
   }
 ]

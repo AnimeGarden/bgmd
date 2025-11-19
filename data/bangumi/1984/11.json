@@ -56,27 +56,22 @@
           "total_cont": 0
         },
         {
-          "name": "1984年十月番",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "TVA",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "1980s",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "原创",
-          "count": 2,
+          "name": "1984年十月番",
+          "count": 4,
           "total_cont": 0
         },
         {
           "name": "トムス・エンタテインメント",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1980s",
           "count": 2,
           "total_cont": 0
         },
@@ -86,47 +81,12 @@
           "total_cont": 0
         },
         {
-          "name": "片渕須直",
-          "count": 1,
+          "name": "原创",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "半年番組",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "近藤喜文",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "山崎敬之",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "补番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "悬疑",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "島崎真弓",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "□宮崎駿",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "东京电影新社",
+          "name": "80年代",
           "count": 1,
           "total_cont": 0
         },
@@ -141,17 +101,7 @@
           "total_cont": 0
         },
         {
-          "name": "80年代",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "狗",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ",
           "count": 1,
           "total_cont": 0
         },
@@ -161,7 +111,57 @@
           "total_cont": 0
         },
         {
+          "name": "东京电影新社",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "国际合作",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "島崎真弓",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "羽田健太郎",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "大塚周夫",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "童年",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "意大利",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TMS_Entertainment",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "84",
           "count": 1,
           "total_cont": 0
         }
@@ -271,7 +271,7 @@
       "collection": {
         "on_hold": 10,
         "dropped": 12,
-        "wish": 74,
+        "wish": 75,
         "collect": 50,
         "doing": 12
       },
@@ -1108,10 +1108,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7f/b9/1927_prsn_ikE3j.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7f/b9/1927_prsn_ikE3j.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7f/b9/1927_prsn_ikE3j.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7f/b9/1927_prsn_ikE3j.jpg"
         },
         "name": "小華和ためお",
         "relation": "分镜",
@@ -1713,8 +1713,22 @@
         "relation": "片头曲",
         "type": 3,
         "id": 554003
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/74/608770_44Vv2.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/74/608770_44Vv2.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/18/74/608770_44Vv2.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/74/608770_44Vv2.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/74/608770_44Vv2.jpg"
+        },
+        "name": "名探偵ホームズ サウンドトラック",
+        "name_cn": "名侦探福尔摩斯 音乐集",
+        "relation": "原声集",
+        "type": 3,
+        "id": 608770
       }
     ],
-    "updatedAt": "2025-11-17T11:39:30.597Z"
+    "updatedAt": "2025-11-19T11:39:49.385Z"
   }
 ]

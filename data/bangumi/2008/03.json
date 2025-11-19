@@ -36,12 +36,12 @@
           "total_cont": 0
         },
         {
-          "name": "藤子・F・不二雄",
+          "name": "SHIN-EI",
           "count": 50,
           "total_cont": 0
         },
         {
-          "name": "SHIN-EI",
+          "name": "藤子・F・不二雄",
           "count": 50,
           "total_cont": 0
         },
@@ -91,22 +91,22 @@
           "total_cont": 0
         },
         {
-          "name": "原创",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
           "name": "喜剧",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "冒险",
-          "count": 8,
+          "name": "原创",
+          "count": 9,
           "total_cont": 0
         },
         {
           "name": "机器猫",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "冒险",
           "count": 8,
           "total_cont": 0
         },
@@ -146,11 +146,6 @@
           "total_cont": 0
         },
         {
-          "name": "2008年3月",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "动画电影",
           "count": 3,
           "total_cont": 0
@@ -162,6 +157,11 @@
         },
         {
           "name": "补标",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "渡辺歩",
           "count": 3,
           "total_cont": 0
         }
@@ -2962,7 +2962,7 @@
         "id": 512402
       }
     ],
-    "updatedAt": "2025-11-17T11:30:16.914Z"
+    "updatedAt": "2025-11-19T11:30:29.260Z"
   },
   {
     "id": 489,
@@ -3076,12 +3076,12 @@
           "total_cont": 0
         },
         {
-          "name": "恋爱",
+          "name": "元永慶太郎",
           "count": 13,
           "total_cont": 0
         },
         {
-          "name": "元永慶太郎",
+          "name": "恋爱",
           "count": 13,
           "total_cont": 0
         },
@@ -3121,12 +3121,12 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "上江洲誠",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "上江洲誠",
+          "name": "动画",
           "count": 5,
           "total_cont": 0
         }
@@ -3158,7 +3158,7 @@
         }
       ],
       "rating": {
-        "rank": 8829,
+        "rank": 8832,
         "total": 1149,
         "count": {
           "1": 25,
@@ -3178,8 +3178,8 @@
       "collection": {
         "on_hold": 50,
         "dropped": 40,
-        "wish": 323,
-        "collect": 2038,
+        "wish": 324,
+        "collect": 2039,
         "doing": 35
       },
       "id": 489,
@@ -3545,7 +3545,7 @@
         "id": 122016
       }
     ],
-    "updatedAt": "2025-11-17T11:30:19.799Z"
+    "updatedAt": "2025-11-19T11:30:34.344Z"
   },
   {
     "id": 1486,
@@ -3753,7 +3753,7 @@
         }
       ],
       "rating": {
-        "rank": 3556,
+        "rank": 3557,
         "total": 609,
         "count": {
           "1": 2,
@@ -4695,7 +4695,7 @@
         "id": 185448
       }
     ],
-    "updatedAt": "2025-11-17T11:31:54.452Z"
+    "updatedAt": "2025-11-19T11:32:09.889Z"
   },
   {
     "id": 1511,
@@ -4919,7 +4919,7 @@
       "collection": {
         "on_hold": 235,
         "dropped": 106,
-        "wish": 360,
+        "wish": 361,
         "collect": 1378,
         "doing": 89
       },
@@ -6101,7 +6101,7 @@
         "id": 180710
       }
     ],
-    "updatedAt": "2025-11-17T11:31:55.532Z"
+    "updatedAt": "2025-11-19T11:32:11.703Z"
   },
   {
     "id": 2000,
@@ -6376,7 +6376,7 @@
         }
       ],
       "rating": {
-        "rank": 1595,
+        "rank": 1596,
         "total": 823,
         "count": {
           "1": 0,
@@ -6912,6 +6912,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "录音工作室",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/30/45/18008_prsn_9CFc1.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/30/45/18008_prsn_9CFc1.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/30/45/18008_prsn_9CFc1.jpg",
@@ -7186,7 +7202,7 @@
         "id": 369191
       }
     ],
-    "updatedAt": "2025-11-17T11:33:04.509Z"
+    "updatedAt": "2025-11-19T11:33:19.341Z"
   },
   {
     "id": 2459,
@@ -7335,12 +7351,12 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "续作",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "续作",
+          "name": "动画",
           "count": 10,
           "total_cont": 0
         },
@@ -7435,7 +7451,7 @@
         }
       ],
       "rating": {
-        "rank": 520,
+        "rank": 519,
         "total": 3113,
         "count": {
           "1": 11,
@@ -7453,7 +7469,7 @@
       },
       "total_episodes": 12,
       "collection": {
-        "on_hold": 93,
+        "on_hold": 94,
         "dropped": 53,
         "wish": 517,
         "collect": 5207,
@@ -8784,7 +8800,7 @@
         "id": 66873
       }
     ],
-    "updatedAt": "2025-11-17T11:33:44.119Z"
+    "updatedAt": "2025-11-19T11:33:59.155Z"
   },
   {
     "id": 3760,
@@ -9024,7 +9040,7 @@
         }
       ],
       "rating": {
-        "rank": 6154,
+        "rank": 6157,
         "total": 95,
         "count": {
           "1": 1,
@@ -9935,7 +9951,7 @@
         "id": 37831
       }
     ],
-    "updatedAt": "2025-11-17T11:35:54.747Z"
+    "updatedAt": "2025-11-19T11:36:11.994Z"
   },
   {
     "id": 3763,
@@ -10174,7 +10190,7 @@
         }
       ],
       "rating": {
-        "rank": 2532,
+        "rank": 2533,
         "total": 228,
         "count": {
           "1": 1,
@@ -11053,7 +11069,7 @@
         "id": 104932
       }
     ],
-    "updatedAt": "2025-11-17T11:35:56.067Z"
+    "updatedAt": "2025-11-19T11:36:13.687Z"
   },
   {
     "id": 3856,
@@ -11197,7 +11213,17 @@
           "total_cont": 0
         },
         {
-          "name": "00年代",
+          "name": "杀手",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "犯罪",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "金子秀一",
           "count": 3,
           "total_cont": 0
         },
@@ -11207,17 +11233,7 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "アームス",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "金子秀一",
+          "name": "00年代",
           "count": 3,
           "total_cont": 0
         }
@@ -11265,16 +11281,16 @@
         }
       ],
       "rating": {
-        "rank": 4447,
-        "total": 866,
+        "rank": 4456,
+        "total": 867,
         "count": {
           "1": 5,
           "2": 2,
           "3": 6,
-          "4": 35,
-          "5": 71,
+          "4": 36,
+          "5": 70,
           "6": 254,
-          "7": 317,
+          "7": 318,
           "8": 140,
           "9": 18,
           "10": 18
@@ -11286,7 +11302,7 @@
         "on_hold": 64,
         "dropped": 31,
         "wish": 798,
-        "collect": 1281,
+        "collect": 1284,
         "doing": 65
       },
       "id": 3856,
@@ -12270,7 +12286,7 @@
         "id": 564222
       }
     ],
-    "updatedAt": "2025-11-17T11:36:06.824Z"
+    "updatedAt": "2025-11-19T11:36:24.985Z"
   },
   {
     "id": 8884,
@@ -12478,7 +12494,7 @@
         }
       ],
       "rating": {
-        "rank": 4658,
+        "rank": 4657,
         "total": 209,
         "count": {
           "1": 0,
@@ -13185,7 +13201,7 @@
         "id": 8758
       }
     ],
-    "updatedAt": "2025-11-17T11:38:50.180Z"
+    "updatedAt": "2025-11-19T11:39:10.646Z"
   },
   {
     "id": 118574,
@@ -13874,7 +13890,7 @@
         "id": 118575
       }
     ],
-    "updatedAt": "2025-11-17T11:57:51.364Z"
+    "updatedAt": "2025-11-19T11:58:43.946Z"
   },
   {
     "id": 161694,
@@ -14484,6 +14500,6 @@
         "id": 199210
       }
     ],
-    "updatedAt": "2025-11-17T12:01:24.673Z"
+    "updatedAt": "2025-11-19T12:02:19.468Z"
   }
 ]
