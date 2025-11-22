@@ -17,12 +17,12 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 242,
+          "count": 243,
           "total_cont": 0
         },
         {
           "name": "哆啦A梦",
-          "count": 182,
+          "count": 183,
           "total_cont": 0
         },
         {
@@ -116,7 +116,12 @@
           "total_cont": 0
         },
         {
-          "name": "1994年3月",
+          "name": "映画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "哆啦A夢",
           "count": 3,
           "total_cont": 0
         },
@@ -131,6 +136,11 @@
           "total_cont": 0
         },
         {
+          "name": "1994年3月",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "日本动画",
           "count": 3,
           "total_cont": 0
@@ -141,27 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "映画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "哆啦A夢",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "Shin-EiAnimation",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ映画",
+          "name": "补标",
           "count": 2,
           "total_cont": 0
         },
         {
           "name": "战斗",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "Shin-EiAnimation",
           "count": 2,
           "total_cont": 0
         }
@@ -312,8 +312,8 @@
         }
       ],
       "rating": {
-        "rank": 1392,
-        "total": 717,
+        "rank": 1394,
+        "total": 719,
         "count": {
           "1": 1,
           "2": 0,
@@ -321,7 +321,7 @@
           "4": 2,
           "5": 24,
           "6": 98,
-          "7": 277,
+          "7": 279,
           "8": 244,
           "9": 44,
           "10": 24
@@ -333,7 +333,7 @@
         "on_hold": 17,
         "dropped": 19,
         "wish": 76,
-        "collect": 1422,
+        "collect": 1425,
         "doing": 13
       },
       "id": 453,
@@ -1911,7 +1911,7 @@
         "id": 515261
       }
     ],
-    "updatedAt": "2025-11-21T11:28:51.124Z"
+    "updatedAt": "2025-11-22T11:27:00.056Z"
   },
   {
     "id": 3731,
@@ -2738,7 +2738,7 @@
         "id": 1608
       }
     ],
-    "updatedAt": "2025-11-21T11:34:11.152Z"
+    "updatedAt": "2025-11-22T11:36:38.467Z"
   },
   {
     "id": 5432,
@@ -3884,10 +3884,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/45/6e/13298_prsn_HnF3q.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/45/6e/13298_prsn_HnF3q.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/45/6e/13298_prsn_HnF3q.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/45/6e/13298_prsn_HnF3q.jpg"
         },
         "name": "橋本和幸",
         "relation": "背景美术",
@@ -4188,6 +4188,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
+        },
+        "name": "佐藤順一",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 456,
+        "eps": "90,97,104,109"
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/50/d0/727_prsn_D9hCA.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/50/d0/727_prsn_D9hCA.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/50/d0/727_prsn_D9hCA.jpg",
@@ -4411,6 +4427,22 @@
         "type": 1,
         "id": 9752,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
+        },
+        "name": "佐藤順一",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 456,
+        "eps": "90,97,104,109,124-125"
       },
       {
         "images": {
@@ -4844,10 +4876,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/45/6e/13298_prsn_HnF3q.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/45/6e/13298_prsn_HnF3q.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/45/6e/13298_prsn_HnF3q.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/45/6e/13298_prsn_HnF3q.jpg"
         },
         "name": "橋本和幸",
         "relation": "美术监督",
@@ -4970,22 +5002,6 @@
         "type": 1,
         "id": 1568,
         "eps": "93,100,105,111"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
-        "eps": "90,97,104,109"
       },
       {
         "images": {
@@ -5151,22 +5167,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
-        "eps": "90,97,104,109,124-125"
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/eb/e5/1568_prsn_S333T.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/eb/e5/1568_prsn_S333T.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/eb/e5/1568_prsn_S333T.jpg",
@@ -5329,22 +5329,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "Bank 分镜演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
@@ -5357,6 +5341,22 @@
         ],
         "type": 2,
         "id": 18992,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
+        },
+        "name": "佐藤順一",
+        "relation": "Bank 分镜演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 456,
         "eps": ""
       }
     ],
@@ -6379,7 +6379,7 @@
         "id": 147683
       }
     ],
-    "updatedAt": "2025-11-21T11:35:34.502Z"
+    "updatedAt": "2025-11-22T11:38:19.073Z"
   },
   {
     "id": 10467,
@@ -6626,7 +6626,7 @@
         }
       ],
       "rating": {
-        "rank": 4748,
+        "rank": 4749,
         "total": 61,
         "count": {
           "1": 0,
@@ -7209,7 +7209,7 @@
         "id": 437413
       }
     ],
-    "updatedAt": "2025-11-21T11:38:24.261Z"
+    "updatedAt": "2025-11-22T11:41:51.863Z"
   },
   {
     "id": 41733,
@@ -8519,7 +8519,7 @@
         "id": 409891
       }
     ],
-    "updatedAt": "2025-11-21T11:45:27.450Z"
+    "updatedAt": "2025-11-22T11:50:34.281Z"
   },
   {
     "id": 45395,
@@ -8787,7 +8787,7 @@
         }
       ],
       "rating": {
-        "rank": 3459,
+        "rank": 3458,
         "total": 307,
         "count": {
           "1": 0,
@@ -9614,10 +9614,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/21/f6/11780_prsn_PWq1R.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/21/f6/11780_prsn_PWq1R.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/21/f6/11780_prsn_PWq1R.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/21/f6/11780_prsn_PWq1R.jpg"
         },
         "name": "木下和栄",
         "relation": "原画",
@@ -10291,7 +10291,7 @@
         "id": 240287
       }
     ],
-    "updatedAt": "2025-11-21T11:46:03.490Z"
+    "updatedAt": "2025-11-22T11:51:15.552Z"
   },
   {
     "id": 82726,
@@ -10881,10 +10881,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/45/6e/13298_prsn_HnF3q.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/45/6e/13298_prsn_HnF3q.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/45/6e/13298_prsn_HnF3q.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/45/6e/13298_prsn_HnF3q.jpg"
         },
         "name": "橋本和幸",
         "relation": "背景美术",
@@ -11600,7 +11600,7 @@
         "id": 47243
       }
     ],
-    "updatedAt": "2025-11-21T11:51:17.695Z"
+    "updatedAt": "2025-11-22T11:57:23.344Z"
   },
   {
     "id": 315673,
@@ -11686,7 +11686,7 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-21T12:12:49.718Z"
+    "updatedAt": "2025-11-22T12:23:30.529Z"
   },
   {
     "id": 315674,
@@ -11776,6 +11776,6 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-21T12:12:50.260Z"
+    "updatedAt": "2025-11-22T12:23:31.063Z"
   }
 ]

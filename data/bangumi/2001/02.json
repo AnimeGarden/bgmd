@@ -225,7 +225,7 @@
       "collection": {
         "on_hold": 80,
         "dropped": 26,
-        "wish": 1284,
+        "wish": 1287,
         "collect": 3650,
         "doing": 57
       },
@@ -935,7 +935,7 @@
         "id": 252436
       }
     ],
-    "updatedAt": "2025-11-21T11:34:40.036Z"
+    "updatedAt": "2025-11-22T11:37:12.236Z"
   },
   {
     "id": 14877,
@@ -959,7 +959,7 @@
           "total_cont": 0
         },
         {
-          "name": "2001年2月",
+          "name": "2001年",
           "count": 86,
           "total_cont": 0
         },
@@ -1049,17 +1049,12 @@
           "total_cont": 0
         },
         {
-          "name": "2001年2月",
+          "name": "2001年",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "大和屋晓",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "幼女向",
+          "name": "日本",
           "count": 3,
           "total_cont": 0
         },
@@ -1074,11 +1069,6 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "佐藤顺一",
           "count": 3,
           "total_cont": 0
@@ -1089,17 +1079,27 @@
           "total_cont": 0
         },
         {
-          "name": "长篇",
+          "name": "大和屋晓",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "幼女向",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "2001年2月",
+          "name": "魔法",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "校园",
+          "name": "搞笑",
           "count": 2,
           "total_cont": 0
         }
@@ -1982,6 +1982,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
+        },
+        "name": "佐藤順一",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 456,
+        "eps": "20"
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -2300,22 +2316,6 @@
         "type": 1,
         "id": 1011,
         "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
-        "eps": "20"
       },
       {
         "images": {
@@ -2757,6 +2757,6 @@
         "id": 442298
       }
     ],
-    "updatedAt": "2025-11-21T11:39:50.080Z"
+    "updatedAt": "2025-11-22T11:43:36.958Z"
   }
 ]

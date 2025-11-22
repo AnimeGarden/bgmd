@@ -91,6 +91,11 @@
           "total_cont": 0
         },
         {
+          "name": "日本",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "Netflix",
           "count": 5,
           "total_cont": 0
@@ -101,8 +106,8 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 5,
+          "name": "伪",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -111,17 +116,17 @@
           "total_cont": 0
         },
         {
-          "name": "伪",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "TMSEntertainment",
+          "name": "便宜动画",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "便宜动画",
+          "name": "续作",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "TMSEntertainment",
           "count": 3,
           "total_cont": 0
         },
@@ -132,11 +137,6 @@
         },
         {
           "name": "トムス・エンタテインメント",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "续作",
           "count": 3,
           "total_cont": 0
         },
@@ -256,13 +256,13 @@
         }
       ],
       "rating": {
-        "rank": 6561,
-        "total": 724,
+        "rank": 6580,
+        "total": 725,
         "count": {
           "1": 5,
           "2": 2,
           "3": 14,
-          "4": 18,
+          "4": 19,
           "5": 99,
           "6": 322,
           "7": 196,
@@ -276,7 +276,7 @@
       "collection": {
         "on_hold": 23,
         "dropped": 31,
-        "wish": 107,
+        "wish": 108,
         "collect": 1241,
         "doing": 39
       },
@@ -756,7 +756,7 @@
         "id": 321648
       }
     ],
-    "updatedAt": "2025-11-21T12:09:14.643Z"
+    "updatedAt": "2025-11-22T12:19:17.172Z"
   },
   {
     "id": 299202,
@@ -870,12 +870,12 @@
           "total_cont": 0
         },
         {
-          "name": "冈田磨里",
+          "name": "电影",
           "count": 14,
           "total_cont": 0
         },
         {
-          "name": "电影",
+          "name": "冈田磨里",
           "count": 14,
           "total_cont": 0
         },
@@ -900,6 +900,11 @@
           "total_cont": 0
         },
         {
+          "name": "日常",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
           "name": "2020s",
           "count": 6,
           "total_cont": 0
@@ -910,17 +915,12 @@
           "total_cont": 0
         },
         {
-          "name": "日常",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "想哭的我戴上了猫的面具",
+          "name": "2020年4月",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "スタジオコロリド",
+          "name": "日漫",
           "count": 5,
           "total_cont": 0
         }
@@ -1045,7 +1045,7 @@
         }
       ],
       "rating": {
-        "rank": 6415,
+        "rank": 6412,
         "total": 2983,
         "count": {
           "1": 8,
@@ -1065,8 +1065,8 @@
       "collection": {
         "on_hold": 153,
         "dropped": 81,
-        "wish": 1297,
-        "collect": 4678,
+        "wish": 1298,
+        "collect": 4679,
         "doing": 108
       },
       "id": 299202,
@@ -1356,22 +1356,6 @@
         ],
         "type": 1,
         "id": 24336,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "音响监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
         "eps": ""
       },
       {
@@ -2268,6 +2252,22 @@
         ],
         "type": 1,
         "id": 68727,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
+        },
+        "name": "佐藤順一",
+        "relation": "音响监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 456,
         "eps": ""
       },
       {
@@ -3346,22 +3346,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/21/da/25146_prsn_kj99U.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/21/da/25146_prsn_kj99U.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/21/da/25146_prsn_kj99U.jpg",
@@ -3464,7 +3448,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
         },
         "name": "佐藤順一",
-        "relation": "分镜",
+        "relation": "演出",
         "career": [
           "producer"
         ],
@@ -3631,6 +3615,22 @@
         ],
         "type": 1,
         "id": 72032,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
+        },
+        "name": "佐藤順一",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 456,
         "eps": ""
       },
       {
@@ -4171,7 +4171,7 @@
         "id": 358787
       }
     ],
-    "updatedAt": "2025-11-21T12:11:27.289Z"
+    "updatedAt": "2025-11-22T12:21:55.346Z"
   },
   {
     "id": 308711,
@@ -4648,6 +4648,6 @@
         "id": 297459
       }
     ],
-    "updatedAt": "2025-11-21T12:12:13.650Z"
+    "updatedAt": "2025-11-22T12:22:48.990Z"
   }
 ]
