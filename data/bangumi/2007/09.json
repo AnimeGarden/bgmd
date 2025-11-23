@@ -156,12 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "补旧番",
+          "name": "TV",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "续作",
           "count": 3,
           "total_cont": 0
         }
@@ -436,8 +436,8 @@
       "collection": {
         "on_hold": 152,
         "dropped": 51,
-        "wish": 1410,
-        "collect": 2391,
+        "wish": 1413,
+        "collect": 2392,
         "doing": 120
       },
       "id": 750,
@@ -2636,7 +2636,7 @@
         "id": 555362
       }
     ],
-    "updatedAt": "2025-11-22T11:28:12.346Z"
+    "updatedAt": "2025-11-23T11:27:44.100Z"
   },
   {
     "id": 772,
@@ -2656,17 +2656,17 @@
       "tags": [
         {
           "name": "EVA",
-          "count": 3904,
+          "count": 3907,
           "total_cont": 0
         },
         {
           "name": "剧场版",
-          "count": 3569,
+          "count": 3572,
           "total_cont": 0
         },
         {
           "name": "庵野秀明",
-          "count": 3158,
+          "count": 3160,
           "total_cont": 0
         },
         {
@@ -2676,12 +2676,12 @@
         },
         {
           "name": "2007年9月",
-          "count": 1317,
+          "count": 1318,
           "total_cont": 0
         },
         {
           "name": "科幻",
-          "count": 1121,
+          "count": 1123,
           "total_cont": 0
         },
         {
@@ -2691,7 +2691,7 @@
         },
         {
           "name": "原创",
-          "count": 901,
+          "count": 902,
           "total_cont": 0
         },
         {
@@ -2706,7 +2706,7 @@
         },
         {
           "name": "机战",
-          "count": 330,
+          "count": 331,
           "total_cont": 0
         },
         {
@@ -2731,7 +2731,7 @@
         },
         {
           "name": "日本",
-          "count": 143,
+          "count": 145,
           "total_cont": 0
         },
         {
@@ -2944,7 +2944,7 @@
       ],
       "rating": {
         "rank": 195,
-        "total": 14934,
+        "total": 14946,
         "count": {
           "1": 31,
           "2": 8,
@@ -2952,20 +2952,20 @@
           "4": 25,
           "5": 111,
           "6": 634,
-          "7": 2907,
-          "8": 6783,
+          "7": 2911,
+          "8": 6789,
           "9": 2973,
-          "10": 1448
+          "10": 1450
         },
         "score": 8.1
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 186,
+        "on_hold": 187,
         "dropped": 67,
         "wish": 1628,
-        "collect": 24920,
-        "doing": 274
+        "collect": 24939,
+        "doing": 272
       },
       "id": 772,
       "eps": 1,
@@ -5367,6 +5367,22 @@
         "type": 1,
         "id": 94,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "杉山好美",
+        "relation": "演员监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 39112,
+        "eps": ""
       }
     ],
     "characters": [
@@ -6577,7 +6593,7 @@
         "id": 3302
       }
     ],
-    "updatedAt": "2025-11-22T11:28:24.158Z"
+    "updatedAt": "2025-11-23T11:27:49.360Z"
   },
   {
     "id": 2733,
@@ -6641,17 +6657,17 @@
           "total_cont": 0
         },
         {
-          "name": "太田垣康男",
-          "count": 12,
-          "total_cont": 0
-        },
-        {
           "name": "SF",
           "count": 12,
           "total_cont": 0
         },
         {
           "name": "漫改",
+          "count": 12,
+          "total_cont": 0
+        },
+        {
+          "name": "太田垣康男",
           "count": 12,
           "total_cont": 0
         },
@@ -6686,12 +6702,7 @@
           "total_cont": 0
         },
         {
-          "name": "遠藤明範",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "00年代",
+          "name": "TVA",
           "count": 2,
           "total_cont": 0
         },
@@ -6701,22 +6712,7 @@
           "total_cont": 0
         },
         {
-          "name": "mile",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "7分",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -6726,22 +6722,42 @@
           "total_cont": 0
         },
         {
-          "name": "续作",
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "遠藤明範",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "mile",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "00年代",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "怀旧",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "井上和彦",
+          "name": "7.5",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "季番組",
+          "name": "宇宙战争",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "2007-09",
+          "name": "喜欢",
           "count": 1,
           "total_cont": 0
         }
@@ -6793,7 +6809,7 @@
         }
       ],
       "rating": {
-        "rank": 1087,
+        "rank": 1090,
         "total": 232,
         "count": {
           "1": 1,
@@ -6814,8 +6830,8 @@
         "on_hold": 43,
         "dropped": 16,
         "wish": 363,
-        "collect": 305,
-        "doing": 17
+        "collect": 306,
+        "doing": 16
       },
       "id": 2733,
       "eps": 14,
@@ -7293,7 +7309,7 @@
         "id": 26141
       }
     ],
-    "updatedAt": "2025-11-22T11:34:44.093Z"
+    "updatedAt": "2025-11-23T11:31:12.899Z"
   },
   {
     "id": 3686,
@@ -7318,12 +7334,12 @@
         },
         {
           "name": "Clannad",
-          "count": 438,
+          "count": 439,
           "total_cont": 0
         },
         {
           "name": "key",
-          "count": 338,
+          "count": 339,
           "total_cont": 0
         },
         {
@@ -7358,7 +7374,7 @@
         },
         {
           "name": "麻枝准",
-          "count": 107,
+          "count": 108,
           "total_cont": 0
         },
         {
@@ -7442,12 +7458,12 @@
           "total_cont": 0
         },
         {
-          "name": "出崎統",
+          "name": "中原麻衣",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "中原麻衣",
+          "name": "出崎統",
           "count": 5,
           "total_cont": 0
         },
@@ -7506,17 +7522,17 @@
         }
       ],
       "rating": {
-        "rank": 7333,
-        "total": 1697,
+        "rank": 7336,
+        "total": 1699,
         "count": {
           "1": 47,
           "2": 31,
           "3": 60,
           "4": 179,
-          "5": 273,
+          "5": 274,
           "6": 434,
           "7": 336,
-          "8": 183,
+          "8": 184,
           "9": 60,
           "10": 94
         },
@@ -7525,9 +7541,9 @@
       "total_episodes": 1,
       "collection": {
         "on_hold": 156,
-        "dropped": 165,
+        "dropped": 166,
         "wish": 724,
-        "collect": 2928,
+        "collect": 2929,
         "doing": 77
       },
       "id": 3686,
@@ -8478,7 +8494,7 @@
         "id": 105444
       }
     ],
-    "updatedAt": "2025-11-22T11:36:36.508Z"
+    "updatedAt": "2025-11-23T11:32:49.790Z"
   },
   {
     "id": 4014,
@@ -8783,9 +8799,9 @@
       "collection": {
         "on_hold": 144,
         "dropped": 33,
-        "wish": 2025,
-        "collect": 7058,
-        "doing": 107
+        "wish": 2026,
+        "collect": 7059,
+        "doing": 106
       },
       "id": 4014,
       "eps": 1,
@@ -10900,7 +10916,7 @@
         "id": 168206
       }
     ],
-    "updatedAt": "2025-11-22T11:37:08.379Z"
+    "updatedAt": "2025-11-23T11:33:17.223Z"
   },
   {
     "id": 84689,
@@ -11538,7 +11554,7 @@
         "id": 84688
       }
     ],
-    "updatedAt": "2025-11-22T11:57:51.848Z"
+    "updatedAt": "2025-11-23T11:50:47.516Z"
   },
   {
     "id": 99953,
@@ -12188,6 +12204,6 @@
         "id": 135207
       }
     ],
-    "updatedAt": "2025-11-22T12:00:02.908Z"
+    "updatedAt": "2025-11-23T11:52:45.437Z"
   }
 ]
