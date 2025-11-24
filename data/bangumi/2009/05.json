@@ -201,7 +201,7 @@
         }
       ],
       "rating": {
-        "rank": 3391,
+        "rank": 3389,
         "total": 580,
         "count": {
           "1": 1,
@@ -223,7 +223,7 @@
         "dropped": 63,
         "wish": 736,
         "collect": 1003,
-        "doing": 124
+        "doing": 125
       },
       "id": 1533,
       "eps": 13,
@@ -2273,7 +2273,7 @@
         "id": 75515
       }
     ],
-    "updatedAt": "2025-11-23T11:29:06.593Z"
+    "updatedAt": "2025-11-24T11:31:53.551Z"
   },
   {
     "id": 2430,
@@ -2531,7 +2531,7 @@
         }
       ],
       "rating": {
-        "rank": 2415,
+        "rank": 2416,
         "total": 271,
         "count": {
           "1": 0,
@@ -2553,7 +2553,7 @@
         "dropped": 19,
         "wish": 310,
         "collect": 423,
-        "doing": 13
+        "doing": 14
       },
       "id": 2430,
       "eps": 4,
@@ -2573,13 +2573,45 @@
     "persons": [
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/1d/d1/82953_prsn_8RR9V.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/1d/d1/82953_prsn_8RR9V.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/1d/d1/82953_prsn_8RR9V.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/1d/d1/82953_prsn_8RR9V.jpg"
+        },
+        "name": "沖浦泰斗",
+        "relation": "制作统括",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82953,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7d/2a/6331_prsn_GZmH4.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7d/2a/6331_prsn_GZmH4.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7d/2a/6331_prsn_GZmH4.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7d/2a/6331_prsn_GZmH4.jpg"
+        },
+        "name": "david production",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 6331,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/d0/2d/185_prsn_36JQ6.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/d0/2d/185_prsn_36JQ6.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/d0/2d/185_prsn_36JQ6.jpg",
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d0/2d/185_prsn_36JQ6.jpg"
         },
         "name": "谷口悟朗",
-        "relation": "特别鸣谢",
+        "relation": "制作协力",
         "career": [
           "producer"
         ],
@@ -2601,6 +2633,22 @@
         ],
         "type": 1,
         "id": 28461,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "スタジオごんぐ",
+        "relation": "剪辑",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 83500,
         "eps": ""
       },
       {
@@ -2779,54 +2827,6 @@
         ],
         "type": 1,
         "id": 3766,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/1d/d1/82953_prsn_8RR9V.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/1d/d1/82953_prsn_8RR9V.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/1d/d1/82953_prsn_8RR9V.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/1d/d1/82953_prsn_8RR9V.jpg"
-        },
-        "name": "沖浦泰斗",
-        "relation": "制作统括",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 82953,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7d/2a/6331_prsn_GZmH4.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/7d/2a/6331_prsn_GZmH4.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/7d/2a/6331_prsn_GZmH4.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7d/2a/6331_prsn_GZmH4.jpg"
-        },
-        "name": "david production",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 6331,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "スタジオごんぐ",
-        "relation": "剪辑",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 83500,
         "eps": ""
       }
     ],
@@ -3231,7 +3231,7 @@
         "id": 51717
       }
     ],
-    "updatedAt": "2025-11-23T11:30:44.163Z"
+    "updatedAt": "2025-11-24T11:33:33.479Z"
   },
   {
     "id": 3190,
@@ -3457,7 +3457,7 @@
         }
       ],
       "rating": {
-        "rank": 8410,
+        "rank": 8414,
         "total": 264,
         "count": {
           "1": 5,
@@ -3750,7 +3750,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-11-23T11:32:13.512Z"
+    "updatedAt": "2025-11-24T11:35:01.350Z"
   },
   {
     "id": 3424,
@@ -3970,7 +3970,7 @@
         }
       ],
       "rating": {
-        "rank": 2451,
+        "rank": 2452,
         "total": 1454,
         "count": {
           "1": 4,
@@ -5084,7 +5084,7 @@
         "id": 6666
       }
     ],
-    "updatedAt": "2025-11-23T11:32:29.411Z"
+    "updatedAt": "2025-11-24T11:35:17.377Z"
   },
   {
     "id": 37874,
@@ -5281,16 +5281,16 @@
       ],
       "rating": {
         "rank": 703,
-        "total": 7769,
+        "total": 7775,
         "count": {
           "1": 19,
           "2": 6,
           "3": 17,
           "4": 38,
           "5": 172,
-          "6": 705,
+          "6": 706,
           "7": 2558,
-          "8": 3026,
+          "8": 3031,
           "9": 735,
           "10": 493
         },
@@ -5300,8 +5300,8 @@
       "collection": {
         "on_hold": 167,
         "dropped": 64,
-        "wish": 1325,
-        "collect": 13977,
+        "wish": 1327,
+        "collect": 13988,
         "doing": 163
       },
       "id": 37874,
@@ -5786,7 +5786,7 @@
         "id": 579023
       }
     ],
-    "updatedAt": "2025-11-23T11:43:41.647Z"
+    "updatedAt": "2025-11-24T11:46:33.665Z"
   },
   {
     "id": 67748,
@@ -5982,7 +5982,7 @@
         }
       ],
       "rating": {
-        "rank": 4163,
+        "rank": 4164,
         "total": 124,
         "count": {
           "1": 0,
@@ -6417,6 +6417,6 @@
         "id": 67749
       }
     ],
-    "updatedAt": "2025-11-23T11:48:14.157Z"
+    "updatedAt": "2025-11-24T11:51:08.365Z"
   }
 ]
