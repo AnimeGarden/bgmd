@@ -350,7 +350,7 @@
       ],
       "rating": {
         "rank": 268,
-        "total": 2709,
+        "total": 2710,
         "count": {
           "1": 7,
           "2": 0,
@@ -358,7 +358,7 @@
           "4": 10,
           "5": 29,
           "6": 130,
-          "7": 559,
+          "7": 560,
           "8": 1261,
           "9": 535,
           "10": 176
@@ -370,7 +370,7 @@
         "on_hold": 345,
         "dropped": 120,
         "wish": 2539,
-        "collect": 3761,
+        "collect": 3762,
         "doing": 267
       },
       "id": 443,
@@ -4743,7 +4743,7 @@
         "id": 493689
       }
     ],
-    "updatedAt": "2025-11-24T11:30:03.377Z"
+    "updatedAt": "2025-11-25T11:31:31.243Z"
   },
   {
     "id": 875,
@@ -4857,12 +4857,12 @@
           "total_cont": 0
         },
         {
-          "name": "武士",
+          "name": "日本",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "武士",
           "count": 7,
           "total_cont": 0
         },
@@ -4872,17 +4872,7 @@
           "total_cont": 0
         },
         {
-          "name": "漫画改",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "movie",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "漫改",
           "count": 5,
           "total_cont": 0
         },
@@ -4892,22 +4882,32 @@
           "total_cont": 0
         },
         {
+          "name": "漫画改",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "漫改",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "日本动画",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "剧场版",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "奇幻",
+          "name": "卖肉",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "科幻",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "剧场版",
           "count": 3,
           "total_cont": 0
         }
@@ -4973,7 +4973,7 @@
       "collection": {
         "on_hold": 102,
         "dropped": 32,
-        "wish": 1035,
+        "wish": 1036,
         "collect": 1194,
         "doing": 86
       },
@@ -6192,7 +6192,7 @@
         "id": 333071
       }
     ],
-    "updatedAt": "2025-11-24T11:30:50.815Z"
+    "updatedAt": "2025-11-25T11:32:21.941Z"
   },
   {
     "id": 896,
@@ -6473,11 +6473,19 @@
         },
         {
           "key": "音响",
-          "value": "オムニバスプロモーション；音响制作担当：真山惠衣"
+          "value": "オムニバスプロモーション"
+        },
+        {
+          "key": "音响制作担当",
+          "value": "真山恵衣"
         },
         {
           "key": "录音",
-          "value": "大坪恵美；录音工作室：OPレクイエムスタジオ"
+          "value": "大坪恵美"
+        },
+        {
+          "key": "录音工作室",
+          "value": "OPレクイエムスタジオ"
         },
         {
           "key": "音效",
@@ -6615,11 +6623,11 @@
       },
       "total_episodes": 12,
       "collection": {
-        "on_hold": 350,
+        "on_hold": 349,
         "dropped": 107,
-        "wish": 2207,
+        "wish": 2209,
         "collect": 2928,
-        "doing": 314
+        "doing": 317
       },
       "id": 896,
       "eps": 12,
@@ -10119,7 +10127,7 @@
         "id": 292937
       }
     ],
-    "updatedAt": "2025-11-24T11:30:58.556Z"
+    "updatedAt": "2025-11-25T11:32:29.781Z"
   },
   {
     "id": 2470,
@@ -10144,7 +10152,12 @@
         },
         {
           "name": "TV",
-          "count": 220,
+          "count": 222,
+          "total_cont": 0
+        },
+        {
+          "name": "百合",
+          "count": 167,
           "total_cont": 0
         },
         {
@@ -10153,23 +10166,18 @@
           "total_cont": 0
         },
         {
-          "name": "百合",
-          "count": 166,
-          "total_cont": 0
-        },
-        {
           "name": "2007年01月",
-          "count": 157,
+          "count": 158,
           "total_cont": 0
         },
         {
           "name": "原创",
-          "count": 135,
+          "count": 136,
           "total_cont": 0
         },
         {
           "name": "励志片",
-          "count": 110,
+          "count": 111,
           "total_cont": 0
         },
         {
@@ -10213,12 +10221,12 @@
           "total_cont": 0
         },
         {
-          "name": "萌",
+          "name": "LOLI",
           "count": 20,
           "total_cont": 0
         },
         {
-          "name": "LOLI",
+          "name": "萌",
           "count": 20,
           "total_cont": 0
         },
@@ -10233,13 +10241,13 @@
           "total_cont": 0
         },
         {
-          "name": "青春",
+          "name": "日本",
           "count": 16,
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 15,
+          "name": "青春",
+          "count": 16,
           "total_cont": 0
         },
         {
@@ -10263,12 +10271,12 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "搞笑",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "搞笑",
+          "name": "TVA",
           "count": 7,
           "total_cont": 0
         },
@@ -10278,12 +10286,12 @@
           "total_cont": 0
         },
         {
-          "name": "藤田咲",
+          "name": "轻百合",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "轻百合",
+          "name": "野中蓝",
           "count": 5,
           "total_cont": 0
         }
@@ -10428,15 +10436,15 @@
         }
       ],
       "rating": {
-        "rank": 1344,
-        "total": 831,
+        "rank": 1350,
+        "total": 832,
         "count": {
           "1": 0,
           "2": 0,
           "3": 1,
           "4": 6,
           "5": 33,
-          "6": 131,
+          "6": 132,
           "7": 277,
           "8": 291,
           "9": 67,
@@ -10448,9 +10456,9 @@
       "collection": {
         "on_hold": 160,
         "dropped": 60,
-        "wish": 962,
+        "wish": 963,
         "collect": 1163,
-        "doing": 118
+        "doing": 120
       },
       "id": 2470,
       "eps": 13,
@@ -11501,22 +11509,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "安田慎介",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 27107,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "佐々木洋平",
         "relation": "原画",
         "career": [
@@ -11677,22 +11669,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "安田慎介",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 27107,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "嘉手苅睦",
         "relation": "作画监督",
         "career": [
@@ -11806,6 +11782,22 @@
           "large": "",
           "medium": ""
         },
+        "name": "安田慎介",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 27107,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "小笠原篤",
         "relation": "人物设定",
         "career": [
@@ -11829,6 +11821,22 @@
         ],
         "type": 1,
         "id": 3060,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "安田慎介",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 27107,
         "eps": ""
       },
       {
@@ -12633,7 +12641,7 @@
         "id": 335692
       }
     ],
-    "updatedAt": "2025-11-24T11:33:40.487Z"
+    "updatedAt": "2025-11-25T11:35:19.086Z"
   },
   {
     "id": 2887,
@@ -12853,7 +12861,7 @@
         }
       ],
       "rating": {
-        "rank": 1372,
+        "rank": 1374,
         "total": 232,
         "count": {
           "1": 1,
@@ -13863,7 +13871,7 @@
         "id": 73458
       }
     ],
-    "updatedAt": "2025-11-24T11:34:14.587Z"
+    "updatedAt": "2025-11-25T11:35:55.012Z"
   },
   {
     "id": 2938,
@@ -14083,7 +14091,7 @@
         }
       ],
       "rating": {
-        "rank": 7769,
+        "rank": 7762,
         "total": 533,
         "count": {
           "1": 5,
@@ -14861,7 +14869,7 @@
         "id": 215934
       }
     ],
-    "updatedAt": "2025-11-24T11:34:25.348Z"
+    "updatedAt": "2025-11-25T11:36:05.472Z"
   },
   {
     "id": 3400,
@@ -15174,7 +15182,7 @@
         }
       ],
       "rating": {
-        "rank": 8296,
+        "rank": 8295,
         "total": 181,
         "count": {
           "1": 2,
@@ -16650,7 +16658,7 @@
         "id": 133245
       }
     ],
-    "updatedAt": "2025-11-24T11:35:12.782Z"
+    "updatedAt": "2025-11-25T11:36:55.813Z"
   },
   {
     "id": 3416,
@@ -19334,7 +19342,7 @@
         "id": 123663
       }
     ],
-    "updatedAt": "2025-11-24T11:35:14.265Z"
+    "updatedAt": "2025-11-25T11:36:57.226Z"
   },
   {
     "id": 3612,
@@ -19418,6 +19426,11 @@
           "total_cont": 0
         },
         {
+          "name": "小林ゆう",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "补番",
           "count": 5,
           "total_cont": 0
@@ -19425,16 +19438,6 @@
         {
           "name": "日本",
           "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "小林ゆう",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "卖萌",
-          "count": 4,
           "total_cont": 0
         },
         {
@@ -19448,8 +19451,8 @@
           "total_cont": 0
         },
         {
-          "name": "游戏改",
-          "count": 3,
+          "name": "卖萌",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -19458,13 +19461,8 @@
           "total_cont": 0
         },
         {
-          "name": "2007年1月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "福井裕佳梨",
-          "count": 2,
+          "name": "游戏改",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -19478,27 +19476,37 @@
           "total_cont": 0
         },
         {
-          "name": "スタジオコメット",
+          "name": "2007年1月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "福井裕佳梨",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "COMET",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "萌番",
+          "name": "爱小叔",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "江夏由結",
+          "name": "人熊",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "子供向",
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "日常",
           "count": 1,
           "total_cont": 0
         }
@@ -21833,7 +21841,7 @@
         "id": 375709
       }
     ],
-    "updatedAt": "2025-11-24T11:35:30.082Z"
+    "updatedAt": "2025-11-25T11:37:12.800Z"
   },
   {
     "id": 4100,
@@ -23659,7 +23667,7 @@
         "id": 97858
       }
     ],
-    "updatedAt": "2025-11-24T11:36:16.620Z"
+    "updatedAt": "2025-11-25T11:38:01.746Z"
   },
   {
     "id": 7617,
@@ -23987,7 +23995,7 @@
         }
       ],
       "rating": {
-        "rank": 8471,
+        "rank": 8469,
         "total": 299,
         "count": {
           "1": 2,
@@ -25907,7 +25915,7 @@
         "id": 60055
       }
     ],
-    "updatedAt": "2025-11-24T11:38:01.345Z"
+    "updatedAt": "2025-11-25T11:39:52.904Z"
   },
   {
     "id": 9571,
@@ -25996,12 +26004,12 @@
           "total_cont": 0
         },
         {
-          "name": "神作",
+          "name": "樱井弘明",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "樱井弘明",
+          "name": "神作",
           "count": 9,
           "total_cont": 0
         },
@@ -26021,17 +26029,22 @@
           "total_cont": 0
         },
         {
-          "name": "2007年1月",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "日本",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "2007年1月",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "金春智子",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "松尾早人",
           "count": 3,
           "total_cont": 0
         },
@@ -26051,7 +26064,7 @@
           "total_cont": 0
         },
         {
-          "name": "金春智子",
+          "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
@@ -26061,17 +26074,12 @@
           "total_cont": 0
         },
         {
-          "name": "松尾早人",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "2000s",
+          "name": "名著改",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "子供向",
+          "name": "社会",
           "count": 2,
           "total_cont": 0
         }
@@ -26206,8 +26214,8 @@
         }
       ],
       "rating": {
-        "rank": 753,
-        "total": 320,
+        "rank": 757,
+        "total": 321,
         "count": {
           "1": 0,
           "2": 0,
@@ -26216,7 +26224,7 @@
           "5": 11,
           "6": 25,
           "7": 96,
-          "8": 126,
+          "8": 127,
           "9": 41,
           "10": 18
         },
@@ -26227,7 +26235,7 @@
         "on_hold": 102,
         "dropped": 43,
         "wish": 617,
-        "collect": 444,
+        "collect": 445,
         "doing": 58
       },
       "id": 9571,
@@ -27930,7 +27938,7 @@
         "id": 541419
       }
     ],
-    "updatedAt": "2025-11-24T11:39:05.478Z"
+    "updatedAt": "2025-11-25T11:41:00.693Z"
   },
   {
     "id": 21037,
@@ -30060,7 +30068,7 @@
         "id": 21042
       }
     ],
-    "updatedAt": "2025-11-24T11:42:56.404Z"
+    "updatedAt": "2025-11-25T11:45:05.924Z"
   },
   {
     "id": 21100,
@@ -30114,11 +30122,6 @@
           "total_cont": 0
         },
         {
-          "name": "近藤隆",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "搞笑",
           "count": 2,
           "total_cont": 0
@@ -30129,27 +30132,12 @@
           "total_cont": 0
         },
         {
-          "name": "2007年1月",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "2007年1月季番",
-          "count": 1,
+          "name": "近藤隆",
+          "count": 2,
           "total_cont": 0
         },
         {
           "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "季番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "2007年1月季番",
           "count": 1,
           "total_cont": 0
         },
@@ -30164,12 +30152,32 @@
           "total_cont": 0
         },
         {
+          "name": "2007年1月季番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "季番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "向日葵",
           "count": 1,
           "total_cont": 0
         },
         {
+          "name": "2007年1月季番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "续作",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "2007年1月季番",
           "count": 1,
           "total_cont": 0
         }
@@ -30239,9 +30247,9 @@
       },
       "total_episodes": 13,
       "collection": {
-        "on_hold": 13,
+        "on_hold": 12,
         "dropped": 12,
-        "wish": 65,
+        "wish": 66,
         "collect": 62,
         "doing": 4
       },
@@ -30682,7 +30690,7 @@
         "id": 77461
       }
     ],
-    "updatedAt": "2025-11-24T11:42:57.513Z"
+    "updatedAt": "2025-11-25T11:45:07.053Z"
   },
   {
     "id": 35861,
@@ -30998,7 +31006,7 @@
         }
       ],
       "rating": {
-        "rank": 7210,
+        "rank": 7207,
         "total": 438,
         "count": {
           "1": 2,
@@ -31973,7 +31981,7 @@
         "id": 183393
       }
     ],
-    "updatedAt": "2025-11-24T11:45:22.128Z"
+    "updatedAt": "2025-11-25T11:47:34.145Z"
   },
   {
     "id": 37203,
@@ -33581,7 +33589,7 @@
         "id": 542483
       }
     ],
-    "updatedAt": "2025-11-24T11:45:53.885Z"
+    "updatedAt": "2025-11-25T11:48:08.596Z"
   },
   {
     "id": 38536,
@@ -34924,7 +34932,7 @@
         "id": 64345
       }
     ],
-    "updatedAt": "2025-11-24T11:46:46.059Z"
+    "updatedAt": "2025-11-25T11:49:06.884Z"
   },
   {
     "id": 40543,
@@ -35357,7 +35365,7 @@
         "id": 106940
       }
     ],
-    "updatedAt": "2025-11-24T11:47:15.032Z"
+    "updatedAt": "2025-11-25T11:49:37.885Z"
   },
   {
     "id": 49267,
@@ -35834,7 +35842,7 @@
         "id": 12785
       }
     ],
-    "updatedAt": "2025-11-24T11:48:52.598Z"
+    "updatedAt": "2025-11-25T11:51:19.511Z"
   },
   {
     "id": 68953,
@@ -36015,7 +36023,7 @@
         }
       ],
       "rating": {
-        "rank": 4769,
+        "rank": 4770,
         "total": 53,
         "count": {
           "1": 1,
@@ -36262,7 +36270,7 @@
         "id": 77151
       }
     ],
-    "updatedAt": "2025-11-24T11:51:28.696Z"
+    "updatedAt": "2025-11-25T11:54:07.411Z"
   },
   {
     "id": 78823,
@@ -36458,7 +36466,7 @@
         }
       ],
       "rating": {
-        "rank": 4846,
+        "rank": 4849,
         "total": 97,
         "count": {
           "1": 1,
@@ -36732,7 +36740,7 @@
         "id": 513821
       }
     ],
-    "updatedAt": "2025-11-24T11:52:35.148Z"
+    "updatedAt": "2025-11-25T11:55:15.105Z"
   },
   {
     "id": 85248,
@@ -36859,7 +36867,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-11-24T11:53:52.586Z"
+    "updatedAt": "2025-11-25T11:56:33.692Z"
   },
   {
     "id": 89880,
@@ -37077,6 +37085,6 @@
         "id": 89875
       }
     ],
-    "updatedAt": "2025-11-24T11:54:30.815Z"
+    "updatedAt": "2025-11-25T11:57:12.196Z"
   }
 ]

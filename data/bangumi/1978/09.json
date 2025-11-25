@@ -27,12 +27,12 @@
         },
         {
           "name": "科幻",
-          "count": 120,
+          "count": 121,
           "total_cont": 0
         },
         {
           "name": "1978年9月",
-          "count": 99,
+          "count": 100,
           "total_cont": 0
         },
         {
@@ -86,12 +86,12 @@
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "1978年9月",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "1978年9月",
+          "name": "漫改",
           "count": 10,
           "total_cont": 0
         },
@@ -101,17 +101,17 @@
           "total_cont": 0
         },
         {
-          "name": "1970s",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "东映动画",
           "count": 5,
           "total_cont": 0
         },
         {
           "name": "西沢信孝",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "1970s",
           "count": 5,
           "total_cont": 0
         },
@@ -131,12 +131,7 @@
           "total_cont": 0
         },
         {
-          "name": "大长篇",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "荒木伸吾",
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "TVA",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "青木望",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         }
@@ -245,7 +245,7 @@
         }
       ],
       "rating": {
-        "rank": 518,
+        "rank": 517,
         "total": 278,
         "count": {
           "1": 2,
@@ -265,7 +265,7 @@
       "collection": {
         "on_hold": 156,
         "dropped": 50,
-        "wish": 1262,
+        "wish": 1263,
         "collect": 410,
         "doing": 98
       },
@@ -2079,6 +2079,22 @@
         "type": 2,
         "id": 18992,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "高橋朝雄",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 83655,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2669,7 +2685,7 @@
         "id": 23307
       }
     ],
-    "updatedAt": "2025-11-24T11:39:48.772Z"
+    "updatedAt": "2025-11-25T11:41:45.897Z"
   },
   {
     "id": 97133,
@@ -3028,6 +3044,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-24T11:55:21.221Z"
+    "updatedAt": "2025-11-25T11:58:03.709Z"
   }
 ]
