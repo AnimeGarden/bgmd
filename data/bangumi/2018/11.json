@@ -431,10 +431,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/93/68/549_prsn_gT3C9.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/93/68/549_prsn_gT3C9.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/93/68/549_prsn_gT3C9.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/93/68/549_prsn_gT3C9.jpg"
         },
         "name": "麻宮騎亜",
         "relation": "原画",
@@ -1594,7 +1594,7 @@
         "id": 520707
       }
     ],
-    "updatedAt": "2025-11-26T12:01:36.223Z"
+    "updatedAt": "2025-11-27T12:00:54.655Z"
   },
   {
     "id": 211438,
@@ -1804,7 +1804,7 @@
         }
       ],
       "rating": {
-        "rank": 2984,
+        "rank": 2983,
         "total": 303,
         "count": {
           "1": 0,
@@ -3516,7 +3516,7 @@
         "id": 392671
       }
     ],
-    "updatedAt": "2025-11-26T12:03:33.707Z"
+    "updatedAt": "2025-11-27T12:02:47.590Z"
   },
   {
     "id": 212060,
@@ -3719,7 +3719,7 @@
         }
       ],
       "rating": {
-        "rank": 8825,
+        "rank": 8827,
         "total": 639,
         "count": {
           "1": 17,
@@ -4130,7 +4130,7 @@
         "id": 333469
       }
     ],
-    "updatedAt": "2025-11-26T12:03:46.705Z"
+    "updatedAt": "2025-11-27T12:03:00.475Z"
   },
   {
     "id": 223818,
@@ -4274,17 +4274,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "动画电影",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "未确定",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 5,
           "total_cont": 0
         },
@@ -4294,7 +4289,12 @@
           "total_cont": 0
         },
         {
-          "name": "真百合",
+          "name": "动画电影",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "续作",
           "count": 4,
           "total_cont": 0
         }
@@ -4402,7 +4402,7 @@
       ],
       "rating": {
         "rank": 1934,
-        "total": 2928,
+        "total": 2929,
         "count": {
           "1": 2,
           "2": 0,
@@ -4410,7 +4410,7 @@
           "4": 29,
           "5": 127,
           "6": 507,
-          "7": 1231,
+          "7": 1232,
           "8": 809,
           "9": 122,
           "10": 96
@@ -4421,9 +4421,9 @@
       "collection": {
         "on_hold": 151,
         "dropped": 50,
-        "wish": 1514,
-        "collect": 4877,
-        "doing": 254
+        "wish": 1515,
+        "collect": 4880,
+        "doing": 257
       },
       "id": 223818,
       "eps": 1,
@@ -6221,7 +6221,7 @@
         "id": 243145
       }
     ],
-    "updatedAt": "2025-11-26T12:05:00.384Z"
+    "updatedAt": "2025-11-27T12:04:08.980Z"
   },
   {
     "id": 233926,
@@ -6310,7 +6310,7 @@
           "total_cont": 0
         },
         {
-          "name": "2019年4月",
+          "name": "2019",
           "count": 84,
           "total_cont": 0
         },
@@ -6375,17 +6375,17 @@
           "total_cont": 0
         },
         {
-          "name": "渡辺明夫",
-          "count": 8,
-          "total_cont": 0
-        },
-        {
-          "name": "2019年4月",
+          "name": "电波",
           "count": 8,
           "total_cont": 0
         },
         {
           "name": "木澤行人",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "渡辺明夫",
           "count": 8,
           "total_cont": 0
         }
@@ -6544,7 +6544,7 @@
       ],
       "rating": {
         "rank": 294,
-        "total": 5576,
+        "total": 5578,
         "count": {
           "1": 2,
           "2": 0,
@@ -6552,8 +6552,8 @@
           "4": 11,
           "5": 52,
           "6": 260,
-          "7": 1315,
-          "8": 2760,
+          "7": 1316,
+          "8": 2761,
           "9": 780,
           "10": 396
         },
@@ -6564,8 +6564,8 @@
         "on_hold": 201,
         "dropped": 45,
         "wish": 2084,
-        "collect": 9545,
-        "doing": 318
+        "collect": 9549,
+        "doing": 319
       },
       "id": 233926,
       "eps": 6,
@@ -9267,7 +9267,7 @@
         "id": 278923
       }
     ],
-    "updatedAt": "2025-11-26T12:05:45.059Z"
+    "updatedAt": "2025-11-27T12:04:53.125Z"
   },
   {
     "id": 241187,
@@ -9501,7 +9501,7 @@
         "dropped": 11,
         "wish": 114,
         "collect": 477,
-        "doing": 17
+        "doing": 18
       },
       "id": 241187,
       "eps": 1,
@@ -9812,7 +9812,7 @@
         "id": 257651
       }
     ],
-    "updatedAt": "2025-11-26T12:06:37.814Z"
+    "updatedAt": "2025-11-27T12:05:43.038Z"
   },
   {
     "id": 241188,
@@ -10366,7 +10366,7 @@
         "id": 268307
       }
     ],
-    "updatedAt": "2025-11-26T12:06:38.452Z"
+    "updatedAt": "2025-11-27T12:05:43.720Z"
   },
   {
     "id": 242617,
@@ -10562,7 +10562,7 @@
         }
       ],
       "rating": {
-        "rank": 8451,
+        "rank": 8452,
         "total": 284,
         "count": {
           "1": 2,
@@ -10581,7 +10581,7 @@
       "total_episodes": 1,
       "collection": {
         "on_hold": 21,
-        "dropped": 24,
+        "dropped": 25,
         "wish": 138,
         "collect": 587,
         "doing": 27
@@ -11223,7 +11223,7 @@
         "id": 209412
       }
     ],
-    "updatedAt": "2025-11-26T12:06:47.886Z"
+    "updatedAt": "2025-11-27T12:05:52.648Z"
   },
   {
     "id": 243428,
@@ -11387,7 +11387,7 @@
           "total_cont": 0
         },
         {
-          "name": "日升",
+          "name": "映画",
           "count": 2,
           "total_cont": 0
         }
@@ -11538,13 +11538,13 @@
         }
       ],
       "rating": {
-        "rank": 9311,
-        "total": 1112,
+        "rank": 9313,
+        "total": 1113,
         "count": {
           "1": 42,
           "2": 45,
           "3": 99,
-          "4": 194,
+          "4": 195,
           "5": 247,
           "6": 302,
           "7": 134,
@@ -11559,7 +11559,7 @@
         "on_hold": 26,
         "dropped": 44,
         "wish": 217,
-        "collect": 1610,
+        "collect": 1612,
         "doing": 27
       },
       "id": 243428,
@@ -14806,7 +14806,7 @@
         "id": 337311
       }
     ],
-    "updatedAt": "2025-11-26T12:06:51.363Z"
+    "updatedAt": "2025-11-27T12:05:55.088Z"
   },
   {
     "id": 251988,
@@ -14890,12 +14890,12 @@
           "total_cont": 0
         },
         {
-          "name": "櫻井孝宏",
+          "name": "日本",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "櫻井孝宏",
           "count": 6,
           "total_cont": 0
         },
@@ -14925,22 +14925,7 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "鈴木信吾",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "我TM暴风哭泣",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "搞基？",
           "count": 2,
           "total_cont": 0
         },
@@ -14950,27 +14935,42 @@
           "total_cont": 0
         },
         {
-          "name": "樱井孝宏",
+          "name": "鈴木信吾",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "搞基？",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "周防",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "轻改",
+          "name": "小野大輔",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "日漫",
+          "name": "女性向",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "堀江由衣",
+          "name": "超能力",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "5",
+          "name": "Film",
           "count": 1,
           "total_cont": 0
         }
@@ -15015,7 +15015,7 @@
         "on_hold": 30,
         "dropped": 25,
         "wish": 157,
-        "collect": 752,
+        "collect": 753,
         "doing": 37
       },
       "id": 251988,
@@ -15135,6 +15135,6 @@
         "id": 273835
       }
     ],
-    "updatedAt": "2025-11-26T12:07:14.627Z"
+    "updatedAt": "2025-11-27T12:06:18.714Z"
   }
 ]
