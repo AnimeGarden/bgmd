@@ -101,17 +101,17 @@
           "total_cont": 0
         },
         {
+          "name": "板野一郎",
+          "count": 7,
+          "total_cont": 0
+        },
+        {
           "name": "音乐",
           "count": 7,
           "total_cont": 0
         },
         {
           "name": "空战",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
-          "name": "板野一郎",
           "count": 7,
           "total_cont": 0
         },
@@ -136,22 +136,12 @@
           "total_cont": 0
         },
         {
-          "name": "铃村健一",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "战争",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "2000s",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "超时空要塞前传",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "爱情",
           "count": 3,
           "total_cont": 0
         },
@@ -161,7 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "爱情",
+          "name": "战争",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "铃村健一",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "恋爱",
           "count": 3,
           "total_cont": 0
         }
@@ -260,7 +260,7 @@
         }
       ],
       "rating": {
-        "rank": 1272,
+        "rank": 1271,
         "total": 1064,
         "count": {
           "1": 3,
@@ -280,7 +280,7 @@
       "collection": {
         "on_hold": 59,
         "dropped": 27,
-        "wish": 519,
+        "wish": 521,
         "collect": 1559,
         "doing": 48
       },
@@ -1783,7 +1783,7 @@
         "id": 339381
       }
     ],
-    "updatedAt": "2025-11-27T11:35:30.978Z"
+    "updatedAt": "2025-11-28T11:34:57.576Z"
   },
   {
     "id": 19393,
@@ -4881,7 +4881,9 @@
         },
         "name": "浅井認",
         "relation": "製作",
-        "career": [],
+        "career": [
+          "producer"
+        ],
         "type": 1,
         "id": 69841,
         "eps": ""
@@ -5684,7 +5686,7 @@
         "id": 90176
       }
     ],
-    "updatedAt": "2025-11-27T11:41:59.099Z"
+    "updatedAt": "2025-11-28T11:41:24.489Z"
   },
   {
     "id": 20931,
@@ -6734,7 +6736,7 @@
         "id": 20928
       }
     ],
-    "updatedAt": "2025-11-27T11:42:21.235Z"
+    "updatedAt": "2025-11-28T11:41:47.488Z"
   },
   {
     "id": 78072,
@@ -8043,7 +8045,7 @@
         "id": 533717
       }
     ],
-    "updatedAt": "2025-11-27T11:50:43.895Z"
+    "updatedAt": "2025-11-28T11:50:06.923Z"
   },
   {
     "id": 98428,
@@ -8680,7 +8682,7 @@
         "id": 191921
       }
     ],
-    "updatedAt": "2025-11-27T11:53:20.214Z"
+    "updatedAt": "2025-11-28T11:52:38.302Z"
   },
   {
     "id": 112448,
@@ -9108,7 +9110,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-11-27T11:54:51.470Z"
+    "updatedAt": "2025-11-28T11:54:06.381Z"
   },
   {
     "id": 417387,
@@ -9382,6 +9384,6 @@
         "id": 417396
       }
     ],
-    "updatedAt": "2025-11-27T12:16:56.339Z"
+    "updatedAt": "2025-11-28T12:15:29.500Z"
   }
 ]
