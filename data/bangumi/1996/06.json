@@ -86,18 +86,13 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 8,
-          "total_cont": 0
-        },
-        {
           "name": "喜剧",
           "count": 8,
           "total_cont": 0
         },
         {
-          "name": "漫改",
-          "count": 6,
+          "name": "日本",
+          "count": 8,
           "total_cont": 0
         },
         {
@@ -106,12 +101,17 @@
           "total_cont": 0
         },
         {
-          "name": "补漫画",
-          "count": 4,
+          "name": "漫改",
+          "count": 6,
           "total_cont": 0
         },
         {
           "name": "1990s",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "补漫画",
           "count": 4,
           "total_cont": 0
         },
@@ -123,6 +123,26 @@
         {
           "name": "果断要补漫画",
           "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "三泽伸",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "高本宣弘",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "鴫野彰",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -141,27 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "高松信司",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "鴫野彰",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "三泽伸",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "高本宣弘",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
+          "name": "中视",
           "count": 2,
           "total_cont": 0
         }
@@ -266,11 +266,11 @@
       },
       "total_episodes": 373,
       "collection": {
-        "on_hold": 120,
+        "on_hold": 121,
         "dropped": 62,
         "wish": 496,
         "collect": 590,
-        "doing": 113
+        "doing": 112
       },
       "id": 2166,
       "eps": 344,
@@ -14555,6 +14555,22 @@
         "actors": [
           {
             "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/ad/50/58222_prsn_Xs64d.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/ad/50/58222_prsn_Xs64d.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/ad/50/58222_prsn_Xs64d.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ad/50/58222_prsn_Xs64d.jpg"
+            },
+            "name": "林美秀",
+            "short_summary": "台湾女性配音员。\r\n\r\n与同时也曾参与过一些配音作品的知名艺人暨演员林美秀同名同姓。\r\n\r\n华视配音训练班出身，与詹雅菁是同期的配音班同学。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 58222,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
               "small": "https://lain.bgm.tv/r/100/pic/crt/l/ac/16/66734_prsn_oBTM1.jpg?r=1722444974",
               "grid": "https://lain.bgm.tv/pic/crt/g/ac/16/66734_prsn_oBTM1.jpg?r=1722444974",
               "large": "https://lain.bgm.tv/pic/crt/l/ac/16/66734_prsn_oBTM1.jpg?r=1722444974",
@@ -14930,7 +14946,7 @@
               "large": "",
               "medium": ""
             },
-            "name": "赤?眞弓",
+            "name": "赤土眞弓",
             "short_summary": "日本の女性声優。福島県出身。",
             "career": [
               "seiyu"
@@ -15586,6 +15602,22 @@
         "actors": [
           {
             "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/82/19/79090_prsn_H14ww.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/82/19/79090_prsn_H14ww.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/82/19/79090_prsn_H14ww.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/82/19/79090_prsn_H14ww.jpg"
+            },
+            "name": "郭馨雅",
+            "short_summary": "台湾女性配音员。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 79090,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
               "small": "https://lain.bgm.tv/r/100/pic/crt/l/9e/73/83878_prsn_hfX5H.jpg",
               "grid": "https://lain.bgm.tv/pic/crt/g/9e/73/83878_prsn_hfX5H.jpg",
               "large": "https://lain.bgm.tv/pic/crt/l/9e/73/83878_prsn_hfX5H.jpg",
@@ -15888,7 +15920,7 @@
         "id": 185317
       }
     ],
-    "updatedAt": "2025-11-28T11:33:31.030Z"
+    "updatedAt": "2025-11-29T11:30:05.333Z"
   },
   {
     "id": 318293,
@@ -16404,6 +16436,6 @@
         "id": 318298
       }
     ],
-    "updatedAt": "2025-11-28T12:10:15.720Z"
+    "updatedAt": "2025-11-29T12:04:21.492Z"
   }
 ]

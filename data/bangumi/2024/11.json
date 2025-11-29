@@ -17,7 +17,7 @@
       "tags": [
         {
           "name": "游戏改",
-          "count": 853,
+          "count": 854,
           "total_cont": 0
         },
         {
@@ -27,12 +27,12 @@
         },
         {
           "name": "战斗",
-          "count": 676,
+          "count": 678,
           "total_cont": 0
         },
         {
           "name": "奇幻",
-          "count": 620,
+          "count": 622,
           "total_cont": 0
         },
         {
@@ -42,7 +42,7 @@
         },
         {
           "name": "Netflix",
-          "count": 520,
+          "count": 521,
           "total_cont": 0
         },
         {
@@ -52,7 +52,7 @@
         },
         {
           "name": "原创",
-          "count": 363,
+          "count": 364,
           "total_cont": 0
         },
         {
@@ -82,7 +82,7 @@
         },
         {
           "name": "TV",
-          "count": 175,
+          "count": 176,
           "total_cont": 0
         },
         {
@@ -92,7 +92,7 @@
         },
         {
           "name": "百合",
-          "count": 67,
+          "count": 66,
           "total_cont": 0
         },
         {
@@ -141,12 +141,12 @@
           "total_cont": 0
         },
         {
-          "name": "魔法",
+          "name": "剧情",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "魔法",
           "count": 9,
           "total_cont": 0
         },
@@ -230,8 +230,8 @@
         }
       ],
       "rating": {
-        "rank": 1674,
-        "total": 4657,
+        "rank": 1676,
+        "total": 4660,
         "count": {
           "1": 58,
           "2": 19,
@@ -239,8 +239,8 @@
           "4": 97,
           "5": 183,
           "6": 656,
-          "7": 1521,
-          "8": 1435,
+          "7": 1522,
+          "8": 1437,
           "9": 442,
           "10": 212
         },
@@ -250,8 +250,8 @@
       "collection": {
         "on_hold": 180,
         "dropped": 136,
-        "wish": 1010,
-        "collect": 6550,
+        "wish": 1012,
+        "collect": 6555,
         "doing": 640
       },
       "id": 358801,
@@ -1060,7 +1060,7 @@
         "id": 531214
       }
     ],
-    "updatedAt": "2025-11-28T12:12:40.834Z"
+    "updatedAt": "2025-11-29T12:06:36.621Z"
   },
   {
     "id": 473412,
@@ -1783,6 +1783,36 @@
     "characters": [
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/95/d6/130347_crt_VKPFm.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/95/d6/130347_crt_VKPFm.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/95/d6/130347_crt_VKPFm.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/95/d6/130347_crt_VKPFm.jpg"
+        },
+        "name": "加藤翼",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/01/4a/7302_prsn_V44Vn.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/01/4a/7302_prsn_V44Vn.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/01/4a/7302_prsn_V44Vn.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/01/4a/7302_prsn_V44Vn.jpg"
+            },
+            "name": "高森奈津美",
+            "short_summary": "高森奈津美（たかもり なつみ、1987年2月14日），日本女声优。出身于山梨县，血型是A型。\r\n\r\nPro Fit声优养成所第10期生出身。2009年10月毕业。\r\n高中时加入羽毛球部，并有参加校际间运动会的经历。\r\n兴趣爱好是逛咖啡馆和插画。\r\n特技是握力“40”以上和随便到哪里都能睡着。\r\n持有全商情报处理检定2级、汉字检定3级别、全经计算器检定3级以及秘书实务检定3级。\r\n因山梨县出身的，使用方言为关东方言的甲州弁，曾出任山梨县富士吉田市“樱织”旅游宣传大使。\r\n稍微下垂的黑色双目是她的典型特征，本人自嘲为“エロ目”。\r\n同事务所的茅野爱衣曾对高森给出“胸部好大”的第一印象。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 7302,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 130347
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/9a/45/192068_crt_2SE8s.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/9a/45/192068_crt_2SE8s.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/9a/45/192068_crt_2SE8s.jpg",
@@ -1887,7 +1917,7 @@
         "id": 525146
       }
     ],
-    "updatedAt": "2025-11-28T12:17:38.975Z"
+    "updatedAt": "2025-11-29T12:11:08.497Z"
   },
   {
     "id": 476683,
@@ -2347,7 +2377,7 @@
         "id": 540398
       }
     ],
-    "updatedAt": "2025-11-28T12:17:46.252Z"
+    "updatedAt": "2025-11-29T12:11:14.883Z"
   },
   {
     "id": 487318,
@@ -2919,7 +2949,7 @@
         "id": 303078
       }
     ],
-    "updatedAt": "2025-11-28T12:18:10.260Z"
+    "updatedAt": "2025-11-29T12:11:37.190Z"
   },
   {
     "id": 492951,
@@ -3607,7 +3637,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-11-28T12:18:18.297Z"
+    "updatedAt": "2025-11-29T12:11:44.302Z"
   },
   {
     "id": 497924,
@@ -3833,7 +3863,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-28T12:18:24.782Z"
+    "updatedAt": "2025-11-29T12:11:50.582Z"
   },
   {
     "id": 500060,
@@ -4092,7 +4122,7 @@
         "id": 480096
       }
     ],
-    "updatedAt": "2025-11-28T12:18:28.910Z"
+    "updatedAt": "2025-11-29T12:11:54.486Z"
   },
   {
     "id": 501859,
@@ -5113,22 +5143,6 @@
         ],
         "type": 1,
         "id": 47847,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/36/0b/11895_prsn_6Zc2a.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/36/0b/11895_prsn_6Zc2a.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/36/0b/11895_prsn_6Zc2a.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/36/0b/11895_prsn_6Zc2a.jpg"
-        },
-        "name": "高橋歩",
-        "relation": "剪辑",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 11895,
         "eps": ""
       },
       {
@@ -8113,6 +8127,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/36/0b/11895_prsn_6Zc2a.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/36/0b/11895_prsn_6Zc2a.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/36/0b/11895_prsn_6Zc2a.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/36/0b/11895_prsn_6Zc2a.jpg"
+        },
+        "name": "高橋歩",
+        "relation": "剪辑",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11895,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/31/79/13142_prsn_Knk4h.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/31/79/13142_prsn_Knk4h.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/31/79/13142_prsn_Knk4h.jpg",
@@ -8762,7 +8792,7 @@
         "id": 548127
       }
     ],
-    "updatedAt": "2025-11-28T12:18:35.537Z"
+    "updatedAt": "2025-11-29T12:12:00.606Z"
   },
   {
     "id": 501937,
@@ -9329,7 +9359,7 @@
         "id": 510484
       }
     ],
-    "updatedAt": "2025-11-28T12:18:36.561Z"
+    "updatedAt": "2025-11-29T12:12:01.327Z"
   },
   {
     "id": 505080,
@@ -9626,7 +9656,7 @@
         "id": 493630
       }
     ],
-    "updatedAt": "2025-11-28T12:18:42.278Z"
+    "updatedAt": "2025-11-29T12:12:07.204Z"
   },
   {
     "id": 508708,
@@ -9661,7 +9691,7 @@
         },
         {
           "name": "热血",
-          "count": 114,
+          "count": 115,
           "total_cont": 0
         },
         {
@@ -9671,12 +9701,12 @@
         },
         {
           "name": "战斗",
-          "count": 101,
+          "count": 102,
           "total_cont": 0
         },
         {
           "name": "漫画改",
-          "count": 97,
+          "count": 98,
           "total_cont": 0
         },
         {
@@ -9765,32 +9795,32 @@
           "total_cont": 0
         },
         {
-          "name": "热血战斗",
+          "name": "花江夏樹",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "10-超神！",
+          "name": "未上映",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "续作",
+          "name": "完结篇",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "艺术赛道",
+          "name": "真·补完计划",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "动画电影",
+          "name": "瀬古浩司",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "动作",
+          "name": "纯爱",
           "count": 1,
           "total_cont": 0
         }
@@ -9834,17 +9864,17 @@
         }
       ],
       "rating": {
-        "rank": 460,
-        "total": 1179,
+        "rank": 457,
+        "total": 1183,
         "count": {
           "1": 14,
           "2": 4,
           "3": 4,
           "4": 12,
-          "5": 20,
+          "5": 21,
           "6": 96,
           "7": 289,
-          "8": 426,
+          "8": 429,
           "9": 152,
           "10": 162
         },
@@ -9852,10 +9882,10 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 59,
+        "on_hold": 60,
         "dropped": 51,
         "wish": 381,
-        "collect": 2538,
+        "collect": 2546,
         "doing": 59
       },
       "id": 508708,
@@ -10287,7 +10317,7 @@
         "id": 415779
       }
     ],
-    "updatedAt": "2025-11-28T12:18:50.248Z"
+    "updatedAt": "2025-11-29T12:12:14.646Z"
   },
   {
     "id": 513948,
@@ -10386,27 +10416,7 @@
           "total_cont": 0
         },
         {
-          "name": "みかみてれん",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "僵尸",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "末世",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "剧本杀",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "Ziine",
           "count": 2,
           "total_cont": 0
         },
@@ -10416,42 +10426,62 @@
           "total_cont": 0
         },
         {
-          "name": "2024年10月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "日漫",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "佳原萌枝",
+          "name": "末世",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "2024年10月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "Ziine",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "剧本杀",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "みかみてれん",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "超能力",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "ENTJ",
+          "name": "秋季番",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "架空现实",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "(画面)一般",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "轻百合",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "Ziine_studio",
+          "name": "奇幻",
           "count": 1,
           "total_cont": 0
         }
@@ -10583,7 +10613,7 @@
         }
       ],
       "rating": {
-        "rank": 8716,
+        "rank": 8720,
         "total": 367,
         "count": {
           "1": 0,
@@ -10603,7 +10633,7 @@
       "collection": {
         "on_hold": 19,
         "dropped": 50,
-        "wish": 110,
+        "wish": 111,
         "collect": 487,
         "doing": 44
       },
@@ -11265,7 +11295,7 @@
         "id": 570101
       }
     ],
-    "updatedAt": "2025-11-28T12:18:59.085Z"
+    "updatedAt": "2025-11-29T12:12:22.404Z"
   },
   {
     "id": 515201,
@@ -11503,7 +11533,7 @@
         "id": 585457
       }
     ],
-    "updatedAt": "2025-11-28T12:19:01.560Z"
+    "updatedAt": "2025-11-29T12:12:24.470Z"
   },
   {
     "id": 518603,
@@ -11714,7 +11744,7 @@
         }
       ],
       "rating": {
-        "rank": 4573,
+        "rank": 4576,
         "total": 93,
         "count": {
           "1": 1,
@@ -13388,7 +13418,7 @@
         "id": 541408
       }
     ],
-    "updatedAt": "2025-11-28T12:19:05.755Z"
+    "updatedAt": "2025-11-29T12:12:27.986Z"
   },
   {
     "id": 526102,
@@ -13504,6 +13534,6 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-28T12:19:15.772Z"
+    "updatedAt": "2025-11-29T12:12:36.427Z"
   }
 ]
