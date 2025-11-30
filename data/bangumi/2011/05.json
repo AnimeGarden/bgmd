@@ -22,7 +22,7 @@
         },
         {
           "name": "剧场版",
-          "count": 881,
+          "count": 880,
           "total_cont": 0
         },
         {
@@ -87,7 +87,7 @@
         },
         {
           "name": "动画电影",
-          "count": 35,
+          "count": 36,
           "total_cont": 0
         },
         {
@@ -101,17 +101,17 @@
           "total_cont": 0
         },
         {
+          "name": "2011年5月",
+          "count": 16,
+          "total_cont": 0
+        },
+        {
+          "name": "2011年5月",
+          "count": 16,
+          "total_cont": 0
+        },
+        {
           "name": "天门",
-          "count": 16,
-          "total_cont": 0
-        },
-        {
-          "name": "2011年5月",
-          "count": 16,
-          "total_cont": 0
-        },
-        {
-          "name": "2011年5月",
           "count": 16,
           "total_cont": 0
         },
@@ -136,11 +136,6 @@
           "total_cont": 0
         },
         {
-          "name": "sora",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
           "name": "映画",
           "count": 9,
           "total_cont": 0
@@ -151,12 +146,17 @@
           "total_cont": 0
         },
         {
-          "name": "电影",
+          "name": "冒险",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "冒险",
+          "name": "sora",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
+          "name": "电影",
           "count": 9,
           "total_cont": 0
         },
@@ -278,16 +278,16 @@
         }
       ],
       "rating": {
-        "rank": 6148,
-        "total": 2831,
+        "rank": 6156,
+        "total": 2833,
         "count": {
           "1": 9,
           "2": 27,
           "3": 48,
-          "4": 166,
+          "4": 167,
           "5": 359,
           "6": 907,
-          "7": 849,
+          "7": 850,
           "8": 360,
           "9": 71,
           "10": 35
@@ -299,7 +299,7 @@
         "on_hold": 126,
         "dropped": 50,
         "wish": 995,
-        "collect": 4212,
+        "collect": 4214,
         "doing": 70
       },
       "id": 9911,
@@ -1766,7 +1766,7 @@
         "id": 303970
       }
     ],
-    "updatedAt": "2025-11-29T11:34:56.289Z"
+    "updatedAt": "2025-11-30T11:35:54.112Z"
   },
   {
     "id": 10335,
@@ -3107,7 +3107,7 @@
         "id": 63078
       }
     ],
-    "updatedAt": "2025-11-29T11:35:08.589Z"
+    "updatedAt": "2025-11-30T11:36:08.017Z"
   },
   {
     "id": 10940,
@@ -3216,11 +3216,6 @@
           "total_cont": 0
         },
         {
-          "name": "喜多村英梨",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "节操",
           "count": 5,
           "total_cont": 0
@@ -3231,13 +3226,13 @@
           "total_cont": 0
         },
         {
-          "name": "下限",
-          "count": 4,
+          "name": "喜多村英梨",
+          "count": 5,
           "total_cont": 0
         },
         {
-          "name": "吐息女嬉",
-          "count": 3,
+          "name": "下限",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -3251,12 +3246,12 @@
           "total_cont": 0
         },
         {
-          "name": "斎藤千和",
+          "name": "独立ova",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "补番",
+          "name": "吐息女嬉",
           "count": 3,
           "total_cont": 0
         },
@@ -3272,6 +3267,11 @@
         },
         {
           "name": "TV",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "斎藤千和",
           "count": 3,
           "total_cont": 0
         }
@@ -3407,7 +3407,7 @@
         }
       ],
       "rating": {
-        "rank": 3384,
+        "rank": 3383,
         "total": 714,
         "count": {
           "1": 5,
@@ -3429,7 +3429,7 @@
         "dropped": 45,
         "wish": 542,
         "collect": 1001,
-        "doing": 76
+        "doing": 77
       },
       "id": 10940,
       "eps": 6,
@@ -3526,22 +3526,6 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "スタジオパストラル",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 30369,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/64/692_prsn_l90y8.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/b6/64/692_prsn_l90y8.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/b6/64/692_prsn_l90y8.jpg",
@@ -3554,6 +3538,22 @@
         ],
         "type": 1,
         "id": 692,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "スタジオパストラル",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 30369,
         "eps": ""
       },
       {
@@ -5107,7 +5107,7 @@
         "id": 292937
       }
     ],
-    "updatedAt": "2025-11-29T11:35:47.351Z"
+    "updatedAt": "2025-11-30T11:36:51.201Z"
   },
   {
     "id": 16594,
@@ -6282,22 +6282,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b4/62/750_prsn_8W459.jpg?r=1688016307",
-          "grid": "https://lain.bgm.tv/pic/crt/g/b4/62/750_prsn_8W459.jpg?r=1688016307",
-          "large": "https://lain.bgm.tv/pic/crt/l/b4/62/750_prsn_8W459.jpg?r=1688016307",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b4/62/750_prsn_8W459.jpg?r=1688016307"
-        },
-        "name": "小島正幸",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 750,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -6582,6 +6566,22 @@
         ],
         "type": 1,
         "id": 10257,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b4/62/750_prsn_8W459.jpg?r=1688016307",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b4/62/750_prsn_8W459.jpg?r=1688016307",
+          "large": "https://lain.bgm.tv/pic/crt/l/b4/62/750_prsn_8W459.jpg?r=1688016307",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b4/62/750_prsn_8W459.jpg?r=1688016307"
+        },
+        "name": "小島正幸",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 750,
         "eps": ""
       },
       {
@@ -6899,6 +6899,6 @@
         "id": 190941
       }
     ],
-    "updatedAt": "2025-11-29T11:36:54.361Z"
+    "updatedAt": "2025-11-30T11:38:08.587Z"
   }
 ]

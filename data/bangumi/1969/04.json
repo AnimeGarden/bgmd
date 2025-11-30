@@ -22,12 +22,17 @@
         },
         {
           "name": "TV",
-          "count": 6,
+          "count": 7,
           "total_cont": 0
         },
         {
           "name": "经典",
           "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -41,11 +46,6 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "勇敢的桑希洛",
           "count": 2,
           "total_cont": 0
@@ -56,22 +56,7 @@
           "total_cont": 0
         },
         {
-          "name": "1969年",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "西川幾雄",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "搜酷",
           "count": 1,
           "total_cont": 0
         },
@@ -81,12 +66,27 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "漫画改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1969年",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "生肉",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         },
@@ -102,6 +102,11 @@
         },
         {
           "name": "九里一平",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "搜酷",
           "count": 1,
           "total_cont": 0
         }
@@ -176,14 +181,14 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 9,
+        "total": 10,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 1,
           "5": 0,
-          "6": 4,
+          "6": 5,
           "7": 3,
           "8": 1,
           "9": 0,
@@ -196,7 +201,7 @@
         "on_hold": 5,
         "dropped": 6,
         "wish": 23,
-        "collect": 15,
+        "collect": 16,
         "doing": 3
       },
       "id": 10933,
@@ -669,7 +674,7 @@
         "id": 416852
       }
     ],
-    "updatedAt": "2025-11-29T11:35:46.601Z"
+    "updatedAt": "2025-11-30T11:36:49.830Z"
   },
   {
     "id": 103132,
@@ -1185,7 +1190,7 @@
         "id": 498516
       }
     ],
-    "updatedAt": "2025-11-29T11:48:20.105Z"
+    "updatedAt": "2025-11-30T11:50:51.328Z"
   },
   {
     "id": 107454,
@@ -1205,27 +1210,27 @@
       "tags": [
         {
           "name": "手塚治虫",
-          "count": 80,
+          "count": 81,
           "total_cont": 0
         },
         {
           "name": "多罗罗",
-          "count": 59,
+          "count": 60,
           "total_cont": 0
         },
         {
-          "name": "1969",
+          "name": "1969年4月番",
           "count": 40,
           "total_cont": 0
         },
         {
           "name": "TV",
-          "count": 36,
+          "count": 37,
           "total_cont": 0
         },
         {
           "name": "漫画改",
-          "count": 35,
+          "count": 36,
           "total_cont": 0
         },
         {
@@ -1245,12 +1250,12 @@
         },
         {
           "name": "战斗",
-          "count": 17,
+          "count": 18,
           "total_cont": 0
         },
         {
           "name": "致郁",
-          "count": 13,
+          "count": 14,
           "total_cont": 0
         },
         {
@@ -1260,16 +1265,16 @@
         },
         {
           "name": "日本",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
-          "name": "残缺的身体",
-          "count": 7,
+          "count": 10,
           "total_cont": 0
         },
         {
           "name": "2019.1",
+          "count": 7,
+          "total_cont": 0
+        },
+        {
+          "name": "残缺的身体",
           "count": 7,
           "total_cont": 0
         },
@@ -1284,36 +1289,6 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "2019.1",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "治愈",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "热血",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "虫プロダクション",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "奇幻",
           "count": 2,
           "total_cont": 0
@@ -1324,32 +1299,62 @@
           "total_cont": 0
         },
         {
-          "name": "补旧番",
+          "name": "2019.1",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "虫プロダクション",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "治愈",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "热血",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "已完播",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "秋田书店",
+          "name": "納谷悟朗",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "恋爱",
+          "name": "60s",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "补",
+          "name": "反乌托邦",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "手塚PRODUCTION",
+          "name": "1969年4月番",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "野沢那智",
+          "name": "冒险",
           "count": 1,
           "total_cont": 0
         }
@@ -1424,8 +1429,8 @@
       "collection": {
         "on_hold": 112,
         "dropped": 73,
-        "wish": 282,
-        "collect": 801,
+        "wish": 283,
+        "collect": 802,
         "doing": 99
       },
       "id": 107454,
@@ -2076,6 +2081,6 @@
         "id": 503698
       }
     ],
-    "updatedAt": "2025-11-29T11:48:47.444Z"
+    "updatedAt": "2025-11-30T11:51:21.441Z"
   }
 ]

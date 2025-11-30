@@ -76,12 +76,12 @@
           "total_cont": 0
         },
         {
-          "name": "2009年10月番",
+          "name": "游戏改",
           "count": 31,
           "total_cont": 0
         },
         {
-          "name": "游戏改",
+          "name": "2009年10月番",
           "count": 31,
           "total_cont": 0
         },
@@ -141,17 +141,12 @@
           "total_cont": 0
         },
         {
-          "name": "川澄綾子",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "福利",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "よしもときんじ",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "川澄綾子",
           "count": 4,
           "total_cont": 0
         },
@@ -161,7 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "喜多村英梨",
+          "name": "福利",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "2009年10月番",
           "count": 3,
           "total_cont": 0
         }
@@ -285,7 +285,7 @@
         }
       ],
       "rating": {
-        "rank": 4646,
+        "rank": 4648,
         "total": 688,
         "count": {
           "1": 1,
@@ -306,8 +306,8 @@
         "on_hold": 102,
         "dropped": 60,
         "wish": 456,
-        "collect": 1072,
-        "doing": 79
+        "collect": 1073,
+        "doing": 80
       },
       "id": 2605,
       "eps": 12,
@@ -2659,7 +2659,7 @@
         "id": 520590
       }
     ],
-    "updatedAt": "2025-11-29T11:30:31.294Z"
+    "updatedAt": "2025-11-30T11:30:55.135Z"
   },
   {
     "id": 3153,
@@ -2798,18 +2798,13 @@
           "total_cont": 0
         },
         {
-          "name": "釘宮理恵",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "战斗",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 4,
+          "name": "釘宮理恵",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -2824,6 +2819,11 @@
         },
         {
           "name": "阪口大助",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "中井和哉",
           "count": 4,
           "total_cont": 0
         }
@@ -2879,7 +2879,7 @@
       ],
       "rating": {
         "rank": 425,
-        "total": 880,
+        "total": 881,
         "count": {
           "1": 16,
           "2": 4,
@@ -2888,7 +2888,7 @@
           "5": 19,
           "6": 74,
           "7": 214,
-          "8": 279,
+          "8": 280,
           "9": 94,
           "10": 171
         },
@@ -2898,8 +2898,8 @@
       "collection": {
         "on_hold": 54,
         "dropped": 46,
-        "wish": 485,
-        "collect": 1669,
+        "wish": 486,
+        "collect": 1671,
         "doing": 50
       },
       "id": 3153,
@@ -3443,7 +3443,7 @@
         "id": 255029
       }
     ],
-    "updatedAt": "2025-11-29T11:31:22.741Z"
+    "updatedAt": "2025-11-30T11:31:54.141Z"
   },
   {
     "id": 3341,
@@ -3866,7 +3866,7 @@
         }
       ],
       "rating": {
-        "rank": 2519,
+        "rank": 2517,
         "total": 284,
         "count": {
           "1": 0,
@@ -3903,6 +3903,38 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
+          "grid": "https://lain.bgm.tv/pic/crt/g/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
+          "large": "https://lain.bgm.tv/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711"
+        },
+        "name": "大沼心",
+        "relation": "OP・ED 演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2860,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/64/692_prsn_l90y8.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b6/64/692_prsn_l90y8.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b6/64/692_prsn_l90y8.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/64/692_prsn_l90y8.jpg"
+        },
+        "name": "新房昭之",
+        "relation": "总导演",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 692,
+        "eps": ""
+      },
       {
         "images": {
           "small": "",
@@ -4049,22 +4081,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
-          "grid": "https://lain.bgm.tv/pic/crt/g/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
-          "large": "https://lain.bgm.tv/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711"
-        },
-        "name": "大沼心",
-        "relation": "OP・ED 演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 2860,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -4093,6 +4109,22 @@
         ],
         "type": 1,
         "id": 67390,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
+          "grid": "https://lain.bgm.tv/pic/crt/g/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
+          "large": "https://lain.bgm.tv/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711"
+        },
+        "name": "大沼心",
+        "relation": "OP・ED 分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2860,
         "eps": ""
       },
       {
@@ -4335,22 +4367,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/64/692_prsn_l90y8.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/b6/64/692_prsn_l90y8.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/b6/64/692_prsn_l90y8.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/64/692_prsn_l90y8.jpg"
-        },
-        "name": "新房昭之",
-        "relation": "总导演",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 692,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/24/b4/2992_prsn_anidb.jpg?r=1622175783",
           "grid": "https://lain.bgm.tv/pic/crt/g/24/b4/2992_prsn_anidb.jpg?r=1622175783",
           "large": "https://lain.bgm.tv/pic/crt/l/24/b4/2992_prsn_anidb.jpg?r=1622175783",
@@ -4363,22 +4379,6 @@
         ],
         "type": 1,
         "id": 2992,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
-          "grid": "https://lain.bgm.tv/pic/crt/g/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
-          "large": "https://lain.bgm.tv/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/fc/fd/2860_prsn_S3z95.jpg?r=1756569711"
-        },
-        "name": "大沼心",
-        "relation": "OP・ED 分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 2860,
         "eps": ""
       },
       {
@@ -6944,7 +6944,7 @@
         "id": 520724
       }
     ],
-    "updatedAt": "2025-11-29T11:31:34.330Z"
+    "updatedAt": "2025-11-30T11:32:07.835Z"
   },
   {
     "id": 14766,
@@ -7043,17 +7043,7 @@
           "total_cont": 0
         },
         {
-          "name": "日升",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "冨岡淳広",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗之魂",
+          "name": "年番",
           "count": 4,
           "total_cont": 0
         },
@@ -7063,7 +7053,12 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
+          "name": "日升",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "サンライズ",
           "count": 4,
           "total_cont": 0
         },
@@ -7078,22 +7073,32 @@
           "total_cont": 0
         },
         {
-          "name": "サンライズ",
+          "name": "战斗",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "年番",
+          "name": "冨岡淳広",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "2009年9月",
-          "count": 3,
+          "name": "战斗之魂",
+          "count": 4,
           "total_cont": 0
         },
         {
           "name": "TVA",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "バトルスピリッツ",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "2009年9月",
           "count": 3,
           "total_cont": 0
         },
@@ -7104,11 +7109,6 @@
         },
         {
           "name": "矢立肇",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "バトルスピリッツ",
           "count": 3,
           "total_cont": 0
         }
@@ -7292,7 +7292,7 @@
         }
       ],
       "rating": {
-        "rank": 1161,
+        "rank": 1162,
         "total": 151,
         "count": {
           "1": 0,
@@ -7314,7 +7314,7 @@
         "dropped": 22,
         "wish": 136,
         "collect": 209,
-        "doing": 32
+        "doing": 33
       },
       "id": 14766,
       "eps": 50,
@@ -7457,22 +7457,6 @@
         ],
         "type": 1,
         "id": 42980,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/b6/a2/1349_prsn_ha59K.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg"
-        },
-        "name": "西森章",
-        "relation": "OP・ED 分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1349,
         "eps": ""
       },
       {
@@ -8024,6 +8008,22 @@
         ],
         "type": 1,
         "id": 23555,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b6/a2/1349_prsn_ha59K.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg"
+        },
+        "name": "西森章",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1349,
         "eps": ""
       },
       {
@@ -9194,22 +9194,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/b6/a2/1349_prsn_ha59K.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg"
-        },
-        "name": "西森章",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1349,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -9434,22 +9418,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/b6/a2/1349_prsn_ha59K.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg"
-        },
-        "name": "西森章",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1349,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/e1/53/3101_prsn_0cW7z.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/e1/53/3101_prsn_0cW7z.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/e1/53/3101_prsn_0cW7z.jpg",
@@ -9659,22 +9627,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/b6/a2/1349_prsn_ha59K.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg"
-        },
-        "name": "西森章",
-        "relation": "导演",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1349,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -9771,6 +9723,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b6/a2/1349_prsn_ha59K.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg"
+        },
+        "name": "西森章",
+        "relation": "导演",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1349,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -9783,6 +9751,38 @@
         ],
         "type": 1,
         "id": 83534,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b6/a2/1349_prsn_ha59K.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg"
+        },
+        "name": "西森章",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1349,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b6/a2/1349_prsn_ha59K.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b6/a2/1349_prsn_ha59K.jpg"
+        },
+        "name": "西森章",
+        "relation": "OP・ED 分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1349,
         "eps": ""
       }
     ],
@@ -10264,7 +10264,7 @@
         "id": 83086
       }
     ],
-    "updatedAt": "2025-11-29T11:36:41.612Z"
+    "updatedAt": "2025-11-30T11:37:52.196Z"
   },
   {
     "id": 62930,
@@ -10978,7 +10978,7 @@
         "id": 425951
       }
     ],
-    "updatedAt": "2025-11-29T11:44:01.177Z"
+    "updatedAt": "2025-11-30T11:46:03.851Z"
   },
   {
     "id": 162688,
@@ -11117,7 +11117,17 @@
           "total_cont": 0
         },
         {
-          "name": "銀魂",
+          "name": "动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "必看",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "表",
           "count": 1,
           "total_cont": 0
         },
@@ -11127,22 +11137,12 @@
           "total_cont": 0
         },
         {
-          "name": "预告骗",
+          "name": "銀魂",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "番外",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "喜剧",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "大长篇",
+          "name": "2000s",
           "count": 1,
           "total_cont": 0
         }
@@ -11218,7 +11218,7 @@
         }
       ],
       "rating": {
-        "rank": 2017,
+        "rank": 2016,
         "total": 345,
         "count": {
           "1": 6,
@@ -11238,7 +11238,7 @@
       "collection": {
         "on_hold": 19,
         "dropped": 23,
-        "wish": 136,
+        "wish": 137,
         "collect": 747,
         "doing": 12
       },
@@ -12844,7 +12844,7 @@
         "id": 4705
       }
     ],
-    "updatedAt": "2025-11-29T11:52:42.187Z"
+    "updatedAt": "2025-11-30T11:55:44.059Z"
   },
   {
     "id": 210715,
@@ -12954,6 +12954,6 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-11-29T11:56:08.430Z"
+    "updatedAt": "2025-11-30T11:59:37.026Z"
   }
 ]
