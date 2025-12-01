@@ -220,7 +220,7 @@
         }
       ],
       "rating": {
-        "rank": 5044,
+        "rank": 5043,
         "total": 96,
         "count": {
           "1": 0,
@@ -577,7 +577,7 @@
         "id": 105125
       }
     ],
-    "updatedAt": "2025-11-30T11:42:35.937Z"
+    "updatedAt": "2025-12-01T11:45:21.445Z"
   },
   {
     "id": 52394,
@@ -597,11 +597,11 @@
       "tags": [
         {
           "name": "TV",
-          "count": 18,
+          "count": 19,
           "total_cont": 0
         },
         {
-          "name": "1980年",
+          "name": "1980",
           "count": 12,
           "total_cont": 0
         },
@@ -636,42 +636,22 @@
           "total_cont": 0
         },
         {
+          "name": "日本",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "东京movie",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "undefined",
+          "name": "SF",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "小山茉美",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "千々松幸子",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "安原义人",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "古川登志夫",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "赛璐珞",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
@@ -681,32 +661,22 @@
           "total_cont": 0
         },
         {
+          "name": "赛璐珞",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "东京电影",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "原创",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "武岡淳一",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "屋良有作",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "80年代",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1980年",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         },
@@ -716,12 +686,17 @@
           "total_cont": 0
         },
         {
-          "name": "铃置洋孝",
+          "name": "大白鲸",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "玄田哲章",
+          "name": "渡部猛",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "古川登志夫",
           "count": 1,
           "total_cont": 0
         },
@@ -742,6 +717,31 @@
         },
         {
           "name": "吉田理保子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "安原义人",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "undefined",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "小山茉美",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "千々松幸子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "屋良有作",
           "count": 1,
           "total_cont": 0
         }
@@ -800,14 +800,14 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 24,
+        "total": 25,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 1,
           "5": 2,
-          "6": 5,
+          "6": 6,
           "7": 10,
           "8": 4,
           "9": 2,
@@ -820,7 +820,7 @@
         "on_hold": 4,
         "dropped": 7,
         "wish": 49,
-        "collect": 42,
+        "collect": 43,
         "doing": 7
       },
       "id": 52394,
@@ -992,7 +992,25 @@
         },
         "name": "白銀剣",
         "relation": "主角",
-        "actors": [],
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/2e/35/71239_prsn_a9IJi.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/2e/35/71239_prsn_a9IJi.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/2e/35/71239_prsn_a9IJi.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2e/35/71239_prsn_a9IJi.jpg"
+            },
+            "name": "武岡淳一",
+            "short_summary": "東京都出身の男性俳優、声優。所属していた明治座アートクリエイトの解散、株式会社「みんなのS」所属を経て、現在はフリー。",
+            "career": [
+              "seiyu",
+              "actor"
+            ],
+            "id": 71239,
+            "type": 1,
+            "locked": false
+          }
+        ],
         "type": 1,
         "id": 122437
       },
@@ -1043,7 +1061,7 @@
         "id": 72456
       }
     ],
-    "updatedAt": "2025-11-30T11:44:45.589Z"
+    "updatedAt": "2025-12-01T11:47:20.889Z"
   },
   {
     "id": 208612,
@@ -2108,7 +2126,7 @@
         "id": 161510
       }
     ],
-    "updatedAt": "2025-11-30T11:59:19.313Z"
+    "updatedAt": "2025-12-01T12:01:00.710Z"
   },
   {
     "id": 416987,
@@ -2325,6 +2343,6 @@
         "id": 10392
       }
     ],
-    "updatedAt": "2025-11-30T12:14:06.084Z"
+    "updatedAt": "2025-12-01T12:14:43.407Z"
   }
 ]
