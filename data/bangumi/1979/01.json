@@ -86,6 +86,11 @@
           "total_cont": 0
         },
         {
+          "name": "TVA",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "宮崎駿",
           "count": 5,
           "total_cont": 0
@@ -93,21 +98,6 @@
         {
           "name": "百合",
           "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "红发少女安妮",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "1970s",
-          "count": 3,
           "total_cont": 0
         },
         {
@@ -121,22 +111,22 @@
           "total_cont": 0
         },
         {
-          "name": "undefined",
+          "name": "红发少女安妮",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "1970s",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "70年代",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "经典",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "00前",
+          "name": "1979年1月",
           "count": 2,
           "total_cont": 0
         },
@@ -146,22 +136,32 @@
           "total_cont": 0
         },
         {
-          "name": "1979年1月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "世界名作劇場",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "1979年1月",
+          "name": "经典",
           "count": 2,
           "total_cont": 0
         },
         {
           "name": "补",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1979年1月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "00前",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "undefined",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "70年代",
           "count": 2,
           "total_cont": 0
         }
@@ -264,8 +264,8 @@
         }
       ],
       "rating": {
-        "rank": 579,
-        "total": 158,
+        "rank": 578,
+        "total": 160,
         "count": {
           "1": 1,
           "2": 0,
@@ -273,8 +273,8 @@
           "4": 0,
           "5": 5,
           "6": 9,
-          "7": 26,
-          "8": 74,
+          "7": 27,
+          "8": 75,
           "9": 34,
           "10": 8
         },
@@ -284,8 +284,8 @@
       "collection": {
         "on_hold": 50,
         "dropped": 28,
-        "wish": 500,
-        "collect": 203,
+        "wish": 502,
+        "collect": 205,
         "doing": 76
       },
       "id": 18256,
@@ -710,10 +710,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/00/25/2308_prsn_1R35F.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/00/25/2308_prsn_1R35F.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/00/25/2308_prsn_1R35F.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/00/25/2308_prsn_1R35F.jpg"
         },
         "name": "村田耕一",
         "relation": "原画",
@@ -2484,6 +2484,6 @@
         "id": 524801
       }
     ],
-    "updatedAt": "2025-12-01T11:41:27.789Z"
+    "updatedAt": "2025-12-02T11:41:33.397Z"
   }
 ]
