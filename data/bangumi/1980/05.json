@@ -91,12 +91,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "传说巨神伊迪安",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "传说巨神伊迪安",
+          "name": "日本动画",
           "count": 7,
           "total_cont": 0
         },
@@ -106,12 +106,17 @@
           "total_cont": 0
         },
         {
-          "name": "80s",
+          "name": "湖川友谦",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "湖川友谦",
+          "name": "机器人",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "80s",
           "count": 5,
           "total_cont": 0
         },
@@ -121,8 +126,8 @@
           "total_cont": 0
         },
         {
-          "name": "机器人",
-          "count": 5,
+          "name": "サンライズ",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -136,8 +141,8 @@
           "total_cont": 0
         },
         {
-          "name": "サンライズ",
-          "count": 4,
+          "name": "IDEON",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -146,7 +151,7 @@
           "total_cont": 0
         },
         {
-          "name": "经典",
+          "name": "1980s",
           "count": 3,
           "total_cont": 0
         },
@@ -156,12 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "战争",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "1980s",
+          "name": "经典",
           "count": 3,
           "total_cont": 0
         }
@@ -336,7 +336,7 @@
       "collection": {
         "on_hold": 113,
         "dropped": 51,
-        "wish": 954,
+        "wish": 955,
         "collect": 922,
         "doing": 205
       },
@@ -1684,6 +1684,38 @@
         "type": 1,
         "id": 11347,
         "eps": "2"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "マキ・プロダクション",
+        "relation": "标题设计",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 84200,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "マキ・プロダクション",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 84200,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2972,7 +3004,7 @@
         "id": 498986
       }
     ],
-    "updatedAt": "2025-12-03T11:40:21.488Z"
+    "updatedAt": "2025-12-04T11:39:11.544Z"
   },
   {
     "id": 311800,
@@ -3698,6 +3730,6 @@
         "id": 514817
       }
     ],
-    "updatedAt": "2025-12-03T12:10:53.074Z"
+    "updatedAt": "2025-12-04T12:04:27.224Z"
   }
 ]
