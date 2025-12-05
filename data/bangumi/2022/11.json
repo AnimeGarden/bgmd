@@ -1712,7 +1712,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/01/01/10956_crt_5LR7z.jpg"
         },
         "name": "ナレーション",
-        "relation": "",
+        "relation": "旁白",
         "actors": [
           {
             "images": {
@@ -4091,7 +4091,7 @@
         "id": 415263
       }
     ],
-    "updatedAt": "2025-12-04T12:01:40.306Z"
+    "updatedAt": "2025-12-05T11:59:12.445Z"
   },
   {
     "id": 350185,
@@ -4185,12 +4185,12 @@
           "total_cont": 0
         },
         {
-          "name": "后宫",
+          "name": "漫画改",
           "count": 16,
           "total_cont": 0
         },
         {
-          "name": "漫画改",
+          "name": "后宫",
           "count": 16,
           "total_cont": 0
         },
@@ -4210,6 +4210,11 @@
           "total_cont": 0
         },
         {
+          "name": "转生",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
           "name": "动画",
           "count": 6,
           "total_cont": 0
@@ -4217,16 +4222,6 @@
         {
           "name": "原创",
           "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "转生",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "史莱姆",
-          "count": 5,
           "total_cont": 0
         },
         {
@@ -4241,6 +4236,11 @@
         },
         {
           "name": "答辩",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "史莱姆",
           "count": 5,
           "total_cont": 0
         },
@@ -4377,15 +4377,15 @@
         }
       ],
       "rating": {
-        "rank": 8286,
-        "total": 1583,
+        "rank": 8288,
+        "total": 1584,
         "count": {
           "1": 7,
           "2": 12,
           "3": 44,
           "4": 124,
           "5": 395,
-          "6": 670,
+          "6": 671,
           "7": 256,
           "8": 41,
           "9": 7,
@@ -4397,8 +4397,8 @@
       "collection": {
         "on_hold": 78,
         "dropped": 45,
-        "wish": 650,
-        "collect": 3062,
+        "wish": 652,
+        "collect": 3063,
         "doing": 140
       },
       "id": 350185,
@@ -6515,6 +6515,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6e/d5/9095_prsn_6ZdQ1.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6e/d5/9095_prsn_6ZdQ1.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/6e/d5/9095_prsn_6ZdQ1.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6e/d5/9095_prsn_6ZdQ1.jpg"
+        },
+        "name": "津田尚克",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 9095,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -6865,22 +6881,6 @@
         ],
         "type": 1,
         "id": 36600,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6e/d5/9095_prsn_6ZdQ1.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/6e/d5/9095_prsn_6ZdQ1.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/6e/d5/9095_prsn_6ZdQ1.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6e/d5/9095_prsn_6ZdQ1.jpg"
-        },
-        "name": "津田尚克",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 9095,
         "eps": ""
       },
       {
@@ -8210,7 +8210,7 @@
         "id": 515595
       }
     ],
-    "updatedAt": "2025-12-04T12:06:43.945Z"
+    "updatedAt": "2025-12-05T12:04:00.245Z"
   },
   {
     "id": 362577,
@@ -8230,37 +8230,37 @@
       "tags": [
         {
           "name": "新海诚",
-          "count": 4105,
+          "count": 4106,
           "total_cont": 0
         },
         {
           "name": "剧场版",
-          "count": 3648,
+          "count": 3649,
           "total_cont": 0
         },
         {
           "name": "2022年10月",
-          "count": 2055,
+          "count": 2056,
           "total_cont": 0
         },
         {
           "name": "原创",
-          "count": 2041,
+          "count": 2042,
           "total_cont": 0
         },
         {
           "name": "奇幻",
-          "count": 1952,
+          "count": 1953,
           "total_cont": 0
         },
         {
           "name": "恋爱",
-          "count": 1815,
+          "count": 1816,
           "total_cont": 0
         },
         {
           "name": "公路片",
-          "count": 1254,
+          "count": 1255,
           "total_cont": 0
         },
         {
@@ -8492,17 +8492,17 @@
         }
       ],
       "rating": {
-        "rank": 4788,
-        "total": 13668,
+        "rank": 4790,
+        "total": 13673,
         "count": {
           "1": 60,
           "2": 47,
           "3": 102,
           "4": 454,
           "5": 1140,
-          "6": 4049,
-          "7": 5408,
-          "8": 1988,
+          "6": 4050,
+          "7": 5410,
+          "8": 1990,
           "9": 262,
           "10": 158
         },
@@ -8512,9 +8512,9 @@
       "collection": {
         "on_hold": 143,
         "dropped": 89,
-        "wish": 1615,
-        "collect": 20546,
-        "doing": 177
+        "wish": 1617,
+        "collect": 20556,
+        "doing": 176
       },
       "id": 362577,
       "eps": 1,
@@ -12428,7 +12428,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/1d/85/17529_crt_0dRZE.jpg"
         },
         "name": "モブキャラクター",
-        "relation": "",
+        "relation": "闲角",
         "actors": [
           {
             "images": {
@@ -14142,7 +14142,7 @@
         "id": 555409
       }
     ],
-    "updatedAt": "2025-12-04T12:07:15.188Z"
+    "updatedAt": "2025-12-05T12:04:27.860Z"
   },
   {
     "id": 376708,
@@ -14246,22 +14246,22 @@
           "total_cont": 0
         },
         {
-          "name": "纯爱",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "SEVEN・ARCS",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "番外",
           "count": 6,
           "total_cont": 0
         },
         {
+          "name": "纯爱",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
           "name": "畑健二郎",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "SEVEN・ARCS",
           "count": 6,
           "total_cont": 0
         },
@@ -14286,27 +14286,27 @@
           "total_cont": 0
         },
         {
-          "name": "喜剧",
+          "name": "OAD",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "兵头一步",
+          "name": "鬼頭明里",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "校园",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "制服",
+          "name": "短片",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "SEVEN_ARCS",
+          "name": "2020s",
           "count": 2,
           "total_cont": 0
         }
@@ -14374,7 +14374,7 @@
         }
       ],
       "rating": {
-        "rank": 5717,
+        "rank": 5719,
         "total": 1411,
         "count": {
           "1": 2,
@@ -14394,7 +14394,7 @@
       "collection": {
         "on_hold": 87,
         "dropped": 30,
-        "wish": 447,
+        "wish": 448,
         "collect": 2843,
         "doing": 74
       },
@@ -15043,7 +15043,7 @@
         "id": 410951
       }
     ],
-    "updatedAt": "2025-12-04T12:07:51.241Z"
+    "updatedAt": "2025-12-05T12:05:01.675Z"
   },
   {
     "id": 381842,
@@ -17837,7 +17837,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/01/01/10956_crt_5LR7z.jpg"
         },
         "name": "ナレーション",
-        "relation": "",
+        "relation": "旁白",
         "actors": [
           {
             "images": {
@@ -18023,6 +18023,6 @@
         "id": 463779
       }
     ],
-    "updatedAt": "2025-12-04T12:08:03.810Z"
+    "updatedAt": "2025-12-05T12:05:13.259Z"
   }
 ]
