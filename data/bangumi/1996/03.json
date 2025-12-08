@@ -111,32 +111,12 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "劇場版",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "Shin-EiAnimation",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "90年代",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "电影",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "喜剧",
+          "name": "Shin-EiAnimation",
           "count": 2,
           "total_cont": 0
         },
@@ -151,7 +131,7 @@
           "total_cont": 0
         },
         {
-          "name": "2020",
+          "name": "SF",
           "count": 2,
           "total_cont": 0
         },
@@ -161,7 +141,27 @@
           "total_cont": 0
         },
         {
+          "name": "喜剧",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "2020",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "电影",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "劇場版",
           "count": 2,
           "total_cont": 0
         }
@@ -293,7 +293,7 @@
         }
       ],
       "rating": {
-        "rank": 1974,
+        "rank": 1975,
         "total": 504,
         "count": {
           "1": 1,
@@ -314,7 +314,7 @@
         "on_hold": 16,
         "dropped": 17,
         "wish": 77,
-        "collect": 1034,
+        "collect": 1035,
         "doing": 12
       },
       "id": 458,
@@ -1558,7 +1558,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2025-12-07T11:27:23.314Z"
+    "updatedAt": "2025-12-08T11:31:58.699Z"
   },
   {
     "id": 5434,
@@ -1824,7 +1824,7 @@
       "collection": {
         "on_hold": 46,
         "dropped": 26,
-        "wish": 160,
+        "wish": 161,
         "collect": 668,
         "doing": 21
       },
@@ -5018,7 +5018,7 @@
         "id": 5981
       }
     ],
-    "updatedAt": "2025-12-07T11:32:31.408Z"
+    "updatedAt": "2025-12-08T11:38:11.834Z"
   },
   {
     "id": 23452,
@@ -6532,7 +6532,7 @@
         "id": 528170
       }
     ],
-    "updatedAt": "2025-12-07T11:37:03.689Z"
+    "updatedAt": "2025-12-08T11:43:39.443Z"
   },
   {
     "id": 27206,
@@ -7266,6 +7266,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/3a/b3/382_prsn_SE7sC.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg"
+        },
+        "name": "大橋誉志光",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 382,
+        "eps": "1"
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -7444,22 +7460,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/3a/b3/382_prsn_SE7sC.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg"
-        },
-        "name": "大橋誉志光",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 382,
-        "eps": "1"
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/52/89/278_prsn_a2lau.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/52/89/278_prsn_a2lau.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/52/89/278_prsn_a2lau.jpg",
@@ -7492,22 +7492,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/3a/b3/382_prsn_SE7sC.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg"
-        },
-        "name": "大橋誉志光",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 382,
-        "eps": "1"
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/c1/d9/249_prsn_ZsS10.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/c1/d9/249_prsn_ZsS10.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/c1/d9/249_prsn_ZsS10.jpg",
@@ -7537,6 +7521,22 @@
         "type": 1,
         "id": 2720,
         "eps": "3"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/3a/b3/382_prsn_SE7sC.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/3a/b3/382_prsn_SE7sC.jpg"
+        },
+        "name": "大橋誉志光",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 382,
+        "eps": "1"
       },
       {
         "images": {
@@ -7815,7 +7815,7 @@
         "id": 360159
       }
     ],
-    "updatedAt": "2025-12-07T11:37:34.872Z"
+    "updatedAt": "2025-12-08T11:44:15.735Z"
   },
   {
     "id": 48944,
@@ -8067,7 +8067,7 @@
         }
       ],
       "rating": {
-        "rank": 3745,
+        "rank": 3746,
         "total": 190,
         "count": {
           "1": 0,
@@ -10531,7 +10531,7 @@
         "id": 168968
       }
     ],
-    "updatedAt": "2025-12-07T11:40:55.966Z"
+    "updatedAt": "2025-12-08T11:48:08.473Z"
   },
   {
     "id": 80698,
@@ -10745,7 +10745,7 @@
         }
       ],
       "rating": {
-        "rank": 3423,
+        "rank": 3425,
         "total": 116,
         "count": {
           "1": 0,
@@ -11118,6 +11118,6 @@
         "id": 491781
       }
     ],
-    "updatedAt": "2025-12-07T11:43:56.205Z"
+    "updatedAt": "2025-12-08T11:51:41.137Z"
   }
 ]
