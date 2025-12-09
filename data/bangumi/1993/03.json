@@ -46,12 +46,12 @@
           "total_cont": 0
         },
         {
-          "name": "SHIN-EI",
+          "name": "科幻",
           "count": 41,
           "total_cont": 0
         },
         {
-          "name": "科幻",
+          "name": "SHIN-EI",
           "count": 41,
           "total_cont": 0
         },
@@ -96,11 +96,6 @@
           "total_cont": 0
         },
         {
-          "name": "喜剧",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "战斗",
           "count": 4,
           "total_cont": 0
@@ -111,17 +106,17 @@
           "total_cont": 0
         },
         {
+          "name": "喜剧",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "劇場版",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "映画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "冒险",
           "count": 3,
           "total_cont": 0
         },
@@ -131,7 +126,7 @@
           "total_cont": 0
         },
         {
-          "name": "劇場版",
+          "name": "电影",
           "count": 3,
           "total_cont": 0
         },
@@ -141,12 +136,22 @@
           "total_cont": 0
         },
         {
-          "name": "电影",
+          "name": "冒险",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "Shin-EiAnimation",
+          "name": "日本动画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "补标",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ映画",
+          "name": "Shin-EiAnimation",
           "count": 2,
           "total_cont": 0
         }
@@ -303,7 +303,7 @@
         }
       ],
       "rating": {
-        "rank": 2023,
+        "rank": 2024,
         "total": 612,
         "count": {
           "1": 1,
@@ -324,7 +324,7 @@
         "on_hold": 20,
         "dropped": 19,
         "wish": 68,
-        "collect": 1265,
+        "collect": 1266,
         "doing": 11
       },
       "id": 452,
@@ -1788,7 +1788,7 @@
         "id": 515260
       }
     ],
-    "updatedAt": "2025-12-08T11:31:57.470Z"
+    "updatedAt": "2025-12-09T11:32:38.080Z"
   },
   {
     "id": 5428,
@@ -2027,7 +2027,7 @@
         }
       ],
       "rating": {
-        "rank": 1920,
+        "rank": 1918,
         "total": 462,
         "count": {
           "1": 0,
@@ -2065,22 +2065,6 @@
       "type": 2
     },
     "persons": [
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/60/8c/726_prsn_EOjZp.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/60/8c/726_prsn_EOjZp.jpg"
-        },
-        "name": "五十嵐卓哉",
-        "relation": "演出助理",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 726,
-        "eps": ""
-      },
       {
         "images": {
           "small": "",
@@ -2159,6 +2143,22 @@
         ],
         "type": 1,
         "id": 13109,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/60/8c/726_prsn_EOjZp.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/60/8c/726_prsn_EOjZp.jpg"
+        },
+        "name": "五十嵐卓哉",
+        "relation": "演出助理",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 726,
         "eps": ""
       },
       {
@@ -2946,22 +2946,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/60/8c/726_prsn_EOjZp.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/60/8c/726_prsn_EOjZp.jpg"
-        },
-        "name": "五十嵐卓哉",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 726,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -3038,6 +3022,22 @@
         ],
         "type": 1,
         "id": 11395,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/60/8c/726_prsn_EOjZp.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/60/8c/726_prsn_EOjZp.jpg"
+        },
+        "name": "五十嵐卓哉",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 726,
         "eps": ""
       },
       {
@@ -3684,22 +3684,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/60/8c/726_prsn_EOjZp.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/60/8c/726_prsn_EOjZp.jpg"
-        },
-        "name": "五十嵐卓哉",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 726,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/d5/8c/724_prsn_cnjWJ.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/d5/8c/724_prsn_cnjWJ.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/d5/8c/724_prsn_cnjWJ.jpg",
@@ -3713,6 +3697,22 @@
         ],
         "type": 1,
         "id": 724,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/60/8c/726_prsn_EOjZp.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/60/8c/726_prsn_EOjZp.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/60/8c/726_prsn_EOjZp.jpg"
+        },
+        "name": "五十嵐卓哉",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 726,
         "eps": ""
       },
       {
@@ -5855,7 +5855,7 @@
         "id": 98676
       }
     ],
-    "updatedAt": "2025-12-08T11:38:10.210Z"
+    "updatedAt": "2025-12-09T11:37:59.428Z"
   },
   {
     "id": 19539,
@@ -10137,7 +10137,7 @@
         "id": 510227
       }
     ],
-    "updatedAt": "2025-12-08T11:42:51.807Z"
+    "updatedAt": "2025-12-09T11:42:06.682Z"
   },
   {
     "id": 45393,
@@ -10405,7 +10405,7 @@
         }
       ],
       "rating": {
-        "rank": 3653,
+        "rank": 3656,
         "total": 351,
         "count": {
           "1": 0,
@@ -11660,7 +11660,7 @@
         "id": 240287
       }
     ],
-    "updatedAt": "2025-12-08T11:47:30.744Z"
+    "updatedAt": "2025-12-09T11:46:19.694Z"
   },
   {
     "id": 46538,
@@ -11872,7 +11872,7 @@
         }
       ],
       "rating": {
-        "rank": 1818,
+        "rank": 1816,
         "total": 89,
         "count": {
           "1": 0,
@@ -14327,7 +14327,7 @@
         "id": 529641
       }
     ],
-    "updatedAt": "2025-12-08T11:47:42.747Z"
+    "updatedAt": "2025-12-09T11:46:30.152Z"
   },
   {
     "id": 82723,
@@ -15468,7 +15468,7 @@
         "id": 440138
       }
     ],
-    "updatedAt": "2025-12-08T11:52:01.505Z"
+    "updatedAt": "2025-12-09T11:50:21.280Z"
   },
   {
     "id": 279060,
@@ -16994,7 +16994,7 @@
         "id": 298573
       }
     ],
-    "updatedAt": "2025-12-08T12:07:54.678Z"
+    "updatedAt": "2025-12-09T12:04:40.530Z"
   },
   {
     "id": 299906,
@@ -17380,7 +17380,7 @@
         "id": 449957
       }
     ],
-    "updatedAt": "2025-12-08T12:09:42.219Z"
+    "updatedAt": "2025-12-09T12:06:17.129Z"
   },
   {
     "id": 315548,
@@ -17466,6 +17466,6 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-08T12:10:50.036Z"
+    "updatedAt": "2025-12-09T12:07:17.490Z"
   }
 ]

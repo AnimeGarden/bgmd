@@ -116,6 +116,11 @@
           "total_cont": 0
         },
         {
+          "name": "电影",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "童年系",
           "count": 5,
           "total_cont": 0
@@ -131,8 +136,8 @@
           "total_cont": 0
         },
         {
-          "name": "电影",
-          "count": 5,
+          "name": "动画电影",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -142,11 +147,6 @@
         },
         {
           "name": "战斗",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "动画电影",
           "count": 4,
           "total_cont": 0
         },
@@ -161,7 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "movie",
+          "name": "重制",
           "count": 2,
           "total_cont": 0
         }
@@ -339,8 +339,8 @@
       "collection": {
         "on_hold": 20,
         "dropped": 28,
-        "wish": 100,
-        "collect": 1744,
+        "wish": 99,
+        "collect": 1745,
         "doing": 14
       },
       "id": 475,
@@ -3205,7 +3205,7 @@
         "id": 516364
       }
     ],
-    "updatedAt": "2025-12-08T11:32:03.672Z"
+    "updatedAt": "2025-12-09T11:32:43.218Z"
   },
   {
     "id": 927,
@@ -3225,22 +3225,22 @@
       "tags": [
         {
           "name": "新海诚",
-          "count": 7514,
+          "count": 7515,
           "total_cont": 0
         },
         {
           "name": "剧场版",
-          "count": 4687,
+          "count": 4690,
           "total_cont": 0
         },
         {
           "name": "爱情",
-          "count": 2954,
+          "count": 2956,
           "total_cont": 0
         },
         {
           "name": "催泪",
-          "count": 2179,
+          "count": 2181,
           "total_cont": 0
         },
         {
@@ -3250,7 +3250,7 @@
         },
         {
           "name": "2007年3月",
-          "count": 1835,
+          "count": 1837,
           "total_cont": 0
         },
         {
@@ -3260,12 +3260,12 @@
         },
         {
           "name": "恋爱",
-          "count": 1494,
+          "count": 1497,
           "total_cont": 0
         },
         {
           "name": "原创",
-          "count": 1258,
+          "count": 1259,
           "total_cont": 0
         },
         {
@@ -3275,7 +3275,7 @@
         },
         {
           "name": "浪漫",
-          "count": 833,
+          "count": 834,
           "total_cont": 0
         },
         {
@@ -3310,7 +3310,7 @@
         },
         {
           "name": "日本",
-          "count": 162,
+          "count": 164,
           "total_cont": 0
         },
         {
@@ -3450,28 +3450,28 @@
       ],
       "rating": {
         "rank": 291,
-        "total": 23501,
+        "total": 23508,
         "count": {
           "1": 39,
           "2": 33,
           "3": 65,
           "4": 128,
           "5": 434,
-          "6": 1819,
-          "7": 5458,
-          "8": 8273,
-          "9": 4776,
-          "10": 2476
+          "6": 1821,
+          "7": 5460,
+          "8": 8276,
+          "9": 4773,
+          "10": 2479
         },
         "score": 7.9
       },
       "total_episodes": 3,
       "collection": {
-        "on_hold": 508,
+        "on_hold": 510,
         "dropped": 146,
         "wish": 3066,
-        "collect": 37127,
-        "doing": 395
+        "collect": 37149,
+        "doing": 394
       },
       "id": 927,
       "eps": 3,
@@ -4690,7 +4690,7 @@
         "id": 585666
       }
     ],
-    "updatedAt": "2025-12-08T11:32:49.372Z"
+    "updatedAt": "2025-12-09T11:33:22.519Z"
   },
   {
     "id": 1265,
@@ -5960,7 +5960,7 @@
         "id": 107205
       }
     ],
-    "updatedAt": "2025-12-08T11:33:09.050Z"
+    "updatedAt": "2025-12-09T11:33:39.418Z"
   },
   {
     "id": 1999,
@@ -6044,12 +6044,12 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "漫改",
           "count": 11,
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "动画",
           "count": 11,
           "total_cont": 0
         },
@@ -6099,22 +6099,7 @@
           "total_cont": 0
         },
         {
-          "name": "2007年3月",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "少年系",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "2007年3月",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
@@ -6124,7 +6109,22 @@
           "total_cont": 0
         },
         {
+          "name": "2007年3月",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "2007年3月",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "幻想",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 3,
           "total_cont": 0
         }
@@ -6211,7 +6211,7 @@
       "collection": {
         "on_hold": 19,
         "dropped": 28,
-        "wish": 62,
+        "wish": 63,
         "collect": 1313,
         "doing": 20
       },
@@ -7100,7 +7100,7 @@
         "id": 369191
       }
     ],
-    "updatedAt": "2025-12-08T11:34:27.843Z"
+    "updatedAt": "2025-12-09T11:34:48.274Z"
   },
   {
     "id": 2682,
@@ -7204,12 +7204,12 @@
           "total_cont": 0
         },
         {
-          "name": "EVA学园",
+          "name": "三木俊一郎",
           "count": 14,
           "total_cont": 0
         },
         {
-          "name": "三木俊一郎",
+          "name": "EVA学园",
           "count": 14,
           "total_cont": 0
         },
@@ -7244,11 +7244,6 @@
           "total_cont": 0
         },
         {
-          "name": "新世纪福音战士",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "KanabanGraphics",
           "count": 6,
           "total_cont": 0
@@ -7259,12 +7254,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 5,
+          "name": "新世纪福音战士",
+          "count": 6,
           "total_cont": 0
         },
         {
           "name": "泡面",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
           "count": 5,
           "total_cont": 0
         }
@@ -7355,11 +7355,11 @@
       },
       "total_episodes": 42,
       "collection": {
-        "on_hold": 88,
+        "on_hold": 89,
         "dropped": 58,
         "wish": 524,
-        "collect": 1160,
-        "doing": 43
+        "collect": 1162,
+        "doing": 42
       },
       "id": 2682,
       "eps": 24,
@@ -7834,7 +7834,7 @@
         "id": 235657
       }
     ],
-    "updatedAt": "2025-12-08T11:35:17.114Z"
+    "updatedAt": "2025-12-09T11:35:32.343Z"
   },
   {
     "id": 2732,
@@ -8138,7 +8138,7 @@
         }
       ],
       "rating": {
-        "rank": 1318,
+        "rank": 1317,
         "total": 260,
         "count": {
           "1": 3,
@@ -9219,7 +9219,7 @@
         "id": 193524
       }
     ],
-    "updatedAt": "2025-12-08T11:35:21.813Z"
+    "updatedAt": "2025-12-09T11:35:36.237Z"
   },
   {
     "id": 3762,
@@ -9451,7 +9451,7 @@
         }
       ],
       "rating": {
-        "rank": 2740,
+        "rank": 2741,
         "total": 273,
         "count": {
           "1": 1,
@@ -10467,7 +10467,7 @@
         "id": 107253
       }
     ],
-    "updatedAt": "2025-12-08T11:36:53.472Z"
+    "updatedAt": "2025-12-09T11:36:57.342Z"
   },
   {
     "id": 5910,
@@ -10581,11 +10581,6 @@
           "total_cont": 0
         },
         {
-          "name": "可YY百合",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "动画",
           "count": 3,
           "total_cont": 0
@@ -10596,12 +10591,12 @@
           "total_cont": 0
         },
         {
-          "name": "氷上恭子",
-          "count": 2,
+          "name": "可YY百合",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "轻百合",
           "count": 2,
           "total_cont": 0
         },
@@ -10616,22 +10611,27 @@
           "total_cont": 0
         },
         {
-          "name": "轻百合",
+          "name": "氷上恭子",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "2007年4月",
+          "name": "TVA",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "GET",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "笹野惠",
+          "name": "短篇",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "搞笑",
+          "name": "扫番",
           "count": 1,
           "total_cont": 0
         }
@@ -10783,7 +10783,7 @@
         }
       ],
       "rating": {
-        "rank": 4054,
+        "rank": 4053,
         "total": 174,
         "count": {
           "1": 0,
@@ -10801,7 +10801,7 @@
       },
       "total_episodes": 12,
       "collection": {
-        "on_hold": 53,
+        "on_hold": 54,
         "dropped": 27,
         "wish": 337,
         "collect": 276,
@@ -12317,7 +12317,7 @@
         "id": 22434
       }
     ],
-    "updatedAt": "2025-12-08T11:38:22.753Z"
+    "updatedAt": "2025-12-09T11:38:10.387Z"
   },
   {
     "id": 11876,
@@ -12604,7 +12604,7 @@
         }
       ],
       "rating": {
-        "rank": 3680,
+        "rank": 3679,
         "total": 75,
         "count": {
           "1": 0,
@@ -14178,7 +14178,7 @@
         "id": 37194
       }
     ],
-    "updatedAt": "2025-12-08T11:41:19.167Z"
+    "updatedAt": "2025-12-09T11:40:44.352Z"
   },
   {
     "id": 12381,
@@ -14941,7 +14941,7 @@
         "id": 165503
       }
     ],
-    "updatedAt": "2025-12-08T11:41:25.032Z"
+    "updatedAt": "2025-12-09T11:40:49.637Z"
   },
   {
     "id": 37264,
@@ -15443,7 +15443,7 @@
         "id": 400899
       }
     ],
-    "updatedAt": "2025-12-08T11:45:53.542Z"
+    "updatedAt": "2025-12-09T11:44:50.431Z"
   },
   {
     "id": 82729,
@@ -15792,7 +15792,7 @@
         "id": 47243
       }
     ],
-    "updatedAt": "2025-12-08T11:52:02.739Z"
+    "updatedAt": "2025-12-09T11:50:22.218Z"
   },
   {
     "id": 102313,
@@ -15968,7 +15968,7 @@
         "id": 468758
       }
     ],
-    "updatedAt": "2025-12-08T11:54:16.797Z"
+    "updatedAt": "2025-12-09T11:52:23.461Z"
   },
   {
     "id": 127131,
@@ -16283,7 +16283,7 @@
         "id": 35962
       }
     ],
-    "updatedAt": "2025-12-08T11:56:34.016Z"
+    "updatedAt": "2025-12-09T11:54:27.511Z"
   },
   {
     "id": 238455,
@@ -16473,6 +16473,6 @@
         "id": 118236
       }
     ],
-    "updatedAt": "2025-12-08T12:05:14.705Z"
+    "updatedAt": "2025-12-09T12:02:15.273Z"
   }
 ]
