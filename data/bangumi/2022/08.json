@@ -317,7 +317,7 @@
         }
       ],
       "rating": {
-        "rank": 734,
+        "rank": 735,
         "total": 390,
         "count": {
           "1": 1,
@@ -2428,7 +2428,7 @@
         "id": 555396
       }
     ],
-    "updatedAt": "2025-12-09T12:05:09.779Z"
+    "updatedAt": "2025-12-10T12:08:00.657Z"
   },
   {
     "id": 312297,
@@ -2542,12 +2542,7 @@
           "total_cont": 0
         },
         {
-          "name": "网文改",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
+          "name": "2D",
           "count": 3,
           "total_cont": 0
         },
@@ -2557,12 +2552,17 @@
           "total_cont": 0
         },
         {
-          "name": "2D",
+          "name": "网文改",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "轻改",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
           "count": 3,
           "total_cont": 0
         },
@@ -2592,7 +2592,7 @@
           "total_cont": 0
         },
         {
-          "name": "校园",
+          "name": "偶像剧",
           "count": 1,
           "total_cont": 0
         }
@@ -2643,7 +2643,7 @@
         },
         {
           "key": "製作",
-          "value": "腾讯视频、洛水花原"
+          "value": "腾讯视频、洛水花原；出品人：孙忠怀、王昕"
         },
         {
           "key": "动画制作",
@@ -2654,12 +2654,8 @@
           "value": "作画：喵社绘、Purple-i、小紅帽動畫、如裕动漫、Green(studio GREEN)、谦行映画、不熊动画、逗猫信息科技(逗猫动画)；制片：SUNFLOWER Studio；摄影：ANIX：背景：光之宇动漫：3D：乾之元、幻影文化、砌禾数位、哼哼怪、塬视互娱、琉森教育、中壹兄弟、澧泉文化；动画/上色：一泽映画、奕泓动画、千屹动漫、梓宏文化、飞雪动画工坊"
         },
         {
-          "key": "企划制作人",
-          "value": "孙忠怀、王昕"
-        },
-        {
           "key": "监制",
-          "value": "王娟(总)、刘菁蓉"
+          "value": "王娟（总监制）、刘菁蓉"
         },
         {
           "key": "总制片人",
@@ -2775,7 +2771,11 @@
         },
         {
           "key": "设定",
-          "value": "金家冉；概念设计：真成、郝楷卓、黄立松、刘仲夫、顾健龙、张晗瑜、张训冰、黄一楚、葛琳、陈煜劼、吴歌田、秦文、李嘉英、刘跃鹏、张丽斯、吴宝杰、吕佳琪"
+          "value": "金家冉"
+        },
+        {
+          "key": "概念设计",
+          "value": "真成、郝楷卓、黄立松、刘仲夫、顾健龙、张晗瑜、张训冰、黄一楚、葛琳、陈煜劼、吴歌田、秦文、李嘉英、刘跃鹏、张丽斯、吴宝杰、吕佳琪"
         },
         {
           "key": "色彩设计",
@@ -2844,14 +2844,14 @@
       ],
       "rating": {
         "rank": 9126,
-        "total": 721,
+        "total": 724,
         "count": {
           "1": 19,
           "2": 30,
           "3": 59,
           "4": 103,
-          "5": 180,
-          "6": 192,
+          "5": 182,
+          "6": 193,
           "7": 91,
           "8": 31,
           "9": 6,
@@ -2861,10 +2861,10 @@
       },
       "total_episodes": 17,
       "collection": {
-        "on_hold": 94,
+        "on_hold": 95,
         "dropped": 159,
         "wish": 207,
-        "collect": 1134,
+        "collect": 1137,
         "doing": 222
       },
       "id": 312297,
@@ -2885,19 +2885,19 @@
     "persons": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cc/d2/52442_prsn_FzCMR.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/cc/d2/52442_prsn_FzCMR.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/cc/d2/52442_prsn_FzCMR.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cc/d2/52442_prsn_FzCMR.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d0/00/51270_prsn_4sAeC.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d0/00/51270_prsn_4sAeC.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d0/00/51270_prsn_4sAeC.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d0/00/51270_prsn_4sAeC.jpg"
         },
-        "name": "小紅帽動畫",
+        "name": "一泽映画",
         "relation": "制作协力",
         "career": [
           "producer"
         ],
         "type": 2,
-        "id": 52442,
-        "eps": "0-3,5,8-11,13,15-16"
+        "id": 51270,
+        "eps": "0-5,7,11-16"
       },
       {
         "images": {
@@ -2917,19 +2917,51 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d0/00/51270_prsn_4sAeC.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d0/00/51270_prsn_4sAeC.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d0/00/51270_prsn_4sAeC.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d0/00/51270_prsn_4sAeC.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/82/d2/62231_prsn_5zZU8.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/82/d2/62231_prsn_5zZU8.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/82/d2/62231_prsn_5zZU8.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/82/d2/62231_prsn_5zZU8.jpg"
         },
-        "name": "一泽映画",
+        "name": "studio GREEN",
         "relation": "制作协力",
         "career": [
           "producer"
         ],
         "type": 2,
-        "id": 51270,
-        "eps": "0-5,7,11-16"
+        "id": 62231,
+        "eps": "0,2,5,8-9,15-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ab/f6/57969_prsn_R8Dn9.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ab/f6/57969_prsn_R8Dn9.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ab/f6/57969_prsn_R8Dn9.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ab/f6/57969_prsn_R8Dn9.jpg"
+        },
+        "name": "逗猫动画",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 57969,
+        "eps": "10-11,13,16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/4e/60530_prsn_yA8na.jpg?r=1706451028",
+          "grid": "https://lain.bgm.tv/pic/crt/g/cf/4e/60530_prsn_yA8na.jpg?r=1706451028",
+          "large": "https://lain.bgm.tv/pic/crt/l/cf/4e/60530_prsn_yA8na.jpg?r=1706451028",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/4e/60530_prsn_yA8na.jpg?r=1706451028"
+        },
+        "name": "光之宇动漫",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 60530,
+        "eps": "0-13,15"
       },
       {
         "images": {
@@ -2949,211 +2981,19 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2c/50/38850_prsn_fyMZx.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2c/50/38850_prsn_fyMZx.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/2c/50/38850_prsn_fyMZx.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2c/50/38850_prsn_fyMZx.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e4/fe/50470_prsn_h672F.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/e4/fe/50470_prsn_h672F.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/e4/fe/50470_prsn_h672F.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e4/fe/50470_prsn_h672F.jpg"
         },
-        "name": "澧泉文化",
+        "name": "谦行映画",
         "relation": "制作协力",
         "career": [
           "producer"
         ],
         "type": 2,
-        "id": 38850,
-        "eps": "8"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/47/ee/76780_prsn_3iIU9.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/47/ee/76780_prsn_3iIU9.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/47/ee/76780_prsn_3iIU9.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/47/ee/76780_prsn_3iIU9.jpg"
-        },
-        "name": "砌禾数位",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 76780,
-        "eps": "0-1"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8c/c3/51273_prsn_SSstO.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8c/c3/51273_prsn_SSstO.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/8c/c3/51273_prsn_SSstO.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8c/c3/51273_prsn_SSstO.jpg"
-        },
-        "name": "奕泓动画",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 51273,
-        "eps": "0-2,4-7,10,14"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "如裕动漫",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 61213,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/77/93/51267_prsn_prFxP.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/77/93/51267_prsn_prFxP.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/77/93/51267_prsn_prFxP.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/77/93/51267_prsn_prFxP.jpg"
-        },
-        "name": "喵社绘",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 51267,
-        "eps": "0,4,7,10,12,15-16"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/67/07/77041_prsn_zysWY.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/67/07/77041_prsn_zysWY.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/67/07/77041_prsn_zysWY.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/67/07/77041_prsn_zysWY.jpg"
-        },
-        "name": "哼哼怪",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 77041,
-        "eps": "2,5,7,9-16"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/9e/88/52171_prsn_giVpG.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/9e/88/52171_prsn_giVpG.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/9e/88/52171_prsn_giVpG.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9e/88/52171_prsn_giVpG.jpg"
-        },
-        "name": "曾信雄",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52171,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5c/02/62489_prsn_PpQZH.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/5c/02/62489_prsn_PpQZH.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/5c/02/62489_prsn_PpQZH.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5c/02/62489_prsn_PpQZH.jpg"
-        },
-        "name": "ANIX",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 62489,
-        "eps": "0-1,3,5-6,10-11,14-16"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a1/34/51276_prsn_Rd37e.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a1/34/51276_prsn_Rd37e.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/a1/34/51276_prsn_Rd37e.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a1/34/51276_prsn_Rd37e.jpg"
-        },
-        "name": "梓宏文化",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 51276,
-        "eps": "0-3,5"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "幻影文化",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 77048,
-        "eps": "1-4,6,9-11"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "肖潇",
-        "relation": "美术设计",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76070,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/88/a3/60684_prsn_18EG3.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/88/a3/60684_prsn_18EG3.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/88/a3/60684_prsn_18EG3.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/88/a3/60684_prsn_18EG3.jpg"
-        },
-        "name": "Purple-i",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 60684,
-        "eps": "0-2,6,10,14"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/9e/88/52171_prsn_giVpG.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/9e/88/52171_prsn_giVpG.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/9e/88/52171_prsn_giVpG.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9e/88/52171_prsn_giVpG.jpg"
-        },
-        "name": "曾信雄",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52171,
-        "eps": "2-3,5,8-9,11,13,15-16,OP"
+        "id": 50470,
+        "eps": "6,10"
       },
       {
         "images": {
@@ -3169,22 +3009,6 @@
         ],
         "type": 1,
         "id": 12148,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "金家冉",
-        "relation": "美术设计",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63163,
         "eps": "OP"
       },
       {
@@ -3205,18 +3029,50 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ec/32/51347_prsn_D4unm.jpg?r=1705582742",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ec/32/51347_prsn_D4unm.jpg?r=1705582742",
-          "large": "https://lain.bgm.tv/pic/crt/l/ec/32/51347_prsn_D4unm.jpg?r=1705582742",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ec/32/51347_prsn_D4unm.jpg?r=1705582742"
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
         },
-        "name": "曾品喬",
+        "name": "金家冉",
+        "relation": "美术设计",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63163,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "肖潇",
+        "relation": "美术设计",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76070,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "湯曉曼",
         "relation": "制作进行",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 51347,
+        "id": 62466,
         "eps": "OP"
       },
       {
@@ -3233,6 +3089,54 @@
         ],
         "type": 1,
         "id": 45956,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王林",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76556,
+        "eps": "12,14-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ec/32/51347_prsn_D4unm.jpg?r=1705582742",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ec/32/51347_prsn_D4unm.jpg?r=1705582742",
+          "large": "https://lain.bgm.tv/pic/crt/l/ec/32/51347_prsn_D4unm.jpg?r=1705582742",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ec/32/51347_prsn_D4unm.jpg?r=1705582742"
+        },
+        "name": "曾品喬",
+        "relation": "制作进行",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 51347,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "韩诚洁",
+        "relation": "执行制片人",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76065,
         "eps": ""
       },
       {
@@ -3258,14 +3162,142 @@
           "large": "",
           "medium": ""
         },
-        "name": "湯曉曼",
-        "relation": "制作进行",
+        "name": "周阳",
+        "relation": "补间动画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 62466,
-        "eps": "OP"
+        "id": 63188,
+        "eps": "11,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "张福民",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 58940,
+        "eps": "0-2,4,6-7,10,14"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陈怡江",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62852,
+        "eps": "0-3,5"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "孟云昊",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62917,
+        "eps": "0-3,5"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "徐劲松",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62912,
+        "eps": "14-15"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陈金鹏",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76558,
+        "eps": "12,14-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "李明阳",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63197,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "猫甲",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76546,
+        "eps": "11,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "薛畅",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63194,
+        "eps": "5,7,11-13OP"
       },
       {
         "images": {
@@ -3282,22 +3314,6 @@
         "type": 1,
         "id": 63375,
         "eps": "7"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "韩诚洁",
-        "relation": "执行制片人",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76065,
-        "eps": ""
       },
       {
         "images": {
@@ -3330,246 +3346,6 @@
         "type": 1,
         "id": 76554,
         "eps": "12,14-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "薛畅",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63194,
-        "eps": "5,7,11-13OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "白阳",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76550,
-        "eps": "5,11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王晨玮",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53371,
-        "eps": "16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "尹思瑶",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54069,
-        "eps": "0-3,5"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "李明阳",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63197,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "孟云昊",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 62917,
-        "eps": "0-3,5"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王林",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76556,
-        "eps": "12,14-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "杨诠涵",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76560,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王立凡",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54472,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "张福民",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 58940,
-        "eps": "0-2,4,6-7,10,14"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "徐劲松",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 62912,
-        "eps": "14-15"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "周阳",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63188,
-        "eps": "11,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陈金鹏",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76558,
-        "eps": "12,14-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "猫甲",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76546,
-        "eps": "11,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陈怡江",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 62852,
-        "eps": "0-3,5"
       },
       {
         "images": {
@@ -3610,6 +3386,54 @@
           "large": "",
           "medium": ""
         },
+        "name": "尹思瑶",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54069,
+        "eps": "0-3,5"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王晨玮",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53371,
+        "eps": "16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "白阳",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76550,
+        "eps": "5,11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "鐘江徹",
         "relation": "音响监督",
         "career": [
@@ -3626,30 +3450,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "伍婷",
-        "relation": "音响监督",
+        "name": "李鹏",
+        "relation": "录音",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 62103,
-        "eps": "中文版"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "金家冉",
-        "relation": "设定",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63163,
-        "eps": "11"
+        "id": 77576,
+        "eps": ""
       },
       {
         "images": {
@@ -3690,46 +3498,30 @@
           "large": "",
           "medium": ""
         },
-        "name": "李鹏",
-        "relation": "录音",
+        "name": "金家冉",
+        "relation": "设定",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 77576,
-        "eps": ""
+        "id": 63163,
+        "eps": "11"
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e9/18/58909_prsn_898b7.jpg?r=1753968312",
-          "grid": "https://lain.bgm.tv/pic/crt/g/e9/18/58909_prsn_898b7.jpg?r=1753968312",
-          "large": "https://lain.bgm.tv/pic/crt/l/e9/18/58909_prsn_898b7.jpg?r=1753968312",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e9/18/58909_prsn_898b7.jpg?r=1753968312"
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
         },
-        "name": "孙忠怀",
-        "relation": "企划制作人",
+        "name": "伍婷",
+        "relation": "音响监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 58909,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2e/40/15735_prsn_KIE2S.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2e/40/15735_prsn_KIE2S.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/2e/40/15735_prsn_KIE2S.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2e/40/15735_prsn_KIE2S.jpg"
-        },
-        "name": "王昕",
-        "relation": "企划制作人",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 15735,
-        "eps": ""
+        "id": 62103,
+        "eps": "中文版"
       },
       {
         "images": {
@@ -3777,23 +3569,6 @@
         ],
         "type": 1,
         "id": 45263,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/40/5b/3103_prsn_W9hIj.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/40/5b/3103_prsn_W9hIj.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/40/5b/3103_prsn_W9hIj.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/40/5b/3103_prsn_W9hIj.jpg"
-        },
-        "name": "澤野弘之",
-        "relation": "主题歌编曲",
-        "career": [
-          "producer",
-          "artist"
-        ],
-        "type": 1,
-        "id": 3103,
         "eps": "OP"
       },
       {
@@ -3876,6 +3651,23 @@
         "type": 1,
         "id": 15735,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/40/5b/3103_prsn_W9hIj.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/40/5b/3103_prsn_W9hIj.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/40/5b/3103_prsn_W9hIj.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/40/5b/3103_prsn_W9hIj.jpg"
+        },
+        "name": "澤野弘之",
+        "relation": "主题歌编曲",
+        "career": [
+          "producer",
+          "artist"
+        ],
+        "type": 1,
+        "id": 3103,
+        "eps": "OP"
       },
       {
         "images": {
@@ -3991,6 +3783,150 @@
       },
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "郑冰旭",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62860,
+        "eps": "0-3,5"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "全京禹",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 60773,
+        "eps": "16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "温旭峰",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 60733,
+        "eps": "14-15"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "詹院兵",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54063,
+        "eps": "0-2,4,6-7,10,14"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "刘莹",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46175,
+        "eps": "4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陈金鹏",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76558,
+        "eps": "7,12,14-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "林彦馨",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46077,
+        "eps": "0-3"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "周泽晟",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61815,
+        "eps": "14,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "李艳",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61801,
+        "eps": "4,7,14,16"
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/ec/32/51347_prsn_D4unm.jpg?r=1705582742",
           "grid": "https://lain.bgm.tv/pic/crt/g/ec/32/51347_prsn_D4unm.jpg?r=1705582742",
           "large": "https://lain.bgm.tv/pic/crt/l/ec/32/51347_prsn_D4unm.jpg?r=1705582742",
@@ -4004,6 +3940,22 @@
         "type": 1,
         "id": 51347,
         "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "湯曉曼",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62466,
+        "eps": "0-3"
       },
       {
         "images": {
@@ -4060,6 +4012,22 @@
           "large": "",
           "medium": ""
         },
+        "name": "葉奕呈",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52446,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "赵玥",
         "relation": "动画检查",
         "career": [
@@ -4068,790 +4036,6 @@
         "type": 1,
         "id": 63319,
         "eps": "5,7,11-13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "湯曉曼",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 62466,
-        "eps": "0-3"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "周泽晟",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61815,
-        "eps": "14,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "温旭峰",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 60733,
-        "eps": "14-15"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "全京禹",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 60773,
-        "eps": "16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "詹院兵",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54063,
-        "eps": "0-2,4,6-7,10,14"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "李艳",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61801,
-        "eps": "4,7,14,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "刘莹",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46175,
-        "eps": "4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "郑冰旭",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 62860,
-        "eps": "0-3,5"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陈金鹏",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76558,
-        "eps": "7,12,14-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王绅茹",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54058,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "周泽晟",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61815,
-        "eps": "12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "林彦馨",
-        "relation": "动画检查",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46077,
-        "eps": "0-3"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "朴祉炫",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 78634,
-        "eps": "2"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/5d/bd/43149_prsn_VrLAU.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg"
-        },
-        "name": "劉淯源",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 43149,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "蔺莉莉",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61808,
-        "eps": "7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "金慧尚",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 78643,
-        "eps": "2"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "徐单",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76562,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/08/a8/46076_prsn_l7a4v.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg"
-        },
-        "name": "劉玟萱",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46076,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王小蓉",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46079,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "李艳",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61801,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "樊一",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61805,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "郑敏熙",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52933,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "林炜",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54466,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "吴挺",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54060,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "徐雪峰",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54028,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "姚远",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54059,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "许天宇",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53761,
-        "eps": "0"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "何禕章",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52445,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "尤齊",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52444,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "廖菲",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54509,
-        "eps": "6,10"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/39/13/53139_prsn_3622V.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/39/13/53139_prsn_3622V.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/39/13/53139_prsn_3622V.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/39/13/53139_prsn_3622V.jpg"
-        },
-        "name": "吳亭頤",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53139,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王珏",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76557,
-        "eps": "7"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "周阳",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63188,
-        "eps": "11-12,16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陈洁",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61800,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "沈倩倩",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54572,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "卞楠",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61812,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "李文静",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53763,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王林",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76556,
-        "eps": "7,10,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "李明阳",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63197,
-        "eps": "11-12,16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "吴怡",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61810,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "曹阳",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54552,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "猫甲",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76546,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "夏丽萍",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54061,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "吳曉蓉",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 59712,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "范文彬",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63363,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "茶白",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76551,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "白阳",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76550,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "覃练龙",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54518,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陈金鹏",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76558,
-        "eps": "7,10,12,15-16"
       },
       {
         "images": {
@@ -4876,14 +4060,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "葉奕呈",
+        "name": "樊燕婷",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 52446,
-        "eps": "OP"
+        "id": 61802,
+        "eps": "0,4,7,12,15-16"
       },
       {
         "images": {
@@ -4899,38 +4083,6 @@
         ],
         "type": 1,
         "id": 61806,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "张斯中",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54144,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "樊燕婷",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61802,
         "eps": "0,4,7,12,15-16"
       },
       {
@@ -4956,14 +4108,158 @@
           "large": "",
           "medium": ""
         },
-        "name": "杜婧轩",
+        "name": "猫甲",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 76561,
+        "id": 76546,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陈金鹏",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76558,
+        "eps": "7,10,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "张斯中",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54144,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "覃练龙",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54518,
         "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "范文彬",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63363,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "吳曉蓉",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 59712,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "夏丽萍",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54061,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "白阳",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76550,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "茶白",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76551,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/9e/88/52171_prsn_giVpG.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/9e/88/52171_prsn_giVpG.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/9e/88/52171_prsn_giVpG.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9e/88/52171_prsn_giVpG.jpg"
+        },
+        "name": "曾信雄",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52171,
+        "eps": "OP"
       },
       {
         "images": {
@@ -4988,126 +4284,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "刘佳",
+        "name": "苏昱博",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 62169,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "马微微",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76552,
-        "eps": "7"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2f/f7/58133_prsn_eneRj.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg"
-        },
-        "name": "許尹嘉",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 58133,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "鄧遠芳",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52443,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "赵薛羽纶",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61813,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陆敏霞",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54057,
-        "eps": "0,4"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "李若菡",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54517,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王鑫",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54514,
-        "eps": "6,10"
+        "id": 63179,
+        "eps": "7,11-12,16,OP"
       },
       {
         "images": {
@@ -5132,22 +4316,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "苏昱博",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63179,
-        "eps": "7,11-12,16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "张脯",
         "relation": "第二原画",
         "career": [
@@ -5156,22 +4324,6 @@
         "type": 1,
         "id": 76555,
         "eps": "6"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "郁伊园",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61010,
-        "eps": "12,15-16"
       },
       {
         "images": {
@@ -5212,6 +4364,326 @@
           "large": "",
           "medium": ""
         },
+        "name": "郁伊园",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61010,
+        "eps": "12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "曹阳",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54552,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王鑫",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54514,
+        "eps": "6,10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "马微微",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76552,
+        "eps": "7"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "刘佳",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62169,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2f/f7/58133_prsn_eneRj.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg"
+        },
+        "name": "許尹嘉",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 58133,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "鄧遠芳",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52443,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "李若菡",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54517,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陆敏霞",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54057,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王珏",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76557,
+        "eps": "7"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "赵薛羽纶",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61813,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "吴怡",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61810,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/08/a8/46076_prsn_l7a4v.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg"
+        },
+        "name": "劉玟萱",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46076,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "徐单",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76562,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王小蓉",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46079,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "李艳",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61801,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "郑敏熙",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52933,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "樊一",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61805,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "金慧尚",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 78643,
+        "eps": "2"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "蔺莉莉",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61808,
+        "eps": "7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "朱明杰",
         "relation": "第二原画",
         "career": [
@@ -5228,77 +4700,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "凌雪春",
-        "relation": "原画",
+        "name": "杨诠涵",
+        "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 52271,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/05/fd/52269_prsn_nk8Ew.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/05/fd/52269_prsn_nk8Ew.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/05/fd/52269_prsn_nk8Ew.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/05/fd/52269_prsn_nk8Ew.jpg"
-        },
-        "name": "黃鄧依姍",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52269,
-        "eps": "1-3,5,8-9,11,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "林梦赟",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 38114,
-        "eps": "10-11,13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "黃宇萱",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53138,
-        "eps": "0-3,5,8-9,11,13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "张颢腾",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76548,
+        "id": 76560,
         "eps": "10"
       },
       {
@@ -5308,30 +4716,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "陳盈伃",
-        "relation": "原画",
+        "name": "王绅茹",
+        "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 46073,
-        "eps": "9"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/72/46/62300_prsn_Q4tt4.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/72/46/62300_prsn_Q4tt4.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/72/46/62300_prsn_Q4tt4.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/72/46/62300_prsn_Q4tt4.jpg"
-        },
-        "name": "黃耀邦",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 62300,
-        "eps": "0-1"
+        "id": 54058,
+        "eps": "0,4"
       },
       {
         "images": {
@@ -5340,14 +4732,334 @@
           "large": "",
           "medium": ""
         },
-        "name": "林如海",
+        "name": "周泽晟",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61815,
+        "eps": "12,15-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/5d/bd/43149_prsn_VrLAU.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg"
+        },
+        "name": "劉淯源",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 43149,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "朴祉炫",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 78634,
+        "eps": "2"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "林炜",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54466,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "吴挺",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54060,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "沈倩倩",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54572,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陈洁",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61800,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "卞楠",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61812,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "李文静",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53763,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "李明阳",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63197,
+        "eps": "11-12,16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王林",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76556,
+        "eps": "7,10,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "周阳",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63188,
+        "eps": "11-12,16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王立凡",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54472,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "姚远",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54059,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "徐雪峰",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54028,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "许天宇",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53761,
+        "eps": "0"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/39/13/53139_prsn_3622V.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/39/13/53139_prsn_3622V.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/39/13/53139_prsn_3622V.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/39/13/53139_prsn_3622V.jpg"
+        },
+        "name": "吳亭頤",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53139,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "何禕章",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52445,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "廖菲",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54509,
+        "eps": "6,10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "尤齊",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52444,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/9e/88/52171_prsn_giVpG.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/9e/88/52171_prsn_giVpG.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/9e/88/52171_prsn_giVpG.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9e/88/52171_prsn_giVpG.jpg"
+        },
+        "name": "曾信雄",
         "relation": "原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 46089,
-        "eps": "0-3,5,8,11,13,15-16,OP"
+        "id": 52171,
+        "eps": "2-3,5,8-9,11,13,15-16,OP"
       },
       {
         "images": {
@@ -5372,374 +5084,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "吳曉蓉",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 59712,
-        "eps": "9,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "孙坚登",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63367,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "卞楠",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61812,
-        "eps": "ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "謝孟夏",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 59282,
-        "eps": "1,5,8-9,11,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "林子琪",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 62460,
-        "eps": "1-3,5,8-9,11"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/39/13/53139_prsn_3622V.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/39/13/53139_prsn_3622V.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/39/13/53139_prsn_3622V.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/39/13/53139_prsn_3622V.jpg"
-        },
-        "name": "吳亭頤",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53139,
-        "eps": "0-3,5,8-9,11,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "赵薛羽纶",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61813,
-        "eps": "ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "白阳",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76550,
-        "eps": "11"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "吳家蓁",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53140,
-        "eps": "0-3,5,8-9,11,13,15-16"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/5d/bd/43149_prsn_VrLAU.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg"
-        },
-        "name": "劉淯源",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 43149,
-        "eps": "2-3,5,8-9,11,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "叶文理",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53633,
-        "eps": "ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "赵琳璐",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 80212,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "黄凯",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 80208,
-        "eps": "11-12"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/08/a8/46076_prsn_l7a4v.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg"
-        },
-        "name": "劉玟萱",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46076,
-        "eps": "0-1,8,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "李瑞",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 80205,
-        "eps": "11"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "江飞",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76544,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "趙雪寧",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46055,
-        "eps": "9"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ac/a2/12936_prsn_INKsK.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg"
-        },
-        "name": "容洪",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 12936,
-        "eps": "ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "苏昱博",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63179,
-        "eps": "12"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "猫甲",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76546,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "鄧遠芳",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52443,
-        "eps": "0-3,5,8-9,11,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "洪宜安",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46078,
-        "eps": "0-3,5,8-9,11,13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "何璨宇",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 62463,
-        "eps": "5,8-9,11,13"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "舒昶熹",
         "relation": "原画",
         "career": [
@@ -5748,150 +5092,6 @@
         "type": 1,
         "id": 62484,
         "eps": "ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "严振国",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76549,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "朱明杰",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52147,
-        "eps": "ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "樊一",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61805,
-        "eps": "ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "虞剑",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54626,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "何宜真",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53995,
-        "eps": "2-3,5,8-9,11,13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "何禕章",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52445,
-        "eps": "0-3,5,8-9,11,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "李育蓁",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53137,
-        "eps": "1,9"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王小蓉",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46079,
-        "eps": "1,5,8-9,11,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "梁钰",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76547,
-        "eps": "11"
       },
       {
         "images": {
@@ -5948,6 +5148,22 @@
           "large": "",
           "medium": ""
         },
+        "name": "王亞晴",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53136,
+        "eps": "0-3,5,8-9,11,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "胡昫颉",
         "relation": "原画",
         "career": [
@@ -5964,14 +5180,126 @@
           "large": "",
           "medium": ""
         },
-        "name": "王亞晴",
+        "name": "梁钰",
         "relation": "原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 53136,
+        "id": 76547,
+        "eps": "11"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "李育蓁",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53137,
+        "eps": "1,9"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "朱明杰",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52147,
+        "eps": "ED"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "樊一",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61805,
+        "eps": "ED"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "严振国",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76549,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "虞剑",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54626,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "何禕章",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52445,
         "eps": "0-3,5,8-9,11,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "何宜真",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53995,
+        "eps": "2-3,5,8-9,11,13,15-16"
       },
       {
         "images": {
@@ -6004,134 +5332,6 @@
         "type": 1,
         "id": 46075,
         "eps": "9"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "朴祉炫",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 78634,
-        "eps": "14"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王波",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63375,
-        "eps": "16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陳韋寧",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53004,
-        "eps": "13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "林彦馨",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46077,
-        "eps": "0-1"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陈洁",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61800,
-        "eps": "ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "沈霏",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 38113,
-        "eps": "10-11,13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "葉奕呈",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52446,
-        "eps": "0-1,8-9,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ae/6f/52100_prsn_vsZVa.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ae/6f/52100_prsn_vsZVa.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ae/6f/52100_prsn_vsZVa.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ae/6f/52100_prsn_vsZVa.jpg"
-        },
-        "name": "孫弘志",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52100,
-        "eps": "0-3,5,8-9,11,13,15-16"
       },
       {
         "images": {
@@ -6188,6 +5388,22 @@
           "large": "",
           "medium": ""
         },
+        "name": "凌雪春",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52271,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "謝家銘",
         "relation": "原画",
         "career": [
@@ -6199,19 +5415,19 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ae/6f/52100_prsn_vsZVa.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ae/6f/52100_prsn_vsZVa.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ae/6f/52100_prsn_vsZVa.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ae/6f/52100_prsn_vsZVa.jpg"
         },
-        "name": "黄智焕",
-        "relation": "摄影监督",
+        "name": "孫弘志",
+        "relation": "原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 77835,
-        "eps": "0-1,3,5-6,10-11,14,16"
+        "id": 52100,
+        "eps": "0-3,5,8-9,11,13,15-16"
       },
       {
         "images": {
@@ -6220,14 +5436,622 @@
           "large": "",
           "medium": ""
         },
-        "name": "吴景弘",
+        "name": "王波",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63375,
+        "eps": "16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "葉奕呈",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52446,
+        "eps": "0-1,8-9,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陳韋寧",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53004,
+        "eps": "13,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "朴祉炫",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 78634,
+        "eps": "14"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "林彦馨",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46077,
+        "eps": "0-1"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "沈霏",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 38113,
+        "eps": "10-11,13,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陈洁",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61800,
+        "eps": "ED"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "白阳",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76550,
+        "eps": "11"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王小蓉",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46079,
+        "eps": "1,5,8-9,11,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "卞楠",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61812,
+        "eps": "ED"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "孙坚登",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63367,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "謝孟夏",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 59282,
+        "eps": "1,5,8-9,11,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "林子琪",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62460,
+        "eps": "1-3,5,8-9,11"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "赵薛羽纶",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61813,
+        "eps": "ED"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/39/13/53139_prsn_3622V.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/39/13/53139_prsn_3622V.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/39/13/53139_prsn_3622V.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/39/13/53139_prsn_3622V.jpg"
+        },
+        "name": "吳亭頤",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53139,
+        "eps": "0-3,5,8-9,11,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "吳曉蓉",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 59712,
+        "eps": "9,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "何璨宇",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62463,
+        "eps": "5,8-9,11,13"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "林梦赟",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 38114,
+        "eps": "10-11,13,15-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/05/fd/52269_prsn_nk8Ew.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/05/fd/52269_prsn_nk8Ew.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/05/fd/52269_prsn_nk8Ew.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/05/fd/52269_prsn_nk8Ew.jpg"
+        },
+        "name": "黃鄧依姍",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52269,
+        "eps": "1-3,5,8-9,11,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "黃宇萱",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53138,
+        "eps": "0-3,5,8-9,11,13,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "张颢腾",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76548,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/72/46/62300_prsn_Q4tt4.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/72/46/62300_prsn_Q4tt4.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/72/46/62300_prsn_Q4tt4.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/72/46/62300_prsn_Q4tt4.jpg"
+        },
+        "name": "黃耀邦",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62300,
+        "eps": "0-1"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陳盈伃",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46073,
+        "eps": "9"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "林如海",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46089,
+        "eps": "0-3,5,8,11,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "趙雪寧",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46055,
+        "eps": "9"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "吳家蓁",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53140,
+        "eps": "0-3,5,8-9,11,13,15-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ac/a2/12936_prsn_INKsK.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg"
+        },
+        "name": "容洪",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 12936,
+        "eps": "ED"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "苏昱博",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63179,
+        "eps": "12"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "鄧遠芳",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52443,
+        "eps": "0-3,5,8-9,11,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "猫甲",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76546,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "赵琳璐",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 80212,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "江飞",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76544,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "李瑞",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 80205,
+        "eps": "11"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "叶文理",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53633,
+        "eps": "ED"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/5d/bd/43149_prsn_VrLAU.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg"
+        },
+        "name": "劉淯源",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 43149,
+        "eps": "2-3,5,8-9,11,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "黄凯",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 80208,
+        "eps": "11-12"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "洪宜安",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46078,
+        "eps": "0-3,5,8-9,11,13,15-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/08/a8/46076_prsn_l7a4v.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg"
+        },
+        "name": "劉玟萱",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46076,
+        "eps": "0-1,8,13,15-16,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "山条裕香",
         "relation": "摄影监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 76425,
-        "eps": "3-16"
+        "id": 58774,
+        "eps": "0-3"
       },
       {
         "images": {
@@ -6252,14 +6076,318 @@
           "large": "",
           "medium": ""
         },
-        "name": "山条裕香",
+        "name": "吴景弘",
         "relation": "摄影监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 58774,
-        "eps": "0-3"
+        "id": 76425,
+        "eps": "3-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "黄智焕",
+        "relation": "摄影监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 77835,
+        "eps": "0-1,3,5-6,10-11,14,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "徐小雯",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54510,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/08/a8/46076_prsn_l7a4v.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg"
+        },
+        "name": "劉玟萱",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46076,
+        "eps": "2-3,5,8-9,11,13,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陳韋寧",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 53004,
+        "eps": "0-3,5,8-9,11,13,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "钱志宏",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54068,
+        "eps": "11"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "周阳",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63188,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "박윤옥",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 21192,
+        "eps": "0"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "주현우",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 21189,
+        "eps": "0"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陈婷婷",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54103,
+        "eps": "11"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "樊燕婷",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61802,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "孙乐",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54102,
+        "eps": "11"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "朴真美",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 78715,
+        "eps": "0-2,6,10,14"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "金慧尚",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 78643,
+        "eps": "1,6,10,14"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ee/98/50633_prsn_1X5E2.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ee/98/50633_prsn_1X5E2.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ee/98/50633_prsn_1X5E2.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ee/98/50633_prsn_1X5E2.jpg"
+        },
+        "name": "徐晨寅",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 50633,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "謝孟夏",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 59282,
+        "eps": "9,11,13,15-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ac/a2/12936_prsn_INKsK.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg"
+        },
+        "name": "容洪",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 12936,
+        "eps": "0,4,7,12,15-16,ED"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "황미정",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 25560,
+        "eps": "OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "范文彬",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63363,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "南屿",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76545,
+        "eps": "11-12,16"
       },
       {
         "images": {
@@ -6300,38 +6428,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "南屿",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76545,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "范文彬",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63363,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "张斯中",
         "relation": "作画监督",
         "career": [
@@ -6340,102 +6436,6 @@
         "type": 1,
         "id": 54144,
         "eps": "0,4,15-16"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ac/a2/12936_prsn_INKsK.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg"
-        },
-        "name": "容洪",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 12936,
-        "eps": "0,4,7,12,15-16,ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陈洁",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61800,
-        "eps": "4,ED"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "沈霏",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 38113,
-        "eps": "11,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "王波",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63375,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "謝孟夏",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 59282,
-        "eps": "9,11,13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "虞剑",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54626,
-        "eps": "10"
       },
       {
         "images": {
@@ -6460,14 +6460,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "朱明杰",
+        "name": "陈洁",
         "relation": "作画监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 52147,
-        "eps": "0,4,7,12,15-16"
+        "id": 61800,
+        "eps": "4,ED"
       },
       {
         "images": {
@@ -6492,222 +6492,62 @@
           "large": "",
           "medium": ""
         },
-        "name": "황미정",
+        "name": "朱明杰",
         "relation": "作画监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 25560,
-        "eps": "OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "周阳",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63188,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陳韋寧",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 53004,
-        "eps": "0-3,5,8-9,11,13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "박윤옥",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 21192,
-        "eps": "0"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "钱志宏",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54068,
-        "eps": "11"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/08/a8/46076_prsn_l7a4v.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/08/a8/46076_prsn_l7a4v.jpg"
-        },
-        "name": "劉玟萱",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 46076,
-        "eps": "2-3,5,8-9,11,13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "徐小雯",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54510,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "주현우",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 21189,
-        "eps": "0"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陈婷婷",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54103,
-        "eps": "11"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ee/98/50633_prsn_1X5E2.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ee/98/50633_prsn_1X5E2.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ee/98/50633_prsn_1X5E2.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ee/98/50633_prsn_1X5E2.jpg"
-        },
-        "name": "徐晨寅",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 50633,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "金慧尚",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 78643,
-        "eps": "1,6,10,14"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "朴真美",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 78715,
-        "eps": "0-2,6,10,14"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "孙乐",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54102,
-        "eps": "11"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "樊燕婷",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61802,
+        "id": 52147,
         "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "沈霏",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 38113,
+        "eps": "11,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "虞剑",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54626,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王波",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63375,
+        "eps": "11-12,16"
       },
       {
         "images": {
@@ -6732,22 +6572,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "이시민",
-        "relation": "总作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 24829,
-        "eps": "0,2-3,5,8-9,13,15-16,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "江滢",
         "relation": "色彩设计",
         "career": [
@@ -6764,30 +6588,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "金家冉",
-        "relation": "美术监督",
+        "name": "이시민",
+        "relation": "总作画监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 63163,
-        "eps": "11"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "郑敏熙",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52933,
-        "eps": "0,4"
+        "id": 24829,
+        "eps": "0,2-3,5,8-9,13,15-16,OP"
       },
       {
         "images": {
@@ -6812,270 +6620,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "吴怡",
-        "relation": "构图",
+        "name": "金家冉",
+        "relation": "美术监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 61810,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "隋缘",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52654,
-        "eps": "0"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "郁伊园",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61010,
-        "eps": "12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "胡昫颉",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61806,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "张斯中",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 54144,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "樊一",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61805,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "김희강",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 38776,
-        "eps": "2"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "陈洁",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61800,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ac/a2/12936_prsn_INKsK.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg"
-        },
-        "name": "容洪",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 12936,
-        "eps": "10"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "樊燕婷",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61802,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "范文彬",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63363,
-        "eps": "7"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "金永彩",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 79030,
-        "eps": "0,2,6,10,14"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "周泽晟",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61815,
-        "eps": "12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "申惠兰",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 78727,
-        "eps": "0-2,6,10,14"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "赵薛羽纶",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61813,
-        "eps": "0,4,7,12,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "주현우",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 21189,
-        "eps": "0"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "卞楠",
-        "relation": "构图",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61812,
-        "eps": "0,4,7,12,15-16"
+        "id": 63163,
+        "eps": "11"
       },
       {
         "images": {
@@ -7116,6 +6668,54 @@
           "large": "",
           "medium": ""
         },
+        "name": "卞楠",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61812,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "주현우",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 21189,
+        "eps": "0"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "申惠兰",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 78727,
+        "eps": "0-2,6,10,14"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "王立凡",
         "relation": "构图",
         "career": [
@@ -7148,14 +6748,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "蔺莉莉",
+        "name": "金荣德",
         "relation": "构图",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 61808,
-        "eps": "7,12,15-16"
+        "id": 78798,
+        "eps": "6"
       },
       {
         "images": {
@@ -7164,14 +6764,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "许天宇",
+        "name": "李艳",
         "relation": "构图",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 53761,
-        "eps": "0"
+        "id": 61801,
+        "eps": "0,4,7,12,15-16"
       },
       {
         "images": {
@@ -7196,14 +6796,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "金荣德",
+        "name": "许天宇",
         "relation": "构图",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 78798,
-        "eps": "6"
+        "id": 53761,
+        "eps": "0"
       },
       {
         "images": {
@@ -7212,13 +6812,253 @@
           "large": "",
           "medium": ""
         },
-        "name": "李艳",
+        "name": "蔺莉莉",
         "relation": "构图",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 61801,
+        "id": 61808,
+        "eps": "7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "赵薛羽纶",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61813,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "张斯中",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54144,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "胡昫颉",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61806,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "郁伊园",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61010,
+        "eps": "12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "周泽晟",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61815,
+        "eps": "12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "隋缘",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52654,
+        "eps": "0"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "郑敏熙",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52933,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "吴怡",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61810,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "樊燕婷",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61802,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "范文彬",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63363,
+        "eps": "7"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "樊一",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61805,
+        "eps": "0,4,7,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "金永彩",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 79030,
+        "eps": "0,2,6,10,14"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ac/a2/12936_prsn_INKsK.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ac/a2/12936_prsn_INKsK.jpg"
+        },
+        "name": "容洪",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 12936,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "김희강",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 38776,
+        "eps": "2"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "陈洁",
+        "relation": "构图",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61800,
         "eps": "0,4,7,12,15-16"
       },
       {
@@ -7292,118 +7132,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "謝孟夏",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 59282,
-        "eps": "0-1,5,8-9,11,13"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2f/f7/58133_prsn_eneRj.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg"
-        },
-        "name": "許尹嘉",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 58133,
-        "eps": "1-3,10,OP"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "何禕章",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52445,
-        "eps": "15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "尤齊",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52444,
-        "eps": "15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "葉奕呈",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 52446,
-        "eps": "13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "范文彬",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 63363,
-        "eps": "11-12,16"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/5d/bd/43149_prsn_VrLAU.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg"
-        },
-        "name": "劉淯源",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 43149,
-        "eps": "2-3,5,8-9,13"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "郁伊园",
         "relation": "演出",
         "career": [
@@ -7431,6 +7159,150 @@
       },
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "申惠兰",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 78727,
+        "eps": "0-2,6,10,14"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "金永彩",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 79030,
+        "eps": "2,10,14"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/5d/bd/43149_prsn_VrLAU.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5d/bd/43149_prsn_VrLAU.jpg"
+        },
+        "name": "劉淯源",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 43149,
+        "eps": "2-3,5,8-9,13"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "謝孟夏",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 59282,
+        "eps": "0-1,5,8-9,11,13"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "范文彬",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63363,
+        "eps": "11-12,16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "何禕章",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52445,
+        "eps": "15-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2f/f7/58133_prsn_eneRj.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2f/f7/58133_prsn_eneRj.jpg"
+        },
+        "name": "許尹嘉",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 58133,
+        "eps": "1-3,10,OP"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "葉奕呈",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52446,
+        "eps": "13,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "尤齊",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 52444,
+        "eps": "15-16"
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/2e/40/15735_prsn_KIE2S.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/2e/40/15735_prsn_KIE2S.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/2e/40/15735_prsn_KIE2S.jpg",
@@ -7452,13 +7324,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "放青松",
+        "name": "夏司",
         "relation": "脚本",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 76540,
+        "id": 76541,
         "eps": ""
       },
       {
@@ -7484,13 +7356,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "夏司",
+        "name": "放青松",
         "relation": "脚本",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 76541,
+        "id": 76540,
         "eps": ""
       },
       {
@@ -7527,67 +7399,19 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/25/04/51269_prsn_E5bQN.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/25/04/51269_prsn_E5bQN.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/25/04/51269_prsn_E5bQN.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/25/04/51269_prsn_E5bQN.jpg"
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
         },
-        "name": "不熊动画",
-        "relation": "制作协力",
+        "name": "陈星雨",
+        "relation": "上色",
         "career": [
           "producer"
         ],
-        "type": 2,
-        "id": 51269,
-        "eps": "7,10,12-16"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cf/4e/60530_prsn_yA8na.jpg?r=1706451028",
-          "grid": "https://lain.bgm.tv/pic/crt/g/cf/4e/60530_prsn_yA8na.jpg?r=1706451028",
-          "large": "https://lain.bgm.tv/pic/crt/l/cf/4e/60530_prsn_yA8na.jpg?r=1706451028",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cf/4e/60530_prsn_yA8na.jpg?r=1706451028"
-        },
-        "name": "光之宇动漫",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 60530,
-        "eps": "0-13,15"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e4/fe/50470_prsn_h672F.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/e4/fe/50470_prsn_h672F.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/e4/fe/50470_prsn_h672F.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e4/fe/50470_prsn_h672F.jpg"
-        },
-        "name": "谦行映画",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 50470,
-        "eps": "6,10"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ab/f6/57969_prsn_R8Dn9.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ab/f6/57969_prsn_R8Dn9.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ab/f6/57969_prsn_R8Dn9.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ab/f6/57969_prsn_R8Dn9.jpg"
-        },
-        "name": "逗猫动画",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 57969,
-        "eps": "10-11,13,16"
+        "type": 1,
+        "id": 81673,
+        "eps": ""
       },
       {
         "images": {
@@ -7596,14 +7420,446 @@
           "large": "",
           "medium": ""
         },
-        "name": "千屹动漫",
+        "name": "李明阳",
+        "relation": "色彩检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63197,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f5/b5/83484_prsn_7TSWt.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f5/b5/83484_prsn_7TSWt.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f5/b5/83484_prsn_7TSWt.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f5/b5/83484_prsn_7TSWt.jpg"
+        },
+        "name": "由越",
+        "relation": "录音",
+        "career": [
+          "seiyu"
+        ],
+        "type": 1,
+        "id": 83484,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "冯安琪",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 80062,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "马驰",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 81371,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "杜婧轩",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76561,
+        "eps": "10"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "杨凡",
+        "relation": "色彩检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 84479,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "董枝桐",
+        "relation": "色彩检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 81669,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "刘宏博",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63185,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "毕鑫峰",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54433,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "张明明",
+        "relation": "音效",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 83950,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "冯安奇",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 82766,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "丘",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 78609,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "杨非凡",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63191,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "段春雪",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 81671,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "曹勇壮",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 77923,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/69/11/46106_prsn_zPdC0.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/69/11/46106_prsn_zPdC0.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/69/11/46106_prsn_zPdC0.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/69/11/46106_prsn_zPdC0.jpg"
+        },
+        "name": "王川",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 46106,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e9/18/58909_prsn_898b7.jpg?r=1753968312",
+          "grid": "https://lain.bgm.tv/pic/crt/g/e9/18/58909_prsn_898b7.jpg?r=1753968312",
+          "large": "https://lain.bgm.tv/pic/crt/l/e9/18/58909_prsn_898b7.jpg?r=1753968312",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e9/18/58909_prsn_898b7.jpg?r=1753968312"
+        },
+        "name": "孙忠怀",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 58909,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "姜宇鹏",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 80064,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "葛琳",
+        "relation": "概念设计",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 42206,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "关瑞江",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63182,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "薛畅",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63194,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "刘宏博",
+        "relation": "色彩检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63185,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "杨非凡",
+        "relation": "色彩检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63191,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "姜宇鹏",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 80064,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "王立凡",
+        "relation": "色彩检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 54472,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2e/40/15735_prsn_KIE2S.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2e/40/15735_prsn_KIE2S.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2e/40/15735_prsn_KIE2S.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2e/40/15735_prsn_KIE2S.jpg"
+        },
+        "name": "王昕",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 15735,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "李明阳",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 63197,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2c/50/38850_prsn_fyMZx.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2c/50/38850_prsn_fyMZx.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2c/50/38850_prsn_fyMZx.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2c/50/38850_prsn_fyMZx.jpg"
+        },
+        "name": "澧泉文化",
         "relation": "制作协力",
         "career": [
           "producer"
         ],
         "type": 2,
-        "id": 77051,
-        "eps": "1-3,5,11,13-16"
+        "id": 38850,
+        "eps": "8"
       },
       {
         "images": {
@@ -7623,19 +7879,147 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/82/d2/62231_prsn_5zZU8.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/82/d2/62231_prsn_5zZU8.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/82/d2/62231_prsn_5zZU8.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/82/d2/62231_prsn_5zZU8.jpg"
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
         },
-        "name": "studio GREEN",
+        "name": "千屹动漫",
         "relation": "制作协力",
         "career": [
           "producer"
         ],
         "type": 2,
-        "id": 62231,
-        "eps": "0,2,5,8-9,15-16"
+        "id": 77051,
+        "eps": "1-3,5,11,13-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/25/04/51269_prsn_E5bQN.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/25/04/51269_prsn_E5bQN.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/25/04/51269_prsn_E5bQN.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/25/04/51269_prsn_E5bQN.jpg"
+        },
+        "name": "不熊动画",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 51269,
+        "eps": "7,10,12-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5c/02/62489_prsn_PpQZH.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/5c/02/62489_prsn_PpQZH.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/5c/02/62489_prsn_PpQZH.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5c/02/62489_prsn_PpQZH.jpg"
+        },
+        "name": "ANIX",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 62489,
+        "eps": "0-1,3,5-6,10-11,14-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a1/34/51276_prsn_Rd37e.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a1/34/51276_prsn_Rd37e.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a1/34/51276_prsn_Rd37e.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a1/34/51276_prsn_Rd37e.jpg"
+        },
+        "name": "梓宏文化",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 51276,
+        "eps": "0-3,5"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/88/a3/60684_prsn_18EG3.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/88/a3/60684_prsn_18EG3.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/88/a3/60684_prsn_18EG3.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/88/a3/60684_prsn_18EG3.jpg"
+        },
+        "name": "Purple-i",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 60684,
+        "eps": "0-2,6,10,14"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/47/ee/76780_prsn_3iIU9.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/47/ee/76780_prsn_3iIU9.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/47/ee/76780_prsn_3iIU9.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/47/ee/76780_prsn_3iIU9.jpg"
+        },
+        "name": "砌禾数位",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 76780,
+        "eps": "0-1"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cc/d2/52442_prsn_FzCMR.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/cc/d2/52442_prsn_FzCMR.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/cc/d2/52442_prsn_FzCMR.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cc/d2/52442_prsn_FzCMR.jpg"
+        },
+        "name": "小紅帽動畫",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 52442,
+        "eps": "0-3,5,8-11,13,15-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/67/07/77041_prsn_zysWY.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/67/07/77041_prsn_zysWY.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/67/07/77041_prsn_zysWY.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/67/07/77041_prsn_zysWY.jpg"
+        },
+        "name": "哼哼怪",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 77041,
+        "eps": "2,5,7,9-16"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8c/c3/51273_prsn_SSstO.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8c/c3/51273_prsn_SSstO.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8c/c3/51273_prsn_SSstO.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8c/c3/51273_prsn_SSstO.jpg"
+        },
+        "name": "奕泓动画",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 51273,
+        "eps": "0-2,4-7,10,14"
       },
       {
         "images": {
@@ -7644,14 +8028,46 @@
           "large": "",
           "medium": ""
         },
-        "name": "刘菁蓉",
-        "relation": "监制",
+        "name": "如裕动漫",
+        "relation": "制作协力",
         "career": [
           "producer"
         ],
-        "type": 1,
-        "id": 76085,
-        "eps": ""
+        "type": 2,
+        "id": 61213,
+        "eps": "0,4"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/77/93/51267_prsn_prFxP.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/77/93/51267_prsn_prFxP.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/77/93/51267_prsn_prFxP.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/77/93/51267_prsn_prFxP.jpg"
+        },
+        "name": "喵社绘",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 51267,
+        "eps": "0,4,7,10,12,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "幻影文化",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 77048,
+        "eps": "1-4,6,9-11"
       },
       {
         "images": {
@@ -7676,14 +8092,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "邓超",
-        "relation": "摄影",
+        "name": "刘菁蓉",
+        "relation": "监制",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 75935,
-        "eps": "0-9,11-16,OP,ED"
+        "id": 76085,
+        "eps": ""
       },
       {
         "images": {
@@ -7700,6 +8116,38 @@
         "type": 1,
         "id": 76425,
         "eps": "0-9,11-16,ED"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "顾康",
+        "relation": "摄影",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 76427,
+        "eps": "0,2,4,7,12-13,15-16"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "邓超",
+        "relation": "摄影",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 75935,
+        "eps": "0-9,11-16,OP,ED"
       },
       {
         "images": {
@@ -7732,54 +8180,6 @@
         "type": 1,
         "id": 35113,
         "eps": "2"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "顾康",
-        "relation": "摄影",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 76427,
-        "eps": "0,2,4,7,12-13,15-16"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "申惠兰",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 78727,
-        "eps": "0-2,6,10,14"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "金永彩",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 79030,
-        "eps": "2,10,14"
       },
       {
         "images": {
@@ -9197,7 +9597,7 @@
         "id": 489788
       }
     ],
-    "updatedAt": "2025-12-09T12:07:05.224Z"
+    "updatedAt": "2025-12-10T12:10:18.714Z"
   },
   {
     "id": 317376,
@@ -9507,7 +9907,7 @@
         }
       ],
       "rating": {
-        "rank": 5363,
+        "rank": 5362,
         "total": 106,
         "count": {
           "1": 2,
@@ -11126,7 +11526,7 @@
         "id": 396988
       }
     ],
-    "updatedAt": "2025-12-09T12:07:32.224Z"
+    "updatedAt": "2025-12-10T12:10:49.346Z"
   },
   {
     "id": 317694,
@@ -11595,7 +11995,7 @@
         "id": 399394
       }
     ],
-    "updatedAt": "2025-12-09T12:07:35.238Z"
+    "updatedAt": "2025-12-10T12:10:52.975Z"
   },
   {
     "id": 332133,
@@ -11699,6 +12099,11 @@
           "total_cont": 0
         },
         {
+          "name": "风都侦探",
+          "count": 7,
+          "total_cont": 0
+        },
+        {
           "name": "2022年7月",
           "count": 7,
           "total_cont": 0
@@ -11709,17 +12114,12 @@
           "total_cont": 0
         },
         {
-          "name": "风都侦探",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
-          "name": "内山昂輝",
+          "name": "季番",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "季番",
+          "name": "内山昂輝",
           "count": 6,
           "total_cont": 0
         },
@@ -11734,12 +12134,7 @@
           "total_cont": 0
         },
         {
-          "name": "スタジオKAI",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "科幻",
+          "name": "动画",
           "count": 4,
           "total_cont": 0
         },
@@ -11749,17 +12144,22 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "科幻",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "日漫",
+          "name": "スタジオKAI",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "腐",
+          "name": "恋爱",
           "count": 3,
           "total_cont": 0
         }
@@ -11898,14 +12298,14 @@
         }
       ],
       "rating": {
-        "rank": 3435,
-        "total": 2072,
+        "rank": 3434,
+        "total": 2073,
         "count": {
           "1": 4,
           "2": 4,
           "3": 10,
           "4": 28,
-          "5": 131,
+          "5": 132,
           "6": 488,
           "7": 971,
           "8": 378,
@@ -11918,8 +12318,8 @@
       "collection": {
         "on_hold": 380,
         "dropped": 284,
-        "wish": 995,
-        "collect": 3080,
+        "wish": 996,
+        "collect": 3083,
         "doing": 496
       },
       "id": 332133,
@@ -16512,7 +16912,7 @@
         "id": 552926
       }
     ],
-    "updatedAt": "2025-12-09T12:08:33.394Z"
+    "updatedAt": "2025-12-10T12:11:58.953Z"
   },
   {
     "id": 356658,
@@ -16542,7 +16942,7 @@
         },
         {
           "name": "百合",
-          "count": 333,
+          "count": 334,
           "total_cont": 0
         },
         {
@@ -16557,7 +16957,7 @@
         },
         {
           "name": "赌博",
-          "count": 283,
+          "count": 284,
           "total_cont": 0
         },
         {
@@ -16572,7 +16972,7 @@
         },
         {
           "name": "颜艺",
-          "count": 211,
+          "count": 212,
           "total_cont": 0
         },
         {
@@ -16597,7 +16997,7 @@
         },
         {
           "name": "智斗",
-          "count": 87,
+          "count": 88,
           "total_cont": 0
         },
         {
@@ -16661,17 +17061,17 @@
           "total_cont": 0
         },
         {
+          "name": "OVA",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "热血",
           "count": 4,
           "total_cont": 0
         },
         {
           "name": "仁井学",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "OVA",
           "count": 4,
           "total_cont": 0
         },
@@ -16748,7 +17148,7 @@
       ],
       "rating": {
         "rank": 3106,
-        "total": 2014,
+        "total": 2015,
         "count": {
           "1": 2,
           "2": 3,
@@ -16756,7 +17156,7 @@
           "4": 13,
           "5": 91,
           "6": 466,
-          "7": 1028,
+          "7": 1029,
           "8": 335,
           "9": 36,
           "10": 31
@@ -16767,8 +17167,8 @@
       "collection": {
         "on_hold": 133,
         "dropped": 61,
-        "wish": 994,
-        "collect": 3527,
+        "wish": 996,
+        "collect": 3530,
         "doing": 217
       },
       "id": 356658,
@@ -20233,7 +20633,7 @@
         "id": 386322
       }
     ],
-    "updatedAt": "2025-12-09T12:09:41.490Z"
+    "updatedAt": "2025-12-10T12:13:16.770Z"
   },
   {
     "id": 358803,
@@ -20332,22 +20732,22 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
           "name": "黒岩勉",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "Ado",
-          "count": 8,
+          "name": "日本",
+          "count": 9,
           "total_cont": 0
         },
         {
           "name": "2022年8月",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "Ado",
           "count": 8,
           "total_cont": 0
         },
@@ -20362,17 +20762,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "电影",
           "count": 5,
           "total_cont": 0
         },
         {
           "name": "冒险",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 5,
           "total_cont": 0
         },
@@ -20392,12 +20792,12 @@
           "total_cont": 0
         },
         {
-          "name": "アニメ映画",
+          "name": "2020s",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "池田秀一",
+          "name": "尾田栄一郎",
           "count": 2,
           "total_cont": 0
         }
@@ -20491,16 +20891,16 @@
         }
       ],
       "rating": {
-        "rank": 5000,
-        "total": 1732,
+        "rank": 4993,
+        "total": 1734,
         "count": {
           "1": 6,
           "2": 7,
           "3": 15,
           "4": 47,
           "5": 177,
-          "6": 526,
-          "7": 675,
+          "6": 527,
+          "7": 676,
           "8": 228,
           "9": 29,
           "10": 22
@@ -20511,8 +20911,8 @@
       "collection": {
         "on_hold": 23,
         "dropped": 27,
-        "wish": 264,
-        "collect": 2680,
+        "wish": 263,
+        "collect": 2682,
         "doing": 19
       },
       "id": 358803,
@@ -21938,10 +22338,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/18/d8/400_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/18/d8/400_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/18/d8/400_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/18/d8/400_prsn_anidb.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f1/64/400_prsn_9v4EE.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f1/64/400_prsn_9v4EE.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f1/64/400_prsn_9v4EE.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f1/64/400_prsn_9v4EE.jpg"
         },
         "name": "香川久",
         "relation": "原画",
@@ -27271,7 +27671,7 @@
         "id": 436723
       }
     ],
-    "updatedAt": "2025-12-09T12:09:46.302Z"
+    "updatedAt": "2025-12-10T12:13:22.175Z"
   },
   {
     "id": 374228,
@@ -27296,7 +27696,7 @@
         },
         {
           "name": "音乐",
-          "count": 55,
+          "count": 56,
           "total_cont": 0
         },
         {
@@ -27331,7 +27731,7 @@
         },
         {
           "name": "百合",
-          "count": 18,
+          "count": 19,
           "total_cont": 0
         },
         {
@@ -27365,22 +27765,22 @@
           "total_cont": 0
         },
         {
-          "name": "铃木大介",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "水岛精二",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "2022年",
-          "count": 3,
+          "name": "铃木大介",
+          "count": 4,
           "total_cont": 0
         },
         {
           "name": "日本",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "2022年",
           "count": 3,
           "total_cont": 0
         },
@@ -27400,42 +27800,42 @@
           "total_cont": 0
         },
         {
-          "name": "冈田梦以",
+          "name": "高甜",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "短片",
+          "name": "偶像元素",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "轻百合",
+          "name": "动画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "极致作画",
+          "name": "叶月阳葵",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "WEB",
+          "name": "Bushiroad",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "SP",
+          "name": "日OVA",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "不许摸",
+          "name": "22夏",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "平岛夏海",
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         }
@@ -27464,7 +27864,7 @@
       ],
       "rating": {
         "rank": 6116,
-        "total": 165,
+        "total": 167,
         "count": {
           "1": 0,
           "2": 0,
@@ -27472,19 +27872,19 @@
           "4": 4,
           "5": 31,
           "6": 77,
-          "7": 41,
+          "7": 42,
           "8": 7,
-          "9": 0,
+          "9": 1,
           "10": 3
         },
-        "score": 6.1
+        "score": 6.2
       },
       "total_episodes": 1,
       "collection": {
         "on_hold": 18,
         "dropped": 16,
         "wish": 97,
-        "collect": 313,
+        "collect": 315,
         "doing": 11
       },
       "id": 374228,
@@ -27981,7 +28381,7 @@
         "id": 420143
       }
     ],
-    "updatedAt": "2025-12-09T12:10:24.411Z"
+    "updatedAt": "2025-12-10T12:14:04.783Z"
   },
   {
     "id": 375216,
@@ -28377,7 +28777,7 @@
         "id": 189765
       }
     ],
-    "updatedAt": "2025-12-09T12:10:26.531Z"
+    "updatedAt": "2025-12-10T12:14:07.581Z"
   },
   {
     "id": 379456,
@@ -28614,7 +29014,7 @@
         }
       ],
       "rating": {
-        "rank": 4746,
+        "rank": 4770,
         "total": 288,
         "count": {
           "1": 0,
@@ -29236,7 +29636,7 @@
         "id": 461544
       }
     ],
-    "updatedAt": "2025-12-09T12:10:39.061Z"
+    "updatedAt": "2025-12-10T12:14:21.471Z"
   },
   {
     "id": 381212,
@@ -29457,7 +29857,7 @@
         }
       ],
       "rating": {
-        "rank": 9111,
+        "rank": 9099,
         "total": 96,
         "count": {
           "1": 21,
@@ -31109,7 +31509,7 @@
         "id": 386475
       }
     ],
-    "updatedAt": "2025-12-09T12:10:43.680Z"
+    "updatedAt": "2025-12-10T12:14:27.078Z"
   },
   {
     "id": 386475,
@@ -31324,7 +31724,7 @@
         }
       ],
       "rating": {
-        "rank": 9174,
+        "rank": 9159,
         "total": 100,
         "count": {
           "1": 24,
@@ -32768,7 +33168,7 @@
         "id": 381212
       }
     ],
-    "updatedAt": "2025-12-09T12:10:53.149Z"
+    "updatedAt": "2025-12-10T12:14:38.084Z"
   },
   {
     "id": 386628,
@@ -33004,7 +33404,7 @@
         }
       ],
       "rating": {
-        "rank": 5053,
+        "rank": 5054,
         "total": 157,
         "count": {
           "1": 1,
@@ -33024,7 +33424,7 @@
       "collection": {
         "on_hold": 33,
         "dropped": 32,
-        "wish": 119,
+        "wish": 120,
         "collect": 215,
         "doing": 73
       },
@@ -33121,6 +33521,6 @@
         "id": 396331
       }
     ],
-    "updatedAt": "2025-12-09T12:10:54.172Z"
+    "updatedAt": "2025-12-10T12:14:39.236Z"
   }
 ]
