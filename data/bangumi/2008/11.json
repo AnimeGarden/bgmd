@@ -151,17 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "neta",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "番外",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "TV",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 3,
           "total_cont": 0
         }
@@ -245,7 +245,7 @@
         }
       ],
       "rating": {
-        "rank": 1402,
+        "rank": 1403,
         "total": 1426,
         "count": {
           "1": 0,
@@ -266,7 +266,7 @@
         "on_hold": 82,
         "dropped": 33,
         "wish": 531,
-        "collect": 2759,
+        "collect": 2761,
         "doing": 71
       },
       "id": 3070,
@@ -1148,7 +1148,7 @@
         "id": 44716
       }
     ],
-    "updatedAt": "2025-12-12T11:36:16.934Z"
+    "updatedAt": "2025-12-13T11:32:27.458Z"
   },
   {
     "id": 4421,
@@ -1380,7 +1380,7 @@
         }
       ],
       "rating": {
-        "rank": 2419,
+        "rank": 2417,
         "total": 181,
         "count": {
           "1": 0,
@@ -2368,7 +2368,7 @@
         "id": 440939
       }
     ],
-    "updatedAt": "2025-12-12T11:37:48.083Z"
+    "updatedAt": "2025-12-13T11:34:05.358Z"
   },
   {
     "id": 20692,
@@ -2678,7 +2678,7 @@
         "id": 41803
       }
     ],
-    "updatedAt": "2025-12-12T11:42:26.781Z"
+    "updatedAt": "2025-12-13T11:39:01.562Z"
   },
   {
     "id": 189918,
@@ -2890,7 +2890,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-12T11:58:46.386Z"
+    "updatedAt": "2025-12-13T11:56:55.265Z"
   },
   {
     "id": 464474,
@@ -2929,18 +2929,13 @@
           "total_cont": 0
         },
         {
-          "name": "2008年9月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "游戏",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "科幻",
-          "count": 1,
+          "name": "2008年9月",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -2954,12 +2949,12 @@
           "total_cont": 0
         },
         {
-          "name": "OVA-01",
+          "name": "漫画改",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "漫画改",
+          "name": "科幻",
           "count": 1,
           "total_cont": 0
         },
@@ -2975,6 +2970,11 @@
         },
         {
           "name": "已下载",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "OVA-01",
           "count": 1,
           "total_cont": 0
         }
@@ -3027,7 +3027,7 @@
         "on_hold": 4,
         "dropped": 1,
         "wish": 5,
-        "collect": 54,
+        "collect": 55,
         "doing": 1
       },
       "id": 464474,
@@ -3230,6 +3230,6 @@
         "id": 464033
       }
     ],
-    "updatedAt": "2025-12-12T12:14:29.843Z"
+    "updatedAt": "2025-12-13T12:14:03.547Z"
   }
 ]
