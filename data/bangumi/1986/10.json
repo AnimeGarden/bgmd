@@ -236,8 +236,8 @@
       "collection": {
         "on_hold": 241,
         "dropped": 96,
-        "wish": 403,
-        "collect": 2936,
+        "wish": 405,
+        "collect": 2938,
         "doing": 123
       },
       "id": 4843,
@@ -921,6 +921,22 @@
               "seiyu"
             ],
             "id": 4095,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/15/1d/5285_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/15/1d/5285_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/15/1d/5285_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/15/1d/5285_seiyu_anidb.jpg"
+            },
+            "name": "江森浩子",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 5285,
             "type": 1,
             "locked": false
           }
@@ -2058,7 +2074,7 @@
         "id": 595
       }
     ],
-    "updatedAt": "2025-12-13T11:34:17.477Z"
+    "updatedAt": "2025-12-14T11:34:49.471Z"
   },
   {
     "id": 31698,
@@ -2634,7 +2650,7 @@
         "id": 527959
       }
     ],
-    "updatedAt": "2025-12-13T11:40:52.844Z"
+    "updatedAt": "2025-12-14T11:41:25.589Z"
   },
   {
     "id": 56995,
@@ -2931,7 +2947,7 @@
         "id": 310760
       }
     ],
-    "updatedAt": "2025-12-13T11:45:10.597Z"
+    "updatedAt": "2025-12-14T11:45:55.829Z"
   },
   {
     "id": 77247,
@@ -2951,7 +2967,7 @@
       "tags": [
         {
           "name": "TV",
-          "count": 4,
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -2965,12 +2981,42 @@
           "total_cont": 0
         },
         {
-          "name": "石丸博也",
+          "name": "日本アニメーション",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "皆口裕子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "石丸博也",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画公司",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "中原茂",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "山寺宏一",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "藤本信行",
           "count": 1,
           "total_cont": 0
         },
@@ -2985,42 +3031,12 @@
           "total_cont": 0
         },
         {
-          "name": "中原茂",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "藤本信行",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "日本",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "山寺宏一",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画公司",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本アニメーション",
           "count": 1,
           "total_cont": 0
         }
@@ -3072,7 +3088,7 @@
       "collection": {
         "on_hold": 2,
         "dropped": 6,
-        "wish": 11,
+        "wish": 12,
         "collect": 7,
         "doing": 2
       },
@@ -3171,7 +3187,7 @@
         "id": 451354
       }
     ],
-    "updatedAt": "2025-12-13T11:46:58.990Z"
+    "updatedAt": "2025-12-14T11:47:56.125Z"
   },
   {
     "id": 78049,
@@ -3767,7 +3783,7 @@
         "id": 472207
       }
     ],
-    "updatedAt": "2025-12-13T11:47:06.493Z"
+    "updatedAt": "2025-12-14T11:48:04.790Z"
   },
   {
     "id": 188949,
@@ -4169,7 +4185,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-13T11:56:47.274Z"
+    "updatedAt": "2025-12-14T11:58:00.722Z"
   },
   {
     "id": 196985,
@@ -5035,6 +5051,6 @@
         "id": 608841
       }
     ],
-    "updatedAt": "2025-12-13T11:57:36.118Z"
+    "updatedAt": "2025-12-14T11:58:52.446Z"
   }
 ]

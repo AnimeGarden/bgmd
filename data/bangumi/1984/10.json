@@ -42,16 +42,16 @@
         },
         {
           "name": "1984年10月",
-          "count": 81,
-          "total_cont": 0
-        },
-        {
-          "name": "爆衫",
-          "count": 53,
+          "count": 82,
           "total_cont": 0
         },
         {
           "name": "你的死兆星在天上閃耀",
+          "count": 53,
+          "total_cont": 0
+        },
+        {
+          "name": "爆衫",
           "count": 53,
           "total_cont": 0
         },
@@ -101,17 +101,17 @@
           "total_cont": 0
         },
         {
-          "name": "没看完",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
           "name": "東映アニメーション",
           "count": 7,
           "total_cont": 0
         },
         {
           "name": "经典",
+          "count": 7,
+          "total_cont": 0
+        },
+        {
+          "name": "没看完",
           "count": 7,
           "total_cont": 0
         },
@@ -151,17 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "补番",
+          "name": "2000前",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "长篇",
+          "name": "暴力",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "神谷明",
           "count": 2,
           "total_cont": 0
         }
@@ -241,8 +241,8 @@
         }
       ],
       "rating": {
-        "rank": 762,
-        "total": 733,
+        "rank": 767,
+        "total": 734,
         "count": {
           "1": 1,
           "2": 2,
@@ -251,7 +251,7 @@
           "5": 18,
           "6": 68,
           "7": 250,
-          "8": 249,
+          "8": 250,
           "9": 92,
           "10": 47
         },
@@ -259,10 +259,10 @@
       },
       "total_episodes": 109,
       "collection": {
-        "on_hold": 245,
+        "on_hold": 246,
         "dropped": 76,
         "wish": 759,
-        "collect": 1091,
+        "collect": 1092,
         "doing": 132
       },
       "id": 8386,
@@ -4685,7 +4685,7 @@
         "id": 137436
       }
     ],
-    "updatedAt": "2025-12-13T11:35:26.564Z"
+    "updatedAt": "2025-12-14T11:35:59.335Z"
   },
   {
     "id": 37290,
@@ -4905,7 +4905,7 @@
         }
       ],
       "rating": {
-        "rank": 4546,
+        "rank": 4682,
         "total": 64,
         "count": {
           "1": 0,
@@ -5151,6 +5151,22 @@
         "type": 1,
         "id": 47105,
         "eps": "8"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "二宮常雄",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 897,
+        "eps": "8,17"
       },
       {
         "images": {
@@ -5439,38 +5455,6 @@
         "type": 1,
         "id": 1560,
         "eps": "3"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "二宮常雄",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 897,
-        "eps": "8,17"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "二宮常雄",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 897,
-        "eps": "8,17"
       },
       {
         "images": {
@@ -6271,6 +6255,22 @@
         "type": 1,
         "id": 382,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "二宮常雄",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 897,
+        "eps": "8,17"
       }
     ],
     "characters": [
@@ -7374,7 +7374,7 @@
         "id": 536258
       }
     ],
-    "updatedAt": "2025-12-13T11:41:53.643Z"
+    "updatedAt": "2025-12-14T11:42:26.954Z"
   },
   {
     "id": 37291,
@@ -8307,7 +8307,7 @@
         "id": 470791
       }
     ],
-    "updatedAt": "2025-12-13T11:41:53.856Z"
+    "updatedAt": "2025-12-14T11:42:27.490Z"
   },
   {
     "id": 213670,
@@ -8565,6 +8565,6 @@
         "id": 605100
       }
     ],
-    "updatedAt": "2025-12-13T11:59:18.765Z"
+    "updatedAt": "2025-12-14T12:00:41.265Z"
   }
 ]

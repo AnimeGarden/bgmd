@@ -96,11 +96,6 @@
           "total_cont": 0
         },
         {
-          "name": "动画电影",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "映画",
           "count": 4,
           "total_cont": 0
@@ -111,22 +106,17 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "动画电影",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "1983年3月",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "子供向",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "劇場版",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
+          "name": "喜剧",
           "count": 3,
           "total_cont": 0
         },
@@ -141,27 +131,37 @@
           "total_cont": 0
         },
         {
+          "name": "子供向",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "补标",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "1983年3月",
+          "name": "劇場版",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "喜剧",
+          "name": "动画",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "奇幻",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "SHIN-EI动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "哆啦A夢",
+          "name": "movie",
           "count": 2,
           "total_cont": 0
         }
@@ -305,7 +305,7 @@
         }
       ],
       "rating": {
-        "rank": 2397,
+        "rank": 2398,
         "total": 595,
         "count": {
           "1": 1,
@@ -323,10 +323,10 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 16,
+        "on_hold": 17,
         "dropped": 17,
         "wish": 62,
-        "collect": 1180,
+        "collect": 1179,
         "doing": 13
       },
       "id": 438,
@@ -1550,7 +1550,7 @@
         "id": 583519
       }
     ],
-    "updatedAt": "2025-12-13T11:28:37.616Z"
+    "updatedAt": "2025-12-14T11:28:52.289Z"
   },
   {
     "id": 37215,
@@ -2258,7 +2258,7 @@
         "id": 525887
       }
     ],
-    "updatedAt": "2025-12-13T11:41:38.752Z"
+    "updatedAt": "2025-12-14T11:42:13.225Z"
   },
   {
     "id": 74199,
@@ -3304,7 +3304,7 @@
         "id": 540811
       }
     ],
-    "updatedAt": "2025-12-13T11:46:41.814Z"
+    "updatedAt": "2025-12-14T11:47:38.950Z"
   },
   {
     "id": 74534,
@@ -4270,22 +4270,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "二宮常雄",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 897,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "羽根章悦",
         "relation": "原画",
         "career": [
@@ -4742,6 +4726,22 @@
         "type": 2,
         "id": 18992,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "二宮常雄",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 897,
+        "eps": ""
       }
     ],
     "characters": [
@@ -4965,7 +4965,7 @@
         "id": 520707
       }
     ],
-    "updatedAt": "2025-12-13T11:46:44.561Z"
+    "updatedAt": "2025-12-14T11:47:41.842Z"
   },
   {
     "id": 82719,
@@ -5952,6 +5952,6 @@
         "id": 47243
       }
     ],
-    "updatedAt": "2025-12-13T11:47:51.143Z"
+    "updatedAt": "2025-12-14T11:48:50.630Z"
   }
 ]
