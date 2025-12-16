@@ -1575,7 +1575,7 @@
         "id": 488841
       }
     ],
-    "updatedAt": "2025-12-15T11:41:37.379Z"
+    "updatedAt": "2025-12-16T11:41:05.265Z"
   },
   {
     "id": 26228,
@@ -2080,7 +2080,7 @@
         "id": 301570
       }
     ],
-    "updatedAt": "2025-12-15T11:44:59.587Z"
+    "updatedAt": "2025-12-16T11:44:16.573Z"
   },
   {
     "id": 80237,
@@ -3115,7 +3115,7 @@
         "id": 316544
       }
     ],
-    "updatedAt": "2025-12-15T11:52:20.328Z"
+    "updatedAt": "2025-12-16T11:51:16.835Z"
   },
   {
     "id": 300775,
@@ -3449,7 +3449,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-15T12:10:42.760Z"
+    "updatedAt": "2025-12-16T12:08:14.365Z"
   },
   {
     "id": 311139,
@@ -3468,32 +3468,12 @@
       "name_cn": "",
       "tags": [
         {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1994",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "SHIN-EI动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "シンエイ動画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TV",
+          "name": "TVSP",
           "count": 1,
           "total_cont": 0
         },
@@ -3508,12 +3488,32 @@
           "total_cont": 0
         },
         {
-          "name": "小倉久寛",
+          "name": "SHIN-EI动画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "TVSP",
+          "name": "1994",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TV",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "小倉久寛",
           "count": 1,
           "total_cont": 0
         }
@@ -3546,27 +3546,27 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 0,
+        "total": 1,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 0,
           "5": 0,
-          "6": 0,
+          "6": 1,
           "7": 0,
           "8": 0,
           "9": 0,
           "10": 0
         },
-        "score": 0
+        "score": 6
       },
       "total_episodes": 2,
       "collection": {
         "on_hold": 0,
-        "dropped": 3,
+        "dropped": 2,
         "wish": 3,
-        "collect": 2,
+        "collect": 3,
         "doing": 0
       },
       "id": 311139,
@@ -3601,6 +3601,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-15T12:11:29.402Z"
+    "updatedAt": "2025-12-16T12:08:59.272Z"
   }
 ]

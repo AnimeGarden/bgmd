@@ -301,7 +301,7 @@
         }
       ],
       "rating": {
-        "rank": 1930,
+        "rank": 1932,
         "total": 629,
         "count": {
           "1": 1,
@@ -322,7 +322,7 @@
         "on_hold": 19,
         "dropped": 18,
         "wish": 78,
-        "collect": 1309,
+        "collect": 1310,
         "doing": 10
       },
       "id": 455,
@@ -1659,7 +1659,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2025-12-15T11:33:23.133Z"
+    "updatedAt": "2025-12-16T11:33:25.277Z"
   },
   {
     "id": 3733,
@@ -2413,7 +2413,7 @@
         "id": 1608
       }
     ],
-    "updatedAt": "2025-12-15T11:38:08.934Z"
+    "updatedAt": "2025-12-16T11:37:47.460Z"
   },
   {
     "id": 5433,
@@ -2557,7 +2557,12 @@
           "total_cont": 0
         },
         {
-          "name": "1990s",
+          "name": "续作",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "魔法",
           "count": 2,
           "total_cont": 0
         },
@@ -2567,17 +2572,12 @@
           "total_cont": 0
         },
         {
-          "name": "补旧番",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "恋爱",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "年番",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1990s",
           "count": 2,
           "total_cont": 0
         }
@@ -2662,7 +2662,7 @@
         "on_hold": 36,
         "dropped": 29,
         "wish": 149,
-        "collect": 549,
+        "collect": 550,
         "doing": 29
       },
       "id": 5433,
@@ -5736,7 +5736,7 @@
         "id": 218446
       }
     ],
-    "updatedAt": "2025-12-15T11:39:21.388Z"
+    "updatedAt": "2025-12-16T11:38:56.720Z"
   },
   {
     "id": 18504,
@@ -5999,7 +5999,7 @@
         }
       ],
       "rating": {
-        "rank": 2412,
+        "rank": 2413,
         "total": 437,
         "count": {
           "1": 0,
@@ -7932,7 +7932,7 @@
         "id": 168968
       }
     ],
-    "updatedAt": "2025-12-15T11:43:29.950Z"
+    "updatedAt": "2025-12-16T11:42:51.361Z"
   },
   {
     "id": 63012,
@@ -8081,22 +8081,22 @@
           "total_cont": 0
         },
         {
-          "name": "赛璐珞",
+          "name": "祈愿物语",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "Triangle_Staff",
+          "name": "大橋学",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "伊藤郁子",
+          "name": "补番",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "成长",
+          "name": "温情",
           "count": 1,
           "total_cont": 0
         }
@@ -8292,8 +8292,8 @@
         }
       ],
       "rating": {
-        "rank": 1969,
-        "total": 136,
+        "rank": 1973,
+        "total": 137,
         "count": {
           "1": 1,
           "2": 0,
@@ -8301,7 +8301,7 @@
           "4": 1,
           "5": 7,
           "6": 19,
-          "7": 50,
+          "7": 51,
           "8": 45,
           "9": 11,
           "10": 1
@@ -8313,7 +8313,7 @@
         "on_hold": 15,
         "dropped": 12,
         "wish": 192,
-        "collect": 197,
+        "collect": 198,
         "doing": 7
       },
       "id": 63012,
@@ -8440,6 +8440,22 @@
         ],
         "type": 1,
         "id": 61568,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/af/67/1418_prsn_byg6N.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/af/67/1418_prsn_byg6N.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/af/67/1418_prsn_byg6N.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/af/67/1418_prsn_byg6N.jpg"
+        },
+        "name": "羽原信義",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1418,
         "eps": ""
       },
       {
@@ -8668,6 +8684,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a6/b3/2951_prsn_2fYG2.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a6/b3/2951_prsn_2fYG2.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a6/b3/2951_prsn_2fYG2.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a6/b3/2951_prsn_2fYG2.jpg"
+        },
+        "name": "大橋学",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2951,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/52/7d/13898_prsn_sC3E1.jpg?r=1687698138",
           "grid": "https://lain.bgm.tv/pic/crt/g/52/7d/13898_prsn_sC3E1.jpg?r=1687698138",
           "large": "https://lain.bgm.tv/pic/crt/l/52/7d/13898_prsn_sC3E1.jpg?r=1687698138",
@@ -8808,22 +8840,6 @@
         ],
         "type": 1,
         "id": 12765,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a6/b3/2951_prsn_2fYG2.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a6/b3/2951_prsn_2fYG2.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/a6/b3/2951_prsn_2fYG2.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a6/b3/2951_prsn_2fYG2.jpg"
-        },
-        "name": "大橋学",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 2951,
         "eps": ""
       },
       {
@@ -9081,22 +9097,6 @@
         ],
         "type": 1,
         "id": 1408,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/af/67/1418_prsn_byg6N.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/af/67/1418_prsn_byg6N.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/af/67/1418_prsn_byg6N.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/af/67/1418_prsn_byg6N.jpg"
-        },
-        "name": "羽原信義",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1418,
         "eps": ""
       },
       {
@@ -9605,7 +9605,7 @@
         "id": 354420
       }
     ],
-    "updatedAt": "2025-12-15T11:50:30.060Z"
+    "updatedAt": "2025-12-16T11:49:34.848Z"
   },
   {
     "id": 318275,
@@ -9935,6 +9935,6 @@
         "id": 437415
       }
     ],
-    "updatedAt": "2025-12-15T12:12:09.283Z"
+    "updatedAt": "2025-12-16T12:09:37.400Z"
   }
 ]

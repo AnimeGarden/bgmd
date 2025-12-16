@@ -146,6 +146,11 @@
           "total_cont": 0
         },
         {
+          "name": "STUDIO_DEEN",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "悲剧",
           "count": 3,
           "total_cont": 0
@@ -157,11 +162,6 @@
         },
         {
           "name": "时代剧",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "补番",
           "count": 3,
           "total_cont": 0
         }
@@ -201,7 +201,7 @@
         }
       ],
       "rating": {
-        "rank": 2069,
+        "rank": 2071,
         "total": 1026,
         "count": {
           "1": 10,
@@ -222,8 +222,8 @@
         "on_hold": 50,
         "dropped": 46,
         "wish": 428,
-        "collect": 1523,
-        "doing": 66
+        "collect": 1524,
+        "doing": 68
       },
       "id": 13553,
       "eps": 2,
@@ -1202,7 +1202,7 @@
         "id": 280483
       }
     ],
-    "updatedAt": "2025-12-15T11:42:42.768Z"
+    "updatedAt": "2025-12-16T11:42:06.560Z"
   },
   {
     "id": 16841,
@@ -1222,12 +1222,12 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 70,
+          "count": 71,
           "total_cont": 0
         },
         {
           "name": "秀逗魔导士",
-          "count": 35,
+          "count": 36,
           "total_cont": 0
         },
         {
@@ -1311,27 +1311,7 @@
           "total_cont": 0
         },
         {
-          "name": "SLAYERS",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "HalFilmMaker",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "2001年12月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "OVA",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -1341,12 +1321,37 @@
           "total_cont": 0
         },
         {
+          "name": "HalFilmMaker",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "SLAYERS",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "OVA",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "补番",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "世纪初",
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "movie",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "魔剑美神",
           "count": 1,
           "total_cont": 0
         },
@@ -1356,17 +1361,12 @@
           "total_cont": 0
         },
         {
-          "name": "神作",
+          "name": "世纪初",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "5",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "2023",
+          "name": "HFM",
           "count": 1,
           "total_cont": 0
         }
@@ -1402,7 +1402,7 @@
         }
       ],
       "rating": {
-        "rank": 2199,
+        "rank": 2200,
         "total": 154,
         "count": {
           "1": 0,
@@ -1422,7 +1422,7 @@
       "collection": {
         "on_hold": 17,
         "dropped": 15,
-        "wish": 122,
+        "wish": 123,
         "collect": 305,
         "doing": 13
       },
@@ -1506,6 +1506,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/55/30/2604_prsn_4knnE.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/55/30/2604_prsn_4knnE.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/55/30/2604_prsn_4knnE.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/55/30/2604_prsn_4knnE.jpg"
+        },
+        "name": "Hal Film Maker",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 2604,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -1570,22 +1586,6 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "ガンジス",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 500,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/fb/72/811_prsn_y3S1H.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/fb/72/811_prsn_y3S1H.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/fb/72/811_prsn_y3S1H.jpg",
@@ -1598,22 +1598,6 @@
         ],
         "type": 2,
         "id": 811,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/55/30/2604_prsn_4knnE.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/55/30/2604_prsn_4knnE.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/55/30/2604_prsn_4knnE.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/55/30/2604_prsn_4knnE.jpg"
-        },
-        "name": "Hal Film Maker",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 2604,
         "eps": ""
       },
       {
@@ -2657,6 +2641,22 @@
         "type": 2,
         "id": 18992,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "ガンジス",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 500,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2957,7 +2957,7 @@
         "id": 205300
       }
     ],
-    "updatedAt": "2025-12-15T11:43:15.086Z"
+    "updatedAt": "2025-12-16T11:42:37.971Z"
   },
   {
     "id": 18617,
@@ -6729,7 +6729,7 @@
         "id": 515859
       }
     ],
-    "updatedAt": "2025-12-15T11:43:33.124Z"
+    "updatedAt": "2025-12-16T11:42:54.529Z"
   },
   {
     "id": 20928,
@@ -6957,7 +6957,7 @@
         }
       ],
       "rating": {
-        "rank": 3569,
+        "rank": 3570,
         "total": 132,
         "count": {
           "1": 0,
@@ -7893,22 +7893,6 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "ガンジス",
-        "relation": "制作协力",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 500,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/55/847_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/f4/55/847_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/f4/55/847_prsn_anidb.jpg",
@@ -8711,6 +8695,22 @@
         "type": 1,
         "id": 82313,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "ガンジス",
+        "relation": "制作协力",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 500,
+        "eps": ""
       }
     ],
     "characters": [
@@ -9208,7 +9208,7 @@
         "id": 205300
       }
     ],
-    "updatedAt": "2025-12-15T11:44:04.899Z"
+    "updatedAt": "2025-12-16T11:43:23.786Z"
   },
   {
     "id": 27886,
@@ -10232,7 +10232,7 @@
         "id": 3019
       }
     ],
-    "updatedAt": "2025-12-15T11:45:18.398Z"
+    "updatedAt": "2025-12-16T11:44:33.856Z"
   },
   {
     "id": 39525,
@@ -10474,7 +10474,7 @@
         }
       ],
       "rating": {
-        "rank": 5449,
+        "rank": 5453,
         "total": 56,
         "count": {
           "1": 1,
@@ -11223,7 +11223,7 @@
         "id": 108729
       }
     ],
-    "updatedAt": "2025-12-15T11:47:29.955Z"
+    "updatedAt": "2025-12-16T11:46:38.766Z"
   },
   {
     "id": 89728,
@@ -11524,7 +11524,7 @@
         "id": 53740
       }
     ],
-    "updatedAt": "2025-12-15T11:53:40.523Z"
+    "updatedAt": "2025-12-16T11:52:33.561Z"
   },
   {
     "id": 93200,
@@ -13106,7 +13106,7 @@
         "id": 131676
       }
     ],
-    "updatedAt": "2025-12-15T11:54:05.222Z"
+    "updatedAt": "2025-12-16T11:52:56.191Z"
   },
   {
     "id": 112451,
@@ -13288,7 +13288,7 @@
         "id": 112452
       }
     ],
-    "updatedAt": "2025-12-15T11:55:58.528Z"
+    "updatedAt": "2025-12-16T11:54:41.321Z"
   },
   {
     "id": 205300,
@@ -15077,7 +15077,7 @@
         "id": 205299
       }
     ],
-    "updatedAt": "2025-12-15T12:02:59.595Z"
+    "updatedAt": "2025-12-16T12:01:04.421Z"
   },
   {
     "id": 316818,
@@ -15204,7 +15204,7 @@
         "id": 34237
       }
     ],
-    "updatedAt": "2025-12-15T12:11:58.745Z"
+    "updatedAt": "2025-12-16T12:09:27.617Z"
   },
   {
     "id": 317785,
@@ -16035,6 +16035,6 @@
         "id": 417387
       }
     ],
-    "updatedAt": "2025-12-15T12:12:07.819Z"
+    "updatedAt": "2025-12-16T12:09:36.064Z"
   }
 ]

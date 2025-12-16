@@ -151,17 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "黑暗",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "动画",
           "count": 6,
           "total_cont": 0
         },
         {
           "name": "SF",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "黑暗",
           "count": 6,
           "total_cont": 0
         }
@@ -213,7 +213,7 @@
         }
       ],
       "rating": {
-        "rank": 1009,
+        "rank": 1010,
         "total": 2250,
         "count": {
           "1": 4,
@@ -233,8 +233,8 @@
       "collection": {
         "on_hold": 158,
         "dropped": 31,
-        "wish": 1732,
-        "collect": 3353,
+        "wish": 1733,
+        "collect": 3354,
         "doing": 106
       },
       "id": 4274,
@@ -1062,7 +1062,7 @@
         "id": 56335
       }
     ],
-    "updatedAt": "2025-12-15T11:38:48.763Z"
+    "updatedAt": "2025-12-16T11:38:24.718Z"
   },
   {
     "id": 8452,
@@ -1082,12 +1082,12 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 653,
+          "count": 654,
           "total_cont": 0
         },
         {
           "name": "治愈",
-          "count": 597,
+          "count": 598,
           "total_cont": 0
         },
         {
@@ -1097,12 +1097,12 @@
         },
         {
           "name": "原创",
-          "count": 318,
+          "count": 319,
           "total_cont": 0
         },
         {
           "name": "百合",
-          "count": 269,
+          "count": 270,
           "total_cont": 0
         },
         {
@@ -1122,12 +1122,12 @@
         },
         {
           "name": "玉响",
-          "count": 186,
+          "count": 187,
           "total_cont": 0
         },
         {
           "name": "日常",
-          "count": 147,
+          "count": 148,
           "total_cont": 0
         },
         {
@@ -1182,7 +1182,7 @@
         },
         {
           "name": "2010年11月",
-          "count": 17,
+          "count": 18,
           "total_cont": 0
         },
         {
@@ -1221,12 +1221,12 @@
           "total_cont": 0
         },
         {
-          "name": "黑丝",
+          "name": "地域振興",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "地域振興",
+          "name": "补番",
           "count": 6,
           "total_cont": 0
         }
@@ -1271,7 +1271,15 @@
           "value": "2010年12月23日"
         },
         {
+          "key": "Copyright",
+          "value": "©佐藤順一・TYA/たまゆら製作委員会"
+        },
+        {
           "key": "原作",
+          "value": "佐藤順一"
+        },
+        {
+          "key": "原案",
           "value": "佐藤順一"
         },
         {
@@ -1295,6 +1303,14 @@
           "value": "酒井和男(1-2,4)、中山敦史(3)"
         },
         {
+          "key": "OP・ED 分镜",
+          "value": "佐藤順一(OP) / 佐藤順一(ED)"
+        },
+        {
+          "key": "OP・ED 演出",
+          "value": "酒井和男(OP) / 佐藤順一(ED)"
+        },
+        {
           "key": "人物设定",
           "value": "飯塚晴子"
         },
@@ -1303,40 +1319,76 @@
           "value": "MONOデザイン：吉川美貴"
         },
         {
+          "key": "2D 设计",
+          "value": "山真紀子（Production I.G）"
+        },
+        {
+          "key": "总作画监督",
+          "value": "音地正行"
+        },
+        {
           "key": "作画监督",
-          "value": "音地正行(1)、渡辺はじめ(2,4)、阿部智之(3)"
+          "value": "音地正行(1,OP)、渡辺はじめ(2,4)、阿部智之(3)"
+        },
+        {
+          "key": "原画",
+          "value": "小林明美、後藤圭二、小村方宏治、浅野勝也、菅綾香、古川知宏、甲斐田亮一、阿部智之、八尋裕子、齊藤育実 [ 斉藤育実 ] 、三島千枝、反町司、千葉健二、杉本功、植田均、佐藤寿子、松浦里美、手島典子、神谷ろん、渋谷一彦、シノミン、安留雅弥、大森理恵、羽生貴之、細居美貴子 [ 細居美恵子 ] 、宮田瑠美、山本真理子、つなきあき、橋本和紀、高原修司、荒川眞嗣、石井久志、寒川歩、時永宜幸、熊谷哲也 [ 熊谷哲矢 ] 、樋口靖子、石塚健、伊藤真奈美、鈴木彩子"
+        },
+        {
+          "key": "第二原画",
+          "value": "勝谷遥、滝原美樹 [ 瀧原美樹 ] 、伊藤真奈美、中尾香奈美、古和田真弓、本館耐、佐藤利幸、平口季美子、田路あるみ、上竹哲郎、坂上谷悠介、島田千裕、立花昌之、八尋裕子、鈴木美音織、高橋はつみ、纐纈真澄、佐藤千春、安藤真喜、小林亞希、野田智弘、矢崎由翔、GoHands、中村プロダクション"
+        },
+        {
+          "key": "动画检查",
+          "value": "成田達司、デジタルネットワークアニメーション [ セイバーワークス ]"
+        },
+        {
+          "key": "补间动画",
+          "value": "楮木和美 [ 楮木知美 ] 、高橋伸郎、秋山訓子、児玉智子、鈴木彩乃、小山菜穂、渡辺実紗 [ 渡邉実紗 ] 、纐纈真澄、小池恵、楮木知美、渡邉実紗、高橋伸朗 [ 高橋伸郎 ] 、斉藤茉利、じゃんぐるじむ、トリプルA  [ Triple A ] 、フロントライン、動画工房、コクピット、アニメアール、Big Owl [ ビッグオウル ] 、中村プロダクション"
         },
         {
           "key": "美术监督",
           "value": "田尻健一"
         },
         {
+          "key": "背景美术",
+          "value": "ムクオスタジオ、石田喬子、井上慎太郎、工藤彰代、駒田寛、石田勝則、真喜屋実義、新間夏海、前塚太一、アトリエローク07、高大浩、手塚プロダクション、斉藤雅巳 [ 斉藤雅己 ] 、長嶋哲彦、デザインオフィスメカマン、小原志野、邱文美、石原信明、小堀恭兵、鈴木翔太"
+        },
+        {
           "key": "色彩设计",
           "value": "川上善美"
+        },
+        {
+          "key": "色彩指定",
+          "value": "川上善美(1-2,4)、堀尾桂子(3)"
+        },
+        {
+          "key": "上色",
+          "value": "山下朝美、佐田絵里花、渡辺深雪、伊藤裕香、中川智江、毛利善隆、堀尾桂子、有尾由紀子、スタジオエル、Code、ブレンズベース [ Brain's Base ] 、トリプルA  [ Triple A ] 、フロントライン、Big Owl [ ビッグオウル ]"
         },
         {
           "key": "摄影监督",
           "value": "和田尚之"
         },
         {
-          "key": "音乐",
-          "value": "中島ノブユキ"
+          "key": "摄影监督助理",
+          "value": "大久保益野恵"
         },
         {
-          "key": "动画制作",
-          "value": "HAL FILM MAKER"
+          "key": "摄影",
+          "value": "旭プロダクション、元木洋介、五明真利、田村あず紗、寺本友紀、柳田貴志、森谷若菜、牧寺智昭、上條智也、大久保潤一、石山智之"
         },
         {
-          "key": "製作",
-          "value": "たまゆら製作委員会（松竹、AT-X、フライングドッグ、ゆめ太カンパニー、NECビッグローブ、マックレイ)"
+          "key": "特效",
+          "value": "安部貴俊(1-4)"
         },
         {
-          "key": "Copyright",
-          "value": "©佐藤順一・TYA/たまゆら製作委員会"
+          "key": "3DCG",
+          "value": "佐々木俊宏、鈴木知美"
         },
         {
-          "key": "制片人",
-          "value": "田坂秀将、山崎明日香、伊藤将生、栗田滋弘、甲斐健太郎"
+          "key": "剪辑",
+          "value": "西山茂 / オフライン編集：REAL-T、編集助手：坪根健太郎 / オンライン編集：マックレイ、杉山友宣、編集助手：生駒良太"
         },
         {
           "key": "音响监督",
@@ -1345,10 +1397,114 @@
         {
           "key": "选曲",
           "value": "音楽演出：佐藤恭野"
+        },
+        {
+          "key": "音乐",
+          "value": "中島ノブユキ"
+        },
+        {
+          "key": "录音",
+          "value": "川崎公敬"
+        },
+        {
+          "key": "录音助理",
+          "value": "林奈緒美"
+        },
+        {
+          "key": "音效",
+          "value": "和田俊也（スワラ・プロ）"
+        },
+        {
+          "key": "录音工作室",
+          "value": "タバック"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "福田正夫"
+        },
+        {
+          "key": "音乐制作",
+          "value": "FlyingDog [ フライングドッグ ] / 音楽制作協力：フォーチュレスト、スターダスト音楽出版"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "DEPAPEPE(OP)、北川勝利(ED1)、清水信之(ED2) / ストリングス編曲：長谷泰宏(ED1)"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "荒井由実 [ 松任谷由実 ] (OP)、北川勝利(ED1)、杉森舞(ED2)"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "荒井由実 [ 松任谷由実 ] (OP)、北川勝利(ED1)、杉森舞(ED2)"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "坂本真綾(OP)、中島愛(ED1-2)"
+        },
+        {
+          "key": "插入歌编曲",
+          "value": "窪田ミナ"
+        },
+        {
+          "key": "插入歌作曲",
+          "value": "窪田ミナ"
+        },
+        {
+          "key": "插入歌作词",
+          "value": "中島愛、西直紀"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "中島愛"
+        },
+        {
+          "key": "设定制作",
+          "value": "高田昌豊"
+        },
+        {
+          "key": "制作进行",
+          "value": "萬展治(1-2,4)、戸田武志(3)"
+        },
+        {
+          "key": "动画制片人",
+          "value": "皆川護"
+        },
+        {
+          "key": "制片人",
+          "value": "田坂秀将、山崎明日香、伊藤将生、栗田滋弘、甲斐健太郎"
+        },
+        {
+          "key": "企画",
+          "value": "黒田康太、三上康博、佐々木史朗、山口聡、下島雅彦、吉川雅子"
+        },
+        {
+          "key": "宣传",
+          "value": "松尾健司、島崎千秋、近藤真理子、玉置晴子 / 宣伝協力：神保則光"
+        },
+        {
+          "key": "公式WEB制作",
+          "value": "赤上裕之"
+        },
+        {
+          "key": "公式WEBラジオ",
+          "value": "長田宏"
+        },
+        {
+          "key": "协力",
+          "value": "竹原市、株式会社駒村商会、ほり川、株式会社ニコン、NPO法人ネットワーク竹原、キヤノンマーケティングジャパン株式会社"
+        },
+        {
+          "key": "製作",
+          "value": "たまゆら製作委員会（松竹、エー・ティー・エックス [ AT-X ] 、FlyingDog [ フライングドッグ ] 、TYOアニメーションズ [ ゆめ太カンパニー ] 、NECビッグローブ、マックレイ)"
+        },
+        {
+          "key": "动画制作",
+          "value": "ハルフィルムメーカー（Hal Film Maker）"
         }
       ],
       "rating": {
-        "rank": 1355,
+        "rank": 1352,
         "total": 1793,
         "count": {
           "1": 3,
@@ -1366,9 +1522,9 @@
       },
       "total_episodes": 4,
       "collection": {
-        "on_hold": 266,
+        "on_hold": 267,
         "dropped": 96,
-        "wish": 2005,
+        "wish": 2006,
         "collect": 2581,
         "doing": 210
       },
@@ -1387,6 +1543,22 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
+        },
+        "name": "タバック",
+        "relation": "录音工作室",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 18992,
+        "eps": ""
+      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
@@ -1421,6 +1593,73 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6a/af/1164_prsn_Sc301.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6a/af/1164_prsn_Sc301.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/6a/af/1164_prsn_Sc301.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6a/af/1164_prsn_Sc301.jpg"
+        },
+        "name": "窪田ミナ",
+        "relation": "插入歌编曲",
+        "career": [
+          "producer",
+          "artist"
+        ],
+        "type": 1,
+        "id": 1164,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6a/af/1164_prsn_Sc301.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6a/af/1164_prsn_Sc301.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/6a/af/1164_prsn_Sc301.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6a/af/1164_prsn_Sc301.jpg"
+        },
+        "name": "窪田ミナ",
+        "relation": "插入歌作曲",
+        "career": [
+          "producer",
+          "artist"
+        ],
+        "type": 1,
+        "id": 1164,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/4e/0f/13609_prsn_q16f6.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/4e/0f/13609_prsn_q16f6.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/4e/0f/13609_prsn_q16f6.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/4e/0f/13609_prsn_q16f6.jpg"
+        },
+        "name": "西直紀",
+        "relation": "插入歌作词",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 13609,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881",
+          "large": "https://lain.bgm.tv/pic/crt/l/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881"
+        },
+        "name": "中島愛",
+        "relation": "插入歌作词",
+        "career": [
+          "artist",
+          "seiyu"
+        ],
+        "type": 1,
+        "id": 4953,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/1a/49/72032_prsn_Chm9F.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/1a/49/72032_prsn_Chm9F.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/1a/49/72032_prsn_Chm9F.jpg",
@@ -1433,6 +1672,134 @@
         ],
         "type": 1,
         "id": 72032,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/0c/cd/38379_prsn_bbxlu.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/0c/cd/38379_prsn_bbxlu.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/0c/cd/38379_prsn_bbxlu.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/0c/cd/38379_prsn_bbxlu.jpg"
+        },
+        "name": "ビッグオウル",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 38379,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2d/71/11602_prsn_wUiUF.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2d/71/11602_prsn_wUiUF.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2d/71/11602_prsn_wUiUF.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2d/71/11602_prsn_wUiUF.jpg"
+        },
+        "name": "フロントライン",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11602,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "堀尾桂子",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2741,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "伊藤裕香",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 14300,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/22/2e/42980_prsn_LyH6L.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/22/2e/42980_prsn_LyH6L.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/22/2e/42980_prsn_LyH6L.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/22/2e/42980_prsn_LyH6L.jpg"
+        },
+        "name": "スタジオエル",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 42980,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/1e/cc/3329_prsn_3f7hP.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/1e/cc/3329_prsn_3f7hP.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/1e/cc/3329_prsn_3f7hP.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/1e/cc/3329_prsn_3f7hP.jpg"
+        },
+        "name": "Brain's Base",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 3329,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "有尾由紀子",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1481,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/81/3a/24783_prsn_sc8ps.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/81/3a/24783_prsn_sc8ps.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/81/3a/24783_prsn_sc8ps.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/81/3a/24783_prsn_sc8ps.jpg"
+        },
+        "name": "Triple A",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 24783,
         "eps": ""
       },
       {
@@ -1474,11 +1841,91 @@
           "large": "",
           "medium": ""
         },
+        "name": "高田昌豊",
+        "relation": "设定制作",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 43177,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "上條智也",
         "relation": "摄影",
         "career": [],
         "type": 1,
         "id": 34427,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "田村あず紗",
+        "relation": "摄影",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 34020,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "柳田貴志",
+        "relation": "摄影",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 29429,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "寺本友紀",
+        "relation": "摄影",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 69466,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e5/a8/28026_prsn_99Z1b.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/e5/a8/28026_prsn_99Z1b.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/e5/a8/28026_prsn_99Z1b.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e5/a8/28026_prsn_99Z1b.jpg"
+        },
+        "name": "石山智之",
+        "relation": "摄影",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 28026,
         "eps": ""
       },
       {
@@ -1531,54 +1978,6 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "柳田貴志",
-        "relation": "摄影",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 29429,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e5/a8/28026_prsn_99Z1b.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/e5/a8/28026_prsn_99Z1b.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/e5/a8/28026_prsn_99Z1b.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e5/a8/28026_prsn_99Z1b.jpg"
-        },
-        "name": "石山智之",
-        "relation": "摄影",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 28026,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "田村あず紗",
-        "relation": "摄影",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 34020,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/bb/73/43768_prsn_hS4pG.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/bb/73/43768_prsn_hS4pG.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/bb/73/43768_prsn_hS4pG.jpg",
@@ -1611,19 +2010,19 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a3/c9/6065_prsn_OJFOY.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a3/c9/6065_prsn_OJFOY.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/a3/c9/6065_prsn_OJFOY.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a3/c9/6065_prsn_OJFOY.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
         },
-        "name": "旭プロダクション",
-        "relation": "3DCG",
+        "name": "佐藤順一",
+        "relation": "OP・ED 分镜",
         "career": [
           "producer"
         ],
-        "type": 2,
-        "id": 6065,
-        "eps": ""
+        "type": 1,
+        "id": 456,
+        "eps": "OP,ED"
       },
       {
         "images": {
@@ -1671,22 +2070,6 @@
         ],
         "type": 1,
         "id": 68859,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "高田昌豊",
-        "relation": "制作进行",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 43177,
         "eps": ""
       },
       {
@@ -1739,118 +2122,6 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "楮木知美",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 48590,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2d/71/11602_prsn_wUiUF.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2d/71/11602_prsn_wUiUF.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/2d/71/11602_prsn_wUiUF.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2d/71/11602_prsn_wUiUF.jpg"
-        },
-        "name": "フロントライン",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 11602,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "小山菜穂",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 34526,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "纐纈真澄",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 50549,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/81/3a/24783_prsn_sc8ps.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/81/3a/24783_prsn_sc8ps.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/81/3a/24783_prsn_sc8ps.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/81/3a/24783_prsn_sc8ps.jpg"
-        },
-        "name": "Triple A",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 24783,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "高橋伸郎",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 48484,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "斉藤茉利",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 48789,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/0c/cd/38379_prsn_bbxlu.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/0c/cd/38379_prsn_bbxlu.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/0c/cd/38379_prsn_bbxlu.jpg",
@@ -1863,54 +2134,6 @@
         ],
         "type": 1,
         "id": 38379,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "OP・ED 分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
-        "eps": "OP,ED"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/f6/c3/39106_prsn_xXNLQ.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg"
-        },
-        "name": "中村プロダクション",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 39106,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "じゃんぐるじむ",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 31617,
         "eps": ""
       },
       {
@@ -1936,6 +2159,134 @@
           "large": "",
           "medium": ""
         },
+        "name": "斉藤茉利",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 48789,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f6/c3/39106_prsn_xXNLQ.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg"
+        },
+        "name": "中村プロダクション",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 39106,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/81/3a/24783_prsn_sc8ps.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/81/3a/24783_prsn_sc8ps.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/81/3a/24783_prsn_sc8ps.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/81/3a/24783_prsn_sc8ps.jpg"
+        },
+        "name": "Triple A",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 24783,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "纐纈真澄",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 50549,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "じゃんぐるじむ",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 31617,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2d/71/11602_prsn_wUiUF.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2d/71/11602_prsn_wUiUF.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2d/71/11602_prsn_wUiUF.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2d/71/11602_prsn_wUiUF.jpg"
+        },
+        "name": "フロントライン",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11602,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a8/75/6305_prsn_q24ar.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a8/75/6305_prsn_q24ar.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a8/75/6305_prsn_q24ar.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a8/75/6305_prsn_q24ar.jpg"
+        },
+        "name": "動画工房",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 6305,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "アニメアール",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11613,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "鈴木彩乃",
         "relation": "补间动画",
         "career": [
@@ -1952,6 +2303,54 @@
           "large": "",
           "medium": ""
         },
+        "name": "高橋伸郎",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 48484,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "楮木知美",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 48590,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "小山菜穂",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 34526,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "安部貴俊",
         "relation": "特效",
         "career": [
@@ -1959,38 +2358,6 @@
         ],
         "type": 1,
         "id": 50370,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "音响监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/8b/bd/18992_prsn_899yy.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/8b/bd/18992_prsn_899yy.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8b/bd/18992_prsn_899yy.jpg"
-        },
-        "name": "タバック",
-        "relation": "录音工作室",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 18992,
         "eps": ""
       },
       {
@@ -2027,18 +2394,18 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b4/8d/6782_prsn_8ab91.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/b4/8d/6782_prsn_8ab91.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/b4/8d/6782_prsn_8ab91.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b4/8d/6782_prsn_8ab91.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
         },
-        "name": "ゆめ太カンパニー",
-        "relation": "製作",
+        "name": "佐藤順一",
+        "relation": "音响监督",
         "career": [
           "producer"
         ],
-        "type": 2,
-        "id": 6782,
+        "type": 1,
+        "id": 456,
         "eps": ""
       },
       {
@@ -2055,22 +2422,6 @@
         ],
         "type": 2,
         "id": 3440,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
-          "large": "https://lain.bgm.tv/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814"
-        },
-        "name": "松竹",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 1433,
         "eps": ""
       },
       {
@@ -2103,6 +2454,38 @@
         ],
         "type": 2,
         "id": 64953,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
+          "large": "https://lain.bgm.tv/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814"
+        },
+        "name": "松竹",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 1433,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b4/8d/6782_prsn_8ab91.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b4/8d/6782_prsn_8ab91.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b4/8d/6782_prsn_8ab91.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b4/8d/6782_prsn_8ab91.jpg"
+        },
+        "name": "ゆめ太カンパニー",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 6782,
         "eps": ""
       },
       {
@@ -2144,13 +2527,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "吉川雅子",
+        "name": "黒田康太",
         "relation": "企画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 42867,
+        "id": 49669,
         "eps": ""
       },
       {
@@ -2176,29 +2559,242 @@
           "large": "",
           "medium": ""
         },
-        "name": "黒田康太",
+        "name": "吉川雅子",
         "relation": "企画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 49669,
+        "id": 42867,
         "eps": ""
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d4/0b/46772_prsn_mM01d.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d4/0b/46772_prsn_mM01d.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d4/0b/46772_prsn_mM01d.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d4/0b/46772_prsn_mM01d.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881",
+          "large": "https://lain.bgm.tv/pic/crt/l/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881"
         },
-        "name": "REAL-T",
-        "relation": "剪辑",
+        "name": "中島愛",
+        "relation": "插入歌演出",
+        "career": [
+          "artist",
+          "seiyu"
+        ],
+        "type": 1,
+        "id": 4953,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881",
+          "large": "https://lain.bgm.tv/pic/crt/l/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6c/3e/4953_prsn_7p2Va.jpg?r=1571039881"
+        },
+        "name": "中島愛",
+        "relation": "主题歌演出",
+        "career": [
+          "artist",
+          "seiyu"
+        ],
+        "type": 1,
+        "id": 4953,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d4/88/3877_prsn_VOY27.jpg?r=1574050572",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d4/88/3877_prsn_VOY27.jpg?r=1574050572",
+          "large": "https://lain.bgm.tv/pic/crt/l/d4/88/3877_prsn_VOY27.jpg?r=1574050572",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d4/88/3877_prsn_VOY27.jpg?r=1574050572"
+        },
+        "name": "坂本真綾",
+        "relation": "主题歌演出",
+        "career": [
+          "artist",
+          "seiyu"
+        ],
+        "type": 1,
+        "id": 3877,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6e/0d/7982_prsn_LHxoN.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6e/0d/7982_prsn_LHxoN.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/6e/0d/7982_prsn_LHxoN.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6e/0d/7982_prsn_LHxoN.jpg"
+        },
+        "name": "北川勝利",
+        "relation": "主题歌作词",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 7982,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/88/db/9947_prsn_TCp9R.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/88/db/9947_prsn_TCp9R.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/88/db/9947_prsn_TCp9R.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/88/db/9947_prsn_TCp9R.jpg"
+        },
+        "name": "松任谷由実",
+        "relation": "主题歌作词",
+        "career": [
+          "producer",
+          "artist"
+        ],
+        "type": 1,
+        "id": 9947,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/17/ee/10591_prsn_UQzyP.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/17/ee/10591_prsn_UQzyP.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/17/ee/10591_prsn_UQzyP.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/17/ee/10591_prsn_UQzyP.jpg"
+        },
+        "name": "杉森舞",
+        "relation": "主题歌作词",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 10591,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6e/0d/7982_prsn_LHxoN.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6e/0d/7982_prsn_LHxoN.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/6e/0d/7982_prsn_LHxoN.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6e/0d/7982_prsn_LHxoN.jpg"
+        },
+        "name": "北川勝利",
+        "relation": "主题歌作曲",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 7982,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/88/db/9947_prsn_TCp9R.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/88/db/9947_prsn_TCp9R.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/88/db/9947_prsn_TCp9R.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/88/db/9947_prsn_TCp9R.jpg"
+        },
+        "name": "松任谷由実",
+        "relation": "主题歌作曲",
+        "career": [
+          "producer",
+          "artist"
+        ],
+        "type": 1,
+        "id": 9947,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/17/ee/10591_prsn_UQzyP.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/17/ee/10591_prsn_UQzyP.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/17/ee/10591_prsn_UQzyP.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/17/ee/10591_prsn_UQzyP.jpg"
+        },
+        "name": "杉森舞",
+        "relation": "主题歌作曲",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 10591,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6e/0d/7982_prsn_LHxoN.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6e/0d/7982_prsn_LHxoN.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/6e/0d/7982_prsn_LHxoN.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6e/0d/7982_prsn_LHxoN.jpg"
+        },
+        "name": "北川勝利",
+        "relation": "主题歌编曲",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 7982,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/52/7d/13898_prsn_sC3E1.jpg?r=1687698138",
+          "grid": "https://lain.bgm.tv/pic/crt/g/52/7d/13898_prsn_sC3E1.jpg?r=1687698138",
+          "large": "https://lain.bgm.tv/pic/crt/l/52/7d/13898_prsn_sC3E1.jpg?r=1687698138",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/52/7d/13898_prsn_sC3E1.jpg?r=1687698138"
+        },
+        "name": "清水信之",
+        "relation": "主题歌编曲",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 13898,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5d/5d/14911_prsn_zSrNE.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/5d/5d/14911_prsn_zSrNE.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/5d/5d/14911_prsn_zSrNE.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5d/5d/14911_prsn_zSrNE.jpg"
+        },
+        "name": "長谷泰宏",
+        "relation": "主题歌编曲",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 14911,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c2/0a/3180_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/c2/0a/3180_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/c2/0a/3180_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c2/0a/3180_prsn_anidb.jpg"
+        },
+        "name": "DEPAPEPE",
+        "relation": "主题歌编曲",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 3180,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
+        },
+        "name": "佐藤順一",
+        "relation": "原案",
         "career": [
           "producer"
         ],
-        "type": 2,
-        "id": 46772,
+        "type": 1,
+        "id": 456,
         "eps": ""
       },
       {
@@ -2235,6 +2831,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d4/0b/46772_prsn_mM01d.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d4/0b/46772_prsn_mM01d.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d4/0b/46772_prsn_mM01d.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d4/0b/46772_prsn_mM01d.jpg"
+        },
+        "name": "REAL-T",
+        "relation": "剪辑",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 46772,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/ae/f3/366_prsn_VH3H3.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/ae/f3/366_prsn_VH3H3.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/ae/f3/366_prsn_VH3H3.jpg",
@@ -2267,22 +2879,6 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "高大浩",
-        "relation": "背景美术",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 33849,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/cc/55/63928_prsn_yGyj7.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/cc/55/63928_prsn_yGyj7.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/cc/55/63928_prsn_yGyj7.jpg",
@@ -2295,6 +2891,38 @@
         ],
         "type": 2,
         "id": 63928,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "石田勝則",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 83541,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "駒田寛",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 38262,
         "eps": ""
       },
       {
@@ -2320,13 +2948,109 @@
           "large": "",
           "medium": ""
         },
-        "name": "駒田寛",
+        "name": "前塚太一",
         "relation": "背景美术",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 38262,
+        "id": 62707,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "石田喬子",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62704,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "工藤彰代",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62950,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "小原志野",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 72512,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "新間夏海",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62981,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "斉藤雅己",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 15182,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "高大浩",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 33849,
         "eps": ""
       },
       {
@@ -2352,13 +3076,29 @@
           "large": "",
           "medium": ""
         },
-        "name": "斉藤雅己",
+        "name": "真喜屋実義",
         "relation": "背景美术",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 15182,
+        "id": 62706,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "成田達司",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 62392,
         "eps": ""
       },
       {
@@ -2384,13 +3124,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "鈴木美音織",
+        "name": "高橋はつみ",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 37325,
+        "id": 38142,
         "eps": ""
       },
       {
@@ -2400,29 +3140,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "瀧原美樹",
+        "name": "勝谷遥",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 20870,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/f1/d7/14272_prsn_fyUEu.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg"
-        },
-        "name": "八尋裕子",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 14272,
+        "id": 28772,
         "eps": ""
       },
       {
@@ -2449,13 +3173,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "平口季美子",
+        "name": "瀧原美樹",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 31908,
+        "id": 20870,
         "eps": ""
       },
       {
@@ -2465,13 +3189,45 @@
           "large": "",
           "medium": ""
         },
-        "name": "高橋はつみ",
+        "name": "纐纈真澄",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 38142,
+        "id": 50549,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "鈴木美音織",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 37325,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f1/d7/14272_prsn_fyUEu.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg"
+        },
+        "name": "八尋裕子",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 14272,
         "eps": ""
       },
       {
@@ -2488,6 +3244,70 @@
         ],
         "type": 1,
         "id": 26880,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "田路あるみ",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 66954,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "平口季美子",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 31908,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c7/35/29437_prsn_GL66B.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/c7/35/29437_prsn_GL66B.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/c7/35/29437_prsn_GL66B.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c7/35/29437_prsn_GL66B.jpg"
+        },
+        "name": "上竹哲郎",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 29437,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "安藤真喜",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 47064,
         "eps": ""
       },
       {
@@ -2513,13 +3333,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "佐藤千春",
+        "name": "中尾香奈美",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 3421,
+        "id": 44627,
         "eps": ""
       },
       {
@@ -2529,13 +3349,45 @@
           "large": "",
           "medium": ""
         },
-        "name": "野田智弘",
+        "name": "坂上谷悠介",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 25446,
+        "id": 32024,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f6/c3/39106_prsn_xXNLQ.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg"
+        },
+        "name": "中村プロダクション",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 39106,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "佐藤千春",
+        "relation": "第二原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 3421,
         "eps": ""
       },
       {
@@ -2572,34 +3424,18 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c7/35/29437_prsn_GL66B.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/c7/35/29437_prsn_GL66B.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/c7/35/29437_prsn_GL66B.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c7/35/29437_prsn_GL66B.jpg"
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
         },
-        "name": "上竹哲郎",
+        "name": "野田智弘",
         "relation": "第二原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 29437,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/f6/c3/39106_prsn_xXNLQ.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f6/c3/39106_prsn_xXNLQ.jpg"
-        },
-        "name": "中村プロダクション",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 39106,
+        "id": 25446,
         "eps": ""
       },
       {
@@ -2609,125 +3445,29 @@
           "large": "",
           "medium": ""
         },
-        "name": "纐纈真澄",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 50549,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "坂上谷悠介",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 32024,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "勝谷遥",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 28772,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "中尾香奈美",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 44627,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "安藤真喜",
-        "relation": "第二原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 47064,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "反町司",
+        "name": "阿部智之",
         "relation": "原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 37449,
+        "id": 13076,
         "eps": ""
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f1/d7/14272_prsn_fyUEu.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg"
         },
-        "name": "大森理恵",
+        "name": "八尋裕子",
         "relation": "原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 30069,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "樋口靖子",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 21660,
+        "id": 14272,
         "eps": ""
       },
       {
@@ -2753,54 +3493,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "橋本和紀",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 13067,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "小林明美",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 902,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "伊藤真奈美",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 48774,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "佐藤寿子",
         "relation": "原画",
         "career": [
@@ -2817,54 +3509,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "シノミン",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 40545,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "熊谷哲矢",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 7,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "石塚健",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 33178,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "手島典子",
         "relation": "原画",
         "career": [
@@ -2872,150 +3516,6 @@
         ],
         "type": 1,
         "id": 33866,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "寒川歩",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 16019,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "高原修司",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 11455,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "石井久志",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 13074,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "松浦里美",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 21124,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e8/16/1480_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/e8/16/1480_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/e8/16/1480_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e8/16/1480_prsn_anidb.jpg"
-        },
-        "name": "つなきあき",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1480,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "渋谷一彦",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 27426,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "安留雅弥",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 31390,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a6/b3/2951_prsn_2fYG2.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a6/b3/2951_prsn_2fYG2.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/a6/b3/2951_prsn_2fYG2.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a6/b3/2951_prsn_2fYG2.jpg"
-        },
-        "name": "大橋学",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 2951,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "小村方宏治",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 26960,
         "eps": ""
       },
       {
@@ -3037,115 +3537,18 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/04/df/3205_prsn_3O338.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/04/df/3205_prsn_3O338.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/04/df/3205_prsn_3O338.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/04/df/3205_prsn_3O338.jpg"
-        },
-        "name": "佐藤利幸",
-        "relation": "原画",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 3205,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
           "medium": ""
         },
-        "name": "植田均",
+        "name": "浅野勝也",
         "relation": "原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 11307,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "時永宜幸",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 11977,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ac/5d/1798_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ac/5d/1798_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ac/5d/1798_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ac/5d/1798_prsn_anidb.jpg"
-        },
-        "name": "荒川眞嗣",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1798,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "宮田瑠美",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 29922,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "甲斐田亮一",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 59775,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/f1/d7/14272_prsn_fyUEu.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f1/d7/14272_prsn_fyUEu.jpg"
-        },
-        "name": "八尋裕子",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 14272,
+        "id": 11385,
         "eps": ""
       },
       {
@@ -3171,109 +3574,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "羽生貴之",
+        "name": "伊藤真奈美",
         "relation": "原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 14795,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "原案",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/58/2a/12229_prsn_Tg2t9.jpg?r=1640465816",
-          "grid": "https://lain.bgm.tv/pic/crt/g/58/2a/12229_prsn_Tg2t9.jpg?r=1640465816",
-          "large": "https://lain.bgm.tv/pic/crt/l/58/2a/12229_prsn_Tg2t9.jpg?r=1640465816",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/58/2a/12229_prsn_Tg2t9.jpg?r=1640465816"
-        },
-        "name": "古川知宏",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 12229,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "菅綾香",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 61100,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "阿部智之",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 13076,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "山本真理子",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 36504,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "系列构成",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
+        "id": 48774,
         "eps": ""
       },
       {
@@ -3299,13 +3606,93 @@
           "large": "",
           "medium": ""
         },
-        "name": "浅野勝也",
+        "name": "小村方宏治",
         "relation": "原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 11385,
+        "id": 26960,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "羽生貴之",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 14795,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "松浦里美",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 21124,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "山本真理子",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 36504,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/58/2a/12229_prsn_Tg2t9.jpg?r=1640465816",
+          "grid": "https://lain.bgm.tv/pic/crt/g/58/2a/12229_prsn_Tg2t9.jpg?r=1640465816",
+          "large": "https://lain.bgm.tv/pic/crt/l/58/2a/12229_prsn_Tg2t9.jpg?r=1640465816",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/58/2a/12229_prsn_Tg2t9.jpg?r=1640465816"
+        },
+        "name": "古川知宏",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 12229,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "シノミン",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 40545,
         "eps": ""
       },
       {
@@ -3322,6 +3709,326 @@
         ],
         "type": 1,
         "id": 3334,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "小林明美",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 902,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "熊谷哲矢",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 7,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "渋谷一彦",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 27426,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "橋本和紀",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 13067,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "反町司",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 37449,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "菅綾香",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 61100,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "甲斐田亮一",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 59775,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "宮田瑠美",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 29922,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "植田均",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11307,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ac/5d/1798_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ac/5d/1798_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ac/5d/1798_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ac/5d/1798_prsn_anidb.jpg"
+        },
+        "name": "荒川眞嗣",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1798,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "石井久志",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 13074,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "寒川歩",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 16019,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "樋口靖子",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 21660,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "石塚健",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 33178,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "高原修司",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11455,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "鈴木彩子",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 25551,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e8/16/1480_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/e8/16/1480_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/e8/16/1480_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e8/16/1480_prsn_anidb.jpg"
+        },
+        "name": "つなきあき",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1480,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "大森理恵",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 30069,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "時永宜幸",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11977,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "安留雅弥",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 31390,
         "eps": ""
       },
       {
@@ -3363,6 +4070,22 @@
           "large": "",
           "medium": ""
         },
+        "name": "渡辺はじめ",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 721,
+        "eps": "2,4"
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "阿部智之",
         "relation": "作画监督",
         "career": [
@@ -3371,22 +4094,6 @@
         "type": 1,
         "id": 13076,
         "eps": "3"
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
-        },
-        "name": "佐藤順一",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 456,
-        "eps": "1-4"
       },
       {
         "images": {
@@ -3403,22 +4110,6 @@
         "type": 1,
         "id": 810,
         "eps": "1"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "渡辺はじめ",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 721,
-        "eps": "2,4"
       },
       {
         "images": {
@@ -3470,6 +4161,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
+        },
+        "name": "佐藤順一",
+        "relation": "系列构成",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 456,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/c7/89/3313_prsn_7i51K.jpg?r=1709905709",
           "grid": "https://lain.bgm.tv/pic/crt/g/c7/89/3313_prsn_7i51K.jpg?r=1709905709",
           "large": "https://lain.bgm.tv/pic/crt/l/c7/89/3313_prsn_7i51K.jpg?r=1709905709",
@@ -3502,6 +4209,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ca/ec/11837_prsn_VlGRa.jpg?r=1712332745",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ca/ec/11837_prsn_VlGRa.jpg?r=1712332745",
+          "large": "https://lain.bgm.tv/pic/crt/l/ca/ec/11837_prsn_VlGRa.jpg?r=1712332745",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ca/ec/11837_prsn_VlGRa.jpg?r=1712332745"
+        },
+        "name": "酒井和男",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11837,
+        "eps": "1-2,4"
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/d4/69/14065_prsn_qsDzz.jpg?r=1702642381",
           "grid": "https://lain.bgm.tv/pic/crt/g/d4/69/14065_prsn_qsDzz.jpg?r=1702642381",
           "large": "https://lain.bgm.tv/pic/crt/l/d4/69/14065_prsn_qsDzz.jpg?r=1702642381",
@@ -3518,19 +4241,36 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ca/ec/11837_prsn_VlGRa.jpg?r=1712332745",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ca/ec/11837_prsn_VlGRa.jpg?r=1712332745",
-          "large": "https://lain.bgm.tv/pic/crt/l/ca/ec/11837_prsn_VlGRa.jpg?r=1712332745",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ca/ec/11837_prsn_VlGRa.jpg?r=1712332745"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985"
         },
-        "name": "酒井和男",
-        "relation": "演出",
+        "name": "佐藤順一",
+        "relation": "分镜",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 11837,
-        "eps": "1-2,4"
+        "id": 456,
+        "eps": "1-4"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2c/55/508_prsn_cI1eC.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2c/55/508_prsn_cI1eC.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2c/55/508_prsn_cI1eC.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2c/55/508_prsn_cI1eC.jpg"
+        },
+        "name": "吉田玲子",
+        "relation": "脚本",
+        "career": [
+          "writer",
+          "producer"
+        ],
+        "type": 1,
+        "id": 508,
+        "eps": "2-3"
       },
       {
         "images": {
@@ -3566,23 +4306,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2c/55/508_prsn_cI1eC.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2c/55/508_prsn_cI1eC.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/2c/55/508_prsn_cI1eC.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2c/55/508_prsn_cI1eC.jpg"
-        },
-        "name": "吉田玲子",
-        "relation": "脚本",
-        "career": [
-          "writer",
-          "producer"
-        ],
-        "type": 1,
-        "id": 508,
-        "eps": "2-3"
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
           "grid": "https://lain.bgm.tv/pic/crt/g/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
           "large": "https://lain.bgm.tv/pic/crt/l/a0/0a/456_prsn_3G1VM.jpg?r=1710342985",
@@ -3595,22 +4318,6 @@
         ],
         "type": 1,
         "id": 456,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "石田勝則",
-        "relation": "背景美术",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 83541,
         "eps": ""
       }
     ],
@@ -4086,7 +4793,7 @@
         "id": 445401
       }
     ],
-    "updatedAt": "2025-12-15T11:40:26.963Z"
+    "updatedAt": "2025-12-16T11:39:58.546Z"
   },
   {
     "id": 9368,
@@ -4310,7 +5017,7 @@
         }
       ],
       "rating": {
-        "rank": 4273,
+        "rank": 4275,
         "total": 157,
         "count": {
           "1": 0,
@@ -5044,7 +5751,7 @@
         "id": 133454
       }
     ],
-    "updatedAt": "2025-12-15T11:40:50.702Z"
+    "updatedAt": "2025-12-16T11:40:21.851Z"
   },
   {
     "id": 9851,
@@ -5637,7 +6344,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-15T11:41:08.291Z"
+    "updatedAt": "2025-12-16T11:40:37.985Z"
   },
   {
     "id": 9852,
@@ -5749,7 +6456,7 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-15T11:41:08.698Z"
+    "updatedAt": "2025-12-16T11:40:38.246Z"
   },
   {
     "id": 10070,
@@ -5889,7 +6596,7 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-15T11:41:11.923Z"
+    "updatedAt": "2025-12-16T11:40:41.471Z"
   },
   {
     "id": 10299,
@@ -6088,7 +6795,7 @@
         }
       ],
       "rating": {
-        "rank": 2773,
+        "rank": 2770,
         "total": 145,
         "count": {
           "1": 0,
@@ -7017,7 +7724,7 @@
         "id": 23363
       }
     ],
-    "updatedAt": "2025-12-15T11:41:22.728Z"
+    "updatedAt": "2025-12-16T11:40:51.186Z"
   },
   {
     "id": 10494,
@@ -7233,7 +7940,7 @@
         }
       ],
       "rating": {
-        "rank": 4424,
+        "rank": 4428,
         "total": 223,
         "count": {
           "1": 2,
@@ -7414,7 +8121,7 @@
         "id": 20528
       }
     ],
-    "updatedAt": "2025-12-15T11:41:47.169Z"
+    "updatedAt": "2025-12-16T11:41:14.686Z"
   },
   {
     "id": 111231,
@@ -8186,7 +8893,7 @@
         "id": 115858
       }
     ],
-    "updatedAt": "2025-12-15T11:55:54.064Z"
+    "updatedAt": "2025-12-16T11:54:37.560Z"
   },
   {
     "id": 204116,
@@ -8370,7 +9077,7 @@
         }
       ],
       "rating": {
-        "rank": 5659,
+        "rank": 5662,
         "total": 98,
         "count": {
           "1": 0,
@@ -8440,7 +9147,7 @@
         "id": 182130
       }
     ],
-    "updatedAt": "2025-12-15T12:02:52.531Z"
+    "updatedAt": "2025-12-16T12:00:57.994Z"
   },
   {
     "id": 210466,
@@ -8627,7 +9334,7 @@
         }
       ],
       "rating": {
-        "rank": 4962,
+        "rank": 4964,
         "total": 62,
         "count": {
           "1": 0,
@@ -8860,7 +9567,7 @@
         "id": 24823
       }
     ],
-    "updatedAt": "2025-12-15T12:03:30.588Z"
+    "updatedAt": "2025-12-16T12:01:33.920Z"
   },
   {
     "id": 210761,
@@ -8961,6 +9668,6 @@
         "id": 210763
       }
     ],
-    "updatedAt": "2025-12-15T12:03:31.790Z"
+    "updatedAt": "2025-12-16T12:01:35.235Z"
   }
 ]
