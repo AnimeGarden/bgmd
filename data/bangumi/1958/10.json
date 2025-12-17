@@ -46,22 +46,22 @@
           "total_cont": 0
         },
         {
-          "name": "动画电影",
-          "count": 11,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 11,
           "total_cont": 0
         },
         {
-          "name": "東映アニメーション",
-          "count": 10,
+          "name": "动画电影",
+          "count": 11,
           "total_cont": 0
         },
         {
           "name": "白蛇传",
+          "count": 10,
+          "total_cont": 0
+        },
+        {
+          "name": "東映アニメーション",
           "count": 10,
           "total_cont": 0
         },
@@ -91,22 +91,12 @@
           "total_cont": 0
         },
         {
-          "name": "白娘子",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "恋爱",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "1950s",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "白娘子",
           "count": 2,
           "total_cont": 0
         },
@@ -116,52 +106,62 @@
           "total_cont": 0
         },
         {
-          "name": "赛璐珞",
+          "name": "恋爱",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "名著改编",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "历史",
+          "name": "法海",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "大塚康生",
+          "name": "20世纪",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "50年代",
+          "name": "東映動画長編アニメ映画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "50s",
+          "name": "藪下泰司",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "子供向",
+          "name": "上世纪",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "宮城まり子",
+          "name": "经典",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "独立剧场版",
+          "name": "宫城まり子",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "undefined",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "电影",
+          "name": "1950-1959",
           "count": 1,
           "total_cont": 0
         }
@@ -214,7 +214,7 @@
         }
       ],
       "rating": {
-        "rank": 5025,
+        "rank": 5027,
         "total": 106,
         "count": {
           "1": 1,
@@ -234,7 +234,7 @@
       "collection": {
         "on_hold": 9,
         "dropped": 13,
-        "wish": 70,
+        "wish": 71,
         "collect": 173,
         "doing": 10
       },
@@ -364,6 +364,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/64/88/3468_prsn_677B7.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/64/88/3468_prsn_677B7.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/64/88/3468_prsn_677B7.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/64/88/3468_prsn_677B7.jpg"
+        },
+        "name": "藪下泰司",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 3468,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/63/4b/11756_prsn_zDYBa.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/63/4b/11756_prsn_zDYBa.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/63/4b/11756_prsn_zDYBa.jpg",
@@ -410,18 +426,18 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/64/88/3468_prsn_677B7.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/64/88/3468_prsn_677B7.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/64/88/3468_prsn_677B7.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/64/88/3468_prsn_677B7.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/31/c0/3187_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/31/c0/3187_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/31/c0/3187_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/31/c0/3187_prsn_anidb.jpg"
         },
-        "name": "藪下泰司",
-        "relation": "脚本",
+        "name": "大塚康生",
+        "relation": "原画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 3468,
+        "id": 3187,
         "eps": ""
       },
       {
@@ -438,22 +454,6 @@
         ],
         "type": 1,
         "id": 3468,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/31/c0/3187_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/31/c0/3187_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/31/c0/3187_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/31/c0/3187_prsn_anidb.jpg"
-        },
-        "name": "大塚康生",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 3187,
         "eps": ""
       },
       {
@@ -506,6 +506,6 @@
         "id": 415350
       }
     ],
-    "updatedAt": "2025-12-16T11:44:41.891Z"
+    "updatedAt": "2025-12-17T11:45:35.147Z"
   }
 ]
