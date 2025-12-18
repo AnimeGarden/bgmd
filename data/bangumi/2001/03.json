@@ -101,11 +101,6 @@
           "total_cont": 0
         },
         {
-          "name": "經典",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "奇幻",
           "count": 4,
           "total_cont": 0
@@ -116,17 +111,17 @@
           "total_cont": 0
         },
         {
-          "name": "劇場版",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
-          "count": 3,
+          "name": "經典",
+          "count": 4,
           "total_cont": 0
         },
         {
           "name": "子供向",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "劇場版",
           "count": 3,
           "total_cont": 0
         },
@@ -141,17 +136,17 @@
           "total_cont": 0
         },
         {
+          "name": "战斗",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "アニメ映画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "SF",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "movie",
           "count": 2,
           "total_cont": 0
         },
@@ -161,7 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "冒险",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "movie",
           "count": 2,
           "total_cont": 0
         }
@@ -310,14 +310,14 @@
       ],
       "rating": {
         "rank": 2703,
-        "total": 556,
+        "total": 557,
         "count": {
           "1": 1,
           "2": 0,
           "3": 3,
           "4": 4,
           "5": 21,
-          "6": 132,
+          "6": 133,
           "7": 253,
           "8": 116,
           "9": 12,
@@ -329,8 +329,8 @@
       "collection": {
         "on_hold": 19,
         "dropped": 18,
-        "wish": 61,
-        "collect": 1212,
+        "wish": 62,
+        "collect": 1213,
         "doing": 12
       },
       "id": 465,
@@ -2059,7 +2059,7 @@
         "id": 121749
       }
     ],
-    "updatedAt": "2025-12-17T11:33:24.237Z"
+    "updatedAt": "2025-12-18T11:32:05.992Z"
   },
   {
     "id": 1871,
@@ -2294,7 +2294,7 @@
         }
       ],
       "rating": {
-        "rank": 3921,
+        "rank": 3919,
         "total": 574,
         "count": {
           "1": 2,
@@ -2968,7 +2968,7 @@
         "id": 144667
       }
     ],
-    "updatedAt": "2025-12-17T11:35:21.518Z"
+    "updatedAt": "2025-12-18T11:34:00.524Z"
   },
   {
     "id": 3136,
@@ -3187,7 +3187,7 @@
         }
       ],
       "rating": {
-        "rank": 3816,
+        "rank": 3817,
         "total": 476,
         "count": {
           "1": 4,
@@ -3418,10 +3418,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2d/88/2315_prsn_7T500.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2d/88/2315_prsn_7T500.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2d/88/2315_prsn_7T500.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2d/88/2315_prsn_7T500.jpg"
         },
         "name": "松尾慎",
         "relation": "原画",
@@ -4959,7 +4959,7 @@
         "id": 94315
       }
     ],
-    "updatedAt": "2025-12-17T11:37:31.202Z"
+    "updatedAt": "2025-12-18T11:36:09.276Z"
   },
   {
     "id": 25665,
@@ -5963,7 +5963,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-12-17T11:45:01.382Z"
+    "updatedAt": "2025-12-18T11:44:01.324Z"
   },
   {
     "id": 44758,
@@ -6169,7 +6169,7 @@
         }
       ],
       "rating": {
-        "rank": 5022,
+        "rank": 5020,
         "total": 246,
         "count": {
           "1": 6,
@@ -6521,7 +6521,7 @@
         "id": 77211
       }
     ],
-    "updatedAt": "2025-12-17T11:48:21.679Z"
+    "updatedAt": "2025-12-18T11:47:28.171Z"
   },
   {
     "id": 84222,
@@ -7552,6 +7552,6 @@
         "id": 564092
       }
     ],
-    "updatedAt": "2025-12-17T11:53:08.294Z"
+    "updatedAt": "2025-12-18T11:52:27.222Z"
   }
 ]

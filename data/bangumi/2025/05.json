@@ -17,22 +17,22 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 131,
+          "count": 132,
           "total_cont": 0
         },
         {
           "name": "原创",
-          "count": 76,
+          "count": 77,
+          "total_cont": 0
+        },
+        {
+          "name": "百合",
+          "count": 66,
           "total_cont": 0
         },
         {
           "name": "2025年5月",
           "count": 66,
-          "total_cont": 0
-        },
-        {
-          "name": "百合",
-          "count": 65,
           "total_cont": 0
         },
         {
@@ -42,7 +42,7 @@
         },
         {
           "name": "谍战",
-          "count": 36,
+          "count": 37,
           "total_cont": 0
         },
         {
@@ -67,7 +67,7 @@
         },
         {
           "name": "战斗",
-          "count": 13,
+          "count": 14,
           "total_cont": 0
         },
         {
@@ -91,16 +91,6 @@
           "total_cont": 0
         },
         {
-          "name": "木村暢",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "木村畅",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "2019",
           "count": 4,
           "total_cont": 0
@@ -111,17 +101,17 @@
           "total_cont": 0
         },
         {
+          "name": "木村暢",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "木村畅",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "未确定",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "古賀葵",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "科幻",
           "count": 3,
           "total_cont": 0
         },
@@ -131,18 +121,18 @@
           "total_cont": 0
         },
         {
+          "name": "科幻",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "古賀葵",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "奇幻",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "2025年5月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "未定档",
-          "count": 2,
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -151,7 +141,7 @@
           "total_cont": 0
         },
         {
-          "name": "梶浦由記",
+          "name": "剧情",
           "count": 2,
           "total_cont": 0
         },
@@ -161,7 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "アクタス",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "2025年5月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "梶浦由記",
           "count": 2,
           "total_cont": 0
         }
@@ -207,15 +207,15 @@
         }
       ],
       "rating": {
-        "rank": 4948,
-        "total": 201,
+        "rank": 4964,
+        "total": 202,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 7,
           "5": 22,
-          "6": 75,
+          "6": 76,
           "7": 81,
           "8": 10,
           "9": 2,
@@ -228,7 +228,7 @@
         "on_hold": 15,
         "dropped": 9,
         "wish": 384,
-        "collect": 313,
+        "collect": 314,
         "doing": 37
       },
       "id": 244931,
@@ -247,10 +247,10 @@
     "persons": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d8/af/21362_prsn_b1I1O.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d8/af/21362_prsn_b1I1O.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d8/af/21362_prsn_b1I1O.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d8/af/21362_prsn_b1I1O.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d8/af/21362_prsn_OGjpt.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d8/af/21362_prsn_OGjpt.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d8/af/21362_prsn_OGjpt.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d8/af/21362_prsn_OGjpt.jpg"
         },
         "name": "小澤和則",
         "relation": "原画",
@@ -1210,7 +1210,7 @@
         "id": 302055
       }
     ],
-    "updatedAt": "2025-12-17T12:06:52.266Z"
+    "updatedAt": "2025-12-18T12:06:30.184Z"
   },
   {
     "id": 440173,
@@ -12288,7 +12288,7 @@
         "id": 460237
       }
     ],
-    "updatedAt": "2025-12-17T12:18:14.105Z"
+    "updatedAt": "2025-12-18T12:18:05.257Z"
   },
   {
     "id": 471868,
@@ -12517,7 +12517,10 @@
       "eps": 1,
       "meta_tags": [
         "剧场版",
+        "剧场版",
         "日本",
+        "日本",
+        "音乐",
         "音乐"
       ],
       "volumes": 0,
@@ -13234,7 +13237,7 @@
         "id": 551407
       }
     ],
-    "updatedAt": "2025-12-17T12:19:21.921Z"
+    "updatedAt": "2025-12-18T12:19:12.767Z"
   },
   {
     "id": 521593,
@@ -13308,12 +13311,12 @@
           "total_cont": 0
         },
         {
-          "name": "短片",
+          "name": "2024年10月",
           "count": 8,
           "total_cont": 0
         },
         {
-          "name": "2024年10月",
+          "name": "短片",
           "count": 8,
           "total_cont": 0
         },
@@ -13363,22 +13366,32 @@
           "total_cont": 0
         },
         {
-          "name": "游戏衍生",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "看过的动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "粉丝向",
+          "name": "科幻",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "2025年4月",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "游戏衍生",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "追",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "スペースネコカンパニー",
           "count": 1,
           "total_cont": 0
         },
@@ -13389,16 +13402,6 @@
         },
         {
           "name": "旅行",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "追",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "科幻",
           "count": 1,
           "total_cont": 0
         }
@@ -13553,8 +13556,8 @@
         }
       ],
       "rating": {
-        "rank": 3781,
-        "total": 362,
+        "rank": 3779,
+        "total": 363,
         "count": {
           "1": 1,
           "2": 2,
@@ -13562,7 +13565,7 @@
           "4": 2,
           "5": 19,
           "6": 107,
-          "7": 177,
+          "7": 178,
           "8": 46,
           "9": 4,
           "10": 3
@@ -13574,7 +13577,7 @@
         "on_hold": 11,
         "dropped": 15,
         "wish": 87,
-        "collect": 582,
+        "collect": 583,
         "doing": 89
       },
       "id": 521593,
@@ -16588,6 +16591,6 @@
         "id": 506144
       }
     ],
-    "updatedAt": "2025-12-17T12:20:52.964Z"
+    "updatedAt": "2025-12-18T12:20:46.789Z"
   }
 ]

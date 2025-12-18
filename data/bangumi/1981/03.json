@@ -86,17 +86,17 @@
           "total_cont": 0
         },
         {
+          "name": "日本动画",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "动画",
           "count": 4,
           "total_cont": 0
         },
         {
           "name": "喜剧",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
           "count": 4,
           "total_cont": 0
         },
@@ -321,8 +321,8 @@
         }
       ],
       "rating": {
-        "rank": 2472,
-        "total": 583,
+        "rank": 2471,
+        "total": 584,
         "count": {
           "1": 0,
           "2": 2,
@@ -330,7 +330,7 @@
           "4": 3,
           "5": 20,
           "6": 124,
-          "7": 277,
+          "7": 278,
           "8": 127,
           "9": 14,
           "10": 15
@@ -341,8 +341,8 @@
       "collection": {
         "on_hold": 22,
         "dropped": 17,
-        "wish": 62,
-        "collect": 1181,
+        "wish": 63,
+        "collect": 1182,
         "doing": 12
       },
       "id": 436,
@@ -1735,7 +1735,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2025-12-17T11:33:14.384Z"
+    "updatedAt": "2025-12-18T11:31:57.580Z"
   },
   {
     "id": 32489,
@@ -2474,7 +2474,7 @@
         "id": 429643
       }
     ],
-    "updatedAt": "2025-12-17T11:46:00.585Z"
+    "updatedAt": "2025-12-18T11:45:02.240Z"
   },
   {
     "id": 37235,
@@ -2798,6 +2798,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/02/66/245_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/02/66/245_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/02/66/245_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/02/66/245_prsn_anidb.jpg"
+        },
+        "name": "西久保瑞穂",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 245,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/9c/3b/1113_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/9c/3b/1113_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/9c/3b/1113_prsn_anidb.jpg",
@@ -2972,22 +2988,6 @@
         ],
         "type": 1,
         "id": 66,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/02/66/245_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/02/66/245_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/02/66/245_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/02/66/245_prsn_anidb.jpg"
-        },
-        "name": "西久保瑞穂",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 245,
         "eps": ""
       },
       {
@@ -3307,7 +3307,7 @@
         "id": 466943
       }
     ],
-    "updatedAt": "2025-12-17T11:46:46.627Z"
+    "updatedAt": "2025-12-18T11:45:48.608Z"
   },
   {
     "id": 38435,
@@ -3376,12 +3376,12 @@
           "total_cont": 0
         },
         {
-          "name": "機動戦士ガンダム",
+          "name": "机战",
           "count": 52,
           "total_cont": 0
         },
         {
-          "name": "机战",
+          "name": "機動戦士ガンダム",
           "count": 52,
           "total_cont": 0
         },
@@ -3431,12 +3431,7 @@
           "total_cont": 0
         },
         {
-          "name": "映画",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "UC",
+          "name": "サンライズ",
           "count": 5,
           "total_cont": 0
         },
@@ -3446,7 +3441,12 @@
           "total_cont": 0
         },
         {
-          "name": "サンライズ",
+          "name": "UC",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "映画",
           "count": 5,
           "total_cont": 0
         },
@@ -3456,12 +3456,7 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "电影",
+          "name": "SF",
           "count": 3,
           "total_cont": 0
         },
@@ -3471,7 +3466,12 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
+          "name": "电影",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
           "count": 3,
           "total_cont": 0
         }
@@ -3571,8 +3571,8 @@
         }
       ],
       "rating": {
-        "rank": 1485,
-        "total": 1235,
+        "rank": 1486,
+        "total": 1236,
         "count": {
           "1": 1,
           "2": 0,
@@ -3580,7 +3580,7 @@
           "4": 3,
           "5": 22,
           "6": 162,
-          "7": 582,
+          "7": 583,
           "8": 373,
           "9": 69,
           "10": 23
@@ -3592,8 +3592,8 @@
         "on_hold": 23,
         "dropped": 30,
         "wish": 282,
-        "collect": 2044,
-        "doing": 33
+        "collect": 2045,
+        "doing": 34
       },
       "id": 38435,
       "eps": 1,
@@ -5243,7 +5243,7 @@
         "id": 189900
       }
     ],
-    "updatedAt": "2025-12-17T11:47:26.073Z"
+    "updatedAt": "2025-12-18T11:46:30.228Z"
   },
   {
     "id": 52771,
@@ -5474,7 +5474,7 @@
         }
       ],
       "rating": {
-        "rank": 3089,
+        "rank": 3090,
         "total": 116,
         "count": {
           "1": 1,
@@ -5831,7 +5831,7 @@
         "id": 186457
       }
     ],
-    "updatedAt": "2025-12-17T11:49:32.927Z"
+    "updatedAt": "2025-12-18T11:48:42.406Z"
   },
   {
     "id": 73723,
@@ -6197,7 +6197,7 @@
         "id": 72448
       }
     ],
-    "updatedAt": "2025-12-17T11:51:46.268Z"
+    "updatedAt": "2025-12-18T11:51:01.958Z"
   },
   {
     "id": 213663,
@@ -6377,7 +6377,7 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-17T12:04:10.487Z"
+    "updatedAt": "2025-12-18T12:03:42.737Z"
   },
   {
     "id": 311838,
@@ -6535,6 +6535,6 @@
         "id": 9540
       }
     ],
-    "updatedAt": "2025-12-17T12:11:29.467Z"
+    "updatedAt": "2025-12-18T12:11:14.563Z"
   }
 ]

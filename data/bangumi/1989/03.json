@@ -151,17 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "哆啦A夢",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "动画电影",
+          "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         },
         {
           "name": "SHIN-EI动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "哆啦A夢",
           "count": 2,
           "total_cont": 0
         }
@@ -301,7 +301,7 @@
       ],
       "rating": {
         "rank": 2139,
-        "total": 666,
+        "total": 667,
         "count": {
           "1": 0,
           "2": 1,
@@ -310,7 +310,7 @@
           "5": 22,
           "6": 148,
           "7": 280,
-          "8": 166,
+          "8": 167,
           "9": 25,
           "10": 21
         },
@@ -320,8 +320,8 @@
       "collection": {
         "on_hold": 20,
         "dropped": 17,
-        "wish": 76,
-        "collect": 1360,
+        "wish": 77,
+        "collect": 1361,
         "doing": 7
       },
       "id": 448,
@@ -1675,7 +1675,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2025-12-17T11:33:19.189Z"
+    "updatedAt": "2025-12-18T11:32:01.327Z"
   },
   {
     "id": 1015,
@@ -1695,32 +1695,32 @@
       "tags": [
         {
           "name": "高达",
-          "count": 1636,
+          "count": 1638,
           "total_cont": 0
         },
         {
           "name": "OVA",
-          "count": 1238,
+          "count": 1239,
           "total_cont": 0
         },
         {
           "name": "SUNRISE",
-          "count": 948,
+          "count": 949,
           "total_cont": 0
         },
         {
           "name": "0080",
-          "count": 599,
+          "count": 600,
           "total_cont": 0
         },
         {
           "name": "1989年",
-          "count": 568,
+          "count": 569,
           "total_cont": 0
         },
         {
           "name": "战争",
-          "count": 562,
+          "count": 564,
           "total_cont": 0
         },
         {
@@ -1735,17 +1735,12 @@
         },
         {
           "name": "原创",
-          "count": 392,
+          "count": 393,
           "total_cont": 0
         },
         {
           "name": "科幻",
-          "count": 346,
-          "total_cont": 0
-        },
-        {
-          "name": "高山文彦",
-          "count": 305,
+          "count": 347,
           "total_cont": 0
         },
         {
@@ -1754,13 +1749,18 @@
           "total_cont": 0
         },
         {
+          "name": "高山文彦",
+          "count": 305,
+          "total_cont": 0
+        },
+        {
           "name": "感人",
-          "count": 289,
+          "count": 290,
           "total_cont": 0
         },
         {
           "name": "GUNDAM",
-          "count": 189,
+          "count": 190,
           "total_cont": 0
         },
         {
@@ -1770,7 +1770,7 @@
         },
         {
           "name": "日本",
-          "count": 80,
+          "count": 81,
           "total_cont": 0
         },
         {
@@ -1968,7 +1968,7 @@
       ],
       "rating": {
         "rank": 31,
-        "total": 5468,
+        "total": 5472,
         "count": {
           "1": 12,
           "2": 2,
@@ -1977,9 +1977,9 @@
           "5": 31,
           "6": 113,
           "7": 459,
-          "8": 1571,
-          "9": 2185,
-          "10": 1079
+          "8": 1572,
+          "9": 2187,
+          "10": 1080
         },
         "score": 8.6
       },
@@ -1987,9 +1987,9 @@
       "collection": {
         "on_hold": 198,
         "dropped": 86,
-        "wish": 2013,
-        "collect": 7594,
-        "doing": 194
+        "wish": 2015,
+        "collect": 7598,
+        "doing": 193
       },
       "id": 1015,
       "eps": 6,
@@ -2525,6 +2525,22 @@
       },
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "横山広行",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 12402,
+        "eps": "2,4"
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/a1/36/6061_prsn_aKQJ7.jpg?r=1728980601",
           "grid": "https://lain.bgm.tv/pic/crt/g/a1/36/6061_prsn_aKQJ7.jpg?r=1728980601",
           "large": "https://lain.bgm.tv/pic/crt/l/a1/36/6061_prsn_aKQJ7.jpg?r=1728980601",
@@ -2697,22 +2713,6 @@
         "type": 1,
         "id": 1247,
         "eps": "6"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "横山広行",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 12402,
-        "eps": "2,4"
       },
       {
         "images": {
@@ -4271,7 +4271,7 @@
         "id": 147744
       }
     ],
-    "updatedAt": "2025-12-17T11:34:20.873Z"
+    "updatedAt": "2025-12-18T11:33:00.355Z"
   },
   {
     "id": 3421,
@@ -4291,7 +4291,7 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 310,
+          "count": 311,
           "total_cont": 0
         },
         {
@@ -4549,7 +4549,7 @@
         }
       ],
       "rating": {
-        "rank": 1270,
+        "rank": 1272,
         "total": 812,
         "count": {
           "1": 2,
@@ -5894,7 +5894,7 @@
         "id": 326348
       }
     ],
-    "updatedAt": "2025-12-17T11:37:52.100Z"
+    "updatedAt": "2025-12-18T11:36:30.766Z"
   },
   {
     "id": 27479,
@@ -6090,7 +6090,7 @@
         }
       ],
       "rating": {
-        "rank": 7219,
+        "rank": 7221,
         "total": 141,
         "count": {
           "1": 2,
@@ -6301,7 +6301,7 @@
         "id": 525670
       }
     ],
-    "updatedAt": "2025-12-17T11:45:19.626Z"
+    "updatedAt": "2025-12-18T11:44:18.939Z"
   },
   {
     "id": 63686,
@@ -6350,12 +6350,12 @@
           "total_cont": 0
         },
         {
-          "name": "冲浦启之",
+          "name": "井上俊之",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "井上俊之",
+          "name": "冲浦启之",
           "count": 10,
           "total_cont": 0
         },
@@ -6375,6 +6375,11 @@
           "total_cont": 0
         },
         {
+          "name": "小林七郎",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "千明孝一",
           "count": 5,
           "total_cont": 0
@@ -6385,8 +6390,8 @@
           "total_cont": 0
         },
         {
-          "name": "小林七郎",
-          "count": 5,
+          "name": "金星战记",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -6395,32 +6400,7 @@
           "total_cont": 0
         },
         {
-          "name": "金星战记",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "うつのみや理",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "电影",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "85~89年",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "橋本晋治",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "战争",
           "count": 2,
           "total_cont": 0
         },
@@ -6430,42 +6410,62 @@
           "total_cont": 0
         },
         {
-          "name": "作画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "盐沢兼人",
+          "name": "85~89年",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "作画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "战争",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "橋本晋治",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "うつのみや理",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "植草克秀",
+          "name": "80s",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "池田秀一",
+          "name": "待補0",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "中庸",
+          "name": "电影院",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "美术",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "反战",
+          "name": "原えりこ",
           "count": 1,
           "total_cont": 0
         }
@@ -6548,7 +6548,7 @@
         }
       ],
       "rating": {
-        "rank": 4998,
+        "rank": 5035,
         "total": 154,
         "count": {
           "1": 0,
@@ -6556,8 +6556,8 @@
           "3": 3,
           "4": 3,
           "5": 16,
-          "6": 61,
-          "7": 47,
+          "6": 62,
+          "7": 46,
           "8": 22,
           "9": 1,
           "10": 0
@@ -6828,10 +6828,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2d/88/2315_prsn_7T500.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2d/88/2315_prsn_7T500.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2d/88/2315_prsn_7T500.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2d/88/2315_prsn_7T500.jpg"
         },
         "name": "松尾慎",
         "relation": "原画",
@@ -7895,7 +7895,7 @@
         "id": 511005
       }
     ],
-    "updatedAt": "2025-12-17T11:50:47.348Z"
+    "updatedAt": "2025-12-18T11:49:59.872Z"
   },
   {
     "id": 77616,
@@ -8446,7 +8446,7 @@
         "id": 615591
       }
     ],
-    "updatedAt": "2025-12-17T11:52:07.529Z"
+    "updatedAt": "2025-12-18T11:51:23.831Z"
   },
   {
     "id": 103182,
@@ -8646,7 +8646,7 @@
         "id": 583639
       }
     ],
-    "updatedAt": "2025-12-17T11:55:16.658Z"
+    "updatedAt": "2025-12-18T11:54:35.852Z"
   },
   {
     "id": 285379,
@@ -10281,7 +10281,7 @@
         "id": 489692
       }
     ],
-    "updatedAt": "2025-12-17T12:09:12.511Z"
+    "updatedAt": "2025-12-18T12:08:54.301Z"
   },
   {
     "id": 418852,
@@ -10847,7 +10847,7 @@
         "id": 81562
       }
     ],
-    "updatedAt": "2025-12-17T12:17:23.059Z"
+    "updatedAt": "2025-12-18T12:17:13.604Z"
   },
   {
     "id": 499293,
@@ -11752,6 +11752,6 @@
         "id": 89256
       }
     ],
-    "updatedAt": "2025-12-17T12:20:12.903Z"
+    "updatedAt": "2025-12-18T12:20:05.916Z"
   }
 ]
