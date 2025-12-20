@@ -71,12 +71,12 @@
           "total_cont": 0
         },
         {
-          "name": "大圈",
+          "name": "SF",
           "count": 39,
           "total_cont": 0
         },
         {
-          "name": "SF",
+          "name": "大圈",
           "count": 39,
           "total_cont": 0
         },
@@ -111,12 +111,12 @@
           "total_cont": 0
         },
         {
-          "name": "1990s",
+          "name": "TVA",
           "count": 8,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "1990s",
           "count": 8,
           "total_cont": 0
         },
@@ -151,17 +151,17 @@
           "total_cont": 0
         },
         {
+          "name": "90s",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "神作",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "超级系",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
+          "name": "补番",
           "count": 3,
           "total_cont": 0
         }
@@ -339,8 +339,8 @@
         }
       ],
       "rating": {
-        "rank": 379,
-        "total": 1072,
+        "rank": 376,
+        "total": 1071,
         "count": {
           "1": 3,
           "2": 0,
@@ -349,7 +349,7 @@
           "5": 22,
           "6": 58,
           "7": 243,
-          "8": 465,
+          "8": 464,
           "9": 204,
           "10": 66
         },
@@ -4009,7 +4009,7 @@
         "id": 14535
       }
     ],
-    "updatedAt": "2025-12-19T11:32:16.760Z"
+    "updatedAt": "2025-12-20T11:28:22.520Z"
   },
   {
     "id": 975,
@@ -4029,7 +4029,7 @@
       "tags": [
         {
           "name": "ONEPIECE",
-          "count": 6324,
+          "count": 6326,
           "total_cont": 0
         },
         {
@@ -4039,12 +4039,12 @@
         },
         {
           "name": "热血",
-          "count": 3632,
+          "count": 3633,
           "total_cont": 0
         },
         {
           "name": "尾田榮一郎",
-          "count": 2498,
+          "count": 2499,
           "total_cont": 0
         },
         {
@@ -4114,7 +4114,7 @@
         },
         {
           "name": "冒险",
-          "count": 184,
+          "count": 185,
           "total_cont": 0
         },
         {
@@ -4345,28 +4345,28 @@
       ],
       "rating": {
         "rank": 101,
-        "total": 13728,
+        "total": 13734,
         "count": {
           "1": 91,
           "2": 44,
-          "3": 37,
+          "3": 38,
           "4": 110,
           "5": 341,
           "6": 895,
-          "7": 2184,
-          "8": 3573,
-          "9": 2633,
+          "7": 2185,
+          "8": 3575,
+          "9": 2635,
           "10": 3820
         },
         "score": 8.3
       },
       "total_episodes": 1190,
       "collection": {
-        "on_hold": 3944,
-        "dropped": 1431,
-        "wish": 1917,
-        "collect": 9846,
-        "doing": 14994
+        "on_hold": 3946,
+        "dropped": 1433,
+        "wish": 1916,
+        "collect": 9855,
+        "doing": 14995
       },
       "id": 975,
       "eps": 0,
@@ -6498,6 +6498,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7c/e6/33697_prsn_9W1we.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7c/e6/33697_prsn_9W1we.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7c/e6/33697_prsn_9W1we.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7c/e6/33697_prsn_9W1we.jpg"
+        },
+        "name": "高嶋宏之",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 33697,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -7474,10 +7490,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c1/49/35683_prsn_oOI4k.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/c1/49/35683_prsn_oOI4k.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/c1/49/35683_prsn_oOI4k.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c1/49/35683_prsn_oOI4k.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c1/49/35683_prsn_FZfTf.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/c1/49/35683_prsn_FZfTf.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/c1/49/35683_prsn_FZfTf.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c1/49/35683_prsn_FZfTf.jpg"
         },
         "name": "杉山和隆",
         "relation": "原画",
@@ -8556,22 +8572,6 @@
         ],
         "type": 1,
         "id": 13315,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7c/e6/33697_prsn_9W1we.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/7c/e6/33697_prsn_9W1we.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/7c/e6/33697_prsn_9W1we.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7c/e6/33697_prsn_9W1we.jpg"
-        },
-        "name": "高嶋宏之",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 33697,
         "eps": ""
       },
       {
@@ -47115,7 +47115,7 @@
         "id": 285391
       }
     ],
-    "updatedAt": "2025-12-19T11:32:47.002Z"
+    "updatedAt": "2025-12-20T11:28:51.239Z"
   },
   {
     "id": 1704,
@@ -47135,12 +47135,12 @@
       "tags": [
         {
           "name": "富坚义博",
-          "count": 1258,
+          "count": 1259,
           "total_cont": 0
         },
         {
           "name": "HUNTER×HUNTER",
-          "count": 980,
+          "count": 981,
           "total_cont": 0
         },
         {
@@ -47376,19 +47376,19 @@
           "5": 47,
           "6": 187,
           "7": 657,
-          "8": 1881,
-          "9": 1682,
+          "8": 1882,
+          "9": 1681,
           "10": 943
         },
         "score": 8.4
       },
       "total_episodes": 62,
       "collection": {
-        "on_hold": 647,
+        "on_hold": 648,
         "dropped": 181,
-        "wish": 2186,
-        "collect": 8080,
-        "doing": 692
+        "wish": 2188,
+        "collect": 8082,
+        "doing": 690
       },
       "id": 1704,
       "eps": 62,
@@ -52691,7 +52691,7 @@
         "id": 147878
       }
     ],
-    "updatedAt": "2025-12-19T11:33:31.347Z"
+    "updatedAt": "2025-12-20T11:29:32.587Z"
   },
   {
     "id": 1937,
@@ -52711,7 +52711,7 @@
       "tags": [
         {
           "name": "SUNRISE",
-          "count": 657,
+          "count": 658,
           "total_cont": 0
         },
         {
@@ -52726,7 +52726,7 @@
         },
         {
           "name": "1999年10月",
-          "count": 398,
+          "count": 399,
           "total_cont": 0
         },
         {
@@ -52736,7 +52736,7 @@
         },
         {
           "name": "原创",
-          "count": 333,
+          "count": 334,
           "total_cont": 0
         },
         {
@@ -52785,12 +52785,12 @@
           "total_cont": 0
         },
         {
-          "name": "中二",
-          "count": 24,
+          "name": "日本",
+          "count": 25,
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "中二",
           "count": 24,
           "total_cont": 0
         },
@@ -52815,12 +52815,12 @@
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "人性",
           "count": 12,
           "total_cont": 0
         },
         {
-          "name": "人性",
+          "name": "剧情",
           "count": 12,
           "total_cont": 0
         },
@@ -52830,17 +52830,17 @@
           "total_cont": 0
         },
         {
+          "name": "1999年10月",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
           "name": "服部克久",
           "count": 9,
           "total_cont": 0
         },
         {
           "name": "半年番",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
-          "name": "1999年10月",
           "count": 9,
           "total_cont": 0
         },
@@ -53048,8 +53048,8 @@
           "3": 2,
           "4": 19,
           "5": 31,
-          "6": 123,
-          "7": 342,
+          "6": 124,
+          "7": 341,
           "8": 656,
           "9": 371,
           "10": 131
@@ -53060,9 +53060,9 @@
       "collection": {
         "on_hold": 297,
         "dropped": 99,
-        "wish": 3027,
-        "collect": 2175,
-        "doing": 287
+        "wish": 3029,
+        "collect": 2177,
+        "doing": 286
       },
       "id": 1937,
       "eps": 26,
@@ -56164,7 +56164,7 @@
         "id": 613437
       }
     ],
-    "updatedAt": "2025-12-19T11:33:57.896Z"
+    "updatedAt": "2025-12-20T11:29:57.219Z"
   },
   {
     "id": 4006,
@@ -57144,7 +57144,7 @@
         "id": 546184
       }
     ],
-    "updatedAt": "2025-12-19T11:36:54.066Z"
+    "updatedAt": "2025-12-20T11:32:38.611Z"
   },
   {
     "id": 4040,
@@ -57223,12 +57223,12 @@
           "total_cont": 0
         },
         {
-          "name": "没看全",
+          "name": "新居昭乃",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "新居昭乃",
+          "name": "没看全",
           "count": 6,
           "total_cont": 0
         },
@@ -57248,22 +57248,7 @@
           "total_cont": 0
         },
         {
-          "name": "半年番",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "东京movie",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "まついひとゆき",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "90年代",
+          "name": "JUMP",
           "count": 2,
           "total_cont": 0
         },
@@ -57273,7 +57258,7 @@
           "total_cont": 0
         },
         {
-          "name": "JUMP",
+          "name": "东京movie",
           "count": 2,
           "total_cont": 0
         },
@@ -57283,32 +57268,47 @@
           "total_cont": 0
         },
         {
-          "name": "智斗推理",
+          "name": "90年代",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "まついひとゆき",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "半年番",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "正太",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "音乐可圈可点",
+          "name": "5",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "旧番",
+          "name": "2015",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "成熟",
+          "name": "民俗",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "~",
+          "name": "猎奇",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "アニメ",
+          "name": "旭一东京电影",
           "count": 1,
           "total_cont": 0
         }
@@ -57408,7 +57408,7 @@
         }
       ],
       "rating": {
-        "rank": 3917,
+        "rank": 3919,
         "total": 195,
         "count": {
           "1": 0,
@@ -60387,7 +60387,7 @@
         "id": 139362
       }
     ],
-    "updatedAt": "2025-12-19T11:36:59.843Z"
+    "updatedAt": "2025-12-20T11:32:43.849Z"
   },
   {
     "id": 4075,
@@ -60521,12 +60521,12 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "1990s",
           "count": 8,
           "total_cont": 0
         },
         {
-          "name": "1990s",
+          "name": "TVA",
           "count": 8,
           "total_cont": 0
         },
@@ -60541,17 +60541,17 @@
           "total_cont": 0
         },
         {
-          "name": "季番",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "异世界",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "季番",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "长滨博史",
           "count": 5,
           "total_cont": 0
         }
@@ -60670,8 +60670,8 @@
         }
       ],
       "rating": {
-        "rank": 894,
-        "total": 1517,
+        "rank": 896,
+        "total": 1516,
         "count": {
           "1": 24,
           "2": 8,
@@ -60680,7 +60680,7 @@
           "5": 41,
           "6": 127,
           "7": 392,
-          "8": 558,
+          "8": 557,
           "9": 248,
           "10": 80
         },
@@ -60690,9 +60690,9 @@
       "collection": {
         "on_hold": 199,
         "dropped": 61,
-        "wish": 2081,
-        "collect": 1981,
-        "doing": 165
+        "wish": 2083,
+        "collect": 1982,
+        "doing": 164
       },
       "id": 4075,
       "eps": 13,
@@ -63220,7 +63220,7 @@
         "id": 160215
       }
     ],
-    "updatedAt": "2025-12-19T11:37:01.821Z"
+    "updatedAt": "2025-12-20T11:32:45.256Z"
   },
   {
     "id": 7075,
@@ -63522,7 +63522,7 @@
         }
       ],
       "rating": {
-        "rank": 6050,
+        "rank": 6052,
         "total": 142,
         "count": {
           "1": 2,
@@ -65548,7 +65548,7 @@
         "id": 587266
       }
     ],
-    "updatedAt": "2025-12-19T11:38:19.129Z"
+    "updatedAt": "2025-12-20T11:33:54.765Z"
   },
   {
     "id": 9568,
@@ -65587,12 +65587,12 @@
           "total_cont": 0
         },
         {
-          "name": "1999年10月",
+          "name": "AE86",
           "count": 123,
           "total_cont": 0
         },
         {
-          "name": "AE86",
+          "name": "1999年10月",
           "count": 123,
           "total_cont": 0
         },
@@ -65687,18 +65687,13 @@
           "total_cont": 0
         },
         {
-          "name": "体育",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "三木真一郎",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "1999年10月",
-          "count": 4,
+          "name": "体育",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -65707,12 +65702,17 @@
           "total_cont": 0
         },
         {
-          "name": "子安武人",
+          "name": "頭文字D",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "頭文字D",
+          "name": "1999年10月",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "子安武人",
           "count": 4,
           "total_cont": 0
         }
@@ -65823,7 +65823,7 @@
         "on_hold": 56,
         "dropped": 29,
         "wish": 239,
-        "collect": 2636,
+        "collect": 2638,
         "doing": 55
       },
       "id": 9568,
@@ -67457,7 +67457,7 @@
         "id": 45397
       }
     ],
-    "updatedAt": "2025-12-19T11:39:25.324Z"
+    "updatedAt": "2025-12-20T11:34:57.318Z"
   },
   {
     "id": 10422,
@@ -67764,8 +67764,8 @@
         }
       ],
       "rating": {
-        "rank": 1951,
-        "total": 202,
+        "rank": 1950,
+        "total": 201,
         "count": {
           "1": 1,
           "2": 2,
@@ -67773,7 +67773,7 @@
           "4": 1,
           "5": 12,
           "6": 40,
-          "7": 53,
+          "7": 52,
           "8": 53,
           "9": 27,
           "10": 9
@@ -69477,7 +69477,7 @@
         "id": 191590
       }
     ],
-    "updatedAt": "2025-12-19T11:40:10.446Z"
+    "updatedAt": "2025-12-20T11:35:40.168Z"
   },
   {
     "id": 13813,
@@ -69771,7 +69771,7 @@
         }
       ],
       "rating": {
-        "rank": 2359,
+        "rank": 2358,
         "total": 541,
         "count": {
           "1": 0,
@@ -73026,7 +73026,7 @@
         "id": 445456
       }
     ],
-    "updatedAt": "2025-12-19T11:41:16.001Z"
+    "updatedAt": "2025-12-20T11:36:41.402Z"
   },
   {
     "id": 32025,
@@ -75535,7 +75535,7 @@
         "id": 493814
       }
     ],
-    "updatedAt": "2025-12-19T11:44:15.714Z"
+    "updatedAt": "2025-12-20T11:39:29.890Z"
   },
   {
     "id": 32164,
@@ -75689,17 +75689,17 @@
           "total_cont": 0
         },
         {
-          "name": "上世纪",
+          "name": "已下载",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "7分",
           "count": 2,
           "total_cont": 0
         },
         {
           "name": "90s",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "萝卜",
           "count": 2,
           "total_cont": 0
         }
@@ -75875,7 +75875,7 @@
       ],
       "rating": {
         "rank": 1439,
-        "total": 427,
+        "total": 426,
         "count": {
           "1": 0,
           "2": 1,
@@ -75883,7 +75883,7 @@
           "4": 5,
           "5": 17,
           "6": 51,
-          "7": 164,
+          "7": 163,
           "8": 146,
           "9": 32,
           "10": 11
@@ -75894,9 +75894,9 @@
       "collection": {
         "on_hold": 60,
         "dropped": 36,
-        "wish": 1016,
+        "wish": 1015,
         "collect": 571,
-        "doing": 95
+        "doing": 96
       },
       "id": 32164,
       "eps": 12,
@@ -78198,7 +78198,7 @@
         "id": 514988
       }
     ],
-    "updatedAt": "2025-12-19T11:44:16.853Z"
+    "updatedAt": "2025-12-20T11:39:30.733Z"
   },
   {
     "id": 39065,
@@ -78474,7 +78474,7 @@
         }
       ],
       "rating": {
-        "rank": 5315,
+        "rank": 5314,
         "total": 78,
         "count": {
           "1": 0,
@@ -79889,7 +79889,7 @@
         "id": 241112
       }
     ],
-    "updatedAt": "2025-12-19T11:45:53.653Z"
+    "updatedAt": "2025-12-20T11:41:01.308Z"
   },
   {
     "id": 67719,
@@ -80462,7 +80462,7 @@
         "id": 511670
       }
     ],
-    "updatedAt": "2025-12-19T11:49:30.368Z"
+    "updatedAt": "2025-12-20T11:44:15.196Z"
   },
   {
     "id": 79190,
@@ -81085,7 +81085,7 @@
         "id": 79189
       }
     ],
-    "updatedAt": "2025-12-19T11:50:46.996Z"
+    "updatedAt": "2025-12-20T11:45:22.597Z"
   },
   {
     "id": 98608,
@@ -81469,7 +81469,7 @@
         "id": 443488
       }
     ],
-    "updatedAt": "2025-12-19T11:53:07.122Z"
+    "updatedAt": "2025-12-20T11:47:33.241Z"
   },
   {
     "id": 258391,
@@ -82281,6 +82281,6 @@
         "id": 81579
       }
     ],
-    "updatedAt": "2025-12-19T12:06:14.291Z"
+    "updatedAt": "2025-12-20T11:58:58.479Z"
   }
 ]

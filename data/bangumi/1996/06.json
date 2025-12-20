@@ -96,22 +96,22 @@
           "total_cont": 0
         },
         {
-          "name": "可看可不看",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "漫改",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "补漫画",
-          "count": 4,
+          "name": "可看可不看",
+          "count": 6,
           "total_cont": 0
         },
         {
           "name": "1990s",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "补漫画",
           "count": 4,
           "total_cont": 0
         },
@@ -131,27 +131,12 @@
           "total_cont": 0
         },
         {
-          "name": "高松信司",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "长篇",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "八角哲夫",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "高本宣弘",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "鴫野彰",
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -161,7 +146,22 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "中视",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "长篇",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "鴫野彰",
           "count": 2,
           "total_cont": 0
         }
@@ -248,8 +248,8 @@
         }
       ],
       "rating": {
-        "rank": 285,
-        "total": 372,
+        "rank": 288,
+        "total": 371,
         "count": {
           "1": 1,
           "2": 2,
@@ -259,7 +259,7 @@
           "6": 18,
           "7": 90,
           "8": 124,
-          "9": 66,
+          "9": 65,
           "10": 61
         },
         "score": 8
@@ -268,9 +268,9 @@
       "collection": {
         "on_hold": 122,
         "dropped": 65,
-        "wish": 511,
+        "wish": 510,
         "collect": 594,
-        "doing": 113
+        "doing": 114
       },
       "id": 2166,
       "eps": 344,
@@ -15655,6 +15655,20 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/a0/616671_3PKdk.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/a0/616671_3PKdk.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/41/a0/616671_3PKdk.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/a0/616671_3PKdk.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/a0/616671_3PKdk.jpg"
+        },
+        "name": "新こちら葛飾区亀有公園前派出所",
+        "name_cn": "新乌龙派出所",
+        "relation": "动画",
+        "type": 2,
+        "id": 616671
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/13/496863_UG8cR.jpg",
           "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/13/496863_UG8cR.jpg",
           "large": "https://lain.bgm.tv/pic/cover/l/40/13/496863_UG8cR.jpg",
@@ -15920,7 +15934,7 @@
         "id": 185317
       }
     ],
-    "updatedAt": "2025-12-19T11:34:33.570Z"
+    "updatedAt": "2025-12-20T11:30:29.936Z"
   },
   {
     "id": 318293,
@@ -16436,6 +16450,6 @@
         "id": 318298
       }
     ],
-    "updatedAt": "2025-12-19T12:10:46.158Z"
+    "updatedAt": "2025-12-20T12:03:10.036Z"
   }
 ]
