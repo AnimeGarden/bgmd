@@ -101,22 +101,22 @@
           "total_cont": 0
         },
         {
-          "name": "热血",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "1998年12月",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "サンライズ",
+          "name": "日本",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "热血",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "サンライズ",
           "count": 4,
           "total_cont": 0
         },
@@ -131,27 +131,17 @@
           "total_cont": 0
         },
         {
-          "name": "体育",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "燃",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "童年的经典",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "运动",
+          "name": "体育",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "1998年12月",
+          "name": "运动",
           "count": 2,
           "total_cont": 0
         },
@@ -162,6 +152,16 @@
         },
         {
           "name": "经典",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1998年12月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日升",
           "count": 2,
           "total_cont": 0
         }
@@ -359,7 +359,7 @@
       "collection": {
         "on_hold": 43,
         "dropped": 30,
-        "wish": 291,
+        "wish": 292,
         "collect": 1077,
         "doing": 20
       },
@@ -933,22 +933,6 @@
         ],
         "type": 1,
         "id": 11695,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ee/c3/13997_prsn_6B0sZ.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/ee/c3/13997_prsn_6B0sZ.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/ee/c3/13997_prsn_6B0sZ.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ee/c3/13997_prsn_6B0sZ.jpg"
-        },
-        "name": "霜山朋久",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 13997,
         "eps": ""
       },
       {
@@ -2090,6 +2074,22 @@
         "type": 1,
         "id": 21657,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ee/c3/13997_prsn_6B0sZ.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ee/c3/13997_prsn_6B0sZ.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ee/c3/13997_prsn_6B0sZ.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ee/c3/13997_prsn_6B0sZ.jpg"
+        },
+        "name": "霜山朋久",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 13997,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2908,7 +2908,7 @@
         "id": 509849
       }
     ],
-    "updatedAt": "2025-12-20T11:30:04.294Z"
+    "updatedAt": "2025-12-21T11:30:44.376Z"
   },
   {
     "id": 18048,
@@ -3169,7 +3169,7 @@
         }
       ],
       "rating": {
-        "rank": 6214,
+        "rank": 6213,
         "total": 81,
         "count": {
           "1": 6,
@@ -3675,7 +3675,7 @@
         "id": 311094
       }
     ],
-    "updatedAt": "2025-12-20T11:37:14.419Z"
+    "updatedAt": "2025-12-21T11:37:26.034Z"
   },
   {
     "id": 90013,
@@ -4577,7 +4577,7 @@
         "id": 27773
       }
     ],
-    "updatedAt": "2025-12-20T11:46:49.856Z"
+    "updatedAt": "2025-12-21T11:47:11.478Z"
   },
   {
     "id": 98514,
@@ -5052,6 +5052,6 @@
         "id": 127828
       }
     ],
-    "updatedAt": "2025-12-20T11:47:33.061Z"
+    "updatedAt": "2025-12-21T11:47:57.704Z"
   }
 ]
