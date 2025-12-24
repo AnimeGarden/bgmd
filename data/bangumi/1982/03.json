@@ -1655,7 +1655,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2025-12-23T11:31:54.261Z"
+    "updatedAt": "2025-12-24T11:31:19.358Z"
   },
   {
     "id": 38437,
@@ -1939,7 +1939,7 @@
         }
       ],
       "rating": {
-        "rank": 577,
+        "rank": 578,
         "total": 1191,
         "count": {
           "1": 0,
@@ -3819,7 +3819,7 @@
         "id": 608990
       }
     ],
-    "updatedAt": "2025-12-23T11:44:31.944Z"
+    "updatedAt": "2025-12-24T11:43:25.568Z"
   },
   {
     "id": 73928,
@@ -3893,7 +3893,17 @@
           "total_cont": 0
         },
         {
+          "name": "TVA",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "日本动画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "经典",
           "count": 3,
           "total_cont": 0
         },
@@ -3908,13 +3918,8 @@
           "total_cont": 0
         },
         {
-          "name": "经典",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 3,
+          "name": "小山茉美",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -3928,27 +3933,7 @@
           "total_cont": 0
         },
         {
-          "name": "小山茉美",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "日常",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "待補1",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "单元剧",
           "count": 1,
           "total_cont": 0
         },
@@ -3958,7 +3943,27 @@
           "total_cont": 0
         },
         {
-          "name": "长篇",
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "待補1",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "补",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1982年3月",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "一",
           "count": 1,
           "total_cont": 0
         },
@@ -3968,7 +3973,7 @@
           "total_cont": 0
         },
         {
-          "name": "1982年3月",
+          "name": "长篇",
           "count": 1,
           "total_cont": 0
         },
@@ -3979,11 +3984,6 @@
         },
         {
           "name": "80",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "补",
           "count": 1,
           "total_cont": 0
         }
@@ -4159,7 +4159,7 @@
       "collection": {
         "on_hold": 19,
         "dropped": 14,
-        "wish": 145,
+        "wish": 146,
         "collect": 62,
         "doing": 22
       },
@@ -5625,9 +5625,23 @@
         "relation": "书籍",
         "type": 1,
         "id": 558828
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/c7/617452_36TjR.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/c7/617452_36TjR.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/35/c7/617452_36TjR.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/c7/617452_36TjR.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/c7/617452_36TjR.jpg"
+        },
+        "name": "魔法のプリンセス ミンキーモモ 新作OVA",
+        "name_cn": "魔法公主明琪桃子 新作OVA",
+        "relation": "衍生",
+        "type": 2,
+        "id": 617452
       }
     ],
-    "updatedAt": "2025-12-23T11:48:32.823Z"
+    "updatedAt": "2025-12-24T11:47:13.954Z"
   },
   {
     "id": 159760,
@@ -5798,7 +5812,7 @@
         "id": 132767
       }
     ],
-    "updatedAt": "2025-12-23T11:55:32.390Z"
+    "updatedAt": "2025-12-24T11:53:52.087Z"
   },
   {
     "id": 375087,
@@ -6132,6 +6146,6 @@
         "id": 469586
       }
     ],
-    "updatedAt": "2025-12-23T12:09:33.156Z"
+    "updatedAt": "2025-12-24T12:07:50.135Z"
   }
 ]

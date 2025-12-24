@@ -31,12 +31,12 @@
           "total_cont": 0
         },
         {
-          "name": "童年",
+          "name": "漫画改",
           "count": 56,
           "total_cont": 0
         },
         {
-          "name": "漫画改",
+          "name": "童年",
           "count": 56,
           "total_cont": 0
         },
@@ -91,6 +91,11 @@
           "total_cont": 0
         },
         {
+          "name": "喜剧",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
           "name": "原创",
           "count": 6,
           "total_cont": 0
@@ -98,16 +103,6 @@
         {
           "name": "ドラえもん",
           "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "喜剧",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "搞笑",
-          "count": 5,
           "total_cont": 0
         },
         {
@@ -121,6 +116,16 @@
           "total_cont": 0
         },
         {
+          "name": "搞笑",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "子供向",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "1989年3月",
           "count": 4,
           "total_cont": 0
@@ -131,22 +136,17 @@
           "total_cont": 0
         },
         {
-          "name": "子供向",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "劇場版",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "1989年3月",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "劇場版",
           "count": 3,
           "total_cont": 0
         },
@@ -321,7 +321,7 @@
         "on_hold": 19,
         "dropped": 17,
         "wish": 78,
-        "collect": 1364,
+        "collect": 1365,
         "doing": 7
       },
       "id": 448,
@@ -1565,7 +1565,9 @@
             },
             "name": "李世揚",
             "short_summary": "台湾男性配音员。",
-            "career": [],
+            "career": [
+              "seiyu"
+            ],
             "id": 79195,
             "type": 1,
             "locked": false
@@ -1675,7 +1677,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2025-12-23T11:31:57.182Z"
+    "updatedAt": "2025-12-24T11:31:22.100Z"
   },
   {
     "id": 1015,
@@ -1695,12 +1697,12 @@
       "tags": [
         {
           "name": "高达",
-          "count": 1642,
+          "count": 1643,
           "total_cont": 0
         },
         {
           "name": "OVA",
-          "count": 1240,
+          "count": 1241,
           "total_cont": 0
         },
         {
@@ -1710,7 +1712,7 @@
         },
         {
           "name": "0080",
-          "count": 601,
+          "count": 602,
           "total_cont": 0
         },
         {
@@ -1720,12 +1722,12 @@
         },
         {
           "name": "战争",
-          "count": 566,
+          "count": 567,
           "total_cont": 0
         },
         {
           "name": "萝卜",
-          "count": 426,
+          "count": 427,
           "total_cont": 0
         },
         {
@@ -1745,7 +1747,7 @@
         },
         {
           "name": "是爷们就开扎古",
-          "count": 305,
+          "count": 306,
           "total_cont": 0
         },
         {
@@ -1755,17 +1757,17 @@
         },
         {
           "name": "感人",
-          "count": 290,
+          "count": 291,
           "total_cont": 0
         },
         {
           "name": "GUNDAM",
-          "count": 190,
+          "count": 191,
           "total_cont": 0
         },
         {
           "name": "机战",
-          "count": 95,
+          "count": 96,
           "total_cont": 0
         },
         {
@@ -1774,12 +1776,12 @@
           "total_cont": 0
         },
         {
-          "name": "Gundum",
+          "name": "反战",
           "count": 58,
           "total_cont": 0
         },
         {
-          "name": "反战",
+          "name": "Gundum",
           "count": 58,
           "total_cont": 0
         },
@@ -1839,7 +1841,7 @@
           "total_cont": 0
         },
         {
-          "name": "UC",
+          "name": "催泪",
           "count": 9,
           "total_cont": 0
         }
@@ -1968,7 +1970,7 @@
       ],
       "rating": {
         "rank": 31,
-        "total": 5485,
+        "total": 5488,
         "count": {
           "1": 12,
           "2": 2,
@@ -1978,18 +1980,18 @@
           "6": 112,
           "7": 459,
           "8": 1576,
-          "9": 2195,
-          "10": 1082
+          "9": 2197,
+          "10": 1083
         },
         "score": 8.6
       },
       "total_episodes": 6,
       "collection": {
-        "on_hold": 198,
+        "on_hold": 196,
         "dropped": 86,
         "wish": 2017,
-        "collect": 7619,
-        "doing": 193
+        "collect": 7627,
+        "doing": 194
       },
       "id": 1015,
       "eps": 6,
@@ -4271,7 +4273,7 @@
         "id": 147744
       }
     ],
-    "updatedAt": "2025-12-23T11:32:49.865Z"
+    "updatedAt": "2025-12-24T11:32:12.128Z"
   },
   {
     "id": 3421,
@@ -4549,7 +4551,7 @@
         }
       ],
       "rating": {
-        "rank": 1273,
+        "rank": 1271,
         "total": 814,
         "count": {
           "1": 2,
@@ -5894,7 +5896,7 @@
         "id": 326348
       }
     ],
-    "updatedAt": "2025-12-23T11:35:49.276Z"
+    "updatedAt": "2025-12-24T11:35:06.396Z"
   },
   {
     "id": 27479,
@@ -6301,7 +6303,7 @@
         "id": 525670
       }
     ],
-    "updatedAt": "2025-12-23T11:42:36.929Z"
+    "updatedAt": "2025-12-24T11:41:34.280Z"
   },
   {
     "id": 63686,
@@ -6548,7 +6550,7 @@
         }
       ],
       "rating": {
-        "rank": 5042,
+        "rank": 5041,
         "total": 154,
         "count": {
           "1": 0,
@@ -7895,7 +7897,7 @@
         "id": 511005
       }
     ],
-    "updatedAt": "2025-12-23T11:47:37.674Z"
+    "updatedAt": "2025-12-24T11:46:22.224Z"
   },
   {
     "id": 77616,
@@ -8446,7 +8448,7 @@
         "id": 615591
       }
     ],
-    "updatedAt": "2025-12-23T11:48:50.664Z"
+    "updatedAt": "2025-12-24T11:47:31.159Z"
   },
   {
     "id": 103182,
@@ -8646,7 +8648,7 @@
         "id": 583639
       }
     ],
-    "updatedAt": "2025-12-23T11:51:40.811Z"
+    "updatedAt": "2025-12-24T11:50:10.512Z"
   },
   {
     "id": 285379,
@@ -10281,7 +10283,7 @@
         "id": 489692
       }
     ],
-    "updatedAt": "2025-12-23T12:04:08.595Z"
+    "updatedAt": "2025-12-24T12:02:36.272Z"
   },
   {
     "id": 418852,
@@ -10847,7 +10849,7 @@
         "id": 81562
       }
     ],
-    "updatedAt": "2025-12-23T12:11:21.240Z"
+    "updatedAt": "2025-12-24T12:09:37.663Z"
   },
   {
     "id": 499293,
@@ -11752,6 +11754,6 @@
         "id": 89256
       }
     ],
-    "updatedAt": "2025-12-23T12:13:49.240Z"
+    "updatedAt": "2025-12-24T12:12:31.257Z"
   }
 ]
