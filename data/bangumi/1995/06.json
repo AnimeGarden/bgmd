@@ -1934,7 +1934,7 @@
         "id": 489124
       }
     ],
-    "updatedAt": "2025-12-24T11:36:53.104Z"
+    "updatedAt": "2025-12-25T11:36:20.699Z"
   },
   {
     "id": 16521,
@@ -2018,12 +2018,12 @@
           "total_cont": 0
         },
         {
-          "name": "AnimateFilm",
+          "name": "日本",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "AnimateFilm",
           "count": 5,
           "total_cont": 0
         },
@@ -2038,27 +2038,7 @@
           "total_cont": 0
         },
         {
-          "name": "被脱衣",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "独立ova",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "搞笑",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "90s",
           "count": 2,
           "total_cont": 0
         },
@@ -2073,32 +2053,52 @@
           "total_cont": 0
         },
         {
+          "name": "漫画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "被脱衣",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "电波",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "其他",
+          "name": "90s",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "搞笑",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "倍速观看",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "95-99",
+          "name": "浜津守",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "短片",
+          "name": "大川七濑",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "緒方恵美",
+          "name": "新6分",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "丹下桜",
+          "name": "补番",
           "count": 1,
           "total_cont": 0
         }
@@ -2134,7 +2134,7 @@
         }
       ],
       "rating": {
-        "rank": 7163,
+        "rank": 7138,
         "total": 212,
         "count": {
           "1": 1,
@@ -2154,8 +2154,8 @@
       "collection": {
         "on_hold": 15,
         "dropped": 10,
-        "wish": 170,
-        "collect": 366,
+        "wish": 171,
+        "collect": 367,
         "doing": 19
       },
       "id": 16521,
@@ -2510,7 +2510,39 @@
         "eps": ""
       }
     ],
-    "characters": [],
+    "characters": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c0/b1/195895_crt_60cbc.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/c0/b1/195895_crt_60cbc.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/c0/b1/195895_crt_60cbc.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c0/b1/195895_crt_60cbc.jpg"
+        },
+        "name": "美幸",
+        "relation": "主角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/df/42/3882_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/df/42/3882_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/df/42/3882_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/df/42/3882_seiyu_anidb.jpg"
+            },
+            "name": "國府田マリ子",
+            "short_summary": "日本の声優、歌手、女優、ナレーターである。埼玉県南埼玉郡宮代町出身。青二プロダクション所属。愛称は「マリ姉」。血液型はB型。",
+            "career": [
+              "artist",
+              "seiyu"
+            ],
+            "id": 3882,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 195895
+      }
+    ],
     "subjects": [
       {
         "images": {
@@ -2541,7 +2573,7 @@
         "id": 117713
       }
     ],
-    "updatedAt": "2025-12-24T11:39:49.442Z"
+    "updatedAt": "2025-12-25T11:39:22.648Z"
   },
   {
     "id": 66396,
@@ -3840,6 +3872,6 @@
         "id": 615588
       }
     ],
-    "updatedAt": "2025-12-24T11:46:30.807Z"
+    "updatedAt": "2025-12-25T11:46:23.102Z"
   }
 ]

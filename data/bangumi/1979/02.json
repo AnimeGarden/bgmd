@@ -76,12 +76,7 @@
           "total_cont": 0
         },
         {
-          "name": "童年TvT",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "小蓓",
+          "name": "漫画改",
           "count": 6,
           "total_cont": 0
         },
@@ -91,7 +86,12 @@
           "total_cont": 0
         },
         {
-          "name": "漫画改",
+          "name": "小蓓",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "童年TvT",
           "count": 6,
           "total_cont": 0
         },
@@ -111,12 +111,17 @@
           "total_cont": 0
         },
         {
-          "name": "設楽博",
+          "name": "1979年",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "1979年",
+          "name": "奇幻",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "設楽博",
           "count": 3,
           "total_cont": 0
         },
@@ -131,22 +136,7 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "魔法",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "经典",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "曽田博久",
+          "name": "70s",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +146,22 @@
           "total_cont": 0
         },
         {
-          "name": "70s",
+          "name": "水島裕",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "怀旧",
+          "name": "岡本茉利",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "经典",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "设乐博",
           "count": 2,
           "total_cont": 0
         }
@@ -245,7 +245,7 @@
         }
       ],
       "rating": {
-        "rank": 1811,
+        "rank": 1810,
         "total": 353,
         "count": {
           "1": 2,
@@ -263,9 +263,9 @@
       },
       "total_episodes": 50,
       "collection": {
-        "on_hold": 47,
+        "on_hold": 48,
         "dropped": 30,
-        "wish": 171,
+        "wish": 172,
         "collect": 613,
         "doing": 23
       },
@@ -820,10 +820,10 @@
     "characters": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2c/17/22953_crt_0F8xf.jpg?r=1389466869",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2c/17/22953_crt_0F8xf.jpg?r=1389466869",
-          "large": "https://lain.bgm.tv/pic/crt/l/2c/17/22953_crt_0F8xf.jpg?r=1389466869",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2c/17/22953_crt_0F8xf.jpg?r=1389466869"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2c/17/22953_crt_Dk71G.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2c/17/22953_crt_Dk71G.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2c/17/22953_crt_Dk71G.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2c/17/22953_crt_Dk71G.jpg"
         },
         "name": "ルンルン・フラワー",
         "relation": "主角",
@@ -847,6 +847,37 @@
         ],
         "type": 1,
         "id": 22953
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/29/91/195893_crt_3wfF1.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/29/91/195893_crt_3wfF1.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/29/91/195893_crt_3wfF1.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/29/91/195893_crt_3wfF1.jpg"
+        },
+        "name": "セルジュ・フローラ",
+        "relation": "主角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/48/e9/5347_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/48/e9/5347_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/48/e9/5347_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/48/e9/5347_seiyu_anidb.jpg"
+            },
+            "name": "水島裕",
+            "short_summary": "日本の声優、俳優、タレント、ナレーター、司会者。81ACTOR'S STUDIOキッズクラス代表講師。福岡県門司市（現在の北九州市門司区）出生、東京都杉並区出身。81プロデュース所属。",
+            "career": [
+              "seiyu",
+              "actor"
+            ],
+            "id": 5347,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 195893
       }
     ],
     "subjects": [
@@ -893,7 +924,7 @@
         "id": 467160
       }
     ],
-    "updatedAt": "2025-12-24T11:38:58.397Z"
+    "updatedAt": "2025-12-25T11:38:29.883Z"
   },
   {
     "id": 53757,
@@ -1642,7 +1673,7 @@
         "id": 463756
       }
     ],
-    "updatedAt": "2025-12-24T11:45:24.292Z"
+    "updatedAt": "2025-12-25T11:45:14.645Z"
   },
   {
     "id": 220036,
@@ -2394,6 +2425,6 @@
         "id": 353660
       }
     ],
-    "updatedAt": "2025-12-24T11:58:17.502Z"
+    "updatedAt": "2025-12-25T11:59:03.338Z"
   }
 ]
