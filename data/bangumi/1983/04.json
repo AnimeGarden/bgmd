@@ -136,17 +136,22 @@
           "total_cont": 0
         },
         {
-          "name": "补旧番",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "五武冬史",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "滝沢敏文",
+          "name": "战斗",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "补旧番",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "robo",
           "count": 3,
           "total_cont": 0
         },
@@ -156,12 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "乾裕樹",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "robo",
+          "name": "滝沢敏文",
           "count": 3,
           "total_cont": 0
         }
@@ -264,7 +264,7 @@
       "collection": {
         "on_hold": 133,
         "dropped": 69,
-        "wish": 892,
+        "wish": 893,
         "collect": 752,
         "doing": 129
       },
@@ -345,22 +345,6 @@
         ],
         "type": 2,
         "id": 189,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
-        },
-        "name": "高松信司",
-        "relation": "制作进行",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1280,
         "eps": ""
       },
       {
@@ -778,6 +762,22 @@
         ],
         "type": 2,
         "id": 3261,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
+        },
+        "name": "高松信司",
+        "relation": "制作进行",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1280,
         "eps": ""
       },
       {
@@ -3598,7 +3598,7 @@
         "id": 182011
       }
     ],
-    "updatedAt": "2025-12-25T11:37:47.417Z"
+    "updatedAt": "2025-12-26T11:38:03.949Z"
   },
   {
     "id": 25420,
@@ -3921,6 +3921,162 @@
         ],
         "type": 1,
         "id": 23057
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/dc/67/195940_crt_Z0p31.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/dc/67/195940_crt_Z0p31.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/dc/67/195940_crt_Z0p31.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/dc/67/195940_crt_Z0p31.jpg"
+        },
+        "name": "アベル・バトマン",
+        "relation": "主角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/a3/ec/4100_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/a3/ec/4100_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/a3/ec/4100_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a3/ec/4100_seiyu_anidb.jpg"
+            },
+            "name": "堀秀行",
+            "short_summary": "日本の声優、俳優、ナレーター。東京都世田谷区出身、静岡県御殿場市育ち。青二プロダクション所属。本名・旧芸名は堀 秀光（ほり ひでみつ）。",
+            "career": [
+              "seiyu",
+              "actor"
+            ],
+            "id": 4100,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/db/da/4363_prsn_jGQjc.jpg?r=1723550129",
+              "grid": "https://lain.bgm.tv/pic/crt/g/db/da/4363_prsn_jGQjc.jpg?r=1723550129",
+              "large": "https://lain.bgm.tv/pic/crt/l/db/da/4363_prsn_jGQjc.jpg?r=1723550129",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/db/da/4363_prsn_jGQjc.jpg?r=1723550129"
+            },
+            "name": "山田栄子",
+            "short_summary": "日本の声優、歌手、舞台女優。81プロデュース所属。神奈川県横浜市神奈川区子安出身。",
+            "career": [
+              "artist",
+              "seiyu",
+              "actor"
+            ],
+            "id": 4363,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 195940
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/64/54/195941_crt_8OrrS.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/64/54/195941_crt_8OrrS.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/64/54/195941_crt_8OrrS.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/64/54/195941_crt_8OrrS.jpg"
+        },
+        "name": "アーサー・バトマン",
+        "relation": "主角",
+        "actors": [],
+        "type": 1,
+        "id": 195941
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/1f/01/195942_crt_u49Hy.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/1f/01/195942_crt_u49Hy.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/1f/01/195942_crt_u49Hy.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/1f/01/195942_crt_u49Hy.jpg"
+        },
+        "name": "ロエル・J・グレイ",
+        "relation": "主角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/06/13/3249_prsn_anidb.jpg?r=1540382601",
+              "grid": "https://lain.bgm.tv/pic/crt/g/06/13/3249_prsn_anidb.jpg?r=1540382601",
+              "large": "https://lain.bgm.tv/pic/crt/l/06/13/3249_prsn_anidb.jpg?r=1540382601",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/06/13/3249_prsn_anidb.jpg?r=1540382601"
+            },
+            "name": "三ツ矢雄二",
+            "short_summary": "三ツ矢 雄二（みつや ゆうじ、1954年10月18日 - ）は、日本の声優、ナレーター、俳優、音響監督、ミュージシャン、タレントである。2009年1月19日、事務所「コンビネーション」を日髙のり子と共に設立。愛知県豊橋市出身。愛知高等学校、明治大学文学部文芸学科卒業。\r\n\r\n子役時代から含めて50年以上のキャリアを持つ。\r\n声優としては、オネエ言葉を喋るキャラクターを得意としているが、他にも真面目なキャラクターから間抜けたキャラクターまで、年齢を問わない様々な役を演じている。『魔物ハンター妖子』や『ナースエンジェルりりかSOS』では、男性でありながらヒロインの祖母役を演じた。\r\n演劇でも舞台版『ミュージカル水色時代』『ミュージカル少女革命ウテナ』などの脚本・演出、『ミュージカル テニスの王子様』などの脚本・作詞を行うなど、演出家・脚本家・作詞家としても活動している。本人曰く「まさかの時の三ツ矢頼み」という言葉もできたほどだという。\r\nまた、声優ユニットバンド「スラップスティック」の初代キーボード担当として、数々のレコードをリリースし、テレビやライブなどで活躍した。\r\nかつては大橋巨泉事務所、青二プロダクション、ぷろだくしょんバオバブ、Y・M・O（旧・ラブライブ）、ブリングアップに所属していた。\r\n自身のセクシャリティについては「グレーゾーン」としてきたが、2017年1月13日（同12日深夜）放送のテレビ東京『じっくり聞いタロウ〜スター近況（秘）報告〜』出演時に、ゲイであることを告白した（詳細後述）。\r\n1月9日、テレビ朝日にて放映された『人気声優200人が本気で選んだ!声優総選挙!3時間SP』で第24位に選ばれる。\r\n\r\n10歳で中部日本放送で放送されていた素人ちびっ子のど自慢番組『どんぐり音楽会』に出場し、優勝。これをきっかけとしてテレビ業界に興味を持つようになり、中学校入学と同時に巣山プロダクションに入所。子役としてのデビューは、『名探偵カッチン』のエキストラ。翌年、その後番組である『海から来た平太』のオーディションを受け、主役として合格。\r\nその後は、地元名古屋だけでなく近畿地方にも進出し、関西テレビや近畿地区のNHK、京都の撮影所などでも仕事をこなすようになる。またNHK名古屋で制作されていた『中学生群像』（『中学生日記』の前身）に出演し、全国放送にも登場するようになった。自ら「腐れ縁」と称する戸田恵子や竹下景子との付き合いはこの頃からである。また互いに独身でもある戸田とは年に一度は海外旅行に行くほどであり、戸田のブログで度々話題に挙がっているほか、戸田からは「ゆうこりん」の愛称で呼ばれており、『それいけ!アンパンマン』では30年もの長期に渡りセミレギュラーでいるため、旧知の仲である。\r\n高校卒業後、専門学校に入学し上京して大人の役者を目指すも途端にオーディションに通らなくなった。その理由について三ツ矢は身長が158センチしかなかったことを理由に挙げている。演出・脚本などの基礎を学びながらアルバイト生活を送る中、話を受けて人形劇『プルルくん』に出演。これが、声のみでは初の仕事となった。また、俳優としても刑事ドラマ・時代劇などに出演するようになった。\r\n専門学校卒業後には、明治大学文学部文芸学科に合格し、大学生となった。その後『プルルくん』最終回後の打ち上げにおいて、永井一郎に勧められたことがきっかけとなり、アニメ『超電磁ロボ コン・バトラーV』のオーディションに参加（詳細は後述）。結果主役に抜擢され、以後声優としてのキャリアを積み重ねていくこととなった。\r\n仕事が順調に増え、1984年には声優仲間を集めてミュージカル劇団を設立するが、赤字がかさんで1990年には無一文になってしまう。その際、養成学校の講師と演劇雑誌の編集長の話を持ちかけられる。三ツ矢にとってどちらも経験のない分野だったが、それを引き受け翌91年より養成に携わる。1997年には養成所「ミツヤプロジェクト」と劇団「アルターエゴ」を結成。\r\n声優活動、ディズニー作品などの吹替えなどに出演する一方、声優育成のための後進指導を行う。『るろうに剣心 -明治剣客浪漫譚-』で初めて音響監督を担当して以降、スタッフ業にも進出（音響監督業では、録音演出またはアフレコ演出の肩書きも持つ）。\r\n2011年10月に、テレビ番組『お願い!ランキング』の声優特集に顔出し出演して以降、民放各局のバラエティ番組にゲスト出演することが増えている。\r\n2013年、第7回声優アワード「富山敬賞」を受賞。\r\n2017年1月25日に三ツ矢雄二、井上和彦、水島裕の3人でランティスからFULL KabsとしてCDをリリースした。",
+            "career": [
+              "producer",
+              "artist",
+              "seiyu",
+              "actor"
+            ],
+            "id": 3249,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 195942
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/16/26/195943_crt_y5d54.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/16/26/195943_crt_y5d54.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/16/26/195943_crt_y5d54.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/16/26/195943_crt_y5d54.jpg"
+        },
+        "name": "エリーズ",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/1b/d3/4171_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/1b/d3/4171_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/1b/d3/4171_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/1b/d3/4171_seiyu_anidb.jpg"
+            },
+            "name": "玉川砂記子",
+            "short_summary": "玉川砂记子，本名池田砂记子（旧姓：玉川）。是日本的女性声优。东京都出身。丈夫是为声优的池田秀一。",
+            "career": [
+              "artist",
+              "seiyu"
+            ],
+            "id": 4171,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 195943
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d1/8a/195944_crt_31A1J.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d1/8a/195944_crt_31A1J.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d1/8a/195944_crt_31A1J.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d1/8a/195944_crt_31A1J.jpg"
+        },
+        "name": "メリー・バトマン",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/7d/26/20931_prsn_aRbyH.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/7d/26/20931_prsn_aRbyH.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/7d/26/20931_prsn_aRbyH.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7d/26/20931_prsn_aRbyH.jpg"
+            },
+            "name": "上田みゆき",
+            "short_summary": "1954年、ニッポン放送のラジオ番組『ポッポちゃん』で子役としてデビューし、一世を風靡した。役名“ポッポちゃん”と呼ばれアイドルとして親しまれていた。その可憐な愛くるしさは、フジテレビの人気番組『少年探偵団』でも人気を博していた。\r\n\r\n劇団NLT時代は、その看板女優として活躍、フランス・ブールバール劇、邦題『マカロニ金融』ではかつての名優、森雅之と共演。\r\n\r\n1981年、ささきいさおと子連れで再婚。その時の苦労が、夫との共著『子連れ再婚の片道切符』（1986年出版）に書かれている。\r\n\r\nなお、同じく声優の森功至とは幼なじみ。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 20931,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 195944
       }
     ],
     "subjects": [
@@ -3967,7 +4123,7 @@
         "id": 469888
       }
     ],
-    "updatedAt": "2025-12-25T11:40:57.217Z"
+    "updatedAt": "2025-12-26T11:41:11.370Z"
   },
   {
     "id": 37198,
@@ -5530,7 +5686,7 @@
         "id": 476470
       }
     ],
-    "updatedAt": "2025-12-25T11:42:34.962Z"
+    "updatedAt": "2025-12-26T11:42:43.530Z"
   },
   {
     "id": 41982,
@@ -7924,7 +8080,7 @@
         "id": 215106
       }
     ],
-    "updatedAt": "2025-12-25T11:43:50.512Z"
+    "updatedAt": "2025-12-26T11:43:58.992Z"
   },
   {
     "id": 53755,
@@ -9196,7 +9352,7 @@
         "id": 499326
       }
     ],
-    "updatedAt": "2025-12-25T11:45:14.641Z"
+    "updatedAt": "2025-12-26T11:45:22.777Z"
   },
   {
     "id": 72394,
@@ -9668,7 +9824,7 @@
         "id": 469890
       }
     ],
-    "updatedAt": "2025-12-25T11:47:00.887Z"
+    "updatedAt": "2025-12-26T11:47:12.526Z"
   },
   {
     "id": 85367,
@@ -10044,7 +10200,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-25T11:48:37.689Z"
+    "updatedAt": "2025-12-26T11:48:49.378Z"
   },
   {
     "id": 213669,
@@ -12203,7 +12359,7 @@
         "id": 581275
       }
     ],
-    "updatedAt": "2025-12-25T11:58:29.971Z"
+    "updatedAt": "2025-12-26T11:59:09.735Z"
   },
   {
     "id": 381162,
@@ -12402,7 +12558,7 @@
         "id": 513602
       }
     ],
-    "updatedAt": "2025-12-25T12:08:46.425Z"
+    "updatedAt": "2025-12-26T12:10:41.308Z"
   },
   {
     "id": 381165,
@@ -12607,6 +12763,6 @@
         "id": 467514
       }
     ],
-    "updatedAt": "2025-12-25T12:08:47.539Z"
+    "updatedAt": "2025-12-26T12:10:41.680Z"
   }
 ]

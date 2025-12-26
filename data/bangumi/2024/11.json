@@ -22,7 +22,7 @@
         },
         {
           "name": "英雄联盟",
-          "count": 789,
+          "count": 790,
           "total_cont": 0
         },
         {
@@ -141,12 +141,12 @@
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "魔法",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "魔法",
+          "name": "剧情",
           "count": 9,
           "total_cont": 0
         },
@@ -230,8 +230,8 @@
         }
       ],
       "rating": {
-        "rank": 1688,
-        "total": 4737,
+        "rank": 1687,
+        "total": 4739,
         "count": {
           "1": 60,
           "2": 18,
@@ -239,7 +239,7 @@
           "4": 97,
           "5": 187,
           "6": 667,
-          "7": 1555,
+          "7": 1557,
           "8": 1456,
           "9": 449,
           "10": 213
@@ -251,7 +251,7 @@
         "on_hold": 186,
         "dropped": 139,
         "wish": 1022,
-        "collect": 6697,
+        "collect": 6700,
         "doing": 638
       },
       "id": 358801,
@@ -1060,7 +1060,7 @@
         "id": 531214
       }
     ],
-    "updatedAt": "2025-12-25T12:07:52.488Z"
+    "updatedAt": "2025-12-26T12:09:44.210Z"
   },
   {
     "id": 473412,
@@ -1129,22 +1129,7 @@
           "total_cont": 0
         },
         {
-          "name": "ヤマトナオミチ",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "大和直道",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "玉盛顺一朗",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "西崎义展",
           "count": 1,
           "total_cont": 0
         },
@@ -1155,6 +1140,16 @@
         },
         {
           "name": "战斗",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "ヤマトナオミチ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "玉盛顺一朗",
           "count": 1,
           "total_cont": 0
         },
@@ -1180,6 +1175,11 @@
         },
         {
           "name": "结城信辉",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "西崎义展",
           "count": 1,
           "total_cont": 0
         }
@@ -1248,7 +1248,7 @@
         "on_hold": 3,
         "dropped": 3,
         "wish": 31,
-        "collect": 49,
+        "collect": 50,
         "doing": 10
       },
       "id": 473412,
@@ -1917,7 +1917,7 @@
         "id": 525146
       }
     ],
-    "updatedAt": "2025-12-25T12:12:07.411Z"
+    "updatedAt": "2025-12-26T12:14:05.823Z"
   },
   {
     "id": 476683,
@@ -2377,7 +2377,7 @@
         "id": 540398
       }
     ],
-    "updatedAt": "2025-12-25T12:12:14.644Z"
+    "updatedAt": "2025-12-26T12:14:12.940Z"
   },
   {
     "id": 487318,
@@ -2949,7 +2949,7 @@
         "id": 303078
       }
     ],
-    "updatedAt": "2025-12-25T12:12:35.262Z"
+    "updatedAt": "2025-12-26T12:14:34.128Z"
   },
   {
     "id": 492951,
@@ -3206,22 +3206,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
-        },
-        "name": "高松信司",
-        "relation": "导演",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1280,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/9e/81/9470_prsn_48Vwy.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/9e/81/9470_prsn_48Vwy.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/9e/81/9470_prsn_48Vwy.jpg",
@@ -3269,6 +3253,22 @@
         ],
         "type": 1,
         "id": 9470,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
+        },
+        "name": "高松信司",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1280,
         "eps": ""
       },
       {
@@ -3333,38 +3333,6 @@
         ],
         "type": 1,
         "id": 11532,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
-        },
-        "name": "高松信司",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1280,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
-        },
-        "name": "高松信司",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1280,
         "eps": ""
       },
       {
@@ -3510,6 +3478,38 @@
         "type": 1,
         "id": 28849,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
+        },
+        "name": "高松信司",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1280,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
+        },
+        "name": "高松信司",
+        "relation": "导演",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1280,
+        "eps": ""
       }
     ],
     "characters": [
@@ -3637,7 +3637,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-12-25T12:12:42.027Z"
+    "updatedAt": "2025-12-26T12:14:41.458Z"
   },
   {
     "id": 497924,
@@ -3863,7 +3863,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-25T12:12:47.995Z"
+    "updatedAt": "2025-12-26T12:14:47.196Z"
   },
   {
     "id": 500060,
@@ -4122,7 +4122,7 @@
         "id": 480096
       }
     ],
-    "updatedAt": "2025-12-25T12:12:51.082Z"
+    "updatedAt": "2025-12-26T12:14:50.383Z"
   },
   {
     "id": 501859,
@@ -4211,17 +4211,17 @@
           "total_cont": 0
         },
         {
+          "name": "奇幻",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "スタジオKAI",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "科幻",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "奇幻",
           "count": 3,
           "total_cont": 0
         },
@@ -4445,17 +4445,17 @@
         }
       ],
       "rating": {
-        "rank": 4188,
-        "total": 320,
+        "rank": 4180,
+        "total": 322,
         "count": {
           "1": 1,
           "2": 0,
           "3": 1,
           "4": 5,
           "5": 26,
-          "6": 100,
+          "6": 101,
           "7": 139,
-          "8": 43,
+          "8": 44,
           "9": 4,
           "10": 1
         },
@@ -4463,10 +4463,10 @@
       },
       "total_episodes": 2,
       "collection": {
-        "on_hold": 18,
+        "on_hold": 17,
         "dropped": 11,
         "wish": 188,
-        "collect": 535,
+        "collect": 538,
         "doing": 40
       },
       "id": 501859,
@@ -8792,7 +8792,7 @@
         "id": 548127
       }
     ],
-    "updatedAt": "2025-12-25T12:12:58.500Z"
+    "updatedAt": "2025-12-26T12:14:57.526Z"
   },
   {
     "id": 501937,
@@ -9374,7 +9374,7 @@
         "id": 510484
       }
     ],
-    "updatedAt": "2025-12-25T12:12:59.104Z"
+    "updatedAt": "2025-12-26T12:14:57.982Z"
   },
   {
     "id": 505080,
@@ -9671,7 +9671,7 @@
         "id": 493630
       }
     ],
-    "updatedAt": "2025-12-25T12:13:04.404Z"
+    "updatedAt": "2025-12-26T12:15:03.574Z"
   },
   {
     "id": 508708,
@@ -9696,7 +9696,7 @@
         },
         {
           "name": "进击的巨人",
-          "count": 238,
+          "count": 240,
           "total_cont": 0
         },
         {
@@ -9721,7 +9721,7 @@
         },
         {
           "name": "漫画改",
-          "count": 105,
+          "count": 106,
           "total_cont": 0
         },
         {
@@ -9770,11 +9770,6 @@
           "total_cont": 0
         },
         {
-          "name": "神作",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "战争",
           "count": 5,
           "total_cont": 0
@@ -9785,17 +9780,27 @@
           "total_cont": 0
         },
         {
+          "name": "神作",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "泽野弘之",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "2025",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "2025",
+          "name": "梶裕貴",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
@@ -9810,32 +9815,27 @@
           "total_cont": 0
         },
         {
-          "name": "梶裕貴",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "2024年11月",
+          "name": "補記",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "20",
+          "name": "日漫",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "猎奇",
+          "name": "群像",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "燃",
+          "name": "悬疑",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "WITSTUDIO",
+          "name": "未",
           "count": 1,
           "total_cont": 0
         }
@@ -9880,7 +9880,7 @@
       ],
       "rating": {
         "rank": 460,
-        "total": 1277,
+        "total": 1279,
         "count": {
           "1": 15,
           "2": 4,
@@ -9890,8 +9890,8 @@
           "6": 106,
           "7": 314,
           "8": 460,
-          "9": 163,
-          "10": 176
+          "9": 164,
+          "10": 177
         },
         "score": 7.8
       },
@@ -9899,8 +9899,8 @@
       "collection": {
         "on_hold": 68,
         "dropped": 54,
-        "wish": 389,
-        "collect": 2762,
+        "wish": 391,
+        "collect": 2765,
         "doing": 62
       },
       "id": 508708,
@@ -10333,7 +10333,7 @@
         "id": 415779
       }
     ],
-    "updatedAt": "2025-12-25T12:13:10.706Z"
+    "updatedAt": "2025-12-26T12:15:10.291Z"
   },
   {
     "id": 513948,
@@ -10372,12 +10372,12 @@
           "total_cont": 0
         },
         {
-          "name": "百合",
+          "name": "2024年10月",
           "count": 56,
           "total_cont": 0
         },
         {
-          "name": "2024年10月",
+          "name": "百合",
           "count": 56,
           "total_cont": 0
         },
@@ -10432,27 +10432,7 @@
           "total_cont": 0
         },
         {
-          "name": "みかみてれん",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "僵尸",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "末世",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "剧本杀",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "Ziine",
           "count": 2,
           "total_cont": 0
         },
@@ -10462,42 +10442,62 @@
           "total_cont": 0
         },
         {
-          "name": "2024年10月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "日漫",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "佳原萌枝",
+          "name": "末世",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "2024年10月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "Ziine",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "剧本杀",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "みかみてれん",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "超能力",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "ENTJ",
+          "name": "秋季番",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "架空现实",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "(画面)一般",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "轻百合",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "Ziine_studio",
+          "name": "奇幻",
           "count": 1,
           "total_cont": 0
         }
@@ -10629,7 +10629,7 @@
         }
       ],
       "rating": {
-        "rank": 8779,
+        "rank": 8780,
         "total": 370,
         "count": {
           "1": 0,
@@ -10649,9 +10649,9 @@
       "collection": {
         "on_hold": 19,
         "dropped": 51,
-        "wish": 113,
+        "wish": 112,
         "collect": 494,
-        "doing": 44
+        "doing": 45
       },
       "id": 513948,
       "eps": 6,
@@ -11309,7 +11309,7 @@
         "id": 570101
       }
     ],
-    "updatedAt": "2025-12-25T12:13:18.864Z"
+    "updatedAt": "2025-12-26T12:15:19.049Z"
   },
   {
     "id": 515201,
@@ -11547,7 +11547,7 @@
         "id": 585457
       }
     ],
-    "updatedAt": "2025-12-25T12:13:19.769Z"
+    "updatedAt": "2025-12-26T12:15:20.655Z"
   },
   {
     "id": 518603,
@@ -11758,7 +11758,7 @@
         }
       ],
       "rating": {
-        "rank": 4636,
+        "rank": 4637,
         "total": 97,
         "count": {
           "1": 1,
@@ -13448,7 +13448,7 @@
         "id": 541408
       }
     ],
-    "updatedAt": "2025-12-25T12:13:23.788Z"
+    "updatedAt": "2025-12-26T12:15:24.075Z"
   },
   {
     "id": 526102,
@@ -13579,6 +13579,6 @@
         "id": 613379
       }
     ],
-    "updatedAt": "2025-12-25T12:13:32.278Z"
+    "updatedAt": "2025-12-26T12:15:32.362Z"
   }
 ]

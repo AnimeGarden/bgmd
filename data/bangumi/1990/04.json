@@ -52,7 +52,7 @@
         },
         {
           "name": "科幻",
-          "count": 158,
+          "count": 159,
           "total_cont": 0
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "name": "冒险",
-          "count": 11,
+          "count": 12,
           "total_cont": 0
         },
         {
@@ -111,12 +111,12 @@
           "total_cont": 0
         },
         {
-          "name": "アニメ",
+          "name": "東宝",
           "count": 9,
           "total_cont": 0
         },
         {
-          "name": "東宝",
+          "name": "アニメ",
           "count": 9,
           "total_cont": 0
         },
@@ -293,7 +293,7 @@
         }
       ],
       "rating": {
-        "rank": 575,
+        "rank": 576,
         "total": 1500,
         "count": {
           "1": 0,
@@ -313,7 +313,7 @@
       "collection": {
         "on_hold": 268,
         "dropped": 76,
-        "wish": 1731,
+        "wish": 1732,
         "collect": 2032,
         "doing": 239
       },
@@ -2665,7 +2665,7 @@
         "id": 568164
       }
     ],
-    "updatedAt": "2025-12-25T11:32:37.270Z"
+    "updatedAt": "2025-12-26T11:32:53.449Z"
   },
   {
     "id": 8622,
@@ -2915,7 +2915,7 @@
         }
       ],
       "rating": {
-        "rank": 2202,
+        "rank": 2201,
         "total": 54,
         "count": {
           "1": 0,
@@ -4381,7 +4381,7 @@
         "id": 375693
       }
     ],
-    "updatedAt": "2025-12-25T11:36:56.582Z"
+    "updatedAt": "2025-12-26T11:37:13.007Z"
   },
   {
     "id": 10408,
@@ -4741,7 +4741,7 @@
         }
       ],
       "rating": {
-        "rank": 2284,
+        "rank": 2285,
         "total": 56,
         "count": {
           "1": 0,
@@ -7428,7 +7428,7 @@
         "id": 565050
       }
     ],
-    "updatedAt": "2025-12-25T11:37:55.969Z"
+    "updatedAt": "2025-12-26T11:38:12.043Z"
   },
   {
     "id": 11730,
@@ -8788,7 +8788,7 @@
         "id": 454183
       }
     ],
-    "updatedAt": "2025-12-25T11:38:32.172Z"
+    "updatedAt": "2025-12-26T11:38:48.039Z"
   },
   {
     "id": 87782,
@@ -9799,7 +9799,7 @@
         "id": 439648
       }
     ],
-    "updatedAt": "2025-12-25T11:48:49.445Z"
+    "updatedAt": "2025-12-26T11:49:01.514Z"
   },
   {
     "id": 131171,
@@ -10294,6 +10294,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
+        },
+        "name": "高松信司",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1280,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -10760,22 +10776,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d7/64/1280_prsn_R338d.jpg"
-        },
-        "name": "高松信司",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1280,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/dd/2d/2886_prsn_QU690.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/dd/2d/2886_prsn_QU690.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/dd/2d/2886_prsn_QU690.jpg",
@@ -10946,6 +10946,6 @@
         "id": 141050
       }
     ],
-    "updatedAt": "2025-12-25T11:52:34.611Z"
+    "updatedAt": "2025-12-26T11:52:48.741Z"
   }
 ]
