@@ -81,12 +81,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "瑞鷹",
           "count": 11,
           "total_cont": 0
         },
         {
-          "name": "瑞鷹",
+          "name": "日本",
           "count": 11,
           "total_cont": 0
         },
@@ -106,17 +106,7 @@
           "total_cont": 0
         },
         {
-          "name": "1974年1月",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "1970s",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "70s",
+          "name": "补旧番",
           "count": 4,
           "total_cont": 0
         },
@@ -131,8 +121,23 @@
           "total_cont": 0
         },
         {
-          "name": "补旧番",
+          "name": "1970s",
           "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "70s",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "1974年1月",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "子供向",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -151,17 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "子供向",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
+          "name": "TVB",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "佐々木守",
+          "name": "日本动画公司",
           "count": 2,
           "total_cont": 0
         }
@@ -258,7 +258,7 @@
         }
       ],
       "rating": {
-        "rank": 547,
+        "rank": 546,
         "total": 287,
         "count": {
           "1": 1,
@@ -278,7 +278,7 @@
       "collection": {
         "on_hold": 88,
         "dropped": 38,
-        "wish": 599,
+        "wish": 598,
         "collect": 440,
         "doing": 91
       },
@@ -1214,7 +1214,7 @@
         "id": 613378
       }
     ],
-    "updatedAt": "2025-12-26T11:36:11.155Z"
+    "updatedAt": "2025-12-27T11:34:33.558Z"
   },
   {
     "id": 220026,
@@ -1421,6 +1421,38 @@
     "persons": [
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/fe/f7/11891_prsn_Szp7u.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/fe/f7/11891_prsn_Szp7u.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/fe/f7/11891_prsn_Szp7u.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/fe/f7/11891_prsn_Szp7u.jpg"
+        },
+        "name": "スタジオじゃっく",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 11891,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "ふくもとかん",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2078,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/bf/fc/1483_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/bf/fc/1483_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/bf/fc/1483_prsn_anidb.jpg",
@@ -1433,38 +1465,6 @@
         ],
         "type": 1,
         "id": 1483,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/bf/fc/1483_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/bf/fc/1483_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/bf/fc/1483_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/bf/fc/1483_prsn_anidb.jpg"
-        },
-        "name": "石黒昇",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1483,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
-        },
-        "name": "富野由悠季",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 613,
         "eps": ""
       },
       {
@@ -1501,34 +1501,50 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/bf/fc/1483_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/bf/fc/1483_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/bf/fc/1483_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/bf/fc/1483_prsn_anidb.jpg"
         },
-        "name": "ふくもとかん",
-        "relation": "作画监督",
+        "name": "石黒昇",
+        "relation": "分镜",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 2078,
+        "id": 1483,
         "eps": ""
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/fe/f7/11891_prsn_Szp7u.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/fe/f7/11891_prsn_Szp7u.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/fe/f7/11891_prsn_Szp7u.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/fe/f7/11891_prsn_Szp7u.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
         },
-        "name": "スタジオじゃっく",
-        "relation": "背景美术",
+        "name": "富野由悠季",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 613,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/32/50/791_prsn_nnb13.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/32/50/791_prsn_nnb13.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/32/50/791_prsn_nnb13.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/32/50/791_prsn_nnb13.jpg"
+        },
+        "name": "日本アニメーション",
+        "relation": "动画制作",
         "career": [
           "producer"
         ],
         "type": 2,
-        "id": 11891,
+        "id": 791,
         "eps": ""
       },
       {
@@ -1550,6 +1566,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2025-12-26T11:59:42.104Z"
+    "updatedAt": "2025-12-27T11:57:48.120Z"
   }
 ]

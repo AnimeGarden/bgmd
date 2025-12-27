@@ -101,11 +101,6 @@
           "total_cont": 0
         },
         {
-          "name": "經典",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "奇幻",
           "count": 4,
           "total_cont": 0
@@ -116,12 +111,12 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
-          "count": 3,
+          "name": "經典",
+          "count": 4,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "子供向",
           "count": 3,
           "total_cont": 0
         },
@@ -131,23 +126,18 @@
           "total_cont": 0
         },
         {
-          "name": "子供向",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "2001年3月",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "SF",
-          "count": 2,
+          "name": "日本动画",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "映画",
-          "count": 2,
+          "name": "战斗",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -156,12 +146,22 @@
           "total_cont": 0
         },
         {
-          "name": "movie",
+          "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "アニメ映画",
+          "name": "2001年3月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "冒险",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "movie",
           "count": 2,
           "total_cont": 0
         }
@@ -327,7 +327,7 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 18,
+        "on_hold": 19,
         "dropped": 18,
         "wish": 64,
         "collect": 1216,
@@ -2059,7 +2059,7 @@
         "id": 121749
       }
     ],
-    "updatedAt": "2025-12-26T11:30:51.478Z"
+    "updatedAt": "2025-12-27T11:29:11.390Z"
   },
   {
     "id": 1871,
@@ -2084,17 +2084,17 @@
         },
         {
           "name": "海贼王",
-          "count": 142,
+          "count": 143,
           "total_cont": 0
         },
         {
           "name": "2001年3月",
-          "count": 76,
+          "count": 77,
           "total_cont": 0
         },
         {
           "name": "热血",
-          "count": 55,
+          "count": 56,
           "total_cont": 0
         },
         {
@@ -2118,13 +2118,13 @@
           "total_cont": 0
         },
         {
-          "name": "JUMP",
+          "name": "战斗",
           "count": 24,
           "total_cont": 0
         },
         {
-          "name": "战斗",
-          "count": 23,
+          "name": "JUMP",
+          "count": 24,
           "total_cont": 0
         },
         {
@@ -2178,17 +2178,17 @@
           "total_cont": 0
         },
         {
+          "name": "日本",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "2001年3月",
           "count": 5,
           "total_cont": 0
         },
         {
           "name": "东映动画",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
           "count": 5,
           "total_cont": 0
         },
@@ -2208,22 +2208,22 @@
           "total_cont": 0
         },
         {
-          "name": "橋本裕志",
+          "name": "电影",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "动画电影",
+          "name": "海贼",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "动作",
+          "name": "搞笑",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "剧场",
+          "name": "童年",
           "count": 2,
           "total_cont": 0
         }
@@ -2294,8 +2294,8 @@
         }
       ],
       "rating": {
-        "rank": 3930,
-        "total": 576,
+        "rank": 3910,
+        "total": 578,
         "count": {
           "1": 2,
           "2": 1,
@@ -2303,8 +2303,8 @@
           "4": 8,
           "5": 46,
           "6": 185,
-          "7": 231,
-          "8": 69,
+          "7": 232,
+          "8": 70,
           "9": 16,
           "10": 16
         },
@@ -2312,10 +2312,10 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 16,
+        "on_hold": 17,
         "dropped": 19,
         "wish": 51,
-        "collect": 1123,
+        "collect": 1125,
         "doing": 7
       },
       "id": 1871,
@@ -2968,7 +2968,7 @@
         "id": 144667
       }
     ],
-    "updatedAt": "2025-12-26T11:32:31.813Z"
+    "updatedAt": "2025-12-27T11:30:54.384Z"
   },
   {
     "id": 3136,
@@ -3042,18 +3042,23 @@
           "total_cont": 0
         },
         {
-          "name": "劇場版",
+          "name": "数码兽",
           "count": 14,
           "total_cont": 0
         },
         {
-          "name": "数码兽",
+          "name": "劇場版",
           "count": 14,
           "total_cont": 0
         },
         {
           "name": "2001年3月",
           "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "热血",
+          "count": 7,
           "total_cont": 0
         },
         {
@@ -3067,16 +3072,6 @@
           "total_cont": 0
         },
         {
-          "name": "热血",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "白·帝皇龙甲兽",
           "count": 5,
           "total_cont": 0
@@ -3087,7 +3082,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "动画",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "デジモン",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "科幻",
           "count": 4,
           "total_cont": 0
         },
@@ -3102,18 +3107,8 @@
           "total_cont": 0
         },
         {
-          "name": "デジモン",
+          "name": "日本",
           "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "科幻",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "子供向",
-          "count": 3,
           "total_cont": 0
         },
         {
@@ -3122,8 +3117,8 @@
           "total_cont": 0
         },
         {
-          "name": "剧场",
-          "count": 2,
+          "name": "子供向",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -3132,7 +3127,12 @@
           "total_cont": 0
         },
         {
-          "name": "2000s",
+          "name": "游戏改",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "童年系列",
           "count": 2,
           "total_cont": 0
         }
@@ -3187,7 +3187,7 @@
         }
       ],
       "rating": {
-        "rank": 3816,
+        "rank": 3814,
         "total": 476,
         "count": {
           "1": 4,
@@ -3205,7 +3205,7 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 13,
+        "on_hold": 14,
         "dropped": 27,
         "wish": 86,
         "collect": 834,
@@ -4959,7 +4959,7 @@
         "id": 94315
       }
     ],
-    "updatedAt": "2025-12-26T11:34:23.994Z"
+    "updatedAt": "2025-12-27T11:32:47.100Z"
   },
   {
     "id": 25665,
@@ -5174,7 +5174,7 @@
         }
       ],
       "rating": {
-        "rank": 2072,
+        "rank": 2071,
         "total": 407,
         "count": {
           "1": 0,
@@ -5963,7 +5963,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2025-12-26T11:41:14.613Z"
+    "updatedAt": "2025-12-27T11:39:37.322Z"
   },
   {
     "id": 44758,
@@ -6169,7 +6169,7 @@
         }
       ],
       "rating": {
-        "rank": 5009,
+        "rank": 5008,
         "total": 247,
         "count": {
           "1": 6,
@@ -6521,7 +6521,7 @@
         "id": 77211
       }
     ],
-    "updatedAt": "2025-12-26T11:44:13.424Z"
+    "updatedAt": "2025-12-27T11:42:38.161Z"
   },
   {
     "id": 84222,
@@ -7554,6 +7554,6 @@
         "id": 564092
       }
     ],
-    "updatedAt": "2025-12-26T11:48:35.602Z"
+    "updatedAt": "2025-12-27T11:47:04.488Z"
   }
 ]
