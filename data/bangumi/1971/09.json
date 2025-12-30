@@ -140,6 +140,10 @@
           "value": "1972年6月24日"
         },
         {
+          "key": "导演",
+          "value": "演出：吉川惣司（第1 - 22回）→斉藤博、岡部英二（第23 - 最終回）"
+        },
+        {
           "key": "音乐",
           "value": "渡辺岳夫（作曲）、松山祐士（編曲、ノンクレジット）"
         },
@@ -154,6 +158,26 @@
         {
           "key": "製作",
           "value": "よみうりテレビ（読売テレビ）、東京ムービー"
+        },
+        {
+          "key": "原画",
+          "value": "塩山紀生、米川功真、斉藤博、百瀬義行、内山正幸、羽根章悦、飯村一夫、奥田誠治、小林治"
+        },
+        {
+          "key": "补间动画",
+          "value": "日下部光雄、山田道代、本多敏行"
+        },
+        {
+          "key": "演出助理",
+          "value": "向坪利次、田中実"
+        },
+        {
+          "key": "脚本",
+          "value": "吉田喜昭、大西洋三、織田健也、松元力、藤川桂介、小田健也、七条門、小森豪人、吉田秀子、小森幸信、雪室俊一、椋誠一、辻真先"
+        },
+        {
+          "key": "分镜",
+          "value": "北川一夫、新田義方、羽根章悦、出﨑哲、風間幸雄、小泉謙三、佐々木正広、高倉健一、岡崎稔、奥田誠治、小華和ためお、南阿佐（富野由悠季）、吉川惣司、斎藤博、平田敏夫"
         }
       ],
       "rating": {
@@ -195,38 +219,6 @@
       "type": 2
     },
     "persons": [
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "東京ムービー",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 1931,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/4b/0a/304_prsn_iUu11.jpg?r=1489920776",
-          "grid": "https://lain.bgm.tv/pic/crt/g/4b/0a/304_prsn_iUu11.jpg?r=1489920776",
-          "large": "https://lain.bgm.tv/pic/crt/l/4b/0a/304_prsn_iUu11.jpg?r=1489920776",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/4b/0a/304_prsn_iUu11.jpg?r=1489920776"
-        },
-        "name": "明田川進",
-        "relation": "音响监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 304,
-        "eps": ""
-      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/74/89/14592_prsn_B9EEJ.jpg?r=1740286054",
@@ -438,6 +430,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b3/19/1926_prsn_9xNUh.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b3/19/1926_prsn_9xNUh.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b3/19/1926_prsn_9xNUh.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b3/19/1926_prsn_9xNUh.jpg"
+        },
+        "name": "新田義方",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1926,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -454,18 +462,50 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d4/90/600_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d4/90/600_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d4/90/600_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d4/90/600_prsn_anidb.jpg"
         },
-        "name": "山崎修二",
+        "name": "平田敏夫",
         "relation": "分镜",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 2677,
+        "id": 600,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7f/b9/1927_prsn_ikE3j.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7f/b9/1927_prsn_ikE3j.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7f/b9/1927_prsn_ikE3j.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7f/b9/1927_prsn_ikE3j.jpg"
+        },
+        "name": "小華和ためお",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1927,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "斎藤博",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1461,
         "eps": ""
       },
       {
@@ -482,6 +522,38 @@
         ],
         "type": 1,
         "id": 3051,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
+        },
+        "name": "富野由悠季",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 613,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "山崎修二",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2677,
         "eps": ""
       },
       {
@@ -518,34 +590,34 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
-        },
-        "name": "富野由悠季",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 613,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
           "medium": ""
         },
-        "name": "斎藤博",
+        "name": "松元力",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 74028,
+        "eps": "3.1,4.1,7.2"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/20/3c/1687_prsn_46oAd.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/20/3c/1687_prsn_46oAd.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/20/3c/1687_prsn_46oAd.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/20/3c/1687_prsn_46oAd.jpg"
+        },
+        "name": "小泉謙三",
         "relation": "分镜",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 1461,
+        "id": 1687,
         "eps": ""
       },
       {
@@ -566,34 +638,34 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d4/90/600_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d4/90/600_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d4/90/600_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d4/90/600_prsn_anidb.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/4b/0a/304_prsn_iUu11.jpg?r=1489920776",
+          "grid": "https://lain.bgm.tv/pic/crt/g/4b/0a/304_prsn_iUu11.jpg?r=1489920776",
+          "large": "https://lain.bgm.tv/pic/crt/l/4b/0a/304_prsn_iUu11.jpg?r=1489920776",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/4b/0a/304_prsn_iUu11.jpg?r=1489920776"
         },
-        "name": "平田敏夫",
-        "relation": "分镜",
+        "name": "明田川進",
+        "relation": "音响监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 600,
+        "id": 304,
         "eps": ""
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b3/19/1926_prsn_9xNUh.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/b3/19/1926_prsn_9xNUh.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/b3/19/1926_prsn_9xNUh.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b3/19/1926_prsn_9xNUh.jpg"
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
         },
-        "name": "新田義方",
-        "relation": "演出",
+        "name": "東京ムービー",
+        "relation": "动画制作",
         "career": [
           "producer"
         ],
-        "type": 1,
-        "id": 1926,
+        "type": 2,
+        "id": 1931,
         "eps": ""
       },
       {
@@ -619,14 +691,14 @@
           "large": "",
           "medium": ""
         },
-        "name": "松元力",
-        "relation": "脚本",
+        "name": "彦根範夫",
+        "relation": "分镜",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 74028,
-        "eps": "3.1,4.1,7.2"
+        "id": 85598,
+        "eps": ""
       }
     ],
     "characters": [
@@ -638,6 +710,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/34/e1/63073_crt_w6uZZ.jpg?r=1531809969"
         },
         "name": "パパ",
+        "summary": "無職。色々、テレビ的にどうなんだろう…なキャラクターたちの中で、一番、ダメだけど、パパに「これでいいのだ！」と言われると、これでいい気になってくる。",
         "relation": "主角",
         "actors": [],
         "type": 1,
@@ -651,6 +724,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e0/68/63074_crt_VoeM4.jpg?r=1531809982"
         },
         "name": "バカボン",
+        "summary": "2018年なのに、普段着は着物。バカボン家の長男。家の表札は、バカボンになってるから、家の名義はバカボンのものかもしれない。",
         "relation": "主角",
         "actors": [
           {
@@ -681,6 +755,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/38/de/63075_crt_xgGR2.jpg?r=1531809996"
         },
         "name": "ママ",
+        "summary": "「どうしてこのパパと結婚したの？」と誰もが思う美人だけど、パパと結婚したくらいだから、もしかしたら、一番のバカ！？",
         "relation": "主角",
         "actors": [
           {
@@ -711,6 +786,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/8f/a8/63077_crt_V5u1O.jpg?r=1531809953"
         },
         "name": "ハジメ",
+        "summary": "どこの番組に出しても、恥ずかしくない天才。バカボン家の次男。",
         "relation": "主角",
         "actors": [
           {
@@ -741,6 +817,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/90/21/63078_crt_eiIT5.jpg?r=1531809919"
         },
         "name": "本官",
+        "summary": "ピストルを撃ちまくる目ン玉がつながってる警察官。コンプライアンス的にも警察官にさせちゃだめな人。",
         "relation": "主角",
         "actors": [
           {
@@ -787,6 +864,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/62/b7/63080_crt_gpMLg.jpg?r=1531809931"
         },
         "name": "レレレのおじさん",
+        "summary": "今ではほとんど見かけない街を掃除してるおじさん。「おでかけですか」と話しかけるけど、近頃だと、通報されてしまうかも。",
         "relation": "主角",
         "actors": [
           {
@@ -817,6 +895,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6d/0d/63081_crt_M9m19.jpg"
         },
         "name": "ウナギイヌ",
+        "summary": "父はイヌ、母はウナギ。減り続けてるウナギの稚魚より、もっと珍しい生き物。",
         "relation": "主角",
         "actors": [],
         "type": 1,
@@ -881,6 +960,6 @@
         "id": 383050
       }
     ],
-    "updatedAt": "2025-12-27T11:49:22.149Z"
+    "updatedAt": "2025-12-30T11:53:54.101Z"
   }
 ]

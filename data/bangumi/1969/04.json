@@ -620,6 +620,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/17/d6/180987_crt_TZx84.jpg"
         },
         "name": "紅三四郎",
+        "summary": "父が創始した新格闘術“紅流”を受け継ぐ青年、紅三四郎。決闘で父を殺害した謎の格闘家を探し出して倒すため、真紅のバイクに跨り旅に出る。",
         "relation": "主角",
         "actors": [
           {
@@ -674,7 +675,7 @@
         "id": 416852
       }
     ],
-    "updatedAt": "2025-12-27T11:36:59.565Z"
+    "updatedAt": "2025-12-30T11:40:31.446Z"
   },
   {
     "id": 103132,
@@ -1190,7 +1191,7 @@
         "id": 498516
       }
     ],
-    "updatedAt": "2025-12-27T11:48:56.403Z"
+    "updatedAt": "2025-12-30T11:53:25.933Z"
   },
   {
     "id": 107454,
@@ -1289,27 +1290,7 @@
           "total_cont": 0
         },
         {
-          "name": "2019.1",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "虫プロダクション",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "治愈",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "奇幻",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
@@ -1319,42 +1300,62 @@
           "total_cont": 0
         },
         {
-          "name": "名作",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "60年代",
+          "name": "奇幻",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "名作",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日漫",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "治愈",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "2019.1",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "异世界",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1970.00",
+          "name": "不评论",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "魔幻",
+          "name": "手冢治虫",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "妖怪",
+          "name": "藤田淑子",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "泪目",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "赛璐珞",
+          "name": "待補2",
           "count": 1,
           "total_cont": 0
         }
@@ -1409,8 +1410,8 @@
         }
       ],
       "rating": {
-        "rank": 3204,
-        "total": 350,
+        "rank": 3183,
+        "total": 352,
         "count": {
           "1": 1,
           "2": 0,
@@ -1418,19 +1419,19 @@
           "4": 5,
           "5": 20,
           "6": 102,
-          "7": 146,
+          "7": 147,
           "8": 60,
           "9": 6,
-          "10": 10
+          "10": 11
         },
         "score": 6.8
       },
       "total_episodes": 26,
       "collection": {
-        "on_hold": 111,
+        "on_hold": 112,
         "dropped": 75,
         "wish": 290,
-        "collect": 818,
+        "collect": 821,
         "doing": 103
       },
       "id": 107454,
@@ -1882,6 +1883,22 @@
         "type": 1,
         "id": 1318,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "彦根範夫",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 85598,
+        "eps": "12"
       }
     ],
     "characters": [
@@ -1893,6 +1910,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/87/77/66142_crt_e881t.jpg?r=1537243424"
         },
         "name": "百鬼丸",
+        "summary": "生まれる際に12体の鬼神に奪われた身体を取り戻すために旅をしている。\r\n目が見えない代わりに他者の存在を炎のような光として認識し、\r\n義手に仕込んだ刀を振るって闘う。",
         "relation": "主角",
         "actors": [
           {
@@ -1924,6 +1942,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/45/98/66143_crt_zL66L.jpg?r=1537243638"
         },
         "name": "どろろ",
+        "summary": "根は優しいが、一方で生意気かつ強かな一面も持つ。\r\n鬼神に襲われていた所を百鬼丸に救われて以来、共に旅をするようになる。\r\n民を虐げる侍が嫌い。",
         "relation": "主角",
         "actors": [
           {
@@ -1954,6 +1973,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/0b/59/67596_crt_MU0oU.jpg"
         },
         "name": "縫の方",
+        "summary": "",
         "relation": "配角",
         "actors": [
           {
@@ -1984,6 +2004,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/0a/2e/67605_crt_FJ2fz.jpg"
         },
         "name": "醍醐景光",
+        "summary": "室町時代の武士。",
         "relation": "配角",
         "actors": [
           {
@@ -2014,6 +2035,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f0/5b/67606_crt_DxHIS.jpg"
         },
         "name": "多宝丸",
+        "summary": "百鬼丸の弟で醍醐景光の次男。百鬼丸が捨てられた後に生まれた。右目を盲いている。腕は立つが、それ以上に奸計や残忍さは父譲りのものがある。",
         "relation": "配角",
         "actors": [
           {
@@ -2081,6 +2103,6 @@
         "id": 503698
       }
     ],
-    "updatedAt": "2025-12-27T11:49:22.411Z"
+    "updatedAt": "2025-12-30T11:53:54.216Z"
   }
 ]

@@ -101,22 +101,22 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 10,
-          "total_cont": 0
-        },
-        {
           "name": "BLOOD系列",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "blood+",
-          "count": 9,
+          "name": "日本",
+          "count": 10,
           "total_cont": 0
         },
         {
           "name": "血腥",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
+          "name": "blood+",
           "count": 9,
           "total_cont": 0
         },
@@ -161,7 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "电影",
+          "name": "日本动画",
           "count": 4,
           "total_cont": 0
         }
@@ -205,7 +205,7 @@
         }
       ],
       "rating": {
-        "rank": 2191,
+        "rank": 2193,
         "total": 1203,
         "count": {
           "1": 0,
@@ -712,10 +712,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e1/c2/26960_prsn_kL7L7.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/e1/c2/26960_prsn_kL7L7.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/e1/c2/26960_prsn_kL7L7.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e1/c2/26960_prsn_kL7L7.jpg"
         },
         "name": "小村方宏治",
         "relation": "原画",
@@ -728,10 +728,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/bf/9b/1192_prsn_iIf9H.jpg?r=1731848484",
-          "grid": "https://lain.bgm.tv/pic/crt/g/bf/9b/1192_prsn_iIf9H.jpg?r=1731848484",
-          "large": "https://lain.bgm.tv/pic/crt/l/bf/9b/1192_prsn_iIf9H.jpg?r=1731848484",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/bf/9b/1192_prsn_iIf9H.jpg?r=1731848484"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/bf/9b/1192_prsn_7Iwaa.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/bf/9b/1192_prsn_7Iwaa.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/bf/9b/1192_prsn_7Iwaa.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/bf/9b/1192_prsn_7Iwaa.jpg"
         },
         "name": "黄瀬和哉",
         "relation": "作画监督",
@@ -1023,6 +1023,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/af/d8/12156_crt_Z0HyG.jpg?r=1636295071"
         },
         "name": "小夜",
+        "summary": "",
         "relation": "主角",
         "actors": [],
         "type": 1,
@@ -1129,7 +1130,7 @@
         "id": 617139
       }
     ],
-    "updatedAt": "2025-12-27T11:31:28.571Z"
+    "updatedAt": "2025-12-30T11:34:31.778Z"
   },
   {
     "id": 348822,
@@ -1583,6 +1584,6 @@
         "id": 425945
       }
     ],
-    "updatedAt": "2025-12-27T12:06:07.384Z"
+    "updatedAt": "2025-12-30T12:11:37.954Z"
   }
 ]
