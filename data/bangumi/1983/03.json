@@ -22,7 +22,7 @@
         },
         {
           "name": "哆啦A梦",
-          "count": 151,
+          "count": 152,
           "total_cont": 0
         },
         {
@@ -96,16 +96,6 @@
           "total_cont": 0
         },
         {
-          "name": "映画",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "喜剧",
           "count": 4,
           "total_cont": 0
@@ -116,8 +106,13 @@
           "total_cont": 0
         },
         {
-          "name": "劇場版",
-          "count": 3,
+          "name": "映画",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -126,22 +121,7 @@
           "total_cont": 0
         },
         {
-          "name": "子供向",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "80年代",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "动画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "奇幻",
           "count": 3,
           "total_cont": 0
         },
@@ -156,12 +136,32 @@
           "total_cont": 0
         },
         {
-          "name": "movie",
+          "name": "劇場版",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "80年代",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "奇幻",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "子供向",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "靜香",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "Shin-EiAnimation",
+          "name": "SHIN-EI动画",
           "count": 2,
           "total_cont": 0
         }
@@ -306,7 +306,7 @@
       ],
       "rating": {
         "rank": 2403,
-        "total": 596,
+        "total": 598,
         "count": {
           "1": 1,
           "2": 2,
@@ -314,7 +314,7 @@
           "4": 7,
           "5": 22,
           "6": 114,
-          "7": 273,
+          "7": 275,
           "8": 136,
           "9": 18,
           "10": 20
@@ -325,8 +325,8 @@
       "collection": {
         "on_hold": 18,
         "dropped": 17,
-        "wish": 65,
-        "collect": 1186,
+        "wish": 64,
+        "collect": 1188,
         "doing": 13
       },
       "id": 438,
@@ -1555,7 +1555,7 @@
         "id": 583519
       }
     ],
-    "updatedAt": "2025-12-31T11:30:57.851Z"
+    "updatedAt": "2026-01-01T11:30:47.557Z"
   },
   {
     "id": 37215,
@@ -2267,7 +2267,7 @@
         "id": 525887
       }
     ],
-    "updatedAt": "2025-12-31T11:43:49.877Z"
+    "updatedAt": "2026-01-01T11:42:26.660Z"
   },
   {
     "id": 74199,
@@ -2346,6 +2346,11 @@
           "total_cont": 0
         },
         {
+          "name": "SF",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "独立ova",
           "count": 2,
           "total_cont": 0
@@ -2353,51 +2358,6 @@
         {
           "name": "1983年",
           "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "SF",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "中中",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "山浦栄二",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "板野一郎",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "机战",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "中村光毅",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本SUNRISE",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "宇宙先锋",
-          "count": 1,
           "total_cont": 0
         },
         {
@@ -2431,7 +2391,47 @@
           "total_cont": 0
         },
         {
-          "name": "旧物",
+          "name": "OVA",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "中中",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "山浦栄二",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "板野一郎",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "机战",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "中村光毅",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "可看可不看",
           "count": 1,
           "total_cont": 0
         }
@@ -2519,7 +2519,7 @@
       "collection": {
         "on_hold": 9,
         "dropped": 8,
-        "wish": 78,
+        "wish": 79,
         "collect": 65,
         "doing": 6
       },
@@ -3316,7 +3316,7 @@
         "id": 540811
       }
     ],
-    "updatedAt": "2025-12-31T11:48:41.332Z"
+    "updatedAt": "2026-01-01T11:46:56.486Z"
   },
   {
     "id": 74534,
@@ -4981,7 +4981,7 @@
         "id": 520707
       }
     ],
-    "updatedAt": "2025-12-31T11:48:43.610Z"
+    "updatedAt": "2026-01-01T11:46:59.260Z"
   },
   {
     "id": 82719,
@@ -5969,6 +5969,6 @@
         "id": 47243
       }
     ],
-    "updatedAt": "2025-12-31T11:49:43.221Z"
+    "updatedAt": "2026-01-01T11:47:55.043Z"
   }
 ]

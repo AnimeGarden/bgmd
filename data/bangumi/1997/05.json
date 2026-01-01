@@ -76,6 +76,11 @@
           "total_cont": 0
         },
         {
+          "name": "ALI_PROJECT",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
           "name": "漫改",
           "count": 6,
           "total_cont": 0
@@ -86,17 +91,22 @@
           "total_cont": 0
         },
         {
-          "name": "ALI_PROJECT",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "校园类",
           "count": 4,
           "total_cont": 0
         },
         {
+          "name": "动画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "草尾毅",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "小丑社",
           "count": 3,
           "total_cont": 0
         },
@@ -111,13 +121,8 @@
           "total_cont": 0
         },
         {
-          "name": "小丑社",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
-          "count": 3,
+          "name": "鍋島修",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -126,42 +131,37 @@
           "total_cont": 0
         },
         {
-          "name": "鍋島修",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "CLAMP学園探偵団",
+          "name": "补",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "忘记剧情",
+          "name": "PIERROT",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "90",
+          "name": "日本动漫",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "补番",
+          "name": "CLAMP学园侦探团",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "中推",
+          "name": "萌",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "校園",
+          "name": "治愈",
           "count": 1,
           "total_cont": 0
         }
@@ -237,8 +237,8 @@
         }
       ],
       "rating": {
-        "rank": 3787,
-        "total": 207,
+        "rank": 3788,
+        "total": 208,
         "count": {
           "1": 0,
           "2": 1,
@@ -249,7 +249,7 @@
           "7": 74,
           "8": 35,
           "9": 3,
-          "10": 5
+          "10": 6
         },
         "score": 6.7
       },
@@ -259,7 +259,7 @@
         "dropped": 35,
         "wish": 225,
         "collect": 349,
-        "doing": 28
+        "doing": 29
       },
       "id": 8881,
       "eps": 26,
@@ -958,7 +958,7 @@
         "id": 378339
       }
     ],
-    "updatedAt": "2025-12-31T11:37:58.300Z"
+    "updatedAt": "2026-01-01T11:37:05.845Z"
   },
   {
     "id": 37253,
@@ -1382,7 +1382,7 @@
         "id": 37252
       }
     ],
-    "updatedAt": "2025-12-31T11:43:56.695Z"
+    "updatedAt": "2026-01-01T11:42:32.724Z"
   },
   {
     "id": 39523,
@@ -2277,7 +2277,7 @@
         "id": 437547
       }
     ],
-    "updatedAt": "2025-12-31T11:44:43.742Z"
+    "updatedAt": "2026-01-01T11:43:16.852Z"
   },
   {
     "id": 39524,
@@ -3241,7 +3241,7 @@
         "id": 204172
       }
     ],
-    "updatedAt": "2025-12-31T11:44:44.093Z"
+    "updatedAt": "2026-01-01T11:43:16.998Z"
   },
   {
     "id": 49189,
@@ -3536,22 +3536,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a3/be/11569_prsn_6zd42.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/a3/be/11569_prsn_6zd42.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/a3/be/11569_prsn_6zd42.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a3/be/11569_prsn_6zd42.jpg"
-        },
-        "name": "中田栄治",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 11569,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -3660,6 +3644,22 @@
         ],
         "type": 1,
         "id": 2878,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a3/be/11569_prsn_6zd42.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a3/be/11569_prsn_6zd42.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a3/be/11569_prsn_6zd42.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a3/be/11569_prsn_6zd42.jpg"
+        },
+        "name": "中田栄治",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11569,
         "eps": ""
       },
       {
@@ -4028,6 +4028,6 @@
         "id": 371935
       }
     ],
-    "updatedAt": "2025-12-31T11:46:12.550Z"
+    "updatedAt": "2026-01-01T11:44:38.124Z"
   }
 ]
