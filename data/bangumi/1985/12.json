@@ -256,8 +256,8 @@
         }
       ],
       "rating": {
-        "rank": 2002,
-        "total": 1619,
+        "rank": 1993,
+        "total": 1620,
         "count": {
           "1": 5,
           "2": 9,
@@ -268,7 +268,7 @@
           "7": 583,
           "8": 421,
           "9": 130,
-          "10": 66
+          "10": 67
         },
         "score": 7.1
       },
@@ -276,8 +276,8 @@
       "collection": {
         "on_hold": 102,
         "dropped": 27,
-        "wish": 1415,
-        "collect": 2455,
+        "wish": 1417,
+        "collect": 2457,
         "doing": 95
       },
       "id": 4188,
@@ -1136,7 +1136,7 @@
         "id": 608592
       }
     ],
-    "updatedAt": "2026-01-01T11:35:22.697Z"
+    "updatedAt": "2026-01-02T11:35:20.213Z"
   },
   {
     "id": 34227,
@@ -1441,8 +1441,8 @@
         }
       ],
       "rating": {
-        "rank": 3310,
-        "total": 533,
+        "rank": 3311,
+        "total": 534,
         "count": {
           "1": 0,
           "2": 7,
@@ -1450,7 +1450,7 @@
           "4": 14,
           "5": 51,
           "6": 125,
-          "7": 177,
+          "7": 178,
           "8": 105,
           "9": 32,
           "10": 18
@@ -1459,11 +1459,11 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 40,
+        "on_hold": 41,
         "dropped": 21,
-        "wish": 660,
-        "collect": 917,
-        "doing": 61
+        "wish": 661,
+        "collect": 918,
+        "doing": 60
       },
       "id": 34227,
       "eps": 1,
@@ -2741,7 +2741,7 @@
         "id": 147034
       }
     ],
-    "updatedAt": "2026-01-01T11:41:57.454Z"
+    "updatedAt": "2026-01-02T11:42:05.109Z"
   },
   {
     "id": 66391,
@@ -2780,22 +2780,22 @@
           "total_cont": 0
         },
         {
-          "name": "奥脇雅晴",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "科幻",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "小说改",
-          "count": 3,
+          "name": "奥脇雅晴",
+          "count": 5,
           "total_cont": 0
         },
         {
           "name": "サンライズ",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "小说改",
           "count": 3,
           "total_cont": 0
         },
@@ -2805,67 +2805,7 @@
           "total_cont": 0
         },
         {
-          "name": "搞怪拍档",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "島津冴子",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "触手",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "小说",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "美少女",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "dirypair",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1987",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "ダーティペア",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "卖肉",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1985年",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "喜剧",
           "count": 1,
           "total_cont": 0
         },
@@ -2875,7 +2815,17 @@
           "total_cont": 0
         },
         {
+          "name": "卖肉",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "SF",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1985年",
           "count": 1,
           "total_cont": 0
         },
@@ -2896,6 +2846,56 @@
         },
         {
           "name": "1980-1989",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "触手",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "島津冴子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "搞怪拍档",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "dirypair",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1987",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "小说",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "美少女",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "喜剧",
           "count": 1,
           "total_cont": 0
         }
@@ -2987,7 +2987,7 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 33,
+        "total": 34,
         "count": {
           "1": 0,
           "2": 1,
@@ -2995,19 +2995,19 @@
           "4": 1,
           "5": 6,
           "6": 12,
-          "7": 10,
+          "7": 11,
           "8": 1,
           "9": 0,
           "10": 1
         },
-        "score": 6
+        "score": 6.1
       },
       "total_episodes": 1,
       "collection": {
         "on_hold": 1,
         "dropped": 8,
-        "wish": 38,
-        "collect": 52,
+        "wish": 37,
+        "collect": 53,
         "doing": 6
       },
       "id": 66391,
@@ -3744,7 +3744,7 @@
         "id": 66390
       }
     ],
-    "updatedAt": "2026-01-01T11:46:09.984Z"
+    "updatedAt": "2026-01-02T11:46:28.945Z"
   },
   {
     "id": 211093,
@@ -3924,7 +3924,7 @@
         "id": 116538
       }
     ],
-    "updatedAt": "2026-01-01T11:57:15.113Z"
+    "updatedAt": "2026-01-02T11:58:08.194Z"
   },
   {
     "id": 215104,
@@ -4524,6 +4524,6 @@
         "id": 41982
       }
     ],
-    "updatedAt": "2026-01-01T11:57:47.872Z"
+    "updatedAt": "2026-01-02T11:58:41.571Z"
   }
 ]

@@ -41,6 +41,11 @@
           "total_cont": 0
         },
         {
+          "name": "日本",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
           "name": "电影",
           "count": 9,
           "total_cont": 0
@@ -51,13 +56,13 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 9,
+          "name": "奇幻",
+          "count": 8,
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 8,
+          "name": "古装",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -67,11 +72,6 @@
         },
         {
           "name": "国产",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "古装",
           "count": 5,
           "total_cont": 0
         },
@@ -86,13 +86,18 @@
           "total_cont": 0
         },
         {
+          "name": "续作",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "2025年2月",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "续作",
-          "count": 2,
+          "name": "原创",
+          "count": 1,
           "total_cont": 0
         },
         {
@@ -102,11 +107,6 @@
         },
         {
           "name": "东离剑游纪",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "原创",
           "count": 1,
           "total_cont": 0
         }
@@ -163,7 +163,7 @@
         }
       ],
       "rating": {
-        "rank": 3298,
+        "rank": 3299,
         "total": 77,
         "count": {
           "1": 1,
@@ -183,7 +183,7 @@
       "collection": {
         "on_hold": 2,
         "dropped": 6,
-        "wish": 43,
+        "wish": 44,
         "collect": 104,
         "doing": 1
       },
@@ -937,7 +937,7 @@
         "id": 347863
       }
     ],
-    "updatedAt": "2026-01-01T12:11:13.828Z"
+    "updatedAt": "2026-01-02T12:13:23.323Z"
   },
   {
     "id": 510728,
@@ -1081,17 +1081,17 @@
           "total_cont": 0
         },
         {
-          "name": "Re:ゼロから始める異世界生活",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
           "name": "长月达平",
           "count": 9,
           "total_cont": 0
         },
         {
           "name": "2025年1月",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
+          "name": "Re:ゼロから始める異世界生活",
           "count": 9,
           "total_cont": 0
         },
@@ -1224,17 +1224,17 @@
         }
       ],
       "rating": {
-        "rank": 2753,
-        "total": 5382,
+        "rank": 2755,
+        "total": 5388,
         "count": {
           "1": 12,
           "2": 9,
           "3": 13,
           "4": 66,
           "5": 239,
-          "6": 1159,
-          "7": 2486,
-          "8": 1130,
+          "6": 1160,
+          "7": 2489,
+          "8": 1132,
           "9": 161,
           "10": 107
         },
@@ -1244,9 +1244,9 @@
       "collection": {
         "on_hold": 291,
         "dropped": 122,
-        "wish": 2013,
-        "collect": 9331,
-        "doing": 1695
+        "wish": 2015,
+        "collect": 9343,
+        "doing": 1693
       },
       "id": 510728,
       "eps": 8,
@@ -8934,7 +8934,7 @@
         "id": 548500
       }
     ],
-    "updatedAt": "2026-01-01T12:11:51.300Z"
+    "updatedAt": "2026-01-02T12:14:04.315Z"
   },
   {
     "id": 515392,
@@ -8954,37 +8954,32 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 163,
+          "count": 165,
           "total_cont": 0
         },
         {
           "name": "projectNo.9",
-          "count": 114,
+          "count": 116,
           "total_cont": 0
         },
         {
           "name": "恋爱",
-          "count": 100,
+          "count": 102,
           "total_cont": 0
         },
         {
           "name": "2025年剧场版",
-          "count": 91,
+          "count": 92,
           "total_cont": 0
         },
         {
           "name": "校园",
-          "count": 80,
+          "count": 82,
           "total_cont": 0
         },
         {
           "name": "漫画改",
-          "count": 79,
-          "total_cont": 0
-        },
-        {
-          "name": "漫改",
-          "count": 39,
+          "count": 81,
           "total_cont": 0
         },
         {
@@ -8993,8 +8988,13 @@
           "total_cont": 0
         },
         {
+          "name": "漫改",
+          "count": 39,
+          "total_cont": 0
+        },
+        {
           "name": "2025年2月",
-          "count": 30,
+          "count": 31,
           "total_cont": 0
         },
         {
@@ -9033,11 +9033,6 @@
           "total_cont": 0
         },
         {
-          "name": "映画",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "BL",
           "count": 4,
           "total_cont": 0
@@ -9048,17 +9043,12 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 2,
+          "name": "映画",
+          "count": 4,
           "total_cont": 0
         },
         {
-          "name": "内田雄马",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "百合",
+          "name": "2025年10月",
           "count": 2,
           "total_cont": 0
         },
@@ -9078,27 +9068,37 @@
           "total_cont": 0
         },
         {
-          "name": "2025年10月",
+          "name": "内田雄马",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "劇場版アニメ",
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "百合",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "冨田頼子",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "恋爱喜剧",
+          "name": "⭐️前辈是男孩子",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "性转",
+          "name": "人设",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "9组",
+          "name": "中6",
           "count": 1,
           "total_cont": 0
         }
@@ -9235,16 +9235,16 @@
         }
       ],
       "rating": {
-        "rank": 6901,
-        "total": 337,
+        "rank": 6876,
+        "total": 343,
         "count": {
           "1": 4,
           "2": 2,
           "3": 3,
           "4": 21,
-          "5": 54,
-          "6": 137,
-          "7": 91,
+          "5": 55,
+          "6": 139,
+          "7": 94,
           "8": 17,
           "9": 3,
           "10": 5
@@ -9254,10 +9254,10 @@
       "total_episodes": 4,
       "collection": {
         "on_hold": 32,
-        "dropped": 18,
-        "wish": 446,
-        "collect": 517,
-        "doing": 81
+        "dropped": 19,
+        "wish": 447,
+        "collect": 523,
+        "doing": 80
       },
       "id": 515392,
       "eps": 4,
@@ -11093,7 +11093,7 @@
         "id": 568268
       }
     ],
-    "updatedAt": "2026-01-01T12:11:58.038Z"
+    "updatedAt": "2026-01-02T12:14:11.970Z"
   },
   {
     "id": 517532,
@@ -11338,7 +11338,7 @@
         "id": 507433
       }
     ],
-    "updatedAt": "2026-01-01T12:11:59.877Z"
+    "updatedAt": "2026-01-02T12:14:13.368Z"
   },
   {
     "id": 526104,
@@ -11358,72 +11358,72 @@
       "tags": [
         {
           "name": "光之美少女",
-          "count": 103,
+          "count": 105,
           "total_cont": 0
         },
         {
           "name": "TV",
-          "count": 100,
+          "count": 102,
           "total_cont": 0
         },
         {
           "name": "2025年1月",
-          "count": 90,
+          "count": 92,
           "total_cont": 0
         },
         {
           "name": "原创",
-          "count": 73,
+          "count": 75,
           "total_cont": 0
         },
         {
           "name": "東映アニメーション",
-          "count": 58,
+          "count": 60,
           "total_cont": 0
         },
         {
           "name": "子供向",
-          "count": 56,
+          "count": 58,
           "total_cont": 0
         },
         {
           "name": "东映",
-          "count": 52,
+          "count": 54,
           "total_cont": 0
         },
         {
           "name": "年番",
-          "count": 27,
+          "count": 28,
           "total_cont": 0
         },
         {
           "name": "今千秋",
-          "count": 26,
+          "count": 27,
           "total_cont": 0
         },
         {
           "name": "日本",
-          "count": 22,
+          "count": 23,
           "total_cont": 0
         },
         {
           "name": "2025年1月",
-          "count": 21,
+          "count": 22,
           "total_cont": 0
         },
         {
           "name": "偶像",
-          "count": 18,
+          "count": 20,
           "total_cont": 0
         },
         {
           "name": "プリキュア",
-          "count": 17,
+          "count": 19,
           "total_cont": 0
         },
         {
           "name": "东映动画",
-          "count": 12,
+          "count": 14,
           "total_cont": 0
         },
         {
@@ -11437,6 +11437,11 @@
           "total_cont": 0
         },
         {
+          "name": "2020s",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "魔法少女",
           "count": 3,
           "total_cont": 0
@@ -11447,17 +11452,7 @@
           "total_cont": 0
         },
         {
-          "name": "2020s",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "松岡美里",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
+          "name": "幼女向",
           "count": 2,
           "total_cont": 0
         },
@@ -11467,7 +11462,7 @@
           "total_cont": 0
         },
         {
-          "name": "幼女向",
+          "name": "松岡美里",
           "count": 2,
           "total_cont": 0
         },
@@ -11477,18 +11472,18 @@
           "total_cont": 0
         },
         {
-          "name": "加藤陽一",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "上田华子",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "TV动画",
-          "count": 1,
+          "name": "TVA",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "加藤陽一",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -11497,12 +11492,17 @@
           "total_cont": 0
         },
         {
-          "name": "追",
+          "name": "2025年1月",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "2025年1月",
+          "name": "轻bg",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "追",
           "count": 1,
           "total_cont": 0
         }
@@ -11641,7 +11641,7 @@
         }
       ],
       "rating": {
-        "rank": 7049,
+        "rank": 7056,
         "total": 176,
         "count": {
           "1": 6,
@@ -11661,7 +11661,7 @@
       "collection": {
         "on_hold": 56,
         "dropped": 62,
-        "wish": 131,
+        "wish": 130,
         "collect": 45,
         "doing": 585
       },
@@ -17531,13 +17531,13 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6f/ee/172258_crt_YYl5T.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/6f/ee/172258_crt_YYl5T.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/6f/ee/172258_crt_YYl5T.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6f/ee/172258_crt_YYl5T.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/6f/ee/172258_crt_896ZL.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/6f/ee/172258_crt_896ZL.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/6f/ee/172258_crt_896ZL.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6f/ee/172258_crt_896ZL.jpg"
         },
         "name": "森こはる",
-        "summary": "",
+        "summary": "プリティホリックの宣伝担当。",
         "relation": "配角",
         "actors": [
           {
@@ -18848,6 +18848,6 @@
         "id": 611077
       }
     ],
-    "updatedAt": "2026-01-01T12:12:09.214Z"
+    "updatedAt": "2026-01-02T12:14:24.005Z"
   }
 ]
