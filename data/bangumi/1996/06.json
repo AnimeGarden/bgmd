@@ -96,18 +96,13 @@
           "total_cont": 0
         },
         {
-          "name": "可看可不看",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "漫改",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "补漫画",
-          "count": 4,
+          "name": "可看可不看",
+          "count": 6,
           "total_cont": 0
         },
         {
@@ -116,8 +111,8 @@
           "total_cont": 0
         },
         {
-          "name": "GALLOP",
-          "count": 3,
+          "name": "补漫画",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -131,12 +126,12 @@
           "total_cont": 0
         },
         {
-          "name": "高松信司",
-          "count": 2,
+          "name": "GALLOP",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "长篇",
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "三泽伸",
+          "name": "TVA",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "中视",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "三泽伸",
           "count": 2,
           "total_cont": 0
         }
@@ -268,7 +268,7 @@
       "collection": {
         "on_hold": 123,
         "dropped": 65,
-        "wish": 518,
+        "wish": 517,
         "collect": 597,
         "doing": 116
       },
@@ -461,6 +461,22 @@
         ],
         "type": 1,
         "id": 66094,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "芦沢剛史",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11582,
         "eps": ""
       },
       {
@@ -1846,22 +1862,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "剛田隼人",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 27129,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "山田一夫",
         "relation": "演出",
         "career": [
@@ -1917,22 +1917,6 @@
         ],
         "type": 1,
         "id": 483,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "栗山美秀",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 26711,
         "eps": ""
       },
       {
@@ -2337,6 +2321,22 @@
       },
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "栗山美秀",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 26711,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/98/bb/22518_prsn_L5uK6.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/98/bb/22518_prsn_L5uK6.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/98/bb/22518_prsn_L5uK6.jpg",
@@ -2397,22 +2397,6 @@
         ],
         "type": 1,
         "id": 1280,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "芦沢剛史",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 25692,
         "eps": ""
       },
       {
@@ -2525,22 +2509,6 @@
         ],
         "type": 1,
         "id": 11954,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "栗山美秀",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 26711,
         "eps": ""
       },
       {
@@ -2878,6 +2846,22 @@
         ],
         "type": 1,
         "id": 83655,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "栗山美秀",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 26711,
         "eps": ""
       },
       {
@@ -16211,7 +16195,7 @@
         "id": 185317
       }
     ],
-    "updatedAt": "2026-01-04T11:31:48.219Z"
+    "updatedAt": "2026-01-05T11:36:51.683Z"
   },
   {
     "id": 318293,
@@ -16730,6 +16714,6 @@
         "id": 318298
       }
     ],
-    "updatedAt": "2026-01-04T12:04:49.701Z"
+    "updatedAt": "2026-01-05T12:12:37.717Z"
   }
 ]

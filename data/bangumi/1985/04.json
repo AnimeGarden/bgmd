@@ -197,7 +197,7 @@
         }
       ],
       "rating": {
-        "rank": 5465,
+        "rank": 5467,
         "total": 86,
         "count": {
           "1": 1,
@@ -414,6 +414,22 @@
       },
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "栗山美秀",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 26711,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/c4/88/369_prsn_y1244.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/c4/88/369_prsn_y1244.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/c4/88/369_prsn_y1244.jpg",
@@ -474,22 +490,6 @@
         ],
         "type": 1,
         "id": 566,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
-          "grid": "https://lain.bgm.tv/pic/crt/g/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
-          "large": "https://lain.bgm.tv/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981"
-        },
-        "name": "大森貴弘",
-        "relation": "原画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 654,
         "eps": ""
       },
       {
@@ -571,6 +571,22 @@
         ],
         "type": 1,
         "id": 186,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
+          "grid": "https://lain.bgm.tv/pic/crt/g/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
+          "large": "https://lain.bgm.tv/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981"
+        },
+        "name": "大森貴弘",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 654,
         "eps": ""
       },
       {
@@ -907,22 +923,6 @@
         ],
         "type": 1,
         "id": 1790,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "栗山美秀",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 26711,
         "eps": ""
       },
       {
@@ -2265,7 +2265,7 @@
         "id": 208857
       }
     ],
-    "updatedAt": "2026-01-04T11:39:21.852Z"
+    "updatedAt": "2026-01-05T11:44:42.783Z"
   },
   {
     "id": 23447,
@@ -3596,7 +3596,7 @@
         "id": 282133
       }
     ],
-    "updatedAt": "2026-01-04T11:39:51.543Z"
+    "updatedAt": "2026-01-05T11:45:12.309Z"
   },
   {
     "id": 39026,
@@ -3872,7 +3872,7 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-01-04T11:42:39.539Z"
+    "updatedAt": "2026-01-05T11:48:07.786Z"
   },
   {
     "id": 75942,
@@ -3941,22 +3941,12 @@
           "total_cont": 0
         },
         {
+          "name": "TVA",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "久石譲",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "貞光紳也",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "高田明美",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "うえだひでひと",
           "count": 1,
           "total_cont": 0
         },
@@ -3966,7 +3956,7 @@
           "total_cont": 0
         },
         {
-          "name": "旧物",
+          "name": "高田明美",
           "count": 1,
           "total_cont": 0
         },
@@ -3976,12 +3966,22 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "うえだひでひと",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "貞光紳也",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         }
@@ -4052,7 +4052,7 @@
       "total_episodes": 20,
       "collection": {
         "on_hold": 3,
-        "dropped": 9,
+        "dropped": 10,
         "wish": 34,
         "collect": 22,
         "doing": 0
@@ -4359,7 +4359,7 @@
         "id": 554195
       }
     ],
-    "updatedAt": "2026-01-04T11:46:47.606Z"
+    "updatedAt": "2026-01-05T11:52:29.385Z"
   },
   {
     "id": 131172,
@@ -5616,7 +5616,7 @@
         "id": 554192
       }
     ],
-    "updatedAt": "2026-01-04T11:52:01.023Z"
+    "updatedAt": "2026-01-05T11:58:16.422Z"
   },
   {
     "id": 189441,
@@ -6191,7 +6191,7 @@
         "id": 479125
       }
     ],
-    "updatedAt": "2026-01-04T11:55:25.382Z"
+    "updatedAt": "2026-01-05T12:02:09.954Z"
   },
   {
     "id": 213634,
@@ -6531,6 +6531,6 @@
         "id": 605139
       }
     ],
-    "updatedAt": "2026-01-04T11:57:36.017Z"
+    "updatedAt": "2026-01-05T12:04:36.603Z"
   }
 ]

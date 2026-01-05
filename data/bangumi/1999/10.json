@@ -111,12 +111,12 @@
           "total_cont": 0
         },
         {
-          "name": "1990s",
+          "name": "TVA",
           "count": 8,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "1990s",
           "count": 8,
           "total_cont": 0
         },
@@ -151,17 +151,17 @@
           "total_cont": 0
         },
         {
+          "name": "90s",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "神作",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "超级系",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
+          "name": "补番",
           "count": 3,
           "total_cont": 0
         }
@@ -359,7 +359,7 @@
       "collection": {
         "on_hold": 206,
         "dropped": 65,
-        "wish": 1739,
+        "wish": 1742,
         "collect": 1410,
         "doing": 215
       },
@@ -4026,7 +4026,7 @@
         "id": 14535
       }
     ],
-    "updatedAt": "2026-01-04T11:29:34.609Z"
+    "updatedAt": "2026-01-05T11:34:33.672Z"
   },
   {
     "id": 975,
@@ -4051,7 +4051,7 @@
         },
         {
           "name": "海贼王",
-          "count": 7391,
+          "count": 7394,
           "total_cont": 0
         },
         {
@@ -4096,7 +4096,7 @@
         },
         {
           "name": "TV",
-          "count": 713,
+          "count": 714,
           "total_cont": 0
         },
         {
@@ -4116,7 +4116,7 @@
         },
         {
           "name": "漫画改",
-          "count": 344,
+          "count": 345,
           "total_cont": 0
         },
         {
@@ -4126,7 +4126,7 @@
         },
         {
           "name": "战斗",
-          "count": 301,
+          "count": 302,
           "total_cont": 0
         },
         {
@@ -4136,12 +4136,12 @@
         },
         {
           "name": "日本",
-          "count": 139,
+          "count": 140,
           "total_cont": 0
         },
         {
           "name": "少年向",
-          "count": 123,
+          "count": 124,
           "total_cont": 0
         },
         {
@@ -4366,28 +4366,28 @@
       ],
       "rating": {
         "rank": 101,
-        "total": 13811,
+        "total": 13818,
         "count": {
           "1": 90,
           "2": 44,
           "3": 38,
           "4": 110,
           "5": 342,
-          "6": 902,
-          "7": 2207,
-          "8": 3597,
-          "9": 2649,
+          "6": 903,
+          "7": 2210,
+          "8": 3599,
+          "9": 2650,
           "10": 3832
         },
         "score": 8.3
       },
       "total_episodes": 1191,
       "collection": {
-        "on_hold": 3976,
-        "dropped": 1439,
-        "wish": 1931,
-        "collect": 9998,
-        "doing": 15049
+        "on_hold": 3978,
+        "dropped": 1437,
+        "wish": 1932,
+        "collect": 10007,
+        "doing": 15053
       },
       "id": 975,
       "eps": 1155,
@@ -21257,6 +21257,22 @@
             "id": 4138,
             "type": 1,
             "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/a7/aa/7649_prsn_O7JHJ.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/a7/aa/7649_prsn_O7JHJ.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/a7/aa/7649_prsn_O7JHJ.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a7/aa/7649_prsn_O7JHJ.jpg"
+            },
+            "name": "藤原貴弘",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 7649,
+            "type": 1,
+            "locked": false
           }
         ],
         "type": 1,
@@ -25904,7 +25920,361 @@
         "name": "天竜人",
         "summary": "支配着世界政府的特权阶级，居住在圣地玛丽乔亚。领袖是五老星。\r\n天龙人是800年前组成世界政府的20个国王中19个的后裔，以“造物主的后裔”自居，享有所有特权。一旦被冒犯，海军大将或CP0必须出动进行保护。",
         "relation": "客串",
-        "actors": [],
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/87/2d/4213_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/87/2d/4213_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/87/2d/4213_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/87/2d/4213_seiyu_anidb.jpg"
+            },
+            "name": "高塚正也",
+            "short_summary": "青二塾大阪校12期卒。\r\n\r\n方言は関西弁。\r\n2012年3月4日に声優の根本圭子と結婚したことを、翌5日にTwitterで報告した。\r\n死去した神山卓三や曽我部和恭、田中一成から持ち役の一部を引き継いでいる。\r\n趣味はスキー、スノーボード。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 4213,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/79/c6/5040_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/79/c6/5040_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/79/c6/5040_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/79/c6/5040_seiyu_anidb.jpg"
+            },
+            "name": "平井啓二",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 5040,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/80/74/5070_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/80/74/5070_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/80/74/5070_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/80/74/5070_seiyu_anidb.jpg"
+            },
+            "name": "織田優成",
+            "short_summary": "",
+            "career": [
+              "artist",
+              "seiyu"
+            ],
+            "id": 5070,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/73/d9/5092_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/73/d9/5092_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/73/d9/5092_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/73/d9/5092_seiyu_anidb.jpg"
+            },
+            "name": "松村幸洋",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 5092,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/90/fd/5096_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/90/fd/5096_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/90/fd/5096_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/90/fd/5096_seiyu_anidb.jpg"
+            },
+            "name": "坂熊孝彦",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 5096,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/d1/4f/5241_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/d1/4f/5241_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/d1/4f/5241_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d1/4f/5241_seiyu_anidb.jpg"
+            },
+            "name": "藤本たかひろ",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 5241,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/36/f4/5579_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/36/f4/5579_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/36/f4/5579_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/36/f4/5579_seiyu_anidb.jpg"
+            },
+            "name": "松原大典",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 5579,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/37/7607_prsn_qzIGX.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/2a/37/7607_prsn_qzIGX.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/2a/37/7607_prsn_qzIGX.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/37/7607_prsn_qzIGX.jpg"
+            },
+            "name": "砥出恵太",
+            "short_summary": "2011年12月まで青二プロダクション（ジュニア）に所属していた。青二塾東京校第28期卒業。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 7607,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/2e/c6/20878_prsn_YmV5v.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/2e/c6/20878_prsn_YmV5v.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/2e/c6/20878_prsn_YmV5v.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2e/c6/20878_prsn_YmV5v.jpg"
+            },
+            "name": "半田裕典",
+            "short_summary": "半田 裕典（はんだ ゆうすけ、12月19日 - ）は、日本の男性声優。青二プロダクション（ジュニア）所属。静岡県出身。日本大学、青二塾東京校32期卒業。身長168cm[1]。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 20878,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/c5/5b/39192_prsn_9BIB5.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/c5/5b/39192_prsn_9BIB5.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/c5/5b/39192_prsn_9BIB5.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c5/5b/39192_prsn_9BIB5.jpg"
+            },
+            "name": "宮園拓夢",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 39192,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/3f/94/40352_prsn_RW5Vq.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/3f/94/40352_prsn_RW5Vq.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/3f/94/40352_prsn_RW5Vq.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/3f/94/40352_prsn_RW5Vq.jpg"
+            },
+            "name": "八木沼凌",
+            "short_summary": "日本の男性声優。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 40352,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/c2/70/41113_prsn_0rcdU.jpg?r=1614327105",
+              "grid": "https://lain.bgm.tv/pic/crt/g/c2/70/41113_prsn_0rcdU.jpg?r=1614327105",
+              "large": "https://lain.bgm.tv/pic/crt/l/c2/70/41113_prsn_0rcdU.jpg?r=1614327105",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c2/70/41113_prsn_0rcdU.jpg?r=1614327105"
+            },
+            "name": "田邊幸輔",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 41113,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/03/a5/41929_prsn_NwiOi.jpg?r=1622697183",
+              "grid": "https://lain.bgm.tv/pic/crt/g/03/a5/41929_prsn_NwiOi.jpg?r=1622697183",
+              "large": "https://lain.bgm.tv/pic/crt/l/03/a5/41929_prsn_NwiOi.jpg?r=1622697183",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/03/a5/41929_prsn_NwiOi.jpg?r=1622697183"
+            },
+            "name": "中村光樹",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 41929,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/50/94/43718_prsn_n3qm3.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/50/94/43718_prsn_n3qm3.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/50/94/43718_prsn_n3qm3.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/50/94/43718_prsn_n3qm3.jpg"
+            },
+            "name": "角倉英里子",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 43718,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/ca/d5/46378_prsn_2NtD7.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/ca/d5/46378_prsn_2NtD7.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/ca/d5/46378_prsn_2NtD7.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ca/d5/46378_prsn_2NtD7.jpg"
+            },
+            "name": "清水健佑",
+            "short_summary": "清水健佑是日本的男性声优。\r\n\r\n大阪艺术大学广播专业声优课程毕业。\r\n\r\n    兴趣：看电影、游戏、美食巡游、散步、澡堂巡游\r\n    特长：柔道（二段）、动作\r\n    方言：关西弁",
+            "career": [
+              "seiyu"
+            ],
+            "id": 46378,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/5c/f2/46897_prsn_g4HZ8.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/5c/f2/46897_prsn_g4HZ8.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/5c/f2/46897_prsn_g4HZ8.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5c/f2/46897_prsn_g4HZ8.jpg"
+            },
+            "name": "片貝直生",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 46897,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/26/cd/47694_prsn_dnqYt.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/26/cd/47694_prsn_dnqYt.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/26/cd/47694_prsn_dnqYt.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/26/cd/47694_prsn_dnqYt.jpg"
+            },
+            "name": "日向朔公",
+            "short_summary": "出身地\t宮崎県\r\n資格・免許\t柔道初段、栄養士免許、普免\r\n趣味\t柔道、水泳（四泳法）\r\n特技\t献立作成\r\n方言\t宮崎弁",
+            "career": [
+              "seiyu"
+            ],
+            "id": 47694,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/85/9e/65917_prsn_UzchI.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/85/9e/65917_prsn_UzchI.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/85/9e/65917_prsn_UzchI.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/85/9e/65917_prsn_UzchI.jpg"
+            },
+            "name": "秋山実咲",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 65917,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/2d/a0/67016_prsn_zX5B5.jpg?r=1723347628",
+              "grid": "https://lain.bgm.tv/pic/crt/g/2d/a0/67016_prsn_zX5B5.jpg?r=1723347628",
+              "large": "https://lain.bgm.tv/pic/crt/l/2d/a0/67016_prsn_zX5B5.jpg?r=1723347628",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2d/a0/67016_prsn_zX5B5.jpg?r=1723347628"
+            },
+            "name": "尾高慶安",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 67016,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/10/ba/73612_prsn_yH81B.jpg?r=1745675945",
+              "grid": "https://lain.bgm.tv/pic/crt/g/10/ba/73612_prsn_yH81B.jpg?r=1745675945",
+              "large": "https://lain.bgm.tv/pic/crt/l/10/ba/73612_prsn_yH81B.jpg?r=1745675945",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/10/ba/73612_prsn_yH81B.jpg?r=1745675945"
+            },
+            "name": "七蒼花梨",
+            "short_summary": "青二プロダクション所属。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 73612,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/ce/ad/84778_prsn_5tZhb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/ce/ad/84778_prsn_5tZhb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/ce/ad/84778_prsn_5tZhb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ce/ad/84778_prsn_5tZhb.jpg"
+            },
+            "name": "大槻丈一郎",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 84778,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/87/1a/86218_prsn_eV9St.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/87/1a/86218_prsn_eV9St.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/87/1a/86218_prsn_eV9St.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/87/1a/86218_prsn_eV9St.jpg"
+            },
+            "name": "千葉俊哉",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 86218,
+            "type": 1,
+            "locked": false
+          }
+        ],
         "type": 4,
         "id": 5512
       },
@@ -45716,6 +46086,272 @@
         ],
         "type": 1,
         "id": 197324
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/47/2e/197366_crt_hr9RI.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/47/2e/197366_crt_hr9RI.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/47/2e/197366_crt_hr9RI.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/47/2e/197366_crt_hr9RI.jpg"
+        },
+        "name": "アルファ",
+        "summary": "世界政府の諜報機関・CP8の一員。同じくサイファーポールのカリファの妹でもある。ボニーの監視役として、看護師のふりをしながらソルベ王国に滞在していた。バーソロミュー・くまからボニーへ届く手紙をすべて破り捨てるなど冷酷な性格だが、酔っぱらった勢いで機密情報を漏らすという迂闊な部分も。ボニーの脱走を阻止しようとしたが、返り討ちにされてしまった。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/55/a0/5616_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/55/a0/5616_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/55/a0/5616_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/55/a0/5616_seiyu_anidb.jpg"
+            },
+            "name": "宮島依里",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 5616,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197366
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/89/a0/197393_crt_u7GBw.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/89/a0/197393_crt_u7GBw.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/89/a0/197393_crt_u7GBw.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/89/a0/197393_crt_u7GBw.jpg"
+        },
+        "name": "レッドキング",
+        "summary": "海軍本部中将。ベガパンク暗殺を目論む五老星の要請を受け、エッグヘッドに集結した海軍本部中将9人の1人。強力な右腕から繰り出される〝蒸気(スチーム)ナッコー〟は、エッグヘッド海域にいる「海獣兵器(シービーストウェポン)」の頑丈な体を砕くほどの強さ。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/07/49/31762_prsn_u85VR.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/07/49/31762_prsn_u85VR.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/07/49/31762_prsn_u85VR.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/07/49/31762_prsn_u85VR.jpg"
+            },
+            "name": "ボルケーノ太田",
+            "short_summary": "ボルケーノ太田（ボルケーノおおた、1971年1月2日 - ）は、日本の男性声優。本名は太田 健介（おおた けんすけ）。青二プロダクション（ジュニア）所属。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 31762,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197393
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/99/57/197394_crt_2f8gA.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/99/57/197394_crt_2f8gA.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/99/57/197394_crt_2f8gA.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/99/57/197394_crt_2f8gA.jpg"
+        },
+        "name": "ブルーグラス",
+        "summary": "海軍本部中将。悪魔の実「ノリノリの実」のドライブ人間。ベガパンク暗殺を目論む五老星の要請を受け、エッグヘッドに集結した海軍本部中将9人の1人。ベガパンクの命令で動いていたパシフィスタ１体を悪魔の実の能力を使って意のままにコントロールし、ボニーを追い詰めた。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/15/1d/5285_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/15/1d/5285_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/15/1d/5285_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/15/1d/5285_seiyu_anidb.jpg"
+            },
+            "name": "江森浩子",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 5285,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197394
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/fa/73/197395_crt_fOz34.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/fa/73/197395_crt_fOz34.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/fa/73/197395_crt_fOz34.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/fa/73/197395_crt_fOz34.jpg"
+        },
+        "name": "ハウンド",
+        "summary": "海軍本部中将。動物(ゾオン)系 悪魔の実「イヌイヌの実 モデル猟犬(ハウンド)」の能力者。ベガパンク暗殺を目論む五老星の要請を受け、エッグヘッドに集結した海軍本部中将9人の1人。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/b1/d6/5246_prsn_14pJN.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/b1/d6/5246_prsn_14pJN.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/b1/d6/5246_prsn_14pJN.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b1/d6/5246_prsn_14pJN.jpg"
+            },
+            "name": "山田真一",
+            "short_summary": "山田 真一（やまだ しんいち、3月12日 - ）は、日本の男性声優、俳優、タレント、ナレーター。\r\n兵庫県出身。青二プロダクション所属。\r\n\r\n1991年4月、青二塾東京校12期生として入塾。1992年3月、青二塾東京校を卒業。1992年4月、青二プロダクションに所属。\r\n勇者王ガオガイガーでは、氷竜、炎竜、風龍、雷龍、超竜神、撃龍神、幻竜神、強龍神を1人8役を演じた。",
+            "career": [
+              "seiyu",
+              "actor"
+            ],
+            "id": 5246,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197395
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f9/d0/197396_crt_0Eaa2.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f9/d0/197396_crt_0Eaa2.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f9/d0/197396_crt_0Eaa2.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f9/d0/197396_crt_0Eaa2.jpg"
+        },
+        "name": "ギロチン",
+        "summary": "海軍本部中将。ベガパンク暗殺を目論む五老星の要請を受け、エッグヘッドに集結した海軍本部中将9人の1人。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/ff/e0/20929_prsn_yx200.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/ff/e0/20929_prsn_yx200.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/ff/e0/20929_prsn_yx200.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ff/e0/20929_prsn_yx200.jpg"
+            },
+            "name": "蟹江俊介",
+            "short_summary": "日本の男性声優。愛知県出身。青二プロダクション所属。\r\n専門学校東京アナウンス学院、アミューズメントメディア総合学院出身。\r\n趣味はDIY、散歩。資格・免許は普通自動車免許を持っている。\r\n方言：名古屋弁",
+            "career": [
+              "seiyu"
+            ],
+            "id": 20929,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197396
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c9/53/197397_crt_xz8x6.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/c9/53/197397_crt_xz8x6.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/c9/53/197397_crt_xz8x6.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c9/53/197397_crt_xz8x6.jpg"
+        },
+        "name": "土茶",
+        "summary": "海軍本部中将。ベガパンク暗殺を目論む五老星の要請を受け、エッグヘッドに集結した海軍本部中将9人の1人。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/87/1a/86218_prsn_eV9St.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/87/1a/86218_prsn_eV9St.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/87/1a/86218_prsn_eV9St.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/87/1a/86218_prsn_eV9St.jpg"
+            },
+            "name": "千葉俊哉",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 86218,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197397
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/9e/2e/197398_crt_hoa5C.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/9e/2e/197398_crt_hoa5C.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/9e/2e/197398_crt_hoa5C.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9e/2e/197398_crt_hoa5C.jpg"
+        },
+        "name": "ポンスキー",
+        "summary": "海軍本部中将。悪魔の実 「ラコラコの実」のラッコ人間。ベガパンク暗殺を目論む五老星の要請を受け、エッグヘッドに集結した海軍本部中将9人の1人。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/1a/09/36711_prsn_OkYV5.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/1a/09/36711_prsn_OkYV5.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/1a/09/36711_prsn_OkYV5.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/1a/09/36711_prsn_OkYV5.jpg"
+            },
+            "name": "中根徹",
+            "short_summary": "日本の俳優、声優。東京都出身。早稲田大学第一文学部卒業。所属事務所は青二プロダクション。\r\n\r\n出身地：東京都\r\n出身校：早稲田大学第一文学部\r\n芸歴：早大劇研～劇団ミスタースリムカンパニー～勝アカデミー4期～オーケープロダクション～ノースプロダクション\r\n資格・免許：普免、中型二輪免許、ダイビング免許\r\n趣味：バスケットボール",
+            "career": [
+              "seiyu",
+              "actor"
+            ],
+            "id": 36711,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/9e/94/41120_prsn_nrRMM.jpg?r=1614488181",
+              "grid": "https://lain.bgm.tv/pic/crt/g/9e/94/41120_prsn_nrRMM.jpg?r=1614488181",
+              "large": "https://lain.bgm.tv/pic/crt/l/9e/94/41120_prsn_nrRMM.jpg?r=1614488181",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9e/94/41120_prsn_nrRMM.jpg?r=1614488181"
+            },
+            "name": "関根有咲",
+            "short_summary": "青二プロダクション 所属\r\n\r\n出身地：群馬県\r\n出身校：ヒューマンアカデミー渋谷校\r\n資格・免許：普免（AT限定）\r\n趣味：ピアス収集、ウィンドウショッピング、動画鑑賞\r\n特技：バスケットボール",
+            "career": [
+              "seiyu"
+            ],
+            "id": 41120,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197398
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/79/1c/197399_crt_CNFZF.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/79/1c/197399_crt_CNFZF.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/79/1c/197399_crt_CNFZF.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/79/1c/197399_crt_CNFZF.jpg"
+        },
+        "name": "ウルバン",
+        "summary": "海軍本部中将。悪魔の実「ツツツツの実」大砲人間。ベガパンク暗殺を目論む五老星の要請を受け、エッグヘッドに集結した海軍本部中将9人の1人。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/21/92/4169_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/21/92/4169_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/21/92/4169_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/21/92/4169_seiyu_anidb.jpg"
+            },
+            "name": "沼田祐介",
+            "short_summary": "日本声优，生于神奈川县。在电视动画《勇者斗恶龙 勇者阿贝尔传说》中首次出演。在动画《超电动机器人 铁人28号FX》中首次担任主役。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 4169,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197399
       }
     ],
     "subjects": [
@@ -48534,7 +49170,7 @@
         "id": 285391
       }
     ],
-    "updatedAt": "2026-01-04T11:30:04.651Z"
+    "updatedAt": "2026-01-05T11:35:04.580Z"
   },
   {
     "id": 1704,
@@ -48554,7 +49190,7 @@
       "tags": [
         {
           "name": "富坚义博",
-          "count": 1264,
+          "count": 1265,
           "total_cont": 0
         },
         {
@@ -48574,12 +49210,12 @@
         },
         {
           "name": "TV",
-          "count": 479,
+          "count": 480,
           "total_cont": 0
         },
         {
           "name": "1999年10月",
-          "count": 458,
+          "count": 459,
           "total_cont": 0
         },
         {
@@ -48589,7 +49225,7 @@
         },
         {
           "name": "漫画改",
-          "count": 325,
+          "count": 326,
           "total_cont": 0
         },
         {
@@ -48639,12 +49275,12 @@
         },
         {
           "name": "冒险",
-          "count": 86,
+          "count": 87,
           "total_cont": 0
         },
         {
           "name": "奇幻",
-          "count": 72,
+          "count": 73,
           "total_cont": 0
         },
         {
@@ -48674,7 +49310,7 @@
         },
         {
           "name": "日本",
-          "count": 41,
+          "count": 42,
           "total_cont": 0
         },
         {
@@ -48785,8 +49421,8 @@
         }
       ],
       "rating": {
-        "rank": 61,
-        "total": 5447,
+        "rank": 62,
+        "total": 5450,
         "count": {
           "1": 4,
           "2": 1,
@@ -48795,19 +49431,19 @@
           "5": 47,
           "6": 187,
           "7": 659,
-          "8": 1889,
+          "8": 1891,
           "9": 1693,
-          "10": 944
+          "10": 945
         },
         "score": 8.4
       },
       "total_episodes": 62,
       "collection": {
-        "on_hold": 658,
+        "on_hold": 660,
         "dropped": 181,
-        "wish": 2199,
-        "collect": 8142,
-        "doing": 690
+        "wish": 2200,
+        "collect": 8146,
+        "doing": 692
       },
       "id": 1704,
       "eps": 62,
@@ -54241,7 +54877,7 @@
         "id": 147878
       }
     ],
-    "updatedAt": "2026-01-04T11:30:48.992Z"
+    "updatedAt": "2026-01-05T11:35:49.586Z"
   },
   {
     "id": 1937,
@@ -54591,7 +55227,7 @@
       ],
       "rating": {
         "rank": 336,
-        "total": 1692,
+        "total": 1693,
         "count": {
           "1": 5,
           "2": 5,
@@ -54601,7 +55237,7 @@
           "6": 124,
           "7": 342,
           "8": 659,
-          "9": 374,
+          "9": 375,
           "10": 131
         },
         "score": 7.9
@@ -54611,8 +55247,8 @@
         "on_hold": 298,
         "dropped": 99,
         "wish": 3039,
-        "collect": 2186,
-        "doing": 290
+        "collect": 2187,
+        "doing": 291
       },
       "id": 1937,
       "eps": 26,
@@ -57753,7 +58389,7 @@
         "id": 613437
       }
     ],
-    "updatedAt": "2026-01-04T11:31:14.022Z"
+    "updatedAt": "2026-01-05T11:36:17.511Z"
   },
   {
     "id": 4006,
@@ -58013,7 +58649,7 @@
         }
       ],
       "rating": {
-        "rank": 3607,
+        "rank": 3610,
         "total": 127,
         "count": {
           "1": 0,
@@ -58734,9 +59370,37 @@
         "relation": "番外篇",
         "type": 2,
         "id": 546184
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/41/619826_E8M38.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/41/619826_E8M38.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/17/41/619826_E8M38.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/41/619826_E8M38.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/41/619826_E8M38.jpg"
+        },
+        "name": "鋼鉄天使くるみ 萬國美天使大博覽會",
+        "name_cn": "",
+        "relation": "画集",
+        "type": 1,
+        "id": 619826
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/98/619830_vQs32.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/98/619830_vQs32.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/a8/98/619830_vQs32.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/98/619830_vQs32.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/98/619830_vQs32.jpg"
+        },
+        "name": "鋼鉄天使くるみ Complete File",
+        "name_cn": "",
+        "relation": "画集",
+        "type": 1,
+        "id": 619830
       }
     ],
-    "updatedAt": "2026-01-04T11:34:01.820Z"
+    "updatedAt": "2026-01-05T11:39:10.568Z"
   },
   {
     "id": 4040,
@@ -58815,22 +59479,22 @@
           "total_cont": 0
         },
         {
-          "name": "没看全",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "新居昭乃",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 5,
+          "name": "没看全",
+          "count": 6,
           "total_cont": 0
         },
         {
           "name": "补旧番",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
           "count": 5,
           "total_cont": 0
         },
@@ -58840,32 +59504,12 @@
           "total_cont": 0
         },
         {
-          "name": "まついひとゆき",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "90年代",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "緒方恵美",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "半年番",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "东京movie",
+          "name": "まついひとゆき",
           "count": 2,
           "total_cont": 0
         },
@@ -58875,32 +59519,52 @@
           "total_cont": 0
         },
         {
-          "name": "旧番",
+          "name": "緒方恵美",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "东京movie",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "半年番",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "90年代",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "已下载",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "智斗推理",
+          "name": "飯岡順一",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "アニメ",
+          "name": "05",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "~",
+          "name": "TMS娱乐",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "くまいもとこ",
+          "name": "人偶",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "成熟",
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         }
@@ -59000,7 +59664,7 @@
         }
       ],
       "rating": {
-        "rank": 3915,
+        "rank": 3920,
         "total": 196,
         "count": {
           "1": 0,
@@ -59019,10 +59683,10 @@
       "total_episodes": 26,
       "collection": {
         "on_hold": 52,
-        "dropped": 34,
+        "dropped": 35,
         "wish": 183,
         "collect": 281,
-        "doing": 15
+        "doing": 16
       },
       "id": 4040,
       "eps": 26,
@@ -62053,7 +62717,7 @@
         "id": 139362
       }
     ],
-    "updatedAt": "2026-01-04T11:34:07.294Z"
+    "updatedAt": "2026-01-05T11:39:16.179Z"
   },
   {
     "id": 4075,
@@ -62357,7 +63021,7 @@
         "on_hold": 200,
         "dropped": 61,
         "wish": 2093,
-        "collect": 1994,
+        "collect": 1995,
         "doing": 163
       },
       "id": 4075,
@@ -64894,7 +65558,7 @@
         "id": 160215
       }
     ],
-    "updatedAt": "2026-01-04T11:34:09.253Z"
+    "updatedAt": "2026-01-05T11:39:18.100Z"
   },
   {
     "id": 7075,
@@ -64973,16 +65637,6 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "补旧番",
           "count": 3,
           "total_cont": 0
@@ -64993,13 +65647,13 @@
           "total_cont": 0
         },
         {
-          "name": "补番",
-          "count": 2,
+          "name": "TVA",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "大畑晃一",
-          "count": 2,
+          "name": "日本",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -65008,7 +65662,12 @@
           "total_cont": 0
         },
         {
-          "name": "末世",
+          "name": "补番",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "机甲",
           "count": 2,
           "total_cont": 0
         },
@@ -65023,42 +65682,47 @@
           "total_cont": 0
         },
         {
-          "name": "90年代",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "蓜島邦明",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "机甲",
+          "name": "末世",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "虫孽",
+          "name": "大畑晃一",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "90年代",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1999年10月",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "長谷川勝己",
+          "name": "消遣",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "robo",
+          "name": "神作",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "动作",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "机战",
           "count": 1,
           "total_cont": 0
         }
@@ -65196,7 +65860,7 @@
         }
       ],
       "rating": {
-        "rank": 6059,
+        "rank": 6063,
         "total": 142,
         "count": {
           "1": 2,
@@ -65215,7 +65879,7 @@
       "total_episodes": 26,
       "collection": {
         "on_hold": 42,
-        "dropped": 38,
+        "dropped": 39,
         "wish": 321,
         "collect": 193,
         "doing": 26
@@ -67229,7 +67893,7 @@
         "id": 587266
       }
     ],
-    "updatedAt": "2026-01-04T11:35:20.952Z"
+    "updatedAt": "2026-01-05T11:40:32.789Z"
   },
   {
     "id": 9568,
@@ -67483,7 +68147,7 @@
         }
       ],
       "rating": {
-        "rank": 838,
+        "rank": 839,
         "total": 1475,
         "count": {
           "1": 0,
@@ -69159,7 +69823,7 @@
         "id": 45397
       }
     ],
-    "updatedAt": "2026-01-04T11:36:23.641Z"
+    "updatedAt": "2026-01-05T11:41:38.274Z"
   },
   {
     "id": 10422,
@@ -69278,27 +69942,7 @@
           "total_cont": 0
         },
         {
-          "name": "补番",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "1990s",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "草尾毅",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "喜剧",
           "count": 3,
           "total_cont": 0
         },
@@ -69308,7 +69952,27 @@
           "total_cont": 0
         },
         {
+          "name": "补番",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "喜剧",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "草尾毅",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "无厘头",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
@@ -69466,7 +70130,7 @@
         }
       ],
       "rating": {
-        "rank": 1948,
+        "rank": 1945,
         "total": 201,
         "count": {
           "1": 1,
@@ -69485,7 +70149,7 @@
       "total_episodes": 26,
       "collection": {
         "on_hold": 53,
-        "dropped": 39,
+        "dropped": 40,
         "wish": 550,
         "collect": 264,
         "doing": 45
@@ -70790,10 +71454,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1643445215",
-          "grid": "https://lain.bgm.tv/pic/crt/g/97/7b/390_prsn_5Omwz.jpg?r=1643445215",
-          "large": "https://lain.bgm.tv/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1643445215",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1643445215"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1767534095",
+          "grid": "https://lain.bgm.tv/pic/crt/g/97/7b/390_prsn_5Omwz.jpg?r=1767534095",
+          "large": "https://lain.bgm.tv/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1767534095",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1767534095"
         },
         "name": "J.C.STAFF",
         "relation": "动画制作",
@@ -71190,7 +71854,7 @@
         "id": 191590
       }
     ],
-    "updatedAt": "2026-01-04T11:37:07.213Z"
+    "updatedAt": "2026-01-05T11:42:23.304Z"
   },
   {
     "id": 13813,
@@ -71484,7 +72148,7 @@
         }
       ],
       "rating": {
-        "rank": 2368,
+        "rank": 2370,
         "total": 542,
         "count": {
           "1": 0,
@@ -74822,7 +75486,7 @@
         "id": 445456
       }
     ],
-    "updatedAt": "2026-01-04T11:38:10.677Z"
+    "updatedAt": "2026-01-05T11:43:28.749Z"
   },
   {
     "id": 32025,
@@ -75140,7 +75804,7 @@
         }
       ],
       "rating": {
-        "rank": 2391,
+        "rank": 2392,
         "total": 131,
         "count": {
           "1": 0,
@@ -77333,7 +77997,7 @@
         "id": 493814
       }
     ],
-    "updatedAt": "2026-01-04T11:41:06.578Z"
+    "updatedAt": "2026-01-05T11:46:30.140Z"
   },
   {
     "id": 32164,
@@ -77367,7 +78031,7 @@
           "total_cont": 0
         },
         {
-          "name": "1990-1999",
+          "name": "1999年10月",
           "count": 172,
           "total_cont": 0
         },
@@ -77442,17 +78106,27 @@
           "total_cont": 0
         },
         {
-          "name": "川澄绫子",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "サンライズ",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "老番",
+          "name": "川澄绫子",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "吉永尚之",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "七瀬葵",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "补番",
           "count": 3,
           "total_cont": 0
         },
@@ -77467,37 +78141,27 @@
           "total_cont": 0
         },
         {
-          "name": "补番",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "吉永尚之",
+          "name": "老番",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "七瀬葵",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "实验",
+          "name": "90s",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "上世纪",
+          "name": "山本裕介",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "1990-1999",
+          "name": "7分",
           "count": 2,
           "total_cont": 0
         }
@@ -77672,7 +78336,7 @@
         }
       ],
       "rating": {
-        "rank": 1452,
+        "rank": 1453,
         "total": 430,
         "count": {
           "1": 0,
@@ -77691,8 +78355,8 @@
       "total_episodes": 12,
       "collection": {
         "on_hold": 60,
-        "dropped": 35,
-        "wish": 1025,
+        "dropped": 36,
+        "wish": 1027,
         "collect": 575,
         "doing": 97
       },
@@ -79233,22 +79897,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
-          "grid": "https://lain.bgm.tv/pic/crt/g/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
-          "large": "https://lain.bgm.tv/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981"
-        },
-        "name": "大森貴弘",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 654,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/a2/1c/581_prsn_d5Hoo.jpg?r=1766409970",
           "grid": "https://lain.bgm.tv/pic/crt/g/a2/1c/581_prsn_d5Hoo.jpg?r=1766409970",
           "large": "https://lain.bgm.tv/pic/crt/l/a2/1c/581_prsn_d5Hoo.jpg?r=1766409970",
@@ -79326,6 +79974,22 @@
         ],
         "type": 1,
         "id": 74,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
+          "grid": "https://lain.bgm.tv/pic/crt/g/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
+          "large": "https://lain.bgm.tv/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/58/bf/654_prsn_K3I8P.jpg?r=1739260981"
+        },
+        "name": "大森貴弘",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 654,
         "eps": ""
       },
       {
@@ -80007,7 +80671,7 @@
         "id": 514988
       }
     ],
-    "updatedAt": "2026-01-04T11:41:07.614Z"
+    "updatedAt": "2026-01-05T11:46:31.230Z"
   },
   {
     "id": 39065,
@@ -80283,7 +80947,7 @@
         }
       ],
       "rating": {
-        "rank": 5317,
+        "rank": 5318,
         "total": 78,
         "count": {
           "1": 0,
@@ -80356,10 +81020,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1643445215",
-          "grid": "https://lain.bgm.tv/pic/crt/g/97/7b/390_prsn_5Omwz.jpg?r=1643445215",
-          "large": "https://lain.bgm.tv/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1643445215",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1643445215"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1767534095",
+          "grid": "https://lain.bgm.tv/pic/crt/g/97/7b/390_prsn_5Omwz.jpg?r=1767534095",
+          "large": "https://lain.bgm.tv/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1767534095",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/97/7b/390_prsn_5Omwz.jpg?r=1767534095"
         },
         "name": "J.C.STAFF",
         "relation": "动画制作",
@@ -81708,7 +82372,7 @@
         "id": 241112
       }
     ],
-    "updatedAt": "2026-01-04T11:42:40.317Z"
+    "updatedAt": "2026-01-05T11:48:07.942Z"
   },
   {
     "id": 67719,
@@ -82281,7 +82945,7 @@
         "id": 511670
       }
     ],
-    "updatedAt": "2026-01-04T11:45:58.447Z"
+    "updatedAt": "2026-01-05T11:51:35.630Z"
   },
   {
     "id": 79190,
@@ -82315,13 +82979,33 @@
           "total_cont": 0
         },
         {
+          "name": "旧番",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "萌",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "旧番",
-          "count": 2,
+          "name": "泡三碗面番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 1,
           "total_cont": 0
         },
         {
@@ -82335,27 +83019,7 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "短篇动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "泡三碗面番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
           "count": 1,
           "total_cont": 0
         }
@@ -82414,7 +83078,7 @@
       "total_episodes": 24,
       "collection": {
         "on_hold": 5,
-        "dropped": 9,
+        "dropped": 10,
         "wish": 29,
         "collect": 5,
         "doing": 1
@@ -82904,7 +83568,7 @@
         "id": 79189
       }
     ],
-    "updatedAt": "2026-01-04T11:47:07.930Z"
+    "updatedAt": "2026-01-05T11:52:50.889Z"
   },
   {
     "id": 98608,
@@ -83288,7 +83952,7 @@
         "id": 443488
       }
     ],
-    "updatedAt": "2026-01-04T11:49:17.051Z"
+    "updatedAt": "2026-01-05T11:55:11.445Z"
   },
   {
     "id": 258391,
@@ -84107,6 +84771,6 @@
         "id": 81579
       }
     ],
-    "updatedAt": "2026-01-04T12:00:33.925Z"
+    "updatedAt": "2026-01-05T12:07:59.084Z"
   }
 ]

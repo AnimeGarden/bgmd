@@ -106,7 +106,12 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
+          "name": "日本动画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "サンライズ",
           "count": 3,
           "total_cont": 0
         },
@@ -121,32 +126,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "TV",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "サンライズ",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "竞技",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "90年代",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "TVB",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "90~94年",
+          "name": "競技",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +141,27 @@
           "total_cont": 0
         },
         {
-          "name": "续集",
+          "name": "关俊彦",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "竞技",
           "count": 2,
           "total_cont": 0
         },
         {
           "name": "日本",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "TVB",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "90年代",
           "count": 2,
           "total_cont": 0
         }
@@ -308,7 +308,7 @@
       ],
       "rating": {
         "rank": 793,
-        "total": 525,
+        "total": 526,
         "count": {
           "1": 0,
           "2": 0,
@@ -316,7 +316,7 @@
           "4": 0,
           "5": 6,
           "6": 47,
-          "7": 194,
+          "7": 195,
           "8": 213,
           "9": 38,
           "10": 27
@@ -328,7 +328,7 @@
         "on_hold": 25,
         "dropped": 29,
         "wish": 166,
-        "collect": 861,
+        "collect": 862,
         "doing": 17
       },
       "id": 1955,
@@ -1263,22 +1263,6 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "芦沢剛史",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 11582,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/d4/98/707_prsn_a1nEQ.jpg?r=1709705563",
           "grid": "https://lain.bgm.tv/pic/crt/g/d4/98/707_prsn_a1nEQ.jpg?r=1709705563",
           "large": "https://lain.bgm.tv/pic/crt/l/d4/98/707_prsn_a1nEQ.jpg?r=1709705563",
@@ -1435,6 +1419,22 @@
         ],
         "type": 1,
         "id": 11434,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "芦沢剛史",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11582,
         "eps": ""
       }
     ],
@@ -2071,6 +2071,6 @@
         "id": 509323
       }
     ],
-    "updatedAt": "2026-01-04T11:31:19.775Z"
+    "updatedAt": "2026-01-05T11:36:23.679Z"
   }
 ]

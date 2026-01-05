@@ -106,11 +106,6 @@
           "total_cont": 0
         },
         {
-          "name": "サンライズ",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "热血",
           "count": 4,
           "total_cont": 0
@@ -121,8 +116,8 @@
           "total_cont": 0
         },
         {
-          "name": "両澤千晶",
-          "count": 3,
+          "name": "サンライズ",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -131,17 +126,12 @@
           "total_cont": 0
         },
         {
-          "name": "日升",
-          "count": 2,
+          "name": "両澤千晶",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "经典",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "久行宏和",
+          "name": "TV",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +146,22 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
+          "name": "燃",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "燃",
+          "name": "童年的经典",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "体育",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "运动",
           "count": 2,
           "total_cont": 0
         }
@@ -339,7 +339,7 @@
         }
       ],
       "rating": {
-        "rank": 412,
+        "rank": 413,
         "total": 649,
         "count": {
           "1": 0,
@@ -358,9 +358,9 @@
       "total_episodes": 5,
       "collection": {
         "on_hold": 45,
-        "dropped": 30,
+        "dropped": 31,
         "wish": 294,
-        "collect": 1082,
+        "collect": 1083,
         "doing": 20
       },
       "id": 1958,
@@ -487,22 +487,6 @@
         ],
         "type": 2,
         "id": 6065,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "芦沢剛史",
-        "relation": "协力",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 11582,
         "eps": ""
       },
       {
@@ -2090,6 +2074,22 @@
         "type": 1,
         "id": 21657,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "芦沢剛史",
+        "relation": "协力",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11582,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2932,7 +2932,7 @@
         "id": 509849
       }
     ],
-    "updatedAt": "2026-01-04T11:31:20.951Z"
+    "updatedAt": "2026-01-05T11:36:24.525Z"
   },
   {
     "id": 18048,
@@ -3031,57 +3031,7 @@
           "total_cont": 0
         },
         {
-          "name": "上杉达也",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "童年",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "Group.Tac",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "90s",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "热血",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "恋爱",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "小南",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "杉井ギサブロー",
+          "name": "三ツ矢雄二",
           "count": 1,
           "total_cont": 0
         },
@@ -3091,12 +3041,62 @@
           "total_cont": 0
         },
         {
-          "name": "三ツ矢雄二",
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "甲子园",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "童年",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "热血",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "杉井ギサブロー",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "小南",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "漫改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "校园",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ映画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "青春",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日髙のり子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "恋爱",
           "count": 1,
           "total_cont": 0
         }
@@ -3193,7 +3193,7 @@
         }
       ],
       "rating": {
-        "rank": 6226,
+        "rank": 6231,
         "total": 81,
         "count": {
           "1": 6,
@@ -3212,7 +3212,7 @@
       "total_episodes": 1,
       "collection": {
         "on_hold": 10,
-        "dropped": 16,
+        "dropped": 17,
         "wish": 50,
         "collect": 150,
         "doing": 6
@@ -3702,7 +3702,7 @@
         "id": 311094
       }
     ],
-    "updatedAt": "2026-01-04T11:38:44.778Z"
+    "updatedAt": "2026-01-05T11:44:03.928Z"
   },
   {
     "id": 90013,
@@ -4604,7 +4604,7 @@
         "id": 27773
       }
     ],
-    "updatedAt": "2026-01-04T11:48:34.573Z"
+    "updatedAt": "2026-01-05T11:54:24.565Z"
   },
   {
     "id": 98514,
@@ -5079,6 +5079,6 @@
         "id": 127828
       }
     ],
-    "updatedAt": "2026-01-04T11:49:16.687Z"
+    "updatedAt": "2026-01-05T11:55:11.435Z"
   }
 ]
