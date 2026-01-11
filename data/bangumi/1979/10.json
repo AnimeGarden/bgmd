@@ -17,7 +17,7 @@
       "tags": [
         {
           "name": "TV",
-          "count": 209,
+          "count": 210,
           "total_cont": 0
         },
         {
@@ -32,12 +32,12 @@
         },
         {
           "name": "漫画改",
-          "count": 125,
+          "count": 126,
           "total_cont": 0
         },
         {
           "name": "百合",
-          "count": 104,
+          "count": 106,
           "total_cont": 0
         },
         {
@@ -47,7 +47,7 @@
         },
         {
           "name": "历史",
-          "count": 87,
+          "count": 88,
           "total_cont": 0
         },
         {
@@ -67,7 +67,7 @@
         },
         {
           "name": "补旧番",
-          "count": 50,
+          "count": 51,
           "total_cont": 0
         },
         {
@@ -82,7 +82,7 @@
         },
         {
           "name": "日本",
-          "count": 15,
+          "count": 16,
           "total_cont": 0
         },
         {
@@ -141,12 +141,17 @@
           "total_cont": 0
         },
         {
-          "name": "神作",
+          "name": "剧情",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "百合嫌疑",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "神作",
           "count": 4,
           "total_cont": 0
         },
@@ -157,11 +162,6 @@
         },
         {
           "name": "腦補",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "百合嫌疑",
           "count": 4,
           "total_cont": 0
         }
@@ -252,7 +252,7 @@
       ],
       "rating": {
         "rank": 474,
-        "total": 474,
+        "total": 475,
         "count": {
           "1": 1,
           "2": 1,
@@ -262,7 +262,7 @@
           "6": 42,
           "7": 108,
           "8": 192,
-          "9": 84,
+          "9": 85,
           "10": 35
         },
         "score": 7.8
@@ -271,8 +271,8 @@
       "collection": {
         "on_hold": 154,
         "dropped": 58,
-        "wish": 901,
-        "collect": 651,
+        "wish": 903,
+        "collect": 653,
         "doing": 141
       },
       "id": 12579,
@@ -2811,7 +2811,7 @@
         "id": 541438
       }
     ],
-    "updatedAt": "2026-01-10T11:38:39.044Z"
+    "updatedAt": "2026-01-11T11:37:42.359Z"
   },
   {
     "id": 37293,
@@ -3382,13 +3382,27 @@
           "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/69/378486_5W24T.jpg"
         },
         "name": "闘士ゴーディアン オリジナル・サウンドトラック",
-        "name_cn": "TV动画《斗士高迪安》原声",
+        "name_cn": "斗士高迪安 OST",
         "relation": "原声集",
         "type": 3,
         "id": 378486
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/b3/4c/620963_VeiEI.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b3/4c/620963_VeiEI.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/b3/4c/620963_VeiEI.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b3/4c/620963_VeiEI.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/b3/4c/620963_VeiEI.jpg"
+        },
+        "name": "闘士ゴーディアン / 希望に向かって走れ",
+        "name_cn": "闘士ゴーディアン",
+        "relation": "片头曲",
+        "type": 3,
+        "id": 620963
       }
     ],
-    "updatedAt": "2026-01-10T11:42:52.972Z"
+    "updatedAt": "2026-01-11T11:41:36.596Z"
   },
   {
     "id": 61601,
@@ -5017,7 +5031,7 @@
         "id": 578402
       }
     ],
-    "updatedAt": "2026-01-10T11:46:22.041Z"
+    "updatedAt": "2026-01-11T11:44:47.026Z"
   },
   {
     "id": 187189,
@@ -5145,7 +5159,7 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-01-10T11:56:42.280Z"
+    "updatedAt": "2026-01-11T11:54:17.514Z"
   },
   {
     "id": 190434,
@@ -5465,7 +5479,7 @@
         "id": 445233
       }
     ],
-    "updatedAt": "2026-01-10T11:57:01.143Z"
+    "updatedAt": "2026-01-11T11:54:35.205Z"
   },
   {
     "id": 416984,
@@ -5726,7 +5740,7 @@
         "id": 10392
       }
     ],
-    "updatedAt": "2026-01-10T12:11:42.297Z"
+    "updatedAt": "2026-01-11T12:07:52.162Z"
   },
   {
     "id": 511876,
@@ -5850,6 +5864,6 @@
         "id": 520707
       }
     ],
-    "updatedAt": "2026-01-10T12:15:00.831Z"
+    "updatedAt": "2026-01-11T12:10:52.396Z"
   }
 ]

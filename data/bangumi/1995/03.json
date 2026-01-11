@@ -131,6 +131,11 @@
           "total_cont": 0
         },
         {
+          "name": "1995年3月",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "日本动画",
           "count": 3,
           "total_cont": 0
@@ -141,8 +146,13 @@
           "total_cont": 0
         },
         {
-          "name": "1995年3月",
-          "count": 3,
+          "name": "Shin-EiAnimation",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ映画",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -152,16 +162,6 @@
         },
         {
           "name": "劇場版",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "喜剧",
           "count": 2,
           "total_cont": 0
         }
@@ -301,7 +301,7 @@
         }
       ],
       "rating": {
-        "rank": 1934,
+        "rank": 1937,
         "total": 636,
         "count": {
           "1": 1,
@@ -1664,7 +1664,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2026-01-10T11:29:57.714Z"
+    "updatedAt": "2026-01-11T11:29:54.638Z"
   },
   {
     "id": 3733,
@@ -1871,7 +1871,7 @@
         }
       ],
       "rating": {
-        "rank": 1732,
+        "rank": 1733,
         "total": 373,
         "count": {
           "1": 2,
@@ -2422,7 +2422,7 @@
         "id": 1608
       }
     ],
-    "updatedAt": "2026-01-10T11:34:27.563Z"
+    "updatedAt": "2026-01-11T11:33:56.740Z"
   },
   {
     "id": 5433,
@@ -5768,7 +5768,7 @@
         "id": 218446
       }
     ],
-    "updatedAt": "2026-01-10T11:35:38.252Z"
+    "updatedAt": "2026-01-11T11:34:59.901Z"
   },
   {
     "id": 18504,
@@ -6031,7 +6031,7 @@
         }
       ],
       "rating": {
-        "rank": 2444,
+        "rank": 2445,
         "total": 448,
         "count": {
           "1": 0,
@@ -8024,7 +8024,7 @@
         "id": 168968
       }
     ],
-    "updatedAt": "2026-01-10T11:39:38.112Z"
+    "updatedAt": "2026-01-11T11:38:37.074Z"
   },
   {
     "id": 63012,
@@ -8452,6 +8452,22 @@
         ],
         "type": 2,
         "id": 15431,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/34/eb/2495_prsn_sus6o.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/34/eb/2495_prsn_sus6o.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/34/eb/2495_prsn_sus6o.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/34/eb/2495_prsn_sus6o.jpg"
+        },
+        "name": "布勢博一",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2495,
         "eps": ""
       },
       {
@@ -9433,22 +9449,6 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "布勢博一",
-        "relation": "脚本",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 2495,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/6d/57/2337_prsn_8ZP68.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/6d/57/2337_prsn_8ZP68.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/6d/57/2337_prsn_8ZP68.jpg",
@@ -9561,10 +9561,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a6/6e/1971_prsn_6MZ35.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a6/6e/1971_prsn_6MZ35.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a6/6e/1971_prsn_6MZ35.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a6/6e/1971_prsn_6MZ35.jpg"
         },
         "name": "小村敏明",
         "relation": "演出助理",
@@ -9699,7 +9699,7 @@
         "id": 354420
       }
     ],
-    "updatedAt": "2026-01-10T11:46:28.075Z"
+    "updatedAt": "2026-01-11T11:44:53.326Z"
   },
   {
     "id": 318275,
@@ -11009,6 +11009,6 @@
         "id": 616662
       }
     ],
-    "updatedAt": "2026-01-10T12:06:51.582Z"
+    "updatedAt": "2026-01-11T12:03:27.096Z"
   }
 ]
