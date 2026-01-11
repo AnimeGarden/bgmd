@@ -9,25 +9,28 @@ importers:
   .:
     devDependencies:
       '@types/fs-extra':
-        specifier: ^11.0.4
+        specifier: 11.0.4
         version: 11.0.4
       '@types/node':
-        specifier: ^24.8.1
+        specifier: 24.8.1
         version: 24.8.1
+      bangumi-data:
+        specifier: 0.3.193
+        version: 0.3.193
       bgmx:
-        specifier: ^0.0.3
+        specifier: 0.0.3
         version: 0.0.3
       execa:
-        specifier: ^9.6.0
+        specifier: 9.6.0
         version: 9.6.0
       fs-extra:
-        specifier: ^11.3.2
+        specifier: 11.3.2
         version: 11.3.2
       prettier:
-        specifier: ^3.6.2
+        specifier: 3.6.2
         version: 3.6.2
       tsx:
-        specifier: ^4.20.6
+        specifier: 4.20.6
         version: 4.20.6
 
 packages:
@@ -246,8 +249,8 @@ packages:
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
-  bangumi-data@0.3.184:
-    resolution: {integrity: sha512-ZB2G9L59bk4YZfet1x8fdjYX3WN6yk+oFeFXVQ19Rfx1foJS/qMCBjLS8LN8EydtoI++S/BcvEiKuY7xMyau+Q==}
+  bangumi-data@0.3.193:
+    resolution: {integrity: sha512-3zAyLVS8K1qSWchMI7DFM5+msVUsIpYrdIj2Iec8tNPHDJtd5IXsEAwbzvohaDPawd2jmCuZmQPrmLt/9f+rZQ==}
 
   bgmc@0.0.10:
     resolution: {integrity: sha512-V5pkx/jHgNMfYs+P4xFIGm+dsRjyWuXq/lMzzCPv8vY0nATkD/11RFM3phy6zw0hNb0OmOL4l9xpN+eFDlkPXA==}
@@ -627,7 +630,7 @@ snapshots:
 
   balanced-match@1.0.2: {}
 
-  bangumi-data@0.3.184: {}
+  bangumi-data@0.3.193: {}
 
   bgmc@0.0.10:
     dependencies:
@@ -635,7 +638,7 @@ snapshots:
 
   bgmd@0.0.49:
     dependencies:
-      bangumi-data: 0.3.184
+      bangumi-data: 0.3.193
       bgmc: 0.0.10
       tmdbc: 0.0.2
       type-fest: 4.41.0
@@ -645,7 +648,7 @@ snapshots:
   bgmx@0.0.3:
     dependencies:
       '@onekuma/map': 0.1.10
-      bangumi-data: 0.3.184
+      bangumi-data: 0.3.193
       bgmc: 0.0.10
       bgmd: 0.0.49
       bgmt: 0.0.11
