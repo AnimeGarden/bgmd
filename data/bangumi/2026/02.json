@@ -17,22 +17,32 @@
       "tags": [
         {
           "name": "2026年1月",
-          "count": 20,
+          "count": 21,
           "total_cont": 0
         },
         {
           "name": "光之美少女",
-          "count": 17,
+          "count": 19,
           "total_cont": 0
         },
         {
           "name": "TV",
-          "count": 16,
+          "count": 17,
           "total_cont": 0
         },
         {
           "name": "原创",
-          "count": 15,
+          "count": 16,
+          "total_cont": 0
+        },
+        {
+          "name": "子供向",
+          "count": 10,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 9,
           "total_cont": 0
         },
         {
@@ -41,17 +51,7 @@
           "total_cont": 0
         },
         {
-          "name": "子供向",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
           "name": "东映动画",
-          "count": 8,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
           "count": 8,
           "total_cont": 0
         },
@@ -72,7 +72,7 @@
         },
         {
           "name": "东映",
-          "count": 2,
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -183,28 +183,28 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 1,
+        "total": 2,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 0,
-          "5": 0,
+          "5": 1,
           "6": 0,
           "7": 0,
           "8": 0,
           "9": 0,
           "10": 1
         },
-        "score": 10
+        "score": 7.5
       },
       "total_episodes": 0,
       "collection": {
-        "on_hold": 1,
+        "on_hold": 2,
         "dropped": 3,
-        "wish": 122,
+        "wish": 126,
         "collect": 1,
-        "doing": 30
+        "doing": 32
       },
       "id": 611077,
       "eps": 0,
@@ -223,6 +223,22 @@
     "persons": [
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/20/3c/26620_prsn_QP111.jpg?r=1768283844",
+          "grid": "https://lain.bgm.tv/pic/crt/g/20/3c/26620_prsn_QP111.jpg?r=1768283844",
+          "large": "https://lain.bgm.tv/pic/crt/l/20/3c/26620_prsn_QP111.jpg?r=1768283844",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/20/3c/26620_prsn_QP111.jpg?r=1768283844"
+        },
+        "name": "川崎弘二",
+        "relation": "系列监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 26620,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
           "grid": "https://lain.bgm.tv/pic/crt/g/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
           "large": "https://lain.bgm.tv/pic/crt/l/8b/ac/3045_prsn_45Tto.jpg?r=1740285943",
@@ -235,22 +251,6 @@
         ],
         "type": 2,
         "id": 3045,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "川崎弘二",
-        "relation": "系列监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 26620,
         "eps": ""
       },
       {
@@ -633,6 +633,6 @@
         "id": 526104
       }
     ],
-    "updatedAt": "2026-01-12T12:24:04.076Z"
+    "updatedAt": "2026-01-13T12:21:15.193Z"
   }
 ]
