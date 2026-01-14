@@ -151,17 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
+          "name": "动画",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 9,
           "total_cont": 0
         },
         {
           "name": "动画电影",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
           "count": 9,
           "total_cont": 0
         }
@@ -314,8 +314,8 @@
           "5": 17,
           "6": 83,
           "7": 257,
-          "8": 882,
-          "9": 1350,
+          "8": 883,
+          "9": 1349,
           "10": 1127
         },
         "score": 8.8
@@ -323,10 +323,10 @@
       "total_episodes": 1,
       "collection": {
         "on_hold": 149,
-        "dropped": 63,
-        "wish": 2784,
-        "collect": 5390,
-        "doing": 182
+        "dropped": 62,
+        "wish": 2785,
+        "collect": 5391,
+        "doing": 181
       },
       "id": 321,
       "eps": 1,
@@ -789,22 +789,6 @@
         ],
         "type": 2,
         "id": 56,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/bd/f3/49841_prsn_I7sCb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/bd/f3/49841_prsn_I7sCb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/bd/f3/49841_prsn_I7sCb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/bd/f3/49841_prsn_I7sCb.jpg"
-        },
-        "name": "オムニバス・ジャパン",
-        "relation": "录音",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 49841,
         "eps": ""
       },
       {
@@ -2075,6 +2059,22 @@
         "type": 1,
         "id": 70378,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/dd/8b/86571_prsn_Ly94h.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/dd/8b/86571_prsn_Ly94h.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/dd/8b/86571_prsn_Ly94h.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/dd/8b/86571_prsn_Ly94h.jpg"
+        },
+        "name": "オムニバスプロモーション",
+        "relation": "录音",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 86571,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2770,7 +2770,7 @@
         "id": 446992
       }
     ],
-    "updatedAt": "2026-01-13T11:34:24.637Z"
+    "updatedAt": "2026-01-14T11:35:32.283Z"
   },
   {
     "id": 37406,
@@ -3397,7 +3397,7 @@
         "id": 120971
       }
     ],
-    "updatedAt": "2026-01-13T11:47:40.728Z"
+    "updatedAt": "2026-01-14T11:48:33.385Z"
   },
   {
     "id": 39274,
@@ -3641,7 +3641,7 @@
         }
       ],
       "rating": {
-        "rank": 7599,
+        "rank": 7603,
         "total": 76,
         "count": {
           "1": 0,
@@ -4468,6 +4468,6 @@
         "id": 229058
       }
     ],
-    "updatedAt": "2026-01-13T11:48:14.748Z"
+    "updatedAt": "2026-01-14T11:49:07.427Z"
   }
 ]

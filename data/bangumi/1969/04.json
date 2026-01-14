@@ -31,11 +31,6 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 3,
           "total_cont": 0
@@ -46,12 +41,17 @@
           "total_cont": 0
         },
         {
-          "name": "勇敢的桑希洛",
-          "count": 2,
+          "name": "日本",
+          "count": 3,
           "total_cont": 0
         },
         {
           "name": "童年",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "勇敢的桑希洛",
           "count": 2,
           "total_cont": 0
         },
@@ -200,7 +200,7 @@
       "collection": {
         "on_hold": 5,
         "dropped": 6,
-        "wish": 23,
+        "wish": 24,
         "collect": 16,
         "doing": 3
       },
@@ -673,9 +673,23 @@
         "relation": "书籍",
         "type": 1,
         "id": 416852
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/78/621406_GK7we.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/78/621406_GK7we.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/51/78/621406_GK7we.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/78/621406_GK7we.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/78/621406_GK7we.jpg"
+        },
+        "name": "懐かしのテレビまんがBGMコレクション 紅三四郎 ミュージックファイル",
+        "name_cn": "令人怀念的电视漫画BGM合集 红三四郎 音乐文件",
+        "relation": "原声集",
+        "type": 3,
+        "id": 621406
       }
     ],
-    "updatedAt": "2026-01-13T11:42:54.289Z"
+    "updatedAt": "2026-01-14T11:43:55.071Z"
   },
   {
     "id": 103132,
@@ -1191,7 +1205,7 @@
         "id": 498516
       }
     ],
-    "updatedAt": "2026-01-13T11:55:29.866Z"
+    "updatedAt": "2026-01-14T11:56:17.798Z"
   },
   {
     "id": 107454,
@@ -1410,7 +1424,7 @@
         }
       ],
       "rating": {
-        "rank": 3187,
+        "rank": 3188,
         "total": 352,
         "count": {
           "1": 1,
@@ -2103,6 +2117,6 @@
         "id": 503698
       }
     ],
-    "updatedAt": "2026-01-13T11:55:58.303Z"
+    "updatedAt": "2026-01-14T11:56:45.433Z"
   }
 ]

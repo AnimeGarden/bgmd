@@ -121,12 +121,12 @@
           "total_cont": 0
         },
         {
-          "name": "1970s",
+          "name": "1979年10月",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "1979年10月",
+          "name": "1970s",
           "count": 7,
           "total_cont": 0
         },
@@ -141,12 +141,17 @@
           "total_cont": 0
         },
         {
-          "name": "腦補",
+          "name": "荒木伸吾",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "荒木伸吾",
+          "name": "神作",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "腦補",
           "count": 4,
           "total_cont": 0
         },
@@ -157,11 +162,6 @@
         },
         {
           "name": "剧情",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "神作",
           "count": 4,
           "total_cont": 0
         }
@@ -271,7 +271,7 @@
       "collection": {
         "on_hold": 154,
         "dropped": 58,
-        "wish": 905,
+        "wish": 908,
         "collect": 653,
         "doing": 141
       },
@@ -2728,6 +2728,20 @@
     "subjects": [
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/92/71/36359_Y4i8J.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/92/71/36359_Y4i8J.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/92/71/36359_Y4i8J.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/92/71/36359_Y4i8J.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/92/71/36359_Y4i8J.jpg"
+        },
+        "name": "ルパン三世",
+        "name_cn": "鲁邦三世 第二期",
+        "relation": "角色出演",
+        "type": 2,
+        "id": 36359
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/ec/48018_C3353.jpg",
           "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/ec/48018_C3353.jpg",
           "large": "https://lain.bgm.tv/pic/cover/l/26/ec/48018_C3353.jpg",
@@ -2811,7 +2825,7 @@
         "id": 541438
       }
     ],
-    "updatedAt": "2026-01-13T11:43:22.633Z"
+    "updatedAt": "2026-01-14T11:44:18.467Z"
   },
   {
     "id": 37293,
@@ -3402,7 +3416,7 @@
         "id": 620963
       }
     ],
-    "updatedAt": "2026-01-13T11:47:37.667Z"
+    "updatedAt": "2026-01-14T11:48:29.612Z"
   },
   {
     "id": 61601,
@@ -5031,7 +5045,7 @@
         "id": 578402
       }
     ],
-    "updatedAt": "2026-01-13T11:51:06.109Z"
+    "updatedAt": "2026-01-14T11:51:59.450Z"
   },
   {
     "id": 187189,
@@ -5159,7 +5173,7 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-01-13T12:01:26.902Z"
+    "updatedAt": "2026-01-14T12:04:19.146Z"
   },
   {
     "id": 190434,
@@ -5479,7 +5493,7 @@
         "id": 445233
       }
     ],
-    "updatedAt": "2026-01-13T12:01:45.602Z"
+    "updatedAt": "2026-01-14T12:04:37.745Z"
   },
   {
     "id": 416984,
@@ -5740,7 +5754,7 @@
         "id": 10392
       }
     ],
-    "updatedAt": "2026-01-13T12:16:37.058Z"
+    "updatedAt": "2026-01-14T12:19:22.985Z"
   },
   {
     "id": 511876,
@@ -5864,6 +5878,6 @@
         "id": 520707
       }
     ],
-    "updatedAt": "2026-01-13T12:20:02.610Z"
+    "updatedAt": "2026-01-14T12:22:46.142Z"
   }
 ]
