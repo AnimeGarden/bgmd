@@ -739,22 +739,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
-          "large": "https://lain.bgm.tv/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814"
-        },
-        "name": "松竹",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 1433,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/35/5a/57_prsn_xGdDp.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/35/5a/57_prsn_xGdDp.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/35/5a/57_prsn_xGdDp.jpg",
@@ -2025,6 +2009,22 @@
         ],
         "type": 1,
         "id": 2183,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
+          "large": "https://lain.bgm.tv/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814"
+        },
+        "name": "松竹",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 1433,
         "eps": ""
       },
       {
@@ -3980,7 +3980,7 @@
         "id": 520707
       }
     ],
-    "updatedAt": "2026-01-15T11:53:18.827Z"
+    "updatedAt": "2026-01-16T11:52:29.344Z"
   },
   {
     "id": 85339,
@@ -4000,7 +4000,7 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 338,
+          "count": 337,
           "total_cont": 0
         },
         {
@@ -4084,18 +4084,13 @@
           "total_cont": 0
         },
         {
-          "name": "2014年12月",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
           "name": "空战",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "萌",
-          "count": 6,
+          "name": "2014年12月",
+          "count": 7,
           "total_cont": 0
         },
         {
@@ -4104,8 +4099,8 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 5,
+          "name": "萌",
+          "count": 6,
           "total_cont": 0
         },
         {
@@ -4114,8 +4109,8 @@
           "total_cont": 0
         },
         {
-          "name": "魔法少女",
-          "count": 3,
+          "name": "奇幻",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -4134,17 +4129,22 @@
           "total_cont": 0
         },
         {
-          "name": "剧场版",
+          "name": "魔法少女",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "SILVER",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "设定",
+          "name": "番外",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "2014年10月",
+          "name": "露点",
           "count": 2,
           "total_cont": 0
         }
@@ -4214,7 +4214,7 @@
         }
       ],
       "rating": {
-        "rank": 2632,
+        "rank": 2636,
         "total": 813,
         "count": {
           "1": 0,
@@ -6425,7 +6425,7 @@
         "id": 154388
       }
     ],
-    "updatedAt": "2026-01-15T11:53:27.991Z"
+    "updatedAt": "2026-01-16T11:52:39.268Z"
   },
   {
     "id": 98294,
@@ -6454,12 +6454,12 @@
           "total_cont": 0
         },
         {
-          "name": "2014年12月",
+          "name": "偶像",
           "count": 40,
           "total_cont": 0
         },
         {
-          "name": "偶像",
+          "name": "2014年12月",
           "count": 40,
           "total_cont": 0
         },
@@ -6484,22 +6484,22 @@
           "total_cont": 0
         },
         {
-          "name": "OVA",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "加藤陽一",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "加藤阳一",
-          "count": 5,
+          "name": "OVA",
+          "count": 6,
           "total_cont": 0
         },
         {
           "name": "音乐",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "加藤阳一",
           "count": 5,
           "total_cont": 0
         },
@@ -6514,7 +6514,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "諸星すみれ",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "2010s",
           "count": 3,
           "total_cont": 0
         },
@@ -6529,13 +6534,38 @@
           "total_cont": 0
         },
         {
-          "name": "諸星すみれ",
+          "name": "日本",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "2010s",
-          "count": 3,
+          "name": "已下载",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "十",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "aikatsu",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "サンライズ",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "Love!",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "アイカツ",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -6559,37 +6589,7 @@
           "total_cont": 0
         },
         {
-          "name": "百合",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "サンライズ",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "Love!",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "已下载",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "十",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "aikatsu",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "矢口弘子",
+          "name": "寿美菜子",
           "count": 2,
           "total_cont": 0
         }
@@ -6734,7 +6734,7 @@
       ],
       "rating": {
         "rank": 2512,
-        "total": 144,
+        "total": 145,
         "count": {
           "1": 1,
           "2": 0,
@@ -6742,7 +6742,7 @@
           "4": 2,
           "5": 9,
           "6": 28,
-          "7": 63,
+          "7": 64,
           "8": 28,
           "9": 9,
           "10": 4
@@ -6754,7 +6754,7 @@
         "on_hold": 12,
         "dropped": 26,
         "wish": 99,
-        "collect": 238,
+        "collect": 239,
         "doing": 8
       },
       "id": 98294,
@@ -11062,7 +11062,7 @@
         "id": 280612
       }
     ],
-    "updatedAt": "2026-01-15T11:54:37.928Z"
+    "updatedAt": "2026-01-16T11:53:52.602Z"
   },
   {
     "id": 100568,
@@ -11270,7 +11270,7 @@
         }
       ],
       "rating": {
-        "rank": 7538,
+        "rank": 7541,
         "total": 255,
         "count": {
           "1": 1,
@@ -11906,7 +11906,7 @@
         "id": 262276
       }
     ],
-    "updatedAt": "2026-01-15T11:54:55.782Z"
+    "updatedAt": "2026-01-16T11:54:09.929Z"
   },
   {
     "id": 105155,
@@ -12154,7 +12154,7 @@
         "on_hold": 32,
         "dropped": 48,
         "wish": 145,
-        "collect": 1211,
+        "collect": 1214,
         "doing": 19
       },
       "id": 105155,
@@ -12955,7 +12955,7 @@
         "id": 136371
       }
     ],
-    "updatedAt": "2026-01-15T11:55:21.655Z"
+    "updatedAt": "2026-01-16T11:54:36.828Z"
   },
   {
     "id": 105951,
@@ -13224,7 +13224,7 @@
         }
       ],
       "rating": {
-        "rank": 5295,
+        "rank": 5298,
         "total": 987,
         "count": {
           "1": 2,
@@ -13244,8 +13244,8 @@
       "collection": {
         "on_hold": 56,
         "dropped": 45,
-        "wish": 277,
-        "collect": 1974,
+        "wish": 278,
+        "collect": 1975,
         "doing": 76
       },
       "id": 105951,
@@ -13830,7 +13830,7 @@
         "id": 144000
       }
     ],
-    "updatedAt": "2026-01-15T11:55:24.358Z"
+    "updatedAt": "2026-01-16T11:54:39.679Z"
   },
   {
     "id": 107446,
@@ -14721,7 +14721,7 @@
         "id": 239266
       }
     ],
-    "updatedAt": "2026-01-15T11:55:35.536Z"
+    "updatedAt": "2026-01-16T11:54:53.081Z"
   },
   {
     "id": 109053,
@@ -14825,12 +14825,12 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "ぴえろ",
           "count": 14,
           "total_cont": 0
         },
         {
-          "name": "ぴえろ",
+          "name": "奇幻",
           "count": 14,
           "total_cont": 0
         },
@@ -14855,17 +14855,17 @@
           "total_cont": 0
         },
         {
-          "name": "劇場版",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "动画电影",
           "count": 5,
           "total_cont": 0
         },
         {
           "name": "高梨康治",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "劇場版",
           "count": 5,
           "total_cont": 0
         },
@@ -14885,7 +14885,7 @@
           "total_cont": 0
         },
         {
-          "name": "PIERROT",
+          "name": "TV",
           "count": 3,
           "total_cont": 0
         }
@@ -14930,17 +14930,17 @@
         }
       ],
       "rating": {
-        "rank": 3856,
-        "total": 1670,
+        "rank": 3854,
+        "total": 1672,
         "count": {
           "1": 6,
           "2": 5,
           "3": 14,
           "4": 37,
           "5": 134,
-          "6": 473,
+          "6": 474,
           "7": 630,
-          "8": 277,
+          "8": 278,
           "9": 47,
           "10": 47
         },
@@ -14951,7 +14951,7 @@
         "on_hold": 30,
         "dropped": 29,
         "wish": 152,
-        "collect": 2949,
+        "collect": 2951,
         "doing": 17
       },
       "id": 109053,
@@ -17816,7 +17816,7 @@
         "id": 117209
       }
     ],
-    "updatedAt": "2026-01-15T11:55:43.622Z"
+    "updatedAt": "2026-01-16T11:55:02.310Z"
   },
   {
     "id": 110049,
@@ -17836,12 +17836,12 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 1206,
+          "count": 1205,
           "total_cont": 0
         },
         {
           "name": "进击的巨人",
-          "count": 1040,
+          "count": 1039,
           "total_cont": 0
         },
         {
@@ -17851,7 +17851,7 @@
         },
         {
           "name": "漫画改",
-          "count": 595,
+          "count": 594,
           "total_cont": 0
         },
         {
@@ -17861,32 +17861,32 @@
         },
         {
           "name": "2014年12月",
-          "count": 490,
+          "count": 489,
           "total_cont": 0
         },
         {
           "name": "战斗",
-          "count": 434,
+          "count": 433,
           "total_cont": 0
         },
         {
           "name": "热血",
-          "count": 421,
+          "count": 420,
           "total_cont": 0
         },
         {
           "name": "荒木哲郎",
-          "count": 323,
+          "count": 322,
           "total_cont": 0
         },
         {
           "name": "2014年12月",
-          "count": 277,
+          "count": 276,
           "total_cont": 0
         },
         {
           "name": "泽野弘之",
-          "count": 258,
+          "count": 257,
           "total_cont": 0
         },
         {
@@ -17916,7 +17916,7 @@
         },
         {
           "name": "日本",
-          "count": 29,
+          "count": 28,
           "total_cont": 0
         },
         {
@@ -17960,17 +17960,17 @@
           "total_cont": 0
         },
         {
-          "name": "OVA&OAD",
-          "count": 8,
-          "total_cont": 0
-        },
-        {
           "name": "续作",
           "count": 8,
           "total_cont": 0
         },
         {
           "name": "TV",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "OVA&OAD",
           "count": 8,
           "total_cont": 0
         },
@@ -18052,19 +18052,19 @@
         }
       ],
       "rating": {
-        "rank": 858,
-        "total": 4766,
+        "rank": 857,
+        "total": 4770,
         "count": {
           "1": 15,
           "2": 3,
           "3": 4,
           "4": 21,
-          "5": 99,
+          "5": 100,
           "6": 494,
           "7": 1765,
-          "8": 1695,
-          "9": 338,
-          "10": 332
+          "8": 1696,
+          "9": 339,
+          "10": 333
         },
         "score": 7.5
       },
@@ -18072,9 +18072,9 @@
       "collection": {
         "on_hold": 129,
         "dropped": 61,
-        "wish": 745,
-        "collect": 9280,
-        "doing": 128
+        "wish": 746,
+        "collect": 9289,
+        "doing": 127
       },
       "id": 110049,
       "eps": 2,
@@ -19321,7 +19321,7 @@
         "id": 116741
       }
     ],
-    "updatedAt": "2026-01-15T11:55:49.877Z"
+    "updatedAt": "2026-01-16T11:55:08.432Z"
   },
   {
     "id": 114745,
@@ -19435,11 +19435,6 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "TVSP",
           "count": 5,
           "total_cont": 0
@@ -19450,12 +19445,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 4,
+          "name": "动画",
+          "count": 5,
           "total_cont": 0
         },
         {
           "name": "内田けんじ",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 4,
           "total_cont": 0
         },
@@ -19532,8 +19532,8 @@
         }
       ],
       "rating": {
-        "rank": 4473,
-        "total": 765,
+        "rank": 4472,
+        "total": 766,
         "count": {
           "1": 0,
           "2": 2,
@@ -19541,7 +19541,7 @@
           "4": 9,
           "5": 62,
           "6": 260,
-          "7": 316,
+          "7": 317,
           "8": 89,
           "9": 13,
           "10": 9
@@ -19553,7 +19553,7 @@
         "on_hold": 11,
         "dropped": 16,
         "wish": 120,
-        "collect": 1655,
+        "collect": 1657,
         "doing": 51
       },
       "id": 114745,
@@ -20936,7 +20936,7 @@
         "id": 158280
       }
     ],
-    "updatedAt": "2026-01-15T11:56:14.919Z"
+    "updatedAt": "2026-01-16T11:55:32.947Z"
   },
   {
     "id": 115932,
@@ -20956,7 +20956,7 @@
       "tags": [
         {
           "name": "物语系列",
-          "count": 1918,
+          "count": 1919,
           "total_cont": 0
         },
         {
@@ -20981,7 +20981,7 @@
         },
         {
           "name": "TV",
-          "count": 784,
+          "count": 783,
           "total_cont": 0
         },
         {
@@ -21095,12 +21095,12 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
+          "name": "2015年1月",
           "count": 11,
           "total_cont": 0
         },
         {
-          "name": "2015年1月",
+          "name": "TVSP",
           "count": 11,
           "total_cont": 0
         }
@@ -21278,17 +21278,17 @@
         }
       ],
       "rating": {
-        "rank": 884,
-        "total": 7406,
+        "rank": 885,
+        "total": 7408,
         "count": {
           "1": 4,
           "2": 2,
           "3": 4,
           "4": 30,
           "5": 123,
-          "6": 718,
-          "7": 2776,
-          "8": 2949,
+          "6": 717,
+          "7": 2778,
+          "8": 2950,
           "9": 510,
           "10": 290
         },
@@ -21298,9 +21298,9 @@
       "collection": {
         "on_hold": 230,
         "dropped": 56,
-        "wish": 1745,
-        "collect": 12775,
-        "doing": 256
+        "wish": 1748,
+        "collect": 12781,
+        "doing": 255
       },
       "id": 115932,
       "eps": 4,
@@ -23835,7 +23835,7 @@
         "id": 117251
       }
     ],
-    "updatedAt": "2026-01-15T11:56:21.110Z"
+    "updatedAt": "2026-01-16T11:55:38.892Z"
   },
   {
     "id": 116045,
@@ -24099,7 +24099,7 @@
         }
       ],
       "rating": {
-        "rank": 6123,
+        "rank": 6127,
         "total": 722,
         "count": {
           "1": 0,
@@ -25291,6 +25291,6 @@
         "id": 380201
       }
     ],
-    "updatedAt": "2026-01-15T11:56:22.758Z"
+    "updatedAt": "2026-01-16T11:55:40.723Z"
   }
 ]

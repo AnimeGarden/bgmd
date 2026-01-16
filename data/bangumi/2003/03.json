@@ -101,6 +101,11 @@
           "total_cont": 0
         },
         {
+          "name": "映画",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "2003年3月",
           "count": 5,
           "total_cont": 0
@@ -111,8 +116,8 @@
           "total_cont": 0
         },
         {
-          "name": "映画",
-          "count": 5,
+          "name": "劇場版",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -126,8 +131,8 @@
           "total_cont": 0
         },
         {
-          "name": "劇場版",
-          "count": 4,
+          "name": "电影",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -146,22 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "电影",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "子供向",
+          "name": "Shin-EiAnimation",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "补标",
+          "name": "战斗",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         }
@@ -351,8 +351,8 @@
         }
       ],
       "rating": {
-        "rank": 1762,
-        "total": 720,
+        "rank": 1758,
+        "total": 721,
         "count": {
           "1": 0,
           "2": 1,
@@ -361,7 +361,7 @@
           "5": 22,
           "6": 124,
           "7": 309,
-          "8": 197,
+          "8": 198,
           "9": 39,
           "10": 23
         },
@@ -372,7 +372,7 @@
         "on_hold": 18,
         "dropped": 22,
         "wish": 74,
-        "collect": 1491,
+        "collect": 1493,
         "doing": 12
       },
       "id": 469,
@@ -2604,7 +2604,7 @@
         "id": 440052
       }
     ],
-    "updatedAt": "2026-01-15T11:35:11.503Z"
+    "updatedAt": "2026-01-16T11:33:47.234Z"
   },
   {
     "id": 1904,
@@ -3481,7 +3481,7 @@
         "id": 448109
       }
     ],
-    "updatedAt": "2026-01-15T11:36:58.339Z"
+    "updatedAt": "2026-01-16T11:35:35.214Z"
   },
   {
     "id": 1946,
@@ -3685,7 +3685,7 @@
         }
       ],
       "rating": {
-        "rank": 5658,
+        "rank": 5661,
         "total": 87,
         "count": {
           "1": 0,
@@ -4666,7 +4666,7 @@
         "id": 9983
       }
     ],
-    "updatedAt": "2026-01-15T11:37:06.267Z"
+    "updatedAt": "2026-01-16T11:35:43.407Z"
   },
   {
     "id": 20932,
@@ -4735,22 +4735,22 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "动画",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "科幻",
+          "name": "藤島康介",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "藤島康介",
+          "name": "日本",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "科幻",
           "count": 4,
           "total_cont": 0
         },
@@ -4780,17 +4780,12 @@
           "total_cont": 0
         },
         {
-          "name": "RADIXMOBANIMATION",
+          "name": "游改",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "喵帕斯记录~",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "后宫",
+          "name": "GAL改",
           "count": 1,
           "total_cont": 0
         },
@@ -4800,12 +4795,32 @@
           "total_cont": 0
         },
         {
-          "name": "2000-2009",
+          "name": "陶山章央",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "游改",
+          "name": "打斗",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "其他",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "恋爱",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "横山智佐",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "川崎ヒロユキ",
           "count": 1,
           "total_cont": 0
         },
@@ -4816,21 +4831,6 @@
         },
         {
           "name": "藤岛康介",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "陶山章央",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "GAL改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "打斗",
           "count": 1,
           "total_cont": 0
         }
@@ -4924,7 +4924,7 @@
         }
       ],
       "rating": {
-        "rank": 6199,
+        "rank": 6200,
         "total": 106,
         "count": {
           "1": 0,
@@ -4944,7 +4944,7 @@
       "collection": {
         "on_hold": 10,
         "dropped": 18,
-        "wish": 76,
+        "wish": 77,
         "collect": 175,
         "doing": 10
       },
@@ -6325,7 +6325,7 @@
         "id": 42537
       }
     ],
-    "updatedAt": "2026-01-15T11:44:57.916Z"
+    "updatedAt": "2026-01-16T11:43:50.681Z"
   },
   {
     "id": 38217,
@@ -6643,7 +6643,7 @@
         }
       ],
       "rating": {
-        "rank": 6901,
+        "rank": 6902,
         "total": 255,
         "count": {
           "1": 4,
@@ -8562,7 +8562,7 @@
         "id": 472175
       }
     ],
-    "updatedAt": "2026-01-15T11:48:00.855Z"
+    "updatedAt": "2026-01-16T11:46:51.544Z"
   },
   {
     "id": 94955,
@@ -9403,6 +9403,6 @@
         "id": 217927
       }
     ],
-    "updatedAt": "2026-01-15T11:54:23.544Z"
+    "updatedAt": "2026-01-16T11:53:37.479Z"
   }
 ]

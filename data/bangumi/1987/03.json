@@ -1697,7 +1697,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2026-01-15T11:35:05.199Z"
+    "updatedAt": "2026-01-16T11:33:39.598Z"
   },
   {
     "id": 2046,
@@ -1722,7 +1722,7 @@
         },
         {
           "name": "剧场版",
-          "count": 675,
+          "count": 674,
           "total_cont": 0
         },
         {
@@ -1831,11 +1831,6 @@
           "total_cont": 0
         },
         {
-          "name": "战争",
-          "count": 8,
-          "total_cont": 0
-        },
-        {
           "name": "SF",
           "count": 8,
           "total_cont": 0
@@ -1846,12 +1841,17 @@
           "total_cont": 0
         },
         {
-          "name": "坂本龙一",
-          "count": 7,
+          "name": "战争",
+          "count": 8,
           "total_cont": 0
         },
         {
           "name": "动画",
+          "count": 7,
+          "total_cont": 0
+        },
+        {
+          "name": "坂本龙一",
           "count": 7,
           "total_cont": 0
         },
@@ -2021,7 +2021,7 @@
       ],
       "rating": {
         "rank": 457,
-        "total": 2066,
+        "total": 2065,
         "count": {
           "1": 6,
           "2": 5,
@@ -2029,7 +2029,7 @@
           "4": 13,
           "5": 43,
           "6": 154,
-          "7": 532,
+          "7": 531,
           "8": 802,
           "9": 374,
           "10": 134
@@ -2041,7 +2041,7 @@
         "on_hold": 84,
         "dropped": 32,
         "wish": 1478,
-        "collect": 2935,
+        "collect": 2934,
         "doing": 86
       },
       "id": 2046,
@@ -4952,7 +4952,7 @@
         "id": 597825
       }
     ],
-    "updatedAt": "2026-01-15T11:37:23.526Z"
+    "updatedAt": "2026-01-16T11:36:00.428Z"
   },
   {
     "id": 53742,
@@ -5176,7 +5176,7 @@
         }
       ],
       "rating": {
-        "rank": 2282,
+        "rank": 2281,
         "total": 121,
         "count": {
           "1": 0,
@@ -7341,7 +7341,7 @@
         "id": 451673
       }
     ],
-    "updatedAt": "2026-01-15T11:50:01.918Z"
+    "updatedAt": "2026-01-16T11:49:01.321Z"
   },
   {
     "id": 65339,
@@ -8748,7 +8748,7 @@
         "id": 453184
       }
     ],
-    "updatedAt": "2026-01-15T11:51:08.826Z"
+    "updatedAt": "2026-01-16T11:50:12.532Z"
   },
   {
     "id": 66376,
@@ -9449,22 +9449,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
-          "large": "https://lain.bgm.tv/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814"
-        },
-        "name": "松竹",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 1433,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/94/94/189_prsn_jKO62.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/94/94/189_prsn_jKO62.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/94/94/189_prsn_jKO62.jpg",
@@ -9493,6 +9477,22 @@
         ],
         "type": 1,
         "id": 2220,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
+          "large": "https://lain.bgm.tv/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/70/1433_prsn_Sgb9H.jpg?r=1740284814"
+        },
+        "name": "松竹",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 1433,
         "eps": ""
       },
       {
@@ -10483,7 +10483,7 @@
         "id": 605769
       }
     ],
-    "updatedAt": "2026-01-15T11:51:12.806Z"
+    "updatedAt": "2026-01-16T11:50:16.817Z"
   },
   {
     "id": 83544,
@@ -11603,6 +11603,6 @@
         "id": 605901
       }
     ],
-    "updatedAt": "2026-01-15T11:53:08.614Z"
+    "updatedAt": "2026-01-16T11:52:18.023Z"
   }
 ]
