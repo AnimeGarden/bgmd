@@ -116,27 +116,7 @@
           "total_cont": 0
         },
         {
-          "name": "映画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "哆啦A夢",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "1994年3月",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "劇場版",
           "count": 3,
           "total_cont": 0
         },
@@ -151,17 +131,37 @@
           "total_cont": 0
         },
         {
+          "name": "映画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "哆啦A夢",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "1994年3月",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "劇場版",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "SF",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "movie",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
+          "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         }
@@ -312,16 +312,16 @@
         }
       ],
       "rating": {
-        "rank": 1400,
-        "total": 740,
+        "rank": 1401,
+        "total": 742,
         "count": {
           "1": 1,
           "2": 0,
           "3": 3,
           "4": 3,
           "5": 24,
-          "6": 101,
-          "7": 288,
+          "6": 102,
+          "7": 289,
           "8": 250,
           "9": 44,
           "10": 26
@@ -332,8 +332,8 @@
       "collection": {
         "on_hold": 19,
         "dropped": 20,
-        "wish": 80,
-        "collect": 1467,
+        "wish": 79,
+        "collect": 1471,
         "doing": 13
       },
       "id": 453,
@@ -1563,6 +1563,22 @@
         "type": 1,
         "id": 81255,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "原鐵夫",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 86715,
+        "eps": ""
       }
     ],
     "characters": [
@@ -1916,7 +1932,7 @@
         "id": 515261
       }
     ],
-    "updatedAt": "2026-01-16T11:33:42.284Z"
+    "updatedAt": "2026-01-17T11:29:40.085Z"
   },
   {
     "id": 3731,
@@ -1936,7 +1952,7 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 137,
+          "count": 138,
           "total_cont": 0
         },
         {
@@ -1951,7 +1967,7 @@
         },
         {
           "name": "1994年",
-          "count": 44,
+          "count": 45,
           "total_cont": 0
         },
         {
@@ -1990,12 +2006,12 @@
           "total_cont": 0
         },
         {
-          "name": "补旧番",
+          "name": "東映アニメーション",
           "count": 10,
           "total_cont": 0
         },
         {
-          "name": "東映アニメーション",
+          "name": "补旧番",
           "count": 10,
           "total_cont": 0
         },
@@ -2020,22 +2036,7 @@
           "total_cont": 0
         },
         {
-          "name": "90年代",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "篮球",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "菅良幸",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "西沢信孝",
           "count": 4,
           "total_cont": 0
         },
@@ -2045,8 +2046,18 @@
           "total_cont": 0
         },
         {
-          "name": "1994年",
-          "count": 3,
+          "name": "篮球",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "90年代",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "西沢信孝",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -2060,18 +2071,8 @@
           "total_cont": 0
         },
         {
-          "name": "佐藤正树",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "教练我想打篮球",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "已下载",
-          "count": 2,
+          "name": "1994年",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -2080,7 +2081,22 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "经典",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "劇場版",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ映画",
           "count": 2,
           "total_cont": 0
         }
@@ -2126,7 +2142,7 @@
         }
       ],
       "rating": {
-        "rank": 1564,
+        "rank": 1565,
         "total": 446,
         "count": {
           "1": 1,
@@ -2147,7 +2163,7 @@
         "on_hold": 26,
         "dropped": 29,
         "wish": 154,
-        "collect": 781,
+        "collect": 783,
         "doing": 9
       },
       "id": 3731,
@@ -2751,7 +2767,7 @@
         "id": 1608
       }
     ],
-    "updatedAt": "2026-01-16T11:38:06.125Z"
+    "updatedAt": "2026-01-17T11:34:28.729Z"
   },
   {
     "id": 5432,
@@ -3023,7 +3039,7 @@
         }
       ],
       "rating": {
-        "rank": 1281,
+        "rank": 1278,
         "total": 428,
         "count": {
           "1": 1,
@@ -6416,7 +6432,7 @@
         "id": 147683
       }
     ],
-    "updatedAt": "2026-01-16T11:39:14.798Z"
+    "updatedAt": "2026-01-17T11:35:42.722Z"
   },
   {
     "id": 10467,
@@ -6441,7 +6457,7 @@
         },
         {
           "name": "1994",
-          "count": 24,
+          "count": 25,
           "total_cont": 0
         },
         {
@@ -6465,16 +6481,6 @@
           "total_cont": 0
         },
         {
-          "name": "童年系",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
-          "name": "补旧番",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
           "name": "一般向动画中的换妻play",
           "count": 7,
           "total_cont": 0
@@ -6485,12 +6491,22 @@
           "total_cont": 0
         },
         {
-          "name": "东映",
-          "count": 4,
+          "name": "童年系",
+          "count": 7,
+          "total_cont": 0
+        },
+        {
+          "name": "补旧番",
+          "count": 7,
           "total_cont": 0
         },
         {
           "name": "校园",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "东映",
           "count": 4,
           "total_cont": 0
         },
@@ -6505,17 +6521,7 @@
           "total_cont": 0
         },
         {
-          "name": "不想填坑",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "東映アニメーション",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
           "count": 2,
           "total_cont": 0
         },
@@ -6525,8 +6531,23 @@
           "total_cont": 0
         },
         {
+          "name": "不想填坑",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "东映动画",
           "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "国府田麻理子",
+          "count": 1,
           "total_cont": 0
         },
         {
@@ -6545,17 +6566,17 @@
           "total_cont": 0
         },
         {
-          "name": "胃疼",
+          "name": "石田彰",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "国府田麻理子",
+          "name": "纯爱",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "矢部秋则",
+          "name": "早年",
           "count": 1,
           "total_cont": 0
         },
@@ -6575,12 +6596,7 @@
           "total_cont": 0
         },
         {
-          "name": "纯爱",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "石田彰",
+          "name": "矢部秋则",
           "count": 1,
           "total_cont": 0
         }
@@ -6787,7 +6803,7 @@
         }
       ],
       "rating": {
-        "rank": 4965,
+        "rank": 4964,
         "total": 65,
         "count": {
           "1": 0,
@@ -9385,7 +9401,7 @@
         "id": 619191
       }
     ],
-    "updatedAt": "2026-01-16T11:41:36.247Z"
+    "updatedAt": "2026-01-17T11:38:06.333Z"
   },
   {
     "id": 41733,
@@ -9424,7 +9440,7 @@
           "total_cont": 0
         },
         {
-          "name": "1994年",
+          "name": "1994年3月",
           "count": 36,
           "total_cont": 0
         },
@@ -9469,13 +9485,28 @@
           "total_cont": 0
         },
         {
+          "name": "真实系",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "日本",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "真实系",
-          "count": 3,
+          "name": "战斗",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1994年3月",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -9485,11 +9516,6 @@
         },
         {
           "name": "サンライズ",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -9504,32 +9530,12 @@
           "total_cont": 0
         },
         {
-          "name": "1994年",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
-          "count": 2,
+          "name": "原創",
+          "count": 1,
           "total_cont": 0
         },
         {
           "name": "OVA4",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "出渕裕",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "银河万丈",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "机甲",
           "count": 1,
           "total_cont": 0
         },
@@ -9539,17 +9545,27 @@
           "total_cont": 0
         },
         {
+          "name": "银河万丈",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "喜欢",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "大长篇",
+          "name": "1994年3月",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "原創",
+          "name": "松本憲生",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "大长篇",
           "count": 1,
           "total_cont": 0
         }
@@ -9641,7 +9657,7 @@
         }
       ],
       "rating": {
-        "rank": 3973,
+        "rank": 4012,
         "total": 151,
         "count": {
           "1": 0,
@@ -9663,7 +9679,7 @@
         "dropped": 14,
         "wish": 87,
         "collect": 222,
-        "doing": 4
+        "doing": 5
       },
       "id": 41733,
       "eps": 5,
@@ -11154,7 +11170,7 @@
         "id": 409891
       }
     ],
-    "updatedAt": "2026-01-16T11:47:27.215Z"
+    "updatedAt": "2026-01-17T11:44:03.504Z"
   },
   {
     "id": 45395,
@@ -12928,7 +12944,7 @@
         "id": 240287
       }
     ],
-    "updatedAt": "2026-01-16T11:47:57.507Z"
+    "updatedAt": "2026-01-17T11:44:34.234Z"
   },
   {
     "id": 82726,
@@ -14238,7 +14254,7 @@
         "id": 47243
       }
     ],
-    "updatedAt": "2026-01-16T11:52:11.076Z"
+    "updatedAt": "2026-01-17T11:48:50.741Z"
   },
   {
     "id": 315673,
@@ -14324,7 +14340,7 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-01-16T12:10:22.307Z"
+    "updatedAt": "2026-01-17T12:07:17.256Z"
   },
   {
     "id": 315674,
@@ -14414,6 +14430,6 @@
     "persons": [],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-01-16T12:10:22.812Z"
+    "updatedAt": "2026-01-17T12:07:17.713Z"
   }
 ]

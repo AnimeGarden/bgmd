@@ -1367,7 +1367,7 @@
         "id": 425187
       }
     ],
-    "updatedAt": "2026-01-16T11:42:33.328Z"
+    "updatedAt": "2026-01-17T11:39:04.054Z"
   },
   {
     "id": 50596,
@@ -1387,7 +1387,7 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 221,
+          "count": 222,
           "total_cont": 0
         },
         {
@@ -1431,17 +1431,17 @@
           "total_cont": 0
         },
         {
-          "name": "漫改",
-          "count": 21,
-          "total_cont": 0
-        },
-        {
           "name": "大平晋也",
           "count": 21,
           "total_cont": 0
         },
         {
           "name": "枪战",
+          "count": 21,
+          "total_cont": 0
+        },
+        {
+          "name": "漫改",
           "count": 21,
           "total_cont": 0
         },
@@ -1461,18 +1461,13 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "赛车",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "田中达之",
-          "count": 4,
+          "name": "日本",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -1483,6 +1478,26 @@
         {
           "name": "独立ova",
           "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "动作",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "田中达之",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "原创",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "犯罪",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -1501,13 +1516,13 @@
           "total_cont": 0
         },
         {
-          "name": "原创",
-          "count": 3,
+          "name": "剧场版",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "动作",
-          "count": 3,
+          "name": "动画",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -1517,21 +1532,6 @@
         },
         {
           "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "车",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "作画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "其他",
           "count": 2,
           "total_cont": 0
         }
@@ -1559,8 +1559,8 @@
         }
       ],
       "rating": {
-        "rank": 2546,
-        "total": 362,
+        "rank": 2518,
+        "total": 363,
         "count": {
           "1": 0,
           "2": 0,
@@ -1571,7 +1571,7 @@
           "7": 193,
           "8": 76,
           "9": 10,
-          "10": 4
+          "10": 5
         },
         "score": 7
       },
@@ -1579,8 +1579,8 @@
       "collection": {
         "on_hold": 21,
         "dropped": 16,
-        "wish": 264,
-        "collect": 493,
+        "wish": 263,
+        "collect": 494,
         "doing": 9
       },
       "id": 50596,
@@ -2217,20 +2217,6 @@
     "subjects": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/70/288316_5l1o3.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/70/288316_5l1o3.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/fa/70/288316_5l1o3.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/70/288316_5l1o3.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/70/288316_5l1o3.jpg"
-        },
-        "name": "Music from Riding Bean",
-        "name_cn": "",
-        "relation": "原声集",
-        "type": 3,
-        "id": 288316
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/a2/10597_l7wer.jpg",
           "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/a2/10597_l7wer.jpg",
           "large": "https://lain.bgm.tv/pic/cover/l/e2/a2/10597_l7wer.jpg",
@@ -2242,6 +2228,20 @@
         "relation": "相同世界观",
         "type": 2,
         "id": 10597
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/70/288316_5l1o3.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/70/288316_5l1o3.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/fa/70/288316_5l1o3.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/70/288316_5l1o3.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/70/288316_5l1o3.jpg"
+        },
+        "name": "Music from Riding Bean",
+        "name_cn": "",
+        "relation": "原声集",
+        "type": 3,
+        "id": 288316
       },
       {
         "images": {
@@ -2258,7 +2258,7 @@
         "id": 272186
       }
     ],
-    "updatedAt": "2026-01-16T11:48:47.247Z"
+    "updatedAt": "2026-01-17T11:45:23.745Z"
   },
   {
     "id": 74218,
@@ -3554,6 +3554,6 @@
         "id": 74199
       }
     ],
-    "updatedAt": "2026-01-16T11:51:07.770Z"
+    "updatedAt": "2026-01-17T11:47:48.150Z"
   }
 ]

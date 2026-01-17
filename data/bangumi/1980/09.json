@@ -21,22 +21,7 @@
           "total_cont": 0
         },
         {
-          "name": "SHIN-EI动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "undefined",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "SHIN-EI",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
           "count": 1,
           "total_cont": 0
         },
@@ -46,12 +31,27 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
+          "name": "SHIN-EI动画",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "漫画改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TV",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "SHIN-EI",
           "count": 1,
           "total_cont": 0
         }
@@ -138,7 +138,7 @@
       "collection": {
         "on_hold": 3,
         "dropped": 6,
-        "wish": 9,
+        "wish": 10,
         "collect": 5,
         "doing": 5
       },
@@ -761,7 +761,7 @@
         "id": 424332
       }
     ],
-    "updatedAt": "2026-01-16T11:55:11.722Z"
+    "updatedAt": "2026-01-17T11:51:55.488Z"
   },
   {
     "id": 283633,
@@ -1320,22 +1320,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "林政行",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 21976,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "永樹凡人",
         "relation": "分镜",
         "career": [
@@ -1359,22 +1343,6 @@
         ],
         "type": 1,
         "id": 494,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "林政行",
-        "relation": "脚本",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 21976,
         "eps": ""
       },
       {
@@ -1509,6 +1477,22 @@
       },
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "林政行",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 21976,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/98/12/1235_prsn_m7U2Z.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/98/12/1235_prsn_m7U2Z.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/98/12/1235_prsn_m7U2Z.jpg",
@@ -1521,6 +1505,22 @@
         ],
         "type": 1,
         "id": 1235,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "林政行",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 21976,
         "eps": ""
       }
     ],
@@ -1555,6 +1555,6 @@
         "id": 428771
       }
     ],
-    "updatedAt": "2026-01-16T12:07:43.276Z"
+    "updatedAt": "2026-01-17T12:04:40.426Z"
   }
 ]

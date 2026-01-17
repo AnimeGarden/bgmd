@@ -17,12 +17,17 @@
       "tags": [
         {
           "name": "TV",
-          "count": 48,
+          "count": 49,
           "total_cont": 0
         },
         {
-          "name": "1985年四月番",
+          "name": "1985年6月",
           "count": 33,
+          "total_cont": 0
+        },
+        {
+          "name": "魔法少女",
+          "count": 28,
           "total_cont": 0
         },
         {
@@ -31,27 +36,22 @@
           "total_cont": 0
         },
         {
-          "name": "魔法少女",
-          "count": 27,
-          "total_cont": 0
-        },
-        {
           "name": "原创",
-          "count": 25,
+          "count": 26,
           "total_cont": 0
         },
         {
           "name": "安浓高志",
-          "count": 18,
-          "total_cont": 0
-        },
-        {
-          "name": "1985年6月",
-          "count": 8,
+          "count": 19,
           "total_cont": 0
         },
         {
           "name": "安濃高志",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "1985年6月",
           "count": 8,
           "total_cont": 0
         },
@@ -61,18 +61,13 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "小丑社",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "1985年四月番",
-          "count": 4,
+          "name": "日本",
+          "count": 6,
           "total_cont": 0
         },
         {
@@ -81,28 +76,13 @@
           "total_cont": 0
         },
         {
+          "name": "1985年6月",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "日本动画",
           "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "长剧集",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "¬",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "魔法之星爱美",
-          "count": 2,
           "total_cont": 0
         },
         {
@@ -116,52 +96,72 @@
           "total_cont": 0
         },
         {
-          "name": "小幡洋子",
+          "name": "旧物",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "长剧集",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "魔法之星爱美",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "¬",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "长篇动画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "三季番",
+          "name": "预备",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "冷门老番",
+          "name": "3クール",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "长篇",
+          "name": "85-89",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "童年回忆",
+          "name": "本乡满",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "高山文彦",
+          "name": "望月智充",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1985年四月番",
+          "name": "治愈",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "番",
+          "name": "大长篇",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "水島裕",
+          "name": "老害最爱",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "推荐",
+          "name": "片山一良",
           "count": 1,
           "total_cont": 0
         }
@@ -400,9 +400,9 @@
       "collection": {
         "on_hold": 23,
         "dropped": 24,
-        "wish": 197,
+        "wish": 196,
         "collect": 91,
-        "doing": 29
+        "doing": 30
       },
       "id": 67780,
       "eps": 38,
@@ -528,22 +528,6 @@
         ],
         "type": 1,
         "id": 30130,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "林政行",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 21976,
         "eps": ""
       },
       {
@@ -1282,6 +1266,22 @@
         ],
         "type": 1,
         "id": 2538,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "林政行",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 21976,
         "eps": ""
       },
       {
@@ -2614,6 +2614,6 @@
         "id": 590658
       }
     ],
-    "updatedAt": "2026-01-16T11:50:34.706Z"
+    "updatedAt": "2026-01-17T11:47:13.147Z"
   }
 ]

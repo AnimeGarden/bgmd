@@ -66,12 +66,12 @@
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "日本",
           "count": 11,
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "漫改",
           "count": 11,
           "total_cont": 0
         },
@@ -86,12 +86,12 @@
           "total_cont": 0
         },
         {
-          "name": "喜剧",
+          "name": "奇幻",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "喜剧",
           "count": 7,
           "total_cont": 0
         },
@@ -101,17 +101,17 @@
           "total_cont": 0
         },
         {
+          "name": "映画",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "90年代",
           "count": 4,
           "total_cont": 0
         },
         {
           "name": "子供向",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "映画",
           "count": 4,
           "total_cont": 0
         },
@@ -146,12 +146,7 @@
           "total_cont": 0
         },
         {
-          "name": "アニメ映画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "哆啦A夢",
+          "name": "SF",
           "count": 2,
           "total_cont": 0
         },
@@ -161,7 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
+          "name": "动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "岸間信明",
           "count": 2,
           "total_cont": 0
         }
@@ -301,16 +301,16 @@
         }
       ],
       "rating": {
-        "rank": 2988,
-        "total": 519,
+        "rank": 2987,
+        "total": 521,
         "count": {
           "1": 1,
           "2": 0,
           "3": 2,
           "4": 4,
-          "5": 30,
+          "5": 31,
           "6": 126,
-          "7": 243,
+          "7": 244,
           "8": 85,
           "9": 13,
           "10": 15
@@ -321,8 +321,8 @@
       "collection": {
         "on_hold": 16,
         "dropped": 19,
-        "wish": 71,
-        "collect": 1123,
+        "wish": 70,
+        "collect": 1125,
         "doing": 13
       },
       "id": 460,
@@ -1606,6 +1606,22 @@
         "type": 1,
         "id": 1202,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "原鐵夫",
+        "relation": "动画检查",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 86715,
+        "eps": ""
       }
     ],
     "characters": [
@@ -1865,7 +1881,7 @@
         "id": 461604
       }
     ],
-    "updatedAt": "2026-01-16T11:33:43.551Z"
+    "updatedAt": "2026-01-17T11:29:41.206Z"
   },
   {
     "id": 33930,
@@ -2073,7 +2089,7 @@
         }
       ],
       "rating": {
-        "rank": 4202,
+        "rank": 4206,
         "total": 51,
         "count": {
           "1": 0,
@@ -2726,7 +2742,7 @@
         "id": 204179
       }
     ],
-    "updatedAt": "2026-01-16T11:45:41.475Z"
+    "updatedAt": "2026-01-17T11:42:16.342Z"
   },
   {
     "id": 37471,
@@ -5160,7 +5176,7 @@
         "id": 511579
       }
     ],
-    "updatedAt": "2026-01-16T11:46:34.647Z"
+    "updatedAt": "2026-01-17T11:43:11.897Z"
   },
   {
     "id": 39923,
@@ -5180,7 +5196,7 @@
       "tags": [
         {
           "name": "EVA",
-          "count": 2100,
+          "count": 2101,
           "total_cont": 0
         },
         {
@@ -5195,12 +5211,12 @@
         },
         {
           "name": "GAINAX",
-          "count": 1021,
+          "count": 1022,
           "total_cont": 0
         },
         {
           "name": "1998年3月",
-          "count": 693,
+          "count": 694,
           "total_cont": 0
         },
         {
@@ -5279,12 +5295,12 @@
           "total_cont": 0
         },
         {
-          "name": "ProductionI.G",
+          "name": "摩砂雪",
           "count": 23,
           "total_cont": 0
         },
         {
-          "name": "摩砂雪",
+          "name": "ProductionI.G",
           "count": 23,
           "total_cont": 0
         },
@@ -5436,7 +5452,7 @@
       ],
       "rating": {
         "rank": 50,
-        "total": 8042,
+        "total": 8047,
         "count": {
           "1": 30,
           "2": 7,
@@ -5445,9 +5461,9 @@
           "5": 60,
           "6": 221,
           "7": 881,
-          "8": 2601,
-          "9": 2653,
-          "10": 1571
+          "8": 2604,
+          "9": 2654,
+          "10": 1572
         },
         "score": 8.5
       },
@@ -5455,9 +5471,9 @@
       "collection": {
         "on_hold": 153,
         "dropped": 91,
-        "wish": 1315,
-        "collect": 15477,
-        "doing": 119
+        "wish": 1316,
+        "collect": 15488,
+        "doing": 121
       },
       "id": 39923,
       "eps": 3,
@@ -6607,6 +6623,6 @@
         "id": 20202
       }
     ],
-    "updatedAt": "2026-01-16T11:47:14.468Z"
+    "updatedAt": "2026-01-17T11:43:51.043Z"
   }
 ]

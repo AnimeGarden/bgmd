@@ -141,17 +141,17 @@
           "total_cont": 0
         },
         {
-          "name": "童年",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
           "name": "1999年7月",
           "count": 9,
           "total_cont": 0
         },
         {
           "name": "颜艺",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
+          "name": "童年",
           "count": 9,
           "total_cont": 0
         },
@@ -337,8 +337,8 @@
         "on_hold": 346,
         "dropped": 93,
         "wish": 1432,
-        "collect": 3002,
-        "doing": 284
+        "collect": 3001,
+        "doing": 286
       },
       "id": 2045,
       "eps": 43,
@@ -1874,6 +1874,22 @@
         "type": 1,
         "id": 86452,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "滝口佳子",
+        "relation": "色彩指定",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 86707,
+        "eps": ""
       }
     ],
     "characters": [
@@ -3101,7 +3117,7 @@
         "id": 305030
       }
     ],
-    "updatedAt": "2026-01-16T11:36:00.264Z"
+    "updatedAt": "2026-01-17T11:32:14.937Z"
   },
   {
     "id": 2062,
@@ -3313,7 +3329,7 @@
         }
       ],
       "rating": {
-        "rank": 5315,
+        "rank": 5316,
         "total": 83,
         "count": {
           "1": 0,
@@ -3663,7 +3679,7 @@
         "id": 344747
       }
     ],
-    "updatedAt": "2026-01-16T11:36:02.202Z"
+    "updatedAt": "2026-01-17T11:32:16.807Z"
   },
   {
     "id": 49568,
@@ -4374,6 +4390,6 @@
         "id": 208147
       }
     ],
-    "updatedAt": "2026-01-16T11:48:42.891Z"
+    "updatedAt": "2026-01-17T11:45:19.189Z"
   }
 ]

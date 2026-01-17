@@ -111,17 +111,17 @@
           "total_cont": 0
         },
         {
+          "name": "TVA",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
           "name": "ぴえろ",
           "count": 8,
           "total_cont": 0
         },
         {
           "name": "80年代",
-          "count": 8,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
           "count": 8,
           "total_cont": 0
         },
@@ -146,12 +146,7 @@
           "total_cont": 0
         },
         {
-          "name": "80s",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "寺田憲史",
+          "name": "小丑社",
           "count": 4,
           "total_cont": 0
         },
@@ -161,7 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "小丑社",
+          "name": "寺田憲史",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "80s",
           "count": 4,
           "total_cont": 0
         }
@@ -253,8 +253,8 @@
         }
       ],
       "rating": {
-        "rank": 1161,
-        "total": 585,
+        "rank": 1160,
+        "total": 587,
         "count": {
           "1": 2,
           "2": 1,
@@ -262,10 +262,10 @@
           "4": 7,
           "5": 13,
           "6": 78,
-          "7": 198,
+          "7": 199,
           "8": 197,
           "9": 58,
-          "10": 28
+          "10": 29
         },
         "score": 7.4
       },
@@ -273,9 +273,9 @@
       "collection": {
         "on_hold": 167,
         "dropped": 63,
-        "wish": 1198,
+        "wish": 1200,
         "collect": 775,
-        "doing": 225
+        "doing": 227
       },
       "id": 2042,
       "eps": 48,
@@ -2637,7 +2637,7 @@
         "id": 244607
       }
     ],
-    "updatedAt": "2026-01-16T11:35:59.655Z"
+    "updatedAt": "2026-01-17T11:32:14.707Z"
   },
   {
     "id": 10391,
@@ -2796,12 +2796,12 @@
           "total_cont": 0
         },
         {
-          "name": "打斗",
+          "name": "剧情",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "神作",
+          "name": "打斗",
           "count": 2,
           "total_cont": 0
         }
@@ -4538,6 +4538,20 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/c2/377649_aqY5d.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/c2/377649_aqY5d.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/4a/c2/377649_aqY5d.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/c2/377649_aqY5d.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/c2/377649_aqY5d.jpg"
+        },
+        "name": "劇場版シティーハンター 天使の涙",
+        "name_cn": "剧场版 城市猎人 天使之泪",
+        "relation": "衍生",
+        "type": 2,
+        "id": 377649
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/0d/287735_Xvvvt.jpg",
           "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/0d/287735_Xvvvt.jpg",
           "large": "https://lain.bgm.tv/pic/cover/l/05/0d/287735_Xvvvt.jpg",
@@ -4787,23 +4801,9 @@
         "relation": "番外篇",
         "type": 2,
         "id": 240821
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/c2/377649_aqY5d.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/c2/377649_aqY5d.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/4a/c2/377649_aqY5d.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/c2/377649_aqY5d.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/c2/377649_aqY5d.jpg"
-        },
-        "name": "劇場版シティーハンター 天使の涙",
-        "name_cn": "剧场版 城市猎人 天使之泪",
-        "relation": "番外篇",
-        "type": 2,
-        "id": 377649
       }
     ],
-    "updatedAt": "2026-01-16T11:41:22.482Z"
+    "updatedAt": "2026-01-17T11:37:52.141Z"
   },
   {
     "id": 10465,
@@ -5030,7 +5030,7 @@
         }
       ],
       "rating": {
-        "rank": 5295,
+        "rank": 5297,
         "total": 674,
         "count": {
           "1": 2,
@@ -5805,7 +5805,7 @@
         "id": 422815
       }
     ],
-    "updatedAt": "2026-01-16T11:41:35.925Z"
+    "updatedAt": "2026-01-17T11:38:05.474Z"
   },
   {
     "id": 18047,
@@ -5825,7 +5825,7 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 32,
+          "count": 31,
           "total_cont": 0
         },
         {
@@ -5874,6 +5874,11 @@
           "total_cont": 0
         },
         {
+          "name": "グループ・タック",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "青春",
           "count": 3,
           "total_cont": 0
@@ -5884,27 +5889,7 @@
           "total_cont": 0
         },
         {
-          "name": "グループ・タック",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "爱情",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "补旧番",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "经典",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "永丘昭典",
+          "name": "杉井ギサブロー",
           "count": 2,
           "total_cont": 0
         },
@@ -5914,17 +5899,57 @@
           "total_cont": 0
         },
         {
+          "name": "永丘昭典",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "爱情",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "日髙のり子",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "杉井ギサブロー",
+          "name": "经典",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "三ツ矢雄二",
+          "name": "补旧番",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "上杉达也",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "大长篇",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "童年",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "Group.Tac",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "あだち充",
           "count": 1,
           "total_cont": 0
         },
@@ -5934,42 +5959,17 @@
           "total_cont": 0
         },
         {
-          "name": "甲子园",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "生活",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "漫画改",
+          "name": "甲子园",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "恋爱",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "补番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "童年的经典",
+          "name": "漫画",
           "count": 1,
           "total_cont": 0
         }
@@ -6059,7 +6059,7 @@
         }
       ],
       "rating": {
-        "rank": 2809,
+        "rank": 2808,
         "total": 71,
         "count": {
           "1": 0,
@@ -6680,7 +6680,7 @@
         "id": 451672
       }
     ],
-    "updatedAt": "2026-01-16T11:43:09.232Z"
+    "updatedAt": "2026-01-17T11:39:40.952Z"
   },
   {
     "id": 26798,
@@ -8079,7 +8079,7 @@
         "id": 540988
       }
     ],
-    "updatedAt": "2026-01-16T11:44:46.837Z"
+    "updatedAt": "2026-01-17T11:41:19.987Z"
   },
   {
     "id": 57567,
@@ -8942,7 +8942,7 @@
         "id": 555456
       }
     ],
-    "updatedAt": "2026-01-16T11:49:41.713Z"
+    "updatedAt": "2026-01-17T11:46:19.307Z"
   },
   {
     "id": 75182,
@@ -11461,7 +11461,7 @@
         "id": 587992
       }
     ],
-    "updatedAt": "2026-01-16T11:51:14.354Z"
+    "updatedAt": "2026-01-17T11:47:54.570Z"
   },
   {
     "id": 189678,
@@ -11867,6 +11867,6 @@
         "id": 257958
       }
     ],
-    "updatedAt": "2026-01-16T12:00:34.261Z"
+    "updatedAt": "2026-01-17T11:57:29.300Z"
   }
 ]
