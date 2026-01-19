@@ -15,6 +15,10 @@ jobs:
     permissions:
       issues: write
       contents: write
+      pull-requests: write
+
+    env:
+      SYNC_BRANCH: sync-bangumi-data
 
     steps:
       - name: Set Timezone
@@ -54,43 +58,64 @@ jobs:
           bgmx sync bangumi --log sync-bangumi.md --out-dir data/bangumi
 
       - name: Commit bangumi data
-        continue-on-error: true
         run: |
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
+          git fetch origin main
+          git checkout -B "${SYNC_BRANCH}" "origin/main"
           git add data/bangumi
-          git pull
-          git commit -m "feat: sync bangumi data at $(date +"%Y-%m-%d %T")"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "feat: sync bangumi data at $(date +"%Y-%m-%d %T")"
+          fi
+          git push -u origin "${SYNC_BRANCH}" --force
 
-      - name: Update execution log
+      - name: Create PR
         uses: actions/github-script@v7
         with:
           script: |
-            // 待更新的 issue 编号
-            const issueNumber = 1;
-            
             const fs = require('fs');
-            const path = require('path');
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const branch = process.env.SYNC_BRANCH;
+            const base = 'main';
+            const head = `${owner}:${branch}`;
+            const title = 'Sync bangumi data';
+            let body = 'Automated sync.';
 
             try {
-              // 读取 sync-bangumi.md 文件内容
-              const logFilePath = 'sync-bangumi.md';
-              const logContent = fs.readFileSync(logFilePath, 'utf8');
-              
-              // 构建新的 issue 内容
-              const newBody = `${logContent}`;
-            
-              // 更新 issue 内容
-              await github.rest.issues.update({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: issueNumber,
-                body: newBody
-              });
-              
-              console.log(`✅ 成功更新 issue #${issueNumber}`);
+              body = fs.readFileSync('sync-bangumi.md', 'utf8');
             } catch (error) {
-              console.error(`❌ 更新 issue #${issueNumber} 时出错:`, error);
-              throw error;
+              console.warn('sync-bangumi.md not found, using fallback body.');
+            }
+
+            const { data: pulls } = await github.rest.pulls.list({
+              owner,
+              repo,
+              state: 'open',
+              head,
+              base
+            });
+
+            if (pulls.length === 0) {
+              await github.rest.pulls.create({
+                owner,
+                repo,
+                title,
+                head: branch,
+                base,
+                body
+              });
+              console.log(`✅ Created PR from ${head} to ${base}`);
+            } else {
+              const pr = pulls[0];
+              await github.rest.pulls.update({
+                owner,
+                repo,
+                pull_number: pr.number,
+                title,
+                body
+              });
+              console.log(`✅ Updated PR #${pr.number}`);
             }
