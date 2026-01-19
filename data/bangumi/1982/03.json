@@ -76,6 +76,11 @@
           "total_cont": 0
         },
         {
+          "name": "子供向",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
           "name": "西牧秀夫",
           "count": 9,
           "total_cont": 0
@@ -86,22 +91,17 @@
           "total_cont": 0
         },
         {
-          "name": "子供向",
-          "count": 9,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
           "count": 8,
           "total_cont": 0
         },
         {
-          "name": "ドラえもん",
+          "name": "奇幻",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "奇幻",
+          "name": "ドラえもん",
           "count": 7,
           "total_cont": 0
         },
@@ -288,15 +288,15 @@
         }
       ],
       "rating": {
-        "rank": 2278,
-        "total": 632,
+        "rank": 2277,
+        "total": 633,
         "count": {
           "1": 0,
           "2": 1,
           "3": 2,
           "4": 8,
           "5": 19,
-          "6": 113,
+          "6": 114,
           "7": 306,
           "8": 148,
           "9": 18,
@@ -309,8 +309,8 @@
         "on_hold": 16,
         "dropped": 17,
         "wish": 58,
-        "collect": 1290,
-        "doing": 12
+        "collect": 1291,
+        "doing": 11
       },
       "id": 437,
       "eps": 1,
@@ -1248,6 +1248,22 @@
         "type": 1,
         "id": 630,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "松島明子",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 86848,
+        "eps": ""
       }
     ],
     "characters": [
@@ -1663,7 +1679,7 @@
         "id": 461180
       }
     ],
-    "updatedAt": "2026-01-18T11:29:01.434Z"
+    "updatedAt": "2026-01-19T11:35:59.907Z"
   },
   {
     "id": 38437,
@@ -1947,7 +1963,7 @@
         }
       ],
       "rating": {
-        "rank": 579,
+        "rank": 578,
         "total": 1202,
         "count": {
           "1": 0,
@@ -3854,7 +3870,7 @@
         "id": 608990
       }
     ],
-    "updatedAt": "2026-01-18T11:42:17.762Z"
+    "updatedAt": "2026-01-19T11:49:12.211Z"
   },
   {
     "id": 73928,
@@ -3888,12 +3904,12 @@
           "total_cont": 0
         },
         {
-          "name": "魔法少女",
+          "name": "原创",
           "count": 21,
           "total_cont": 0
         },
         {
-          "name": "原创",
+          "name": "魔法少女",
           "count": 21,
           "total_cont": 0
         },
@@ -3928,7 +3944,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "TVA",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "经典",
           "count": 3,
           "total_cont": 0
         },
@@ -3943,12 +3964,7 @@
           "total_cont": 0
         },
         {
-          "name": "经典",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
+          "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
@@ -3968,37 +3984,12 @@
           "total_cont": 0
         },
         {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日常",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "待補1",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "单元剧",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "赛璐珞",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "长篇",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "年番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "一",
           "count": 1,
           "total_cont": 0
         },
@@ -4008,17 +3999,42 @@
           "total_cont": 0
         },
         {
-          "name": "葦プロダクション",
+          "name": "长篇",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "80",
+          "name": "动",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "补",
+          "name": "萝莉",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "单元剧",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "5クール以上",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "老害最爱",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "年番以上",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "奇幻",
           "count": 1,
           "total_cont": 0
         }
@@ -5677,7 +5693,7 @@
         "id": 617452
       }
     ],
-    "updatedAt": "2026-01-18T11:46:33.168Z"
+    "updatedAt": "2026-01-19T11:53:21.848Z"
   },
   {
     "id": 159760,
@@ -5848,7 +5864,7 @@
         "id": 132767
       }
     ],
-    "updatedAt": "2026-01-18T11:54:14.126Z"
+    "updatedAt": "2026-01-19T12:00:40.311Z"
   },
   {
     "id": 375087,
@@ -6198,6 +6214,6 @@
         "id": 469586
       }
     ],
-    "updatedAt": "2026-01-18T12:09:44.000Z"
+    "updatedAt": "2026-01-19T12:15:44.417Z"
   }
 ]

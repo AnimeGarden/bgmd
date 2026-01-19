@@ -294,7 +294,7 @@
         }
       ],
       "rating": {
-        "rank": 4040,
+        "rank": 4038,
         "total": 80,
         "count": {
           "1": 1,
@@ -1460,7 +1460,7 @@
         "id": 117082
       }
     ],
-    "updatedAt": "2026-01-18T11:38:59.932Z"
+    "updatedAt": "2026-01-19T11:46:01.500Z"
   },
   {
     "id": 37529,
@@ -1937,7 +1937,7 @@
         "id": 336426
       }
     ],
-    "updatedAt": "2026-01-18T11:42:01.704Z"
+    "updatedAt": "2026-01-19T11:48:57.427Z"
   },
   {
     "id": 84989,
@@ -2153,7 +2153,7 @@
         }
       ],
       "rating": {
-        "rank": 3896,
+        "rank": 3897,
         "total": 93,
         "count": {
           "1": 0,
@@ -2818,7 +2818,7 @@
         "id": 447673
       }
     ],
-    "updatedAt": "2026-01-18T11:48:01.698Z"
+    "updatedAt": "2026-01-19T11:54:44.937Z"
   },
   {
     "id": 205299,
@@ -4992,7 +4992,7 @@
         "id": 525762
       }
     ],
-    "updatedAt": "2026-01-18T11:57:34.412Z"
+    "updatedAt": "2026-01-19T12:03:49.913Z"
   },
   {
     "id": 504455,
@@ -5113,7 +5113,25 @@
       "nsfw": false,
       "type": 2
     },
-    "persons": [],
+    "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
+        },
+        "name": "手塚治虫",
+        "relation": "原作",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1318,
+        "eps": ""
+      }
+    ],
     "characters": [
       {
         "images": {
@@ -5178,7 +5196,36 @@
         "id": 20651
       }
     ],
-    "subjects": [],
-    "updatedAt": "2026-01-18T12:14:47.968Z"
+    "subjects": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/eb/78/38080_AFtTX.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/eb/78/38080_AFtTX.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/eb/78/38080_AFtTX.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/eb/78/38080_AFtTX.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/eb/78/38080_AFtTX.jpg"
+        },
+        "name": "ブラック・ジャック",
+        "name_cn": "怪医黑杰克",
+        "relation": "书籍",
+        "type": 1,
+        "id": 38080
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/05/52787_wC3v7.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/05/52787_wC3v7.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/67/05/52787_wC3v7.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/05/52787_wC3v7.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/05/52787_wC3v7.jpg"
+        },
+        "name": "ブラック・ジャック OVA",
+        "name_cn": "怪医黑杰克 OVA",
+        "relation": "不同演绎",
+        "type": 2,
+        "id": 52787
+      }
+    ],
+    "updatedAt": "2026-01-19T12:20:48.342Z"
   }
 ]

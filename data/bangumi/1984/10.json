@@ -22,7 +22,7 @@
         },
         {
           "name": "北斗神拳",
-          "count": 155,
+          "count": 156,
           "total_cont": 0
         },
         {
@@ -46,12 +46,12 @@
           "total_cont": 0
         },
         {
-          "name": "你的死兆星在天上閃耀",
+          "name": "爆衫",
           "count": 53,
           "total_cont": 0
         },
         {
-          "name": "爆衫",
+          "name": "你的死兆星在天上閃耀",
           "count": 53,
           "total_cont": 0
         },
@@ -101,17 +101,17 @@
           "total_cont": 0
         },
         {
-          "name": "经典",
-          "count": 7,
-          "total_cont": 0
-        },
-        {
           "name": "没看完",
           "count": 7,
           "total_cont": 0
         },
         {
           "name": "東映アニメーション",
+          "count": 7,
+          "total_cont": 0
+        },
+        {
+          "name": "经典",
           "count": 7,
           "total_cont": 0
         },
@@ -131,17 +131,12 @@
           "total_cont": 0
         },
         {
-          "name": "奇幻",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "废土",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "东映动画",
+          "name": "奇幻",
           "count": 3,
           "total_cont": 0
         },
@@ -151,17 +146,22 @@
           "total_cont": 0
         },
         {
+          "name": "东映动画",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "2000前",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "暴力",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "80s",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "末世",
+          "name": "神谷明",
           "count": 2,
           "total_cont": 0
         }
@@ -262,8 +262,8 @@
         "on_hold": 249,
         "dropped": 78,
         "wish": 777,
-        "collect": 1098,
-        "doing": 135
+        "collect": 1099,
+        "doing": 134
       },
       "id": 8386,
       "eps": 109,
@@ -1352,6 +1352,22 @@
         ],
         "type": 2,
         "id": 18992,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "山寺昭夫",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 86846,
         "eps": ""
       }
     ],
@@ -4785,7 +4801,7 @@
         "id": 137436
       }
     ],
-    "updatedAt": "2026-01-18T11:35:36.582Z"
+    "updatedAt": "2026-01-19T11:42:37.828Z"
   },
   {
     "id": 37290,
@@ -4844,12 +4860,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "五武冬史",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "五武冬史",
+          "name": "80s",
           "count": 4,
           "total_cont": 0
         },
@@ -4859,7 +4875,7 @@
           "total_cont": 0
         },
         {
-          "name": "80s",
+          "name": "日本",
           "count": 4,
           "total_cont": 0
         },
@@ -4874,12 +4890,7 @@
           "total_cont": 0
         },
         {
-          "name": "80",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
+          "name": "robo",
           "count": 2,
           "total_cont": 0
         },
@@ -4894,32 +4905,32 @@
           "total_cont": 0
         },
         {
-          "name": "robo",
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "幻想",
+          "name": "80",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "出渕裕",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "渕崎ゆり子",
+          "name": "ロボットアニメ",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1980-1989",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "菊池正美",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "鳥海尽三",
+          "name": "TV2",
           "count": 1,
           "total_cont": 0
         },
@@ -4934,22 +4945,27 @@
           "total_cont": 0
         },
         {
-          "name": "ロボットアニメ",
+          "name": "リアルロボット",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "出渕裕",
+          "name": "2クール",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "TV2",
+          "name": "动画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "冷门老番",
+          "name": "サンライズ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "半年番",
           "count": 1,
           "total_cont": 0
         }
@@ -5005,7 +5021,7 @@
         }
       ],
       "rating": {
-        "rank": 4690,
+        "rank": 4692,
         "total": 65,
         "count": {
           "1": 0,
@@ -7515,7 +7531,7 @@
         "id": 536258
       }
     ],
-    "updatedAt": "2026-01-18T11:41:49.968Z"
+    "updatedAt": "2026-01-19T11:48:45.185Z"
   },
   {
     "id": 37291,
@@ -8448,7 +8464,7 @@
         "id": 470791
       }
     ],
-    "updatedAt": "2026-01-18T11:41:50.087Z"
+    "updatedAt": "2026-01-19T11:48:45.629Z"
   },
   {
     "id": 213670,
@@ -8659,6 +8675,54 @@
         "type": 1,
         "id": 65525,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "藤川茂",
+        "relation": "演出助理",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 86849,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "藤川茂",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 86849,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "藤川茂",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 86849,
+        "eps": ""
       }
     ],
     "characters": [],
@@ -8706,6 +8770,6 @@
         "id": 605100
       }
     ],
-    "updatedAt": "2026-01-18T11:58:43.102Z"
+    "updatedAt": "2026-01-19T12:04:55.042Z"
   }
 ]
