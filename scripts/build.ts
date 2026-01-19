@@ -13,12 +13,12 @@ const $ = execa({ stdio: 'inherit' });
 await fs.rm('dist', { force: true, recursive: true });
 await fs.ensureDir('dist');
 
-console.log('bgmx calendar');
+console.log('$ bgmx calendar');
 await $`bgmx calendar --out data/calendar.json --version ${version}`;
 await fs.copy('data/calendar.json', 'dist/calendar.json');
 
 console.log();
-console.log('bgmx sync subject');
+console.log('$ bgmx sync subject');
 await $`bgmx sync subject --out-dir data/subject`;
 
 const dataRoot = 'data/subject';
