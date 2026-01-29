@@ -116,11 +116,6 @@
           "total_cont": 0
         },
         {
-          "name": "果断要补漫画",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "GALLOP",
           "count": 3,
           "total_cont": 0
@@ -131,12 +126,12 @@
           "total_cont": 0
         },
         {
-          "name": "八角哲夫",
-          "count": 2,
+          "name": "果断要补漫画",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "高松信司",
+          "name": "高本宣弘",
           "count": 2,
           "total_cont": 0
         },
@@ -156,12 +151,17 @@
           "total_cont": 0
         },
         {
-          "name": "鴫野彰",
+          "name": "长篇",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "高本宣弘",
+          "name": "TVA",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "鴫野彰",
           "count": 2,
           "total_cont": 0
         }
@@ -248,8 +248,8 @@
         }
       ],
       "rating": {
-        "rank": 283,
-        "total": 372,
+        "rank": 284,
+        "total": 373,
         "count": {
           "1": 1,
           "2": 2,
@@ -257,7 +257,7 @@
           "4": 1,
           "5": 9,
           "6": 17,
-          "7": 91,
+          "7": 92,
           "8": 124,
           "9": 65,
           "10": 62
@@ -268,9 +268,9 @@
       "collection": {
         "on_hold": 124,
         "dropped": 66,
-        "wish": 523,
-        "collect": 601,
-        "doing": 116
+        "wish": 522,
+        "collect": 603,
+        "doing": 117
       },
       "id": 2166,
       "eps": 344,
@@ -15911,6 +15911,116 @@
         "actors": [],
         "type": 1,
         "id": 199526
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/5a/6d/199544_crt_Jm33j.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/5a/6d/199544_crt_Jm33j.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/5a/6d/199544_crt_Jm33j.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5a/6d/199544_crt_Jm33j.jpg"
+        },
+        "name": "ロドリゲス・伊藤",
+        "summary": "",
+        "relation": "闲角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/6f/4f/66692_prsn_Ko7UR.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/6f/4f/66692_prsn_Ko7UR.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/6f/4f/66692_prsn_Ko7UR.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/6f/4f/66692_prsn_Ko7UR.jpg"
+            },
+            "name": "植本純米",
+            "short_summary": "日本の男性俳優、声優、司会、インタビュアー。岩手県出身。キューブ所属。本名及び旧芸名は植本 潤（うえもと じゅん)。屋号は白符屋（しらふや)。",
+            "career": [
+              "seiyu",
+              "actor"
+            ],
+            "id": 66692,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/60/89/79091_prsn_S9RFS.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/60/89/79091_prsn_S9RFS.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/60/89/79091_prsn_S9RFS.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/60/89/79091_prsn_S9RFS.jpg"
+            },
+            "name": "梁興昌",
+            "short_summary": "台湾男性配音员、声音导演。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 79091,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 199544
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/06/88/199545_crt_332c2.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/06/88/199545_crt_332c2.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/06/88/199545_crt_332c2.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/06/88/199545_crt_332c2.jpg"
+        },
+        "name": "本田エリカ",
+        "summary": "",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/ad/50/58222_prsn_Xs64d.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/ad/50/58222_prsn_Xs64d.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/ad/50/58222_prsn_Xs64d.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ad/50/58222_prsn_Xs64d.jpg"
+            },
+            "name": "林美秀",
+            "short_summary": "台湾女性配音员。\r\n\r\n与同时也曾参与过一些配音作品的知名艺人暨演员林美秀同名同姓。\r\n\r\n华视配音训练班出身，与詹雅菁是同期的配音班同学。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 58222,
+            "type": 1,
+            "locked": false
+          },
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/5c/9c/66786_prsn_E9f7E.jpg?r=1722669071",
+              "grid": "https://lain.bgm.tv/pic/crt/g/5c/9c/66786_prsn_E9f7E.jpg?r=1722669071",
+              "large": "https://lain.bgm.tv/pic/crt/l/5c/9c/66786_prsn_E9f7E.jpg?r=1722669071",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/5c/9c/66786_prsn_E9f7E.jpg?r=1722669071"
+            },
+            "name": "長浜満里子",
+            "short_summary": "日本の声優、舞台女優。日本芸術専門学校特別講師。青森県出身。劇団アルターエゴ所属。",
+            "career": [
+              "seiyu",
+              "actor"
+            ],
+            "id": 66786,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 199545
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/9a/06/199661_crt_o2Yy4.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/9a/06/199661_crt_o2Yy4.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/9a/06/199661_crt_o2Yy4.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9a/06/199661_crt_o2Yy4.jpg"
+        },
+        "name": "集議院大五郎",
+        "summary": "",
+        "relation": "闲角",
+        "actors": [],
+        "type": 1,
+        "id": 199661
       }
     ],
     "subjects": [
@@ -16209,7 +16319,7 @@
         "id": 185317
       }
     ],
-    "updatedAt": "2026-01-19T11:38:36.027Z"
+    "updatedAt": "2026-01-20T12:28:48.462Z"
   },
   {
     "id": 318293,
@@ -16728,6 +16838,6 @@
         "id": 318298
       }
     ],
-    "updatedAt": "2026-01-19T12:12:41.434Z"
+    "updatedAt": "2026-01-20T12:55:06.214Z"
   }
 ]

@@ -11,7 +11,7 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/20/277363_n729y.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/20/277363_n729y.jpg"
       },
-      "summary": "　　在拉提莫星球，武·科瓦奇與正經嚴肅的殖民戰術突擊隊員攜手調查極道老大之死，同時必須保護一名刺青師。",
+      "summary": "　　故事发生在《碳变》主线剧情250年前，聚焦人造义体技术普及初期的社会动荡。核心矛盾围绕意识传输技术的非法应用展开，揭示早期义体改造带来的阶级分化与社会伦理冲突。",
       "name": "オルタード・カーボン：リスリーブド",
       "name_cn": "碳变：义体置换",
       "tags": [
@@ -164,10 +164,6 @@
           "value": "2020年3月19日"
         },
         {
-          "key": "片长",
-          "value": "74分钟"
-        },
-        {
           "key": "放送星期",
           "value": "星期四"
         },
@@ -184,6 +180,14 @@
           "value": "中島丈、岡田義之"
         },
         {
+          "key": "音乐",
+          "value": "MONACA"
+        },
+        {
+          "key": "片长",
+          "value": "74分钟"
+        },
+        {
           "key": "脚本",
           "value": "佐藤大、近藤司"
         },
@@ -192,16 +196,12 @@
           "value": "太田垣康男"
         },
         {
-          "key": "音乐",
-          "value": "MONACA"
-        },
-        {
           "key": "CGスーパーバイザー",
           "value": "菊地蓮"
         }
       ],
       "rating": {
-        "rank": 5423,
+        "rank": 5422,
         "total": 76,
         "count": {
           "1": 0,
@@ -228,7 +228,10 @@
       "id": 277363,
       "eps": 1,
       "meta_tags": [
-        "WEB"
+        "科幻",
+        "日本",
+        "WEB",
+        "影视改"
       ],
       "volumes": 0,
       "series": false,
@@ -333,12 +336,12 @@
         },
         "name": "Altered Carbon",
         "name_cn": "碳变",
-        "relation": "主线故事",
+        "relation": "续集",
         "type": 6,
         "id": 231595
       }
     ],
-    "updatedAt": "2026-01-19T12:09:13.570Z"
+    "updatedAt": "2026-01-20T12:52:28.969Z"
   },
   {
     "id": 279087,
@@ -437,12 +440,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "治愈",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "治愈",
+          "name": "日本",
           "count": 7,
           "total_cont": 0
         },
@@ -472,16 +475,6 @@
           "total_cont": 0
         },
         {
-          "name": "番外",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "剧场版",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "小野夏芽",
           "count": 3,
           "total_cont": 0
@@ -492,17 +485,27 @@
           "total_cont": 0
         },
         {
+          "name": "剧场版",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "番外",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "高桥谅",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "TV",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "下野纮",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
+          "name": "续作",
           "count": 2,
           "total_cont": 0
         }
@@ -538,7 +541,7 @@
         }
       ],
       "rating": {
-        "rank": 2695,
+        "rank": 2694,
         "total": 734,
         "count": {
           "1": 0,
@@ -559,7 +562,7 @@
         "on_hold": 43,
         "dropped": 25,
         "wish": 400,
-        "collect": 1356,
+        "collect": 1357,
         "doing": 45
       },
       "id": 279087,
@@ -1757,7 +1760,7 @@
         "id": 203418
       }
     ],
-    "updatedAt": "2026-01-19T12:09:28.380Z"
+    "updatedAt": "2026-01-20T12:52:38.732Z"
   },
   {
     "id": 289138,
@@ -1911,17 +1914,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "搞笑",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "樱井孝宏",
           "count": 5,
           "total_cont": 0
         },
         {
           "name": "岸边露伴",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "搞笑",
           "count": 5,
           "total_cont": 0
         }
@@ -2056,8 +2059,8 @@
         }
       ],
       "rating": {
-        "rank": 1306,
-        "total": 3637,
+        "rank": 1307,
+        "total": 3638,
         "count": {
           "1": 2,
           "2": 0,
@@ -2065,7 +2068,7 @@
           "4": 13,
           "5": 58,
           "6": 393,
-          "7": 1646,
+          "7": 1647,
           "8": 1322,
           "9": 136,
           "10": 65
@@ -2076,8 +2079,8 @@
       "collection": {
         "on_hold": 128,
         "dropped": 35,
-        "wish": 514,
-        "collect": 7032,
+        "wish": 515,
+        "collect": 7034,
         "doing": 122
       },
       "id": 289138,
@@ -4317,7 +4320,7 @@
         "id": 266197
       }
     ],
-    "updatedAt": "2026-01-19T12:10:07.638Z"
+    "updatedAt": "2026-01-20T12:53:08.735Z"
   },
   {
     "id": 293947,
@@ -4611,7 +4614,7 @@
         "id": 269918
       }
     ],
-    "updatedAt": "2026-01-19T12:10:35.890Z"
+    "updatedAt": "2026-01-20T12:53:29.120Z"
   },
   {
     "id": 296129,
@@ -4636,7 +4639,7 @@
         },
         {
           "name": "异世界",
-          "count": 138,
+          "count": 139,
           "total_cont": 0
         },
         {
@@ -4685,13 +4688,13 @@
           "total_cont": 0
         },
         {
-          "name": "亜細亜堂",
+          "name": "书虫的下克上",
           "count": 26,
           "total_cont": 0
         },
         {
-          "name": "书虫的下克上",
-          "count": 25,
+          "name": "亜細亜堂",
+          "count": 26,
           "total_cont": 0
         },
         {
@@ -4750,22 +4753,7 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "佳作",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "外传",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
+          "name": "小山剛志",
           "count": 2,
           "total_cont": 0
         },
@@ -4775,7 +4763,22 @@
           "total_cont": 0
         },
         {
-          "name": "小山剛志",
+          "name": "未知瑠",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "OAD",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "佳作",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         }
@@ -4846,16 +4849,16 @@
         }
       ],
       "rating": {
-        "rank": 3624,
-        "total": 636,
+        "rank": 3630,
+        "total": 638,
         "count": {
           "1": 1,
           "2": 0,
           "3": 2,
           "4": 7,
           "5": 41,
-          "6": 171,
-          "7": 303,
+          "6": 172,
+          "7": 304,
           "8": 97,
           "9": 8,
           "10": 6
@@ -4866,9 +4869,9 @@
       "collection": {
         "on_hold": 36,
         "dropped": 30,
-        "wish": 188,
-        "collect": 1207,
-        "doing": 18
+        "wish": 190,
+        "collect": 1210,
+        "doing": 19
       },
       "id": 296129,
       "eps": 1,
@@ -5333,7 +5336,7 @@
         "id": 295884
       }
     ],
-    "updatedAt": "2026-01-19T12:10:49.459Z"
+    "updatedAt": "2026-01-20T12:53:38.899Z"
   },
   {
     "id": 296308,
@@ -5422,12 +5425,12 @@
           "total_cont": 0
         },
         {
-          "name": "心理测量者",
+          "name": "反乌托邦",
           "count": 12,
           "total_cont": 0
         },
         {
-          "name": "反乌托邦",
+          "name": "心理测量者",
           "count": 12,
           "total_cont": 0
         },
@@ -5447,17 +5450,17 @@
           "total_cont": 0
         },
         {
-          "name": "赛博朋克",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
           "name": "虚渊玄",
           "count": 6,
           "total_cont": 0
         },
         {
           "name": "中村悠一",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "赛博朋克",
           "count": 6,
           "total_cont": 0
         },
@@ -5477,12 +5480,12 @@
           "total_cont": 0
         },
         {
-          "name": "映画",
+          "name": "动画",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "2020年4月",
+          "name": "映画",
           "count": 3,
           "total_cont": 0
         },
@@ -5492,12 +5495,12 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "2020年4月",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "梶裕貴",
+          "name": "2020年1月",
           "count": 2,
           "total_cont": 0
         }
@@ -5583,14 +5586,14 @@
       ],
       "rating": {
         "rank": 4171,
-        "total": 1535,
+        "total": 1536,
         "count": {
           "1": 6,
           "2": 4,
           "3": 12,
           "4": 47,
           "5": 138,
-          "6": 356,
+          "6": 357,
           "7": 677,
           "8": 237,
           "9": 38,
@@ -5602,8 +5605,8 @@
       "collection": {
         "on_hold": 105,
         "dropped": 52,
-        "wish": 763,
-        "collect": 2600,
+        "wish": 764,
+        "collect": 2601,
         "doing": 96
       },
       "id": 296308,
@@ -7511,7 +7514,7 @@
         "id": 471338
       }
     ],
-    "updatedAt": "2026-01-19T12:10:51.848Z"
+    "updatedAt": "2026-01-20T12:53:41.016Z"
   },
   {
     "id": 302549,
@@ -8892,7 +8895,7 @@
         "id": 314184
       }
     ],
-    "updatedAt": "2026-01-19T12:11:25.358Z"
+    "updatedAt": "2026-01-20T12:54:05.957Z"
   },
   {
     "id": 302673,
@@ -9008,7 +9011,7 @@
         "id": 302672
       }
     ],
-    "updatedAt": "2026-01-19T12:11:27.038Z"
+    "updatedAt": "2026-01-20T12:54:07.360Z"
   },
   {
     "id": 302738,
@@ -9231,7 +9234,7 @@
         }
       ],
       "rating": {
-        "rank": 4649,
+        "rank": 4650,
         "total": 152,
         "count": {
           "1": 0,
@@ -9629,7 +9632,7 @@
         "id": 332104
       }
     ],
-    "updatedAt": "2026-01-19T12:11:27.108Z"
+    "updatedAt": "2026-01-20T12:54:07.428Z"
   },
   {
     "id": 302767,
@@ -9733,12 +9736,12 @@
           "total_cont": 0
         },
         {
-          "name": "穿越",
+          "name": "肉番",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "肉番",
+          "name": "穿越",
           "count": 5,
           "total_cont": 0
         },
@@ -9748,12 +9751,22 @@
           "total_cont": 0
         },
         {
-          "name": "母系",
+          "name": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "福利",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "肉",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "母系",
           "count": 3,
           "total_cont": 0
         },
@@ -9764,16 +9777,6 @@
         },
         {
           "name": "网游",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "福利",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
           "count": 3,
           "total_cont": 0
         },
@@ -9865,14 +9868,14 @@
         }
       ],
       "rating": {
-        "rank": 9421,
-        "total": 599,
+        "rank": 9423,
+        "total": 601,
         "count": {
           "1": 21,
           "2": 24,
           "3": 33,
-          "4": 86,
-          "5": 221,
+          "4": 87,
+          "5": 222,
           "6": 148,
           "7": 45,
           "8": 13,
@@ -9886,7 +9889,7 @@
         "on_hold": 55,
         "dropped": 82,
         "wish": 220,
-        "collect": 1119,
+        "collect": 1122,
         "doing": 56
       },
       "id": 302767,
@@ -10402,7 +10405,7 @@
         "id": 302882
       }
     ],
-    "updatedAt": "2026-01-19T12:11:27.888Z"
+    "updatedAt": "2026-01-20T12:54:08.109Z"
   },
   {
     "id": 303679,
@@ -10623,6 +10626,6 @@
         "id": 247560
       }
     ],
-    "updatedAt": "2026-01-19T12:11:33.039Z"
+    "updatedAt": "2026-01-20T12:54:12.003Z"
   }
 ]
