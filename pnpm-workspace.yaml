@@ -1,2 +1,5 @@
 onlyBuiltDependencies:
   - esbuild
+
+patchedDependencies:
+  lru-cache@11.3.0: patches/lru-cache@11.3.0.patch
