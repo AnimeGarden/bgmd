@@ -17,16 +17,16 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 11,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
-          "count": 9,
+          "count": 10,
           "total_cont": 0
         },
         {
           "name": "车田正美",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
+          "name": "漫画改",
           "count": 9,
           "total_cont": 0
         },
@@ -51,18 +51,13 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "补旧番",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "小山高生",
-          "count": 2,
+          "name": "TV",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -76,12 +71,37 @@
           "total_cont": 0
         },
         {
+          "name": "小山高生",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "植田秀仁",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "小山茉美",
+          "name": "井上和彦",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "人设各种既视感",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "田中秀幸",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "速水奖",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         },
@@ -91,22 +111,12 @@
           "total_cont": 0
         },
         {
-          "name": "飛田展男",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "animate",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "本多知惠子",
+          "name": "小山茉美",
           "count": 1,
           "total_cont": 0
         },
@@ -116,7 +126,17 @@
           "total_cont": 0
         },
         {
-          "name": "速水奖",
+          "name": "飛田展男",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "本多知惠子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "水谷优子",
           "count": 1,
           "total_cont": 0
         },
@@ -131,32 +151,7 @@
           "total_cont": 0
         },
         {
-          "name": "水谷优子",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "飞田展田",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "人设各种既视感",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "井上和彦",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "田中秀幸",
           "count": 1,
           "total_cont": 0
         }
@@ -289,14 +284,19 @@
       "collection": {
         "on_hold": 4,
         "dropped": 6,
-        "wish": 26,
+        "wish": 28,
         "collect": 27,
         "doing": 2
       },
       "id": 37026,
       "eps": 13,
       "meta_tags": [
-        "OVA"
+        "日本",
+        "奇幻",
+        "OVA",
+        "漫画改",
+        "战斗",
+        "少年向"
       ],
       "volumes": 0,
       "series": false,
@@ -483,22 +483,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c5/7b/1376_prsn_AuAdA.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/c5/7b/1376_prsn_AuAdA.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/c5/7b/1376_prsn_AuAdA.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c5/7b/1376_prsn_AuAdA.jpg"
-        },
-        "name": "さとうけいいち",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1376,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -511,6 +495,22 @@
         ],
         "type": 1,
         "id": 177,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c5/7b/1376_prsn_AQ8q9.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/c5/7b/1376_prsn_AQ8q9.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/c5/7b/1376_prsn_AQ8q9.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c5/7b/1376_prsn_AQ8q9.jpg"
+        },
+        "name": "さとうけいいち",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1376,
         "eps": ""
       },
       {
@@ -722,7 +722,261 @@
         "eps": ""
       }
     ],
-    "characters": [],
+    "characters": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f7/3d/196648_crt_j83zV.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f7/3d/196648_crt_j83zV.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f7/3d/196648_crt_j83zV.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f7/3d/196648_crt_j83zV.jpg"
+        },
+        "name": "飛鳥武藏",
+        "summary": "",
+        "relation": "主角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/f8/ba/3898_prsn_BD5L7.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/f8/ba/3898_prsn_BD5L7.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/f8/ba/3898_prsn_BD5L7.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f8/ba/3898_prsn_BD5L7.jpg"
+            },
+            "name": "速水奨",
+            "short_summary": "日本の男性声優、俳優、歌手、ナレーター。\r\n本名は大濱 靖（おおはま やすし）。妻は声優の五十嵐麗。甥（現養子）に同じく声優の速水秀之がいる。以前はぷろだくしょんバオバブや青二プロダクションに所属していた。",
+            "career": [
+              "artist",
+              "seiyu"
+            ],
+            "id": 3898,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 196648
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c6/8d/196650_crt_r5RDi.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/c6/8d/196650_crt_r5RDi.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/c6/8d/196650_crt_r5RDi.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c6/8d/196650_crt_r5RDi.jpg"
+        },
+        "name": "風魔の小次郎",
+        "summary": "",
+        "relation": "主角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/61/95/4143_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/61/95/4143_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/61/95/4143_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/61/95/4143_seiyu_anidb.jpg"
+            },
+            "name": "難波圭一",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 4143,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 196650
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a1/43/196652_crt_8a7PX.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a1/43/196652_crt_8a7PX.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a1/43/196652_crt_8a7PX.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a1/43/196652_crt_8a7PX.jpg"
+        },
+        "name": "壬生攻介",
+        "summary": "",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/59/f9/1582_prsn_N4nun.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/59/f9/1582_prsn_N4nun.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/59/f9/1582_prsn_N4nun.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/59/f9/1582_prsn_N4nun.jpg"
+            },
+            "name": "井上和彦",
+            "short_summary": "日本声优、解说、舞台演员、音响监督。神奈川县横滨市出身。B-Box所属。横浜市立横浜商業高等学校卒業。\r\n曾数度结婚、离婚。首任妻子为《小甜甜》的漫画家五十岚优美子(いがらしゆみこ)，之后又曾与声优荒川美奈子、女演员越智静香结婚，但最终均离婚。长子为漫画家兼女装模特五十岚奈波(いがらし奈波)，本名五十岚庆一(五十嵐慶一)。",
+            "career": [
+              "producer",
+              "artist",
+              "seiyu"
+            ],
+            "id": 1582,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 196652
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/1c/6d/196653_crt_3G2PP.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/1c/6d/196653_crt_3G2PP.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/1c/6d/196653_crt_3G2PP.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/1c/6d/196653_crt_3G2PP.jpg"
+        },
+        "name": "柳生蘭子",
+        "summary": "",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/59/be/4159_prsn_S2dx7.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/59/be/4159_prsn_S2dx7.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/59/be/4159_prsn_S2dx7.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/59/be/4159_prsn_S2dx7.jpg"
+            },
+            "name": "小山茉美",
+            "short_summary": "テレビアニメだけでなく、洋画吹き替えにも積極的に参加。専任の俳優はいないものの、シャロン・ストーン、キム・ベイシンガー、ミシェル・ファイファー、ダイアン・レイン、メグ・ライアン、ルーシー・リューなどのクールでスレンダーな美女役が多い。\r\n\r\n近年ではNHKの教養番組や学校放送、テレビ朝日の『報道ステーション』、TBSの『報道特集』といった報道番組などのナレーションを務めることも多い。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 4159,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 196653
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d3/3d/196654_crt_0kinH.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/d3/3d/196654_crt_0kinH.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/d3/3d/196654_crt_0kinH.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d3/3d/196654_crt_0kinH.jpg"
+        },
+        "name": "飛鳥絵里奈",
+        "summary": "",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/41/75/3909_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/41/75/3909_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/41/75/3909_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/41/75/3909_seiyu_anidb.jpg"
+            },
+            "name": "本多知恵子",
+            "short_summary": "特色\r\n\r\n主要活跃于1980年代前后。擅长演绎充满活力的少女，亦配音过不良与母亲角色。另外在《小莎莉》（1989年版）中饰演少年角色。\r\n\r\n庄真由美、西村ちなみ、麻见顺子らと声质が似ているとされる。\r\n简历\r\n\r\n高中就读长野市立皋月高等学校，毕业后于1981年接受Theatre Echo附属养成所和俳协附属养成所的考试，及格成为俳协第11期学生。之后自长野县来到东京，过着白天在银座啤酒馆（ビヤホール）担任服务生，晚上学习演技的日子。\r\n\r\n2年后的1983年3月，在养成所的毕业公演上的演技获得肯定正式隶属俳协。同时在电视动画《プラレス3四郎》的选拔会合格，以素形真知子角色达成声优出道。\r\n\r\n于1988年至1989年间离开俳协、其后近20年完全以自由之身进行活动。2008年2月起，以交涉事务职置籍于maxmix。\r\n声优事业外的活动\r\n\r\n出道当初也参加了曾为俳协养成所讲师、演出家手冢敏夫所主导的剧团“-剧舎（SHIBUYA）-磷”，身为舞台演员进行演剧活动。但是因为难以兼顾而于1986年、1987年左右放弃演剧活动，此后专心于声优事业。\r\n\r\n声优之外也有以歌手身分活动，除了演唱动画企画的歌曲外，也以本多知惠子个人名义在1990年与1991年发行CD。\r\n\r\n团体活动方面，和在电视动画《昭和アホ草纸あかぬけ一番!》（1985年）共演成员所组成的“CHOKI!!”（ちょき）举办演唱会，1987年至1990年的OVA系列《银河女战士》ガルフォース演出成员所进行的影带发售活动等。1993年，与经年交往的声优松井菜樱子、川村万梨阿组成“The Ripple”（ざ・りっぷる）进行了真人影带、广播、演唱会等活动。\r\n人物\r\n\r\n    个性开朗，会模仿艺人表演。\r\n    身材娇小，只有144cm，偶尔会用来当作自虐的题材称自己是“霹雳游侠知惠子（ナイトライダー知恵子）”（开车时对向车看不到自己→宛如无人驾驶的伙计（ナイト2000）一般）、“声优界的一寸法师、拇指公主”。\r\n    自己述说国高中时代过著常接触《小飞龙》、《机动战士高达》等作品的生活，当时不曾考虑想要自己演出，加入了学校的合唱团。后来因为参加校祭演剧而对演戏产生兴趣，而报考养成所的测验。\r\n    兴趣是兜风、滑雪、阅读、电脑、电脑游戏。特技は振り付けで、イベントの际に指导を行なったり、ビデオアニメでアニメキャラクターへの振り付けを担当したこともある。\r\n\r\n逸事\r\n\r\n    在动画迷间，《白色重战机》（1984年）的ファンネリア・アム、《机动战士高达 ZZ》（1986年）的エルピー・プル、《彗星公主》（2001年）的メテオ等角色特别受爱戴。\r\n    录音时经常迟到而被取了个“本多迟惠子”（本多遲恵子、ほんだちけいこ）的浑名。\r\n    漫画《我的女神》中有和本多名字同音的“本田智恵子”登场，原作者藤岛康介是本多的声迷，而将她的名字直接拿来使用。基于这个缘分，在同作品的企画CD《我的女神 特典王》里，由本多为该角色配音。并且演唱了角色歌曲“不要随便用（别人的）名字啰（勝手に名前を使わないでね）”。\r\n    俳协附属养成所的同期生有室井深雪等人。\r\n\r\n和庄真由美声音的相似性\r\n\r\n演出活力少女时的声音，经常被说和年轻时候的庄真由美相像。在动画《奇天烈大百科》自庄继承了みよ子角色，据说连每周收看的原作者藤子·F·不二雄也没有察觉出みよ子的声优改变了。\r\n\r\n此外在日清的チキンラーメン广告，其中登场的外国人姊妹少女，由庄担任姊姊、本多担任妹妹的配音。\r\n\r\n2013年2月18日因癌症多发医治无效逝世。",
+            "career": [
+              "seiyu",
+              "actor"
+            ],
+            "id": 3909,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 196654
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/be/c4/197000_crt_yFqYa.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/be/c4/197000_crt_yFqYa.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/be/c4/197000_crt_yFqYa.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/be/c4/197000_crt_yFqYa.jpg"
+        },
+        "name": "竜魔",
+        "summary": "",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/a3/ec/4100_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/a3/ec/4100_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/a3/ec/4100_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a3/ec/4100_seiyu_anidb.jpg"
+            },
+            "name": "堀秀行",
+            "short_summary": "日本の声優、俳優、ナレーター。東京都世田谷区出身、静岡県御殿場市育ち。青二プロダクション所属。本名・旧芸名は堀 秀光（ほり ひでみつ）。",
+            "career": [
+              "seiyu",
+              "actor"
+            ],
+            "id": 4100,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197000
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/88/c4/197001_crt_99llE.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/88/c4/197001_crt_99llE.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/88/c4/197001_crt_99llE.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/88/c4/197001_crt_99llE.jpg"
+        },
+        "name": "項羽",
+        "summary": "",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/9c/72/4361_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/9c/72/4361_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/9c/72/4361_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9c/72/4361_seiyu_anidb.jpg"
+            },
+            "name": "中原茂",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 4361,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197001
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a2/a3/205173_crt_26F08.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a2/a3/205173_crt_26F08.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a2/a3/205173_crt_26F08.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a2/a3/205173_crt_26F08.jpg"
+        },
+        "name": "夜叉姫",
+        "summary": "",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/05/30/4201_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/05/30/4201_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/05/30/4201_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/05/30/4201_seiyu_anidb.jpg"
+            },
+            "name": "平野文",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 4201,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 205173
+      }
+    ],
     "subjects": [
       {
         "images": {
@@ -753,7 +1007,7 @@
         "id": 134178
       }
     ],
-    "updatedAt": "2026-01-20T12:36:12.808Z"
+    "updatedAt": "2026-04-06T13:20:28.367Z"
   },
   {
     "id": 53927,
@@ -773,31 +1027,36 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 35,
+          "count": 38,
           "total_cont": 0
         },
         {
           "name": "城市猎人",
-          "count": 20,
+          "count": 21,
           "total_cont": 0
         },
         {
           "name": "1989",
-          "count": 14,
+          "count": 16,
           "total_cont": 0
         },
         {
           "name": "SUNRISE",
-          "count": 10,
+          "count": 11,
           "total_cont": 0
         },
         {
           "name": "漫改",
-          "count": 6,
+          "count": 7,
           "total_cont": 0
         },
         {
           "name": "热血",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
           "count": 6,
           "total_cont": 0
         },
@@ -813,6 +1072,16 @@
         },
         {
           "name": "日本",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "远藤明范",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "儿玉兼嗣",
           "count": 3,
           "total_cont": 0
         },
@@ -822,8 +1091,8 @@
           "total_cont": 0
         },
         {
-          "name": "战斗",
-          "count": 3,
+          "name": "动画",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -837,28 +1106,23 @@
           "total_cont": 0
         },
         {
-          "name": "遠藤明範",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "矢野立美",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "儿玉兼嗣",
+          "name": "遠藤明範",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "远藤明范",
-          "count": 2,
+          "name": "犯罪",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "喜剧",
+          "count": 1,
           "total_cont": 0
         },
         {
@@ -872,12 +1136,7 @@
           "total_cont": 0
         },
         {
-          "name": "ch",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "サンライズ",
+          "name": "伊倉一恵",
           "count": 1,
           "total_cont": 0
         },
@@ -887,12 +1146,22 @@
           "total_cont": 0
         },
         {
-          "name": "剧情",
+          "name": "父爱如山",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "喜剧",
+          "name": "动作",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "漫画改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "欢乐",
           "count": 1,
           "total_cont": 0
         },
@@ -902,22 +1171,7 @@
           "total_cont": 0
         },
         {
-          "name": "父爱如山",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "神谷明",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "伊倉一恵",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "犯罪",
           "count": 1,
           "total_cont": 0
         }
@@ -1017,8 +1271,8 @@
         }
       ],
       "rating": {
-        "rank": 2376,
-        "total": 54,
+        "rank": 2333,
+        "total": 57,
         "count": {
           "1": 0,
           "2": 0,
@@ -1026,20 +1280,20 @@
           "4": 0,
           "5": 6,
           "6": 8,
-          "7": 23,
-          "8": 14,
+          "7": 25,
+          "8": 15,
           "9": 1,
           "10": 2
         },
-        "score": 7
+        "score": 7.1
       },
       "total_episodes": 1,
       "collection": {
         "on_hold": 13,
         "dropped": 6,
-        "wish": 53,
-        "collect": 91,
-        "doing": 3
+        "wish": 57,
+        "collect": 95,
+        "doing": 4
       },
       "id": 53927,
       "eps": 1,
@@ -1859,10 +2113,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/59/d0/199_prsn_a5644.jpg?r=1706796800",
-          "grid": "https://lain.bgm.tv/pic/crt/g/59/d0/199_prsn_a5644.jpg?r=1706796800",
-          "large": "https://lain.bgm.tv/pic/crt/l/59/d0/199_prsn_a5644.jpg?r=1706796800",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/59/d0/199_prsn_a5644.jpg?r=1706796800"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/59/d0/199_prsn_WD82d.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/59/d0/199_prsn_WD82d.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/59/d0/199_prsn_WD82d.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/59/d0/199_prsn_WD82d.jpg"
         },
         "name": "村瀬修功",
         "relation": "原画",
@@ -2286,307 +2540,6 @@
         "id": 215558
       }
     ],
-    "updatedAt": "2026-01-20T12:38:35.788Z"
-  },
-  {
-    "id": 112664,
-    "data": {
-      "date": "1989-06-28",
-      "platform": "OVA",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/27/112664_br4a0.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/27/112664_br4a0.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/af/27/112664_br4a0.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/27/112664_br4a0.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/27/112664_br4a0.jpg"
-      },
-      "summary": "小白角被西风带到一个荒芜小镇，遇到好心的老鼠一家，并且认识了生病的小女孩。原来镇上的工厂污染了大地天空，人们都生病，离开了。小白角摧毁了工厂，使小女孩恢复健康，但又一次被西风带走。 \r\n手塚治虫原作のリリカに掲載されたシナリオを映像化したもの。劇場用のパイロット版作品として製作されたが、劇場公開はされなかった。1979年製作。 ",
-      "name": "ユニコ 黒い雲と白い羽",
-      "name_cn": "小小独角兽 黑云与白羽毛",
-      "tags": [
-        {
-          "name": "1979",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "独立ova",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "剧场版",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "OVA",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "MADHouse",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "（日本）最早ova动漫",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "治愈",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1970s",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "短片",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "手塚治虫",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "辻真先",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "平田敏夫",
-          "count": 1,
-          "total_cont": 0
-        }
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "小小独角兽 黑云与白羽毛"
-        },
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "小白角 黑云与白羽毛"
-            },
-            {
-              "v": "ユニコ パイロット版"
-            },
-            {
-              "v": "短編ユニコ 黒い雲と白い羽"
-            },
-            {
-              "v": "Unico Black Cloud White Feather"
-            }
-          ]
-        },
-        {
-          "key": "话数",
-          "value": "1"
-        },
-        {
-          "key": "发售日",
-          "value": "1989年6月28日"
-        },
-        {
-          "key": "IMDb_id",
-          "value": "tt0098563"
-        },
-        {
-          "key": "上映年度",
-          "value": "1979年4月5日"
-        }
-      ],
-      "rating": {
-        "rank": 0,
-        "total": 11,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 1,
-          "4": 0,
-          "5": 6,
-          "6": 3,
-          "7": 1,
-          "8": 0,
-          "9": 0,
-          "10": 0
-        },
-        "score": 5.3
-      },
-      "total_episodes": 1,
-      "collection": {
-        "on_hold": 2,
-        "dropped": 5,
-        "wish": 8,
-        "collect": 14,
-        "doing": 0
-      },
-      "id": 112664,
-      "eps": 1,
-      "meta_tags": [
-        "OVA"
-      ],
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2
-    },
-    "persons": [
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/d4/90/600_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/d4/90/600_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/d4/90/600_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/d4/90/600_prsn_anidb.jpg"
-        },
-        "name": "平田敏夫",
-        "relation": "导演",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 600,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/4e/62/2136_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/4e/62/2136_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/4e/62/2136_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/4e/62/2136_prsn_anidb.jpg"
-        },
-        "name": "ミッキー吉野",
-        "relation": "音乐",
-        "career": [
-          "producer",
-          "artist"
-        ],
-        "type": 1,
-        "id": 2136,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
-        },
-        "name": "手塚治虫",
-        "relation": "原作",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1318,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/1a/68/2385_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/1a/68/2385_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/1a/68/2385_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/1a/68/2385_prsn_anidb.jpg"
-        },
-        "name": "タケカワユキヒデ",
-        "relation": "音乐",
-        "career": [
-          "artist"
-        ],
-        "type": 1,
-        "id": 2385,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
-        },
-        "name": "手塚治虫",
-        "relation": "监修",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1318,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "橋爪朋二",
-        "relation": "特效",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 82987,
-        "eps": ""
-      }
-    ],
-    "characters": [],
-    "subjects": [
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/e2/32489_J3K1j.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/e2/32489_J3K1j.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/11/e2/32489_J3K1j.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/e2/32489_J3K1j.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/e2/32489_J3K1j.jpg"
-        },
-        "name": "ユニコ",
-        "name_cn": "小小独角兽",
-        "relation": "不同演绎",
-        "type": 2,
-        "id": 32489
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/15/429643_7OWsf.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/15/429643_7OWsf.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/f9/15/429643_7OWsf.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/15/429643_7OWsf.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/15/429643_7OWsf.jpg"
-        },
-        "name": "手塚治虫ワールドBest of Best「24時間テレビ～愛は地球を救う&ユニコ」オリジナル・サウンドトラック",
-        "name_cn": "手冢治虫的世界精选集「24小时电视_爱心救地球&UNICO」OST",
-        "relation": "其他",
-        "type": 3,
-        "id": 429643
-      }
-    ],
-    "updatedAt": "2026-01-20T12:43:25.949Z"
+    "updatedAt": "2026-04-06T13:22:55.711Z"
   }
 ]

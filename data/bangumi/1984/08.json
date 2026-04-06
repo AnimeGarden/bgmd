@@ -21,12 +21,17 @@
           "total_cont": 0
         },
         {
-          "name": "赛璐珞",
+          "name": "TV",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "80s",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "TV",
+          "name": "赛璐珞",
           "count": 2,
           "total_cont": 0
         },
@@ -36,22 +41,17 @@
           "total_cont": 0
         },
         {
-          "name": "80s",
+          "name": "1984",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "井上和彦",
+          "name": "SF",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "手塚治虫",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "島津冴子",
+          "name": "原创",
           "count": 1,
           "total_cont": 0
         },
@@ -61,12 +61,22 @@
           "total_cont": 0
         },
         {
-          "name": "1984",
+          "name": "日本",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "手冢Pro",
+          "name": "井上和彦",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "島津冴子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "手塚治虫",
           "count": 1,
           "total_cont": 0
         },
@@ -76,17 +86,12 @@
           "total_cont": 0
         },
         {
+          "name": "手冢Production",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "SF",
           "count": 1,
           "total_cont": 0
         }
@@ -135,27 +140,27 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 4,
+        "total": 5,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 1,
-          "5": 1,
+          "5": 2,
           "6": 1,
           "7": 1,
           "8": 0,
           "9": 0,
           "10": 0
         },
-        "score": 5.5
+        "score": 5.4
       },
       "total_episodes": 1,
       "collection": {
         "on_hold": 0,
         "dropped": 5,
         "wish": 7,
-        "collect": 6,
+        "collect": 7,
         "doing": 3
       },
       "id": 296860,
@@ -171,6 +176,40 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
+        },
+        "name": "手塚治虫",
+        "relation": "原画",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1318,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
+        },
+        "name": "手塚治虫",
+        "relation": "演出",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1318,
+        "eps": ""
+      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/ed/a4/1319_prsn_RRVRK.jpg",
@@ -234,6 +273,23 @@
         ],
         "type": 1,
         "id": 2852,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
+        },
+        "name": "手塚治虫",
+        "relation": "原作",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1318,
         "eps": ""
       },
       {
@@ -334,23 +390,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
-        },
-        "name": "手塚治虫",
-        "relation": "原画",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1318,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -409,40 +448,6 @@
         ],
         "type": 1,
         "id": 2844,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
-        },
-        "name": "手塚治虫",
-        "relation": "演出",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1318,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
-        },
-        "name": "手塚治虫",
-        "relation": "原作",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1318,
         "eps": ""
       },
       {
@@ -560,6 +565,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-01-20T12:53:43.404Z"
+    "updatedAt": "2026-04-06T13:37:54.366Z"
   }
 ]

@@ -17,42 +17,32 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 53,
+          "count": 54,
           "total_cont": 0
         },
         {
           "name": "1986",
-          "count": 25,
+          "count": 27,
           "total_cont": 0
         },
         {
           "name": "漫画改",
-          "count": 17,
+          "count": 18,
           "total_cont": 0
         },
         {
           "name": "青春",
-          "count": 13,
+          "count": 14,
           "total_cont": 0
         },
         {
           "name": "不良",
-          "count": 12,
+          "count": 13,
           "total_cont": 0
         },
         {
           "name": "热血",
-          "count": 11,
-          "total_cont": 0
-        },
-        {
-          "name": "草尾毅",
-          "count": 10,
-          "total_cont": 0
-        },
-        {
-          "name": "东映动画",
-          "count": 10,
+          "count": 12,
           "total_cont": 0
         },
         {
@@ -61,7 +51,17 @@
           "total_cont": 0
         },
         {
+          "name": "草尾毅",
+          "count": 10,
+          "total_cont": 0
+        },
+        {
           "name": "TV",
+          "count": 9,
+          "total_cont": 0
+        },
+        {
+          "name": "东映动画",
           "count": 9,
           "total_cont": 0
         },
@@ -76,13 +76,18 @@
           "total_cont": 0
         },
         {
+          "name": "東映アニメーション",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
           "name": "漫画改编",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "東映アニメーション",
-          "count": 4,
+          "name": "漫改",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -91,22 +96,32 @@
           "total_cont": 0
         },
         {
-          "name": "待看",
+          "name": "80s",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "浪漫",
+          "name": "一",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "塩沢兼人",
+          "name": "期待",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "85-89",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "全年龄",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "ToeiAnimation",
           "count": 1,
           "total_cont": 0
         },
@@ -121,47 +136,32 @@
           "total_cont": 0
         },
         {
+          "name": "待看",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "浪漫",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "二十世纪",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "原创",
+          "name": "塩沢兼人",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "漫改",
+          "name": "预备",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "7.5-8",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "冷门",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "佐木憲世",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "老害最爱",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "赛璐珞",
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         }
@@ -263,29 +263,29 @@
         }
       ],
       "rating": {
-        "rank": 2012,
-        "total": 68,
+        "rank": 1862,
+        "total": 71,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 0,
           "5": 5,
-          "6": 13,
-          "7": 24,
-          "8": 16,
-          "9": 10,
+          "6": 12,
+          "7": 25,
+          "8": 18,
+          "9": 11,
           "10": 0
         },
-        "score": 7.2
+        "score": 7.3
       },
       "total_episodes": 12,
       "collection": {
-        "on_hold": 16,
+        "on_hold": 17,
         "dropped": 14,
-        "wish": 144,
-        "collect": 94,
-        "doing": 14
+        "wish": 149,
+        "collect": 98,
+        "doing": 16
       },
       "id": 82490,
       "eps": 12,
@@ -1952,6 +1952,22 @@
         "type": 1,
         "id": 1587,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "津吹明日香",
+        "relation": "补间动画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 89833,
+        "eps": ""
       }
     ],
     "characters": [],
@@ -2069,6 +2085,6 @@
         "id": 571097
       }
     ],
-    "updatedAt": "2026-01-20T12:40:54.467Z"
+    "updatedAt": "2026-04-06T13:25:15.896Z"
   }
 ]

@@ -36,77 +36,7 @@
           "total_cont": 0
         },
         {
-          "name": "虫Production",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "小说改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "生肉",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "虫プロダクション",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "富山敬",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "bilibili",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1968年一月番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "60s",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "管野直行",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1968年2月",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "黑白",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "赛璐珞",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "推理",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
@@ -121,7 +51,77 @@
           "total_cont": 0
         },
         {
-          "name": "旧物",
+          "name": "bilibili",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "小说改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "60s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "生肉",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "管野直行",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "富山敬",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "虫プロダクション",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1968年一月番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "虫Production",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "黑白",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1968年2月",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "推理",
           "count": 1,
           "total_cont": 0
         }
@@ -150,20 +150,20 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 4,
+        "total": 3,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 0,
-          "5": 1,
+          "5": 0,
           "6": 0,
           "7": 3,
           "8": 0,
           "9": 0,
           "10": 0
         },
-        "score": 6.5
+        "score": 7
       },
       "total_episodes": 35,
       "collection": {
@@ -455,7 +455,8 @@
         "name": "村野守美",
         "relation": "演出",
         "career": [
-          "producer"
+          "producer",
+          "mangaka"
         ],
         "type": 1,
         "id": 2345,
@@ -623,6 +624,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-01-20T12:47:03.467Z"
+    "updatedAt": "2026-04-06T13:31:07.467Z"
   }
 ]

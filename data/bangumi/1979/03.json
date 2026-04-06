@@ -22,12 +22,12 @@
         },
         {
           "name": "TV",
-          "count": 13,
+          "count": 14,
           "total_cont": 0
         },
         {
           "name": "1979年3月",
-          "count": 10,
+          "count": 11,
           "total_cont": 0
         },
         {
@@ -37,7 +37,7 @@
         },
         {
           "name": "高桥良辅",
-          "count": 6,
+          "count": 7,
           "total_cont": 0
         },
         {
@@ -61,22 +61,17 @@
           "total_cont": 0
         },
         {
-          "name": "70s",
-          "count": 2,
+          "name": "补旧番",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 2,
+          "name": "漫画改",
+          "count": 3,
           "total_cont": 0
         },
         {
           "name": "1979年3月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "补旧番",
           "count": 2,
           "total_cont": 0
         },
@@ -86,12 +81,17 @@
           "total_cont": 0
         },
         {
-          "name": "芦田豊雄",
+          "name": "日本",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "漫画改",
+          "name": "70s",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "芦田豊雄",
           "count": 2,
           "total_cont": 0
         },
@@ -101,58 +101,18 @@
           "total_cont": 0
         },
         {
-          "name": "漫画改编",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "すぎやまこういち",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "井上和彦",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "补",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "滝沢敏文",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "辻真先",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "70年代动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "战斗",
-          "count": 1,
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "金田伊功",
-          "count": 1,
+          "name": "赛璐珞",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -162,6 +122,46 @@
         },
         {
           "name": "改编",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "漫画改编",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "金田伊功",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "井上和彦",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "辻真先",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "动作",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "待補1",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "70年代动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         }
@@ -240,32 +240,36 @@
         {
           "key": "上色",
           "value": "日下部久枝、芝崎素子"
+        },
+        {
+          "key": "脚本",
+          "value": "酒井あきよし（メインライター）"
         }
       ],
       "rating": {
         "rank": 0,
-        "total": 18,
+        "total": 19,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 2,
-          "5": 2,
+          "5": 3,
           "6": 4,
           "7": 4,
           "8": 3,
           "9": 2,
           "10": 1
         },
-        "score": 6.8
+        "score": 6.7
       },
       "total_episodes": 50,
       "collection": {
         "on_hold": 12,
         "dropped": 7,
-        "wish": 102,
-        "collect": 27,
-        "doing": 11
+        "wish": 104,
+        "collect": 28,
+        "doing": 12
       },
       "id": 13605,
       "eps": 50,
@@ -1449,6 +1453,22 @@
         "type": 1,
         "id": 1264,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/55/b0/109_prsn_RX2K1.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/55/b0/109_prsn_RX2K1.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/55/b0/109_prsn_RX2K1.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/55/b0/109_prsn_RX2K1.jpg"
+        },
+        "name": "伊藤和典",
+        "relation": "制作进行",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 109,
+        "eps": ""
       }
     ],
     "characters": [
@@ -1877,9 +1897,51 @@
         "relation": "不同世界观",
         "type": 2,
         "id": 268943
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/c6/622676_ptzhF.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/c6/622676_ptzhF.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/66/c6/622676_ptzhF.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/c6/622676_ptzhF.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/c6/622676_ptzhF.jpg"
+        },
+        "name": "石ノ森章太郎萬画音楽大全⑥ サイボーグ009 オリジナル・サウンドトラック2",
+        "name_cn": "",
+        "relation": "原声集",
+        "type": 3,
+        "id": 622676
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/b3/a4/626097_1oGk8.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b3/a4/626097_1oGk8.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/b3/a4/626097_1oGk8.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b3/a4/626097_1oGk8.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/b3/a4/626097_1oGk8.jpg"
+        },
+        "name": "誰がために / いつの日か",
+        "name_cn": "",
+        "relation": "片头曲",
+        "type": 3,
+        "id": 626097
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/1f/626100_3Io65.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/1f/626100_3Io65.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/49/1f/626100_3Io65.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/1f/626100_3Io65.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/1f/626100_3Io65.jpg"
+        },
+        "name": "サイボーグ009 主題歌・挿入歌集",
+        "name_cn": "",
+        "relation": "插入歌",
+        "type": 3,
+        "id": 626100
       }
     ],
-    "updatedAt": "2026-01-20T12:33:33.221Z"
+    "updatedAt": "2026-04-06T13:17:43.476Z"
   },
   {
     "id": 37181,
@@ -1887,13 +1949,13 @@
       "date": "1979-03-21",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/78/37181_2SJ8x.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/78/37181_2SJ8x.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/04/78/37181_2SJ8x.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/78/37181_2SJ8x.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/78/37181_2SJ8x.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/78/37181_7xxr7.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/78/37181_7xxr7.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/04/78/37181_7xxr7.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/78/37181_7xxr7.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/78/37181_7xxr7.jpg"
       },
-      "summary": "　　1995年、地球はザール星間帝国の急襲により全滅の危機に瀕していた。しかし、廃墟と化した日本で、助け合いながらたくましく生きる孤児たちがいた。楯剣人、柊弾児、早苗たちである。\r\n　　剣人は実は、過去にザール帝国に滅ぼされたエリオス星皇帝の遺児だった。彼らはエリオスの忠臣であったアール博士と知り合い、アトラウスとガンパーという2つのメカを与えられ、ザール帝国と戦いながら第三のメカ、意思を持つライオンメカ・ベラリオスを探すことになる。巨大ロボット・ダルタニアスに合体するためには、3つのメカが必要なのだ。ついに揃った三大メカは剣人の「クロス･イン」の掛け声で合体、ザールから平和を取り戻すための心強い存在となる。\r\n　　だが、この戦いの発端は、エリオス帝国に起こったある悲劇だったのだ…。",
+      "summary": "　　《未来机器人达尔塔尼亚斯》是由长滨忠夫、佐佐木胜利联合执导的日本机器人动画，东映电视事业部企划，SUNRISE负责制作。该作于1979年3月21日至1980年3月5日在东京12频道（现：东京电视台）每周三19:30-20:00时段播出，全47集，接档《蜘蛛侠》后被《宇宙大帝神西格玛》接替。动画中后期导演由长滨忠夫更换为佐佐木胜利，成为长滨忠夫最后一部机器人作品。\r\n　　故事以扎尔星间帝国入侵地球导致文明崩坏为背景，孤儿楯剑人因体内艾里奥斯帝国皇室血脉觉醒，唤醒机器狮子贝拉里奥斯，并与机甲合体为决战兵器达尔塔尼亚斯。剑人拒绝继承艾里奥斯帝位，与柊弹儿、伽斯贡等伙伴共同对抗扎尔帝国。反派杜鲁门大帝实为艾里奥斯皇帝克隆体，因早年遭受克隆虐待而发动叛乱，最终战败时留下对克隆技术的控诉。动画核心机体达尔塔尼亚斯由亚特兰斯、钢巴和贝拉里奥斯合体而成，以超空间能量驱动",
       "name": "未来ロボ ダルタニアス",
       "name_cn": "未来机器人达尔塔尼亚斯",
       "tags": [
@@ -1909,7 +1971,12 @@
         },
         {
           "name": "長浜忠夫",
-          "count": 7,
+          "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "原创",
+          "count": 6,
           "total_cont": 0
         },
         {
@@ -1920,11 +1987,6 @@
         {
           "name": "萝卜",
           "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "原创",
-          "count": 5,
           "total_cont": 0
         },
         {
@@ -1943,7 +2005,12 @@
           "total_cont": 0
         },
         {
-          "name": "机战登场作",
+          "name": "robo",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
           "count": 2,
           "total_cont": 0
         },
@@ -1953,83 +2020,18 @@
           "total_cont": 0
         },
         {
-          "name": "robo",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "东映",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "日本SUNRISE",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "五武冬史",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "待補1",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "老害最爱",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "塩山紀生",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "70s",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "ロボットアニメ",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "古川登志夫",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "サンライズ",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "東映アニメーション",
-          "count": 1,
+          "name": "机战登场作",
+          "count": 2,
           "total_cont": 0
         },
         {
           "name": "机战",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "鈴木良武",
-          "count": 1,
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -2046,6 +2048,66 @@
           "name": "无中字",
           "count": 1,
           "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "待補1",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "鈴木良武",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "70s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "ロボットアニメ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "4クール",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "补",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "冷门",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "安原義人",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "サンライズ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "東映アニメーション",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "古川登志夫",
+          "count": 1,
+          "total_cont": 0
         }
       ],
       "infobox": [
@@ -2057,13 +2119,13 @@
           "key": "别名",
           "value": [
             {
+              "v": "未来机器人达特纽斯"
+            },
+            {
               "v": "Daltanious"
             },
             {
               "v": "金毛狮王"
-            },
-            {
-              "v": "达特纽斯"
             },
             {
               "v": "巨兽王"
@@ -2086,15 +2148,19 @@
           "value": "1980年3月5日"
         },
         {
+          "key": "导演",
+          "value": "佐々木勝利"
+        },
+        {
           "key": "原作",
           "value": "八手三郎"
         },
         {
-          "key": "総演出",
+          "key": "总演出",
           "value": "長浜忠夫"
         },
         {
-          "key": "製作",
+          "key": "制作",
           "value": "東京12チャンネル、東映、東映エージエンシー"
         },
         {
@@ -2104,7 +2170,7 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 15,
+        "total": 16,
         "count": {
           "1": 0,
           "2": 0,
@@ -2112,7 +2178,7 @@
           "4": 1,
           "5": 1,
           "6": 2,
-          "7": 7,
+          "7": 8,
           "8": 2,
           "9": 2,
           "10": 0
@@ -2121,17 +2187,19 @@
       },
       "total_episodes": 47,
       "collection": {
-        "on_hold": 8,
+        "on_hold": 10,
         "dropped": 11,
         "wish": 49,
-        "collect": 22,
+        "collect": 24,
         "doing": 6
       },
       "id": 37181,
       "eps": 47,
       "meta_tags": [
+        "机战",
         "TV",
-        "日本"
+        "日本",
+        "原创"
       ],
       "volumes": 0,
       "series": false,
@@ -2784,7 +2852,7 @@
         "id": 525887
       }
     ],
-    "updatedAt": "2026-01-20T12:36:18.825Z"
+    "updatedAt": "2026-04-06T13:20:35.062Z"
   },
   {
     "id": 449001,
@@ -2828,37 +2896,7 @@
           "total_cont": 0
         },
         {
-          "name": "小说改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "偶片",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "音乐",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ映画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "空",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "夏川静枝",
+          "name": "杉田薰",
           "count": 1,
           "total_cont": 0
         },
@@ -2868,7 +2906,17 @@
           "total_cont": 0
         },
         {
-          "name": "杉田薰",
+          "name": "一之宫敦子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "偶片",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "夏川静枝",
           "count": 1,
           "total_cont": 0
         },
@@ -2878,12 +2926,32 @@
           "total_cont": 0
         },
         {
-          "name": "一之宫敦子",
+          "name": "小说改",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "童话",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "音乐",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "空",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ映画",
           "count": 1,
           "total_cont": 0
         }
@@ -2993,7 +3061,7 @@
         "dropped": 4,
         "wish": 3,
         "collect": 5,
-        "doing": 0
+        "doing": 1
       },
       "id": 449001,
       "eps": 0,
@@ -3103,6 +3171,6 @@
         "id": 233493
       }
     ],
-    "updatedAt": "2026-01-20T12:59:43.234Z"
+    "updatedAt": "2026-04-06T13:44:04.696Z"
   }
 ]

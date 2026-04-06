@@ -17,12 +17,12 @@
       "tags": [
         {
           "name": "1965年一月番",
-          "count": 11,
+          "count": 12,
           "total_cont": 0
         },
         {
           "name": "虫Production",
-          "count": 7,
+          "count": 6,
           "total_cont": 0
         },
         {
@@ -32,7 +32,7 @@
         },
         {
           "name": "TV",
-          "count": 5,
+          "count": 6,
           "total_cont": 0
         },
         {
@@ -51,7 +51,17 @@
           "total_cont": 0
         },
         {
+          "name": "赛璐珞",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "1965年1月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
           "count": 2,
           "total_cont": 0
         },
@@ -66,17 +76,7 @@
           "total_cont": 0
         },
         {
-          "name": "赛璐珞",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1965年一月番",
+          "name": "原创",
           "count": 1,
           "total_cont": 0
         },
@@ -86,17 +86,7 @@
           "total_cont": 0
         },
         {
-          "name": "漫画改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "若山弦蔵",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "虫プロダクション",
           "count": 1,
           "total_cont": 0
         },
@@ -106,7 +96,17 @@
           "total_cont": 0
         },
         {
-          "name": "旧物",
+          "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "漫画改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "虫プロダクション",
           "count": 1,
           "total_cont": 0
         },
@@ -127,6 +127,11 @@
         },
         {
           "name": "60s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1965年一月番",
           "count": 1,
           "total_cont": 0
         }
@@ -155,26 +160,26 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 17,
+        "total": 16,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 1,
-          "5": 7,
+          "5": 6,
           "6": 2,
           "7": 5,
           "8": 1,
           "9": 0,
           "10": 1
         },
-        "score": 6.1
+        "score": 6.2
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 5,
+        "on_hold": 4,
         "dropped": 6,
-        "wish": 23,
+        "wish": 25,
         "collect": 29,
         "doing": 1
       },
@@ -243,23 +248,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
-        },
-        "name": "手塚治虫",
-        "relation": "演出",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1318,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/2b/3b/1513_prsn_anidb.jpg?r=1489325177",
           "grid": "https://lain.bgm.tv/pic/crt/g/2b/3b/1513_prsn_anidb.jpg?r=1489325177",
           "large": "https://lain.bgm.tv/pic/crt/l/2b/3b/1513_prsn_anidb.jpg?r=1489325177",
@@ -290,6 +278,23 @@
         ],
         "type": 1,
         "id": 1513,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
+        },
+        "name": "手塚治虫",
+        "relation": "演出",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1318,
         "eps": ""
       },
       {
@@ -391,6 +396,6 @@
         "id": 530069
       }
     ],
-    "updatedAt": "2026-01-20T12:48:34.330Z"
+    "updatedAt": "2026-04-06T13:32:41.186Z"
   }
 ]
