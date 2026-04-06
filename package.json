@@ -61,14 +61,15 @@
   "devDependencies": {
     "@types/fs-extra": "11.0.4",
     "@types/node": "24.8.1",
-    "bangumi-data": "0.3.193",
+    "bangumi-data": "0.3.205",
+    "bgmc": "0.2.0",
     "bgmx": "0.0.3",
     "execa": "9.6.0",
     "fs-extra": "11.3.2",
     "prettier": "3.6.2",
     "tsx": "4.20.6"
   },
-  "packageManager": "pnpm@10.18.3",
+  "packageManager": "pnpm@10.33.0",
   "engines": {
     "node": ">=v24.0.0"
   }
