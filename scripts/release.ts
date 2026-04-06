@@ -38,6 +38,3 @@ await $`git commit -m ${`chore: release ${nextVersion}`}`;
 await $`git tag ${'v' + nextVersion}`;
 await $`git push`;
 await $`git push --tags`;
-
-console.log('Release to npm');
-await $`pnpm publish --access public`;
