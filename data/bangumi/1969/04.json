@@ -16,18 +16,23 @@
       "name_cn": "红三四郎",
       "tags": [
         {
-          "name": "龙之子",
-          "count": 8,
+          "name": "TV",
+          "count": 7,
           "total_cont": 0
         },
         {
-          "name": "TV",
+          "name": "龙之子",
           "count": 7,
           "total_cont": 0
         },
         {
           "name": "经典",
           "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 3,
           "total_cont": 0
         },
         {
@@ -41,8 +46,8 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 3,
+          "name": "童年",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -51,8 +56,43 @@
           "total_cont": 0
         },
         {
-          "name": "童年",
-          "count": 2,
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "漫画改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "西川幾雄",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "タツノコプロ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "生肉",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "鳥海尽三",
+          "count": 1,
           "total_cont": 0
         },
         {
@@ -67,46 +107,6 @@
         },
         {
           "name": "1969年",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "鳥海尽三",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "西川幾雄",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "生肉",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "タツノコプロ",
           "count": 1,
           "total_cont": 0
         }
@@ -200,7 +200,7 @@
       "collection": {
         "on_hold": 5,
         "dropped": 6,
-        "wish": 24,
+        "wish": 23,
         "collect": 17,
         "doing": 3
       },
@@ -383,6 +383,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
+        },
+        "name": "富野由悠季",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 613,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/a2/a5/2281_prsn_MccdD.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/a2/a5/2281_prsn_MccdD.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/a2/a5/2281_prsn_MccdD.jpg",
@@ -509,22 +525,6 @@
         ],
         "type": 1,
         "id": 676,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
-        },
-        "name": "富野由悠季",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 613,
         "eps": ""
       },
       {
@@ -689,7 +689,7 @@
         "id": 621406
       }
     ],
-    "updatedAt": "2026-01-20T12:33:03.612Z"
+    "updatedAt": "2026-04-06T13:17:13.161Z"
   },
   {
     "id": 103132,
@@ -718,22 +718,22 @@
           "total_cont": 0
         },
         {
+          "name": "白土三平",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "日本动画",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "白土三平",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
+          "name": "TCJ動画センター",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "TCJ動画センター",
+          "name": "漫画改",
           "count": 2,
           "total_cont": 0
         },
@@ -743,12 +743,7 @@
           "total_cont": 0
         },
         {
-          "name": "bilibili",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "高垣幸蔵",
+          "name": "忍風卡姆依外伝",
           "count": 1,
           "total_cont": 0
         },
@@ -758,17 +753,12 @@
           "total_cont": 0
         },
         {
-          "name": "城達也",
+          "name": "福田皖",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "忍風卡姆依外伝",
+          "name": "bilibili",
           "count": 1,
           "total_cont": 0
         },
@@ -783,7 +773,22 @@
           "total_cont": 0
         },
         {
+          "name": "搜酷",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "城達也",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "忍者",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "高垣幸蔵",
           "count": 1,
           "total_cont": 0
         },
@@ -798,7 +803,7 @@
           "total_cont": 0
         },
         {
-          "name": "待補1",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
@@ -808,17 +813,12 @@
           "total_cont": 0
         },
         {
-          "name": "TCJ",
+          "name": "待補1",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "冷门",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "中田浩二",
           "count": 1,
           "total_cont": 0
         },
@@ -833,7 +833,12 @@
           "total_cont": 0
         },
         {
-          "name": "搜酷",
+          "name": "冈田宇启",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "中田浩二",
           "count": 1,
           "total_cont": 0
         }
@@ -921,20 +926,20 @@
           "3": 0,
           "4": 0,
           "5": 0,
-          "6": 5,
+          "6": 4,
           "7": 2,
           "8": 3,
           "9": 0,
-          "10": 1
+          "10": 2
         },
-        "score": 6.7
+        "score": 7
       },
       "total_episodes": 26,
       "collection": {
         "on_hold": 7,
         "dropped": 5,
         "wish": 46,
-        "collect": 15,
+        "collect": 16,
         "doing": 6
       },
       "id": 103132,
@@ -1158,6 +1163,22 @@
         "type": 2,
         "id": 65932,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "岡田宇啓",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 88084,
+        "eps": ""
       }
     ],
     "characters": [],
@@ -1205,7 +1226,7 @@
         "id": 498516
       }
     ],
-    "updatedAt": "2026-01-20T12:42:42.788Z"
+    "updatedAt": "2026-04-06T13:27:03.399Z"
   },
   {
     "id": 107454,
@@ -1225,32 +1246,37 @@
       "tags": [
         {
           "name": "手塚治虫",
-          "count": 81,
+          "count": 85,
           "total_cont": 0
         },
         {
           "name": "多罗罗",
-          "count": 61,
+          "count": 65,
           "total_cont": 0
         },
         {
-          "name": "1969",
-          "count": 40,
+          "name": "1969年4月",
+          "count": 45,
           "total_cont": 0
         },
         {
           "name": "TV",
-          "count": 36,
+          "count": 44,
           "total_cont": 0
         },
         {
           "name": "漫画改",
-          "count": 36,
+          "count": 40,
           "total_cont": 0
         },
         {
           "name": "战国时期",
-          "count": 24,
+          "count": 26,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
+          "count": 22,
           "total_cont": 0
         },
         {
@@ -1260,22 +1286,17 @@
         },
         {
           "name": "百鬼丸",
-          "count": 19,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
-          "count": 18,
+          "count": 20,
           "total_cont": 0
         },
         {
           "name": "致郁",
-          "count": 15,
+          "count": 17,
           "total_cont": 0
         },
         {
           "name": "日本",
-          "count": 11,
+          "count": 12,
           "total_cont": 0
         },
         {
@@ -1290,12 +1311,12 @@
         },
         {
           "name": "2019.1",
-          "count": 6,
+          "count": 7,
           "total_cont": 0
         },
         {
           "name": "漫改",
-          "count": 4,
+          "count": 6,
           "total_cont": 0
         },
         {
@@ -1309,12 +1330,7 @@
           "total_cont": 0
         },
         {
-          "name": "虫プロダクション",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日漫",
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -1324,52 +1340,57 @@
           "total_cont": 0
         },
         {
-          "name": "治愈",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "待補2",
+          "name": "虫プロダクション",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "治愈",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日漫",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "杉井ギサブロー",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "不评论",
+          "name": "1969年4月",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "藤田淑子",
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "48妖怪",
+          "name": "2019.1",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "納谷悟朗",
+          "name": "鈴木良武",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "黄金时代神作",
+          "name": "60年代动画",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "手冢治虫",
+          "name": "黑白",
           "count": 1,
           "total_cont": 0
         }
@@ -1424,29 +1445,29 @@
         }
       ],
       "rating": {
-        "rank": 3202,
-        "total": 355,
+        "rank": 3193,
+        "total": 373,
         "count": {
           "1": 1,
           "2": 0,
           "3": 0,
           "4": 5,
           "5": 21,
-          "6": 102,
-          "7": 149,
-          "8": 60,
+          "6": 108,
+          "7": 159,
+          "8": 61,
           "9": 6,
-          "10": 11
+          "10": 12
         },
         "score": 6.8
       },
       "total_episodes": 26,
       "collection": {
-        "on_hold": 118,
-        "dropped": 76,
-        "wish": 290,
-        "collect": 832,
-        "doing": 104
+        "on_hold": 122,
+        "dropped": 80,
+        "wish": 301,
+        "collect": 862,
+        "doing": 112
       },
       "id": 107454,
       "eps": 26,
@@ -1803,22 +1824,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
-        },
-        "name": "富野由悠季",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 613,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/bf/fc/1483_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/bf/fc/1483_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/bf/fc/1483_prsn_anidb.jpg",
@@ -1847,6 +1852,22 @@
         ],
         "type": 1,
         "id": 1381,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/86/08/613_prsn_jZVU6.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/86/08/613_prsn_jZVU6.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/08/613_prsn_jZVU6.jpg"
+        },
+        "name": "富野由悠季",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 613,
         "eps": ""
       },
       {
@@ -2117,6 +2138,6 @@
         "id": 503698
       }
     ],
-    "updatedAt": "2026-01-20T12:43:04.871Z"
+    "updatedAt": "2026-04-06T13:27:25.595Z"
   }
 ]

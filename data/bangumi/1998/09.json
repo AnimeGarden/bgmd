@@ -41,11 +41,6 @@
           "total_cont": 0
         },
         {
-          "name": "旧番",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "藤本義孝",
           "count": 3,
           "total_cont": 0
@@ -56,12 +51,12 @@
           "total_cont": 0
         },
         {
-          "name": "葦プロダクション",
-          "count": 2,
+          "name": "旧番",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "山口宏",
+          "name": "ProductionReed",
           "count": 2,
           "total_cont": 0
         },
@@ -71,13 +66,13 @@
           "total_cont": 0
         },
         {
-          "name": "ProductionReed",
+          "name": "山口宏",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "林原惠美",
-          "count": 1,
+          "name": "葦プロダクション",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -96,17 +91,17 @@
           "total_cont": 0
         },
         {
-          "name": "90年代",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "科幻",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "林原惠美",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "猫",
           "count": 1,
           "total_cont": 0
         },
@@ -126,7 +121,12 @@
           "total_cont": 0
         },
         {
-          "name": "猫",
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "90年代",
           "count": 1,
           "total_cont": 0
         }
@@ -355,8 +355,8 @@
       "total_episodes": 12,
       "collection": {
         "on_hold": 7,
-        "dropped": 5,
-        "wish": 40,
+        "dropped": 6,
+        "wish": 42,
         "collect": 35,
         "doing": 2
       },
@@ -422,6 +422,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/11/aa/2265_prsn_000Ly.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/11/aa/2265_prsn_000Ly.jpg"
+        },
+        "name": "葦プロダクション",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 2265,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -466,22 +482,6 @@
         ],
         "type": 1,
         "id": 50220,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/11/aa/2265_prsn_000Ly.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/11/aa/2265_prsn_000Ly.jpg"
-        },
-        "name": "葦プロダクション",
-        "relation": "上色",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 2265,
         "eps": ""
       },
       {
@@ -534,6 +534,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/11/aa/2265_prsn_000Ly.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/11/aa/2265_prsn_000Ly.jpg"
+        },
+        "name": "葦プロダクション",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 2265,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -546,22 +562,6 @@
         ],
         "type": 1,
         "id": 1038,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/11/aa/2265_prsn_000Ly.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/11/aa/2265_prsn_000Ly.jpg"
-        },
-        "name": "葦プロダクション",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 2265,
         "eps": ""
       },
       {
@@ -834,22 +834,6 @@
         ],
         "type": 1,
         "id": 13429,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/11/aa/2265_prsn_000Ly.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/11/aa/2265_prsn_000Ly.jpg"
-        },
-        "name": "葦プロダクション",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 2265,
         "eps": ""
       },
       {
@@ -1960,6 +1944,22 @@
         "type": 1,
         "id": 12038,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/11/aa/2265_prsn_000Ly.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/11/aa/2265_prsn_000Ly.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/11/aa/2265_prsn_000Ly.jpg"
+        },
+        "name": "葦プロダクション",
+        "relation": "上色",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 2265,
+        "eps": ""
       }
     ],
     "characters": [
@@ -2213,7 +2213,7 @@
         "id": 96650
       }
     ],
-    "updatedAt": "2026-01-20T12:38:16.770Z"
+    "updatedAt": "2026-04-06T13:22:36.053Z"
   },
   {
     "id": 79662,
@@ -2233,7 +2233,7 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 82,
+          "count": 84,
           "total_cont": 0
         },
         {
@@ -2243,17 +2243,17 @@
         },
         {
           "name": "小说改",
-          "count": 35,
+          "count": 36,
           "total_cont": 0
         },
         {
           "name": "1998年",
-          "count": 32,
+          "count": 33,
           "total_cont": 0
         },
         {
           "name": "科幻",
-          "count": 29,
+          "count": 30,
           "total_cont": 0
         },
         {
@@ -2263,7 +2263,7 @@
         },
         {
           "name": "战争",
-          "count": 16,
+          "count": 17,
           "total_cont": 0
         },
         {
@@ -2297,37 +2297,17 @@
           "total_cont": 0
         },
         {
-          "name": "キティ・フィルム",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "太空歌剧",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 2,
+          "name": "キティ・フィルム",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "银英",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "经典",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
+          "name": "动画",
           "count": 2,
           "total_cont": 0
         },
@@ -2337,7 +2317,7 @@
           "total_cont": 0
         },
         {
-          "name": "动画",
+          "name": "轻小说改",
           "count": 2,
           "total_cont": 0
         },
@@ -2352,32 +2332,52 @@
           "total_cont": 0
         },
         {
-          "name": "轻小说改",
+          "name": "经典",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "外传",
+          "name": "战斗",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "银英",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "Kittyflim",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "郷田ほづみ",
+          "name": "补番",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "三周目",
+          "name": "小说改编",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "90年代",
+          "name": "机战",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "剧场版",
+          "name": "河中志摩夫",
           "count": 1,
           "total_cont": 0
         }
@@ -2405,8 +2405,8 @@
         }
       ],
       "rating": {
-        "rank": 999,
-        "total": 214,
+        "rank": 992,
+        "total": 217,
         "count": {
           "1": 2,
           "2": 1,
@@ -2414,8 +2414,8 @@
           "4": 1,
           "5": 2,
           "6": 19,
-          "7": 71,
-          "8": 84,
+          "7": 72,
+          "8": 86,
           "9": 19,
           "10": 14
         },
@@ -2424,9 +2424,9 @@
       "total_episodes": 12,
       "collection": {
         "on_hold": 21,
-        "dropped": 23,
-        "wish": 149,
-        "collect": 367,
+        "dropped": 24,
+        "wish": 152,
+        "collect": 377,
         "doing": 13
       },
       "id": 79662,
@@ -2662,6 +2662,22 @@
         ],
         "type": 1,
         "id": 304,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "高橋任治",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 89319,
         "eps": ""
       }
     ],
@@ -3508,10 +3524,10 @@
         "actors": [
           {
             "images": {
-              "small": "https://lain.bgm.tv/r/100/pic/crt/l/40/94/3868_prsn_24eU6.jpg",
-              "grid": "https://lain.bgm.tv/pic/crt/g/40/94/3868_prsn_24eU6.jpg",
-              "large": "https://lain.bgm.tv/pic/crt/l/40/94/3868_prsn_24eU6.jpg",
-              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/40/94/3868_prsn_24eU6.jpg"
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/40/94/3868_prsn_gn6Fp.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/40/94/3868_prsn_gn6Fp.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/40/94/3868_prsn_gn6Fp.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/40/94/3868_prsn_gn6Fp.jpg"
             },
             "name": "関智一",
             "short_summary": "日本男性配音员。东京俳优生活协同组合→Atomic Monkey所属。东京都江东区深川出身。以热血激昂的声线闻名，昵称为“チイチ”（ChiIChi, 智一的音读）。\r\n\r\n在机动武斗传G高达的主角选角时，自己参加试音的路上因积雪滑了一跤，心想“这下肯定落选了”结果反而在两天后宣布中选。\r\n非常爱开黄腔，也因此冒犯许多不好此道的女声优，曾因尺度太大被电台高层警告。",
@@ -3601,7 +3617,7 @@
         "id": 121105
       }
     ],
-    "updatedAt": "2026-01-20T12:40:35.083Z"
+    "updatedAt": "2026-04-06T13:24:56.186Z"
   },
   {
     "id": 158801,
@@ -3621,21 +3637,21 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 17,
+          "count": 18,
           "total_cont": 0
         },
         {
           "name": "1998",
-          "count": 8,
-          "total_cont": 0
-        },
-        {
-          "name": "置鮎龍太郎",
-          "count": 6,
+          "count": 9,
           "total_cont": 0
         },
         {
           "name": "漫画改",
+          "count": 6,
+          "total_cont": 0
+        },
+        {
+          "name": "置鮎龍太郎",
           "count": 6,
           "total_cont": 0
         },
@@ -3655,12 +3671,12 @@
           "total_cont": 0
         },
         {
-          "name": "地獄老師系列",
+          "name": "貝澤幸男",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "貝澤幸男",
+          "name": "日本",
           "count": 2,
           "total_cont": 0
         },
@@ -3670,12 +3686,67 @@
           "total_cont": 0
         },
         {
+          "name": "地獄老師系列",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "漫改",
           "count": 2,
           "total_cont": 0
         },
         {
+          "name": "青嶋克己",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "神魔",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "藤田淑子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "増田信博",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "OP",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "笠原留美",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "欢乐",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "管良幸",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "富田祐弘",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "森川智之",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "OVA&OAD&SP",
           "count": 1,
           "total_cont": 0
         },
@@ -3690,17 +3761,7 @@
           "total_cont": 0
         },
         {
-          "name": "OVA&OAD&SP",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "喵帕斯记录~",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "小林靖子",
           "count": 1,
           "total_cont": 0
         },
@@ -3710,62 +3771,17 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "青嶋克己",
+          "name": "小林靖子",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "増田信博",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "神魔",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "管良幸",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "藤田淑子",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "欢乐",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "OP",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "富田祐弘",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "笠原留美",
+          "name": "山田徹",
           "count": 1,
           "total_cont": 0
         }
@@ -3823,9 +3839,9 @@
       "total_episodes": 3,
       "collection": {
         "on_hold": 6,
-        "dropped": 4,
+        "dropped": 5,
         "wish": 28,
-        "collect": 60,
+        "collect": 61,
         "doing": 1
       },
       "id": 158801,
@@ -3847,6 +3863,22 @@
           "large": "",
           "medium": ""
         },
+        "name": "太田直",
+        "relation": "特效",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 59778,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "石野貴久",
         "relation": "音效",
         "career": [
@@ -3858,18 +3890,34 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f7/f9/12298_prsn_dzA2R.jpg?r=1707715064",
-          "grid": "https://lain.bgm.tv/pic/crt/g/f7/f9/12298_prsn_dzA2R.jpg?r=1707715064",
-          "large": "https://lain.bgm.tv/pic/crt/l/f7/f9/12298_prsn_dzA2R.jpg?r=1707715064",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f7/f9/12298_prsn_dzA2R.jpg?r=1707715064"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/b8/77952_prsn_X3C1d.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/86/b8/77952_prsn_X3C1d.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/86/b8/77952_prsn_X3C1d.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/b8/77952_prsn_X3C1d.jpg"
         },
-        "name": "柳伸亮",
-        "relation": "原画",
+        "name": "高山成孝",
+        "relation": "主题歌演出",
+        "career": [
+          "artist"
+        ],
+        "type": 1,
+        "id": 77952,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "田中里緑",
+        "relation": "背景美术",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 12298,
+        "id": 72823,
         "eps": ""
       },
       {
@@ -3890,6 +3938,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f7/f9/12298_prsn_dzA2R.jpg?r=1707715064",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f7/f9/12298_prsn_dzA2R.jpg?r=1707715064",
+          "large": "https://lain.bgm.tv/pic/crt/l/f7/f9/12298_prsn_dzA2R.jpg?r=1707715064",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f7/f9/12298_prsn_dzA2R.jpg?r=1707715064"
+        },
+        "name": "柳伸亮",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 12298,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/c4/41/3553_prsn_ZRCAC.jpg?r=1758645504",
           "grid": "https://lain.bgm.tv/pic/crt/g/c4/41/3553_prsn_ZRCAC.jpg?r=1758645504",
           "large": "https://lain.bgm.tv/pic/crt/l/c4/41/3553_prsn_ZRCAC.jpg?r=1758645504",
@@ -3902,38 +3966,6 @@
         ],
         "type": 1,
         "id": 3553,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "増田信博",
-        "relation": "作画监督",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 30416,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "兼高里圭",
-        "relation": "补间动画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 42879,
         "eps": ""
       },
       {
@@ -3975,13 +4007,45 @@
           "large": "",
           "medium": ""
         },
-        "name": "太田直",
-        "relation": "特效",
+        "name": "増田信博",
+        "relation": "作画监督",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 59778,
+        "id": 30416,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "岡野剛",
+        "relation": "原作",
+        "career": [
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1952,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "真倉翔",
+        "relation": "原作",
+        "career": [
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1953,
         "eps": ""
       },
       {
@@ -4007,29 +4071,13 @@
           "large": "",
           "medium": ""
         },
-        "name": "田中里緑",
-        "relation": "背景美术",
+        "name": "兼高里圭",
+        "relation": "补间动画",
         "career": [
           "producer"
         ],
         "type": 1,
-        "id": 72823,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/86/b8/77952_prsn_X3C1d.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/86/b8/77952_prsn_X3C1d.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/86/b8/77952_prsn_X3C1d.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/86/b8/77952_prsn_X3C1d.jpg"
-        },
-        "name": "高山成孝",
-        "relation": "主题歌演出",
-        "career": [
-          "artist"
-        ],
-        "type": 1,
-        "id": 77952,
+        "id": 42879,
         "eps": ""
       }
     ],
@@ -4445,7 +4493,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ae/7d/40260_crt_keFAE.jpg?r=1460189366"
         },
         "name": "美奈子先生",
-        "summary": "鸣介少年时代的恩师兼初恋对象，有着强盛灵力的灵能力者。\r\n一头金红色的长发是其特征。为人慷慨且富有正义感，童年时代因为自身的灵力过于强盛而被同学欺负，故对于鸣介的遭遇感同身受。多次为鸣介除灵，却在某次替鸣介除灵的过程中遭恶灵缠身而牺牲。\r\n死后灵魂被霸鬼吸收合而为一，协助鸣介将霸鬼封印在他的左手里；鸣介为了纪念美奈子，将她的照片放在随身携带的项坠里。\r\n漫画原著中，当鸣介运用灵力图利自己甚至借此占人便宜时，美奈子便会出面纠正鸣介，亦曾经与律子老师联手合体成律奈子老师，跟雪姬竞争。与律子老师合体的期间，曾提到自己喜爱腌萝卜，这点与律子老师恰好相反。后来由于鸣介与霸鬼达成和解，美奈子得以从鬼手中解放，并在鸣介的超渡下前往极乐世界。\r\n此外，从鬼手中解放出来，与鸣介等人聚餐和玩乐的期间，也展现了她惊人的食量和运动才华。\r\n无限界时空（无限界时空（むげんがいじくう））\r\n鸣介的生父，原来是一个为穷人除灵都不收钱的善良灵能力者。但因为心爱的妻子病倒，曾受帮助的邻居却都不愿伸出援手；因此妻子死后看透世间冷暖，成为赚黑心钱的灵能力者。\r\n特征是一头黑色长发，白衣，装扮像是苦行僧，头戴一条写着“无”字的头带，头带下则是与鸣介一样的浓眉，目光锐利，灵力远在鸣介之上。\r\n使用的是高等秘术“隐形法”，能让天神附身在自己的身上，借由天神的力量使自己成为半人半神的存在\r\n曾隐藏身分帮助鸣介修行。最后因鸣介诉说亡妻的遗言“为善最乐”而有所改变，为了成全鸣介跟雪姬，以自己的性命作人柱封印山神丧生。",
+        "summary": "鸣介少年时代的恩师兼初恋对象，有着强盛灵力的灵能力者。\r\n一头金红色的长发是其特征。为人慷慨且富有正义感，童年时代因为自身的灵力过于强盛而被同学欺负，故对于鸣介的遭遇感同身受。多次为鸣介除灵，却在某次替鸣介除灵的过程中遭恶灵缠身而牺牲。\r\n死后灵魂被霸鬼吸收合而为一，协助鸣介将霸鬼封印在他的左手里；鸣介为了纪念美奈子，将她的照片放在随身携带的项坠里。\r\n漫画原著中，当鸣介运用灵力图利自己甚至借此占人便宜时，美奈子便会出面纠正鸣介，亦曾经与律子老师联手合体成律奈子老师，跟雪姬竞争。与律子老师合体的期间，曾提到自己喜爱腌萝卜，这点与律子老师恰好相反。后来由于鸣介与霸鬼达成和解，美奈子得以从鬼手中解放，并在鸣介的超渡下前往极乐世界。\r\n此外，从鬼手中解放出来，与鸣介等人聚餐和玩乐的期间，也展现了她惊人的食量和运动才华。",
         "relation": "配角",
         "actors": [
           {
@@ -4485,7 +4533,7 @@
         "id": 25602
       }
     ],
-    "updatedAt": "2026-01-20T12:45:52.107Z"
+    "updatedAt": "2026-04-06T13:29:54.797Z"
   },
   {
     "id": 311138,
@@ -4504,22 +4552,17 @@
       "name_cn": "",
       "tags": [
         {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "Eiken",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "日本",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "TV",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         }
@@ -4570,7 +4613,7 @@
       "total_episodes": 1,
       "collection": {
         "on_hold": 1,
-        "dropped": 3,
+        "dropped": 4,
         "wish": 2,
         "collect": 1,
         "doing": 0
@@ -4622,6 +4665,6 @@
         "id": 161673
       }
     ],
-    "updatedAt": "2026-01-20T12:54:35.038Z"
+    "updatedAt": "2026-04-06T13:38:44.725Z"
   }
 ]

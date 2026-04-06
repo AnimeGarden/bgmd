@@ -17,17 +17,17 @@
       "tags": [
         {
           "name": "童年",
-          "count": 164,
+          "count": 168,
           "total_cont": 0
         },
         {
           "name": "TV",
-          "count": 119,
+          "count": 123,
           "total_cont": 0
         },
         {
           "name": "手冢治虫",
-          "count": 102,
+          "count": 105,
           "total_cont": 0
         },
         {
@@ -37,37 +37,32 @@
         },
         {
           "name": "经典",
-          "count": 56,
+          "count": 57,
           "total_cont": 0
         },
         {
           "name": "没看全",
-          "count": 45,
+          "count": 47,
           "total_cont": 0
         },
         {
           "name": "漫画改",
-          "count": 35,
+          "count": 38,
           "total_cont": 0
         },
         {
           "name": "萝卜",
+          "count": 32,
+          "total_cont": 0
+        },
+        {
+          "name": "科幻",
           "count": 31,
           "total_cont": 0
         },
         {
           "name": "手塚PRODUCTION",
           "count": 29,
-          "total_cont": 0
-        },
-        {
-          "name": "科幻",
-          "count": 28,
-          "total_cont": 0
-        },
-        {
-          "name": "漫改",
-          "count": 21,
           "total_cont": 0
         },
         {
@@ -81,8 +76,13 @@
           "total_cont": 0
         },
         {
+          "name": "漫改",
+          "count": 20,
+          "total_cont": 0
+        },
+        {
           "name": "日本",
-          "count": 17,
+          "count": 19,
           "total_cont": 0
         },
         {
@@ -126,6 +126,26 @@
           "total_cont": 0
         },
         {
+          "name": "奇幻",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "80s",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "石黑升",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "阿童木",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
           "name": "战斗",
           "count": 2,
           "total_cont": 0
@@ -141,27 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "1980s",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "石黑升",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "童年系列",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "怀旧",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "童年的经典",
+          "name": "手塚プロダクション",
           "count": 2,
           "total_cont": 0
         }
@@ -243,7 +243,7 @@
         },
         {
           "key": "分镜",
-          "value": "手塚治虫、石黒昇、山谷光和、樋口雅一、横山裕一郎（神田武幸）、矢沢則夫、永樹凡人、出崎哲、森田浩光、吉田浩、西村緋禄司、高橋良輔、村野守美、安濃高志、内田薫"
+          "value": "手塚治虫、石黒昇、山谷光和（奥田誠治）、樋口雅一、横山裕一郎（神田武幸）、矢沢則夫、永樹凡人、出崎哲、森田浩光、吉田浩、西村緋禄司、高橋良輔、村野守美、安濃高志、内田薫"
         },
         {
           "key": "作画监督",
@@ -283,29 +283,29 @@
         }
       ],
       "rating": {
-        "rank": 1438,
-        "total": 496,
+        "rank": 1365,
+        "total": 510,
         "count": {
           "1": 1,
           "2": 2,
           "3": 2,
           "4": 1,
           "5": 13,
-          "6": 66,
-          "7": 198,
-          "8": 166,
-          "9": 29,
-          "10": 18
+          "6": 65,
+          "7": 205,
+          "8": 170,
+          "9": 30,
+          "10": 21
         },
         "score": 7.3
       },
       "total_episodes": 52,
       "collection": {
         "on_hold": 82,
-        "dropped": 42,
-        "wish": 137,
-        "collect": 1024,
-        "doing": 26
+        "dropped": 41,
+        "wish": 139,
+        "collect": 1061,
+        "doing": 27
       },
       "id": 28287,
       "eps": 52,
@@ -442,7 +442,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
         },
         "name": "手塚治虫",
-        "relation": "人物设定",
+        "relation": "原画",
         "career": [
           "producer",
           "mangaka"
@@ -470,23 +470,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
-        },
-        "name": "手塚治虫",
-        "relation": "演出",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1318,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -499,6 +482,23 @@
         ],
         "type": 1,
         "id": 14149,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
+        },
+        "name": "手塚治虫",
+        "relation": "人物设定",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1318,
         "eps": ""
       },
       {
@@ -631,6 +631,40 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
+        },
+        "name": "手塚治虫",
+        "relation": "演出",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1318,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
+        },
+        "name": "手塚治虫",
+        "relation": "分镜",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1318,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -655,7 +689,8 @@
         "name": "村野守美",
         "relation": "分镜",
         "career": [
-          "producer"
+          "producer",
+          "mangaka"
         ],
         "type": 1,
         "id": 2345,
@@ -685,7 +720,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
         },
         "name": "手塚治虫",
-        "relation": "分镜",
+        "relation": "脚本",
         "career": [
           "producer",
           "mangaka"
@@ -848,7 +883,8 @@
         "name": "村野守美",
         "relation": "脚本",
         "career": [
-          "producer"
+          "producer",
+          "mangaka"
         ],
         "type": 1,
         "id": 2345,
@@ -958,7 +994,7 @@
           "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
         },
         "name": "手塚治虫",
-        "relation": "脚本",
+        "relation": "原作",
         "career": [
           "producer",
           "mangaka"
@@ -1045,23 +1081,6 @@
         ],
         "type": 1,
         "id": 1483,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
-        },
-        "name": "手塚治虫",
-        "relation": "原作",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1318,
         "eps": ""
       },
       {
@@ -1223,22 +1242,6 @@
         ],
         "type": 1,
         "id": 82303,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "山谷光和",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 84714,
         "eps": ""
       },
       {
@@ -1643,10 +1646,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/18/d1/1567_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/18/d1/1567_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/18/d1/1567_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/18/d1/1567_prsn_anidb.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b7/37/1567_prsn_XcZd3.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b7/37/1567_prsn_XcZd3.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b7/37/1567_prsn_XcZd3.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b7/37/1567_prsn_XcZd3.jpg"
         },
         "name": "湖川友謙",
         "relation": "原画",
@@ -1671,23 +1674,6 @@
         ],
         "type": 1,
         "id": 704,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/76/cf/1318_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/76/cf/1318_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/76/cf/1318_prsn_anidb.jpg"
-        },
-        "name": "手塚治虫",
-        "relation": "原画",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1318,
         "eps": ""
       },
       {
@@ -2337,7 +2323,7 @@
         "id": 425942
       }
     ],
-    "updatedAt": "2026-01-20T12:35:28.969Z"
+    "updatedAt": "2026-04-06T13:19:43.464Z"
   },
   {
     "id": 37259,
@@ -2357,7 +2343,12 @@
       "tags": [
         {
           "name": "1980年10月",
-          "count": 6,
+          "count": 7,
+          "total_cont": 0
+        },
+        {
+          "name": "TV",
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -2366,13 +2357,8 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
-          "count": 4,
-          "total_cont": 0
-        },
-        {
           "name": "金田正太郎",
-          "count": 3,
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -2381,17 +2367,12 @@
           "total_cont": 0
         },
         {
-          "name": "旧物",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "横山光輝",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "东京电影新社",
+          "name": "旧物",
           "count": 2,
           "total_cont": 0
         },
@@ -2406,12 +2387,7 @@
           "total_cont": 0
         },
         {
-          "name": "赛璐珞",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "子供向",
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         },
@@ -2421,7 +2397,27 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "子供向",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "富山耕生",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "阅",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "东京电影新社",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "東京ムービー",
           "count": 1,
           "total_cont": 0
         },
@@ -2436,27 +2432,7 @@
           "total_cont": 0
         },
         {
-          "name": "富山耕生",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "東京ムービー",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "藤川桂介",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "80s",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1980年10月",
+          "name": "赛璐珞",
           "count": 1,
           "total_cont": 0
         },
@@ -2466,7 +2442,27 @@
           "total_cont": 0
         },
         {
+          "name": "80s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "音乐×",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "1980年10月",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "藤川桂介",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "今泽哲男",
           "count": 1,
           "total_cont": 0
         },
@@ -2477,6 +2473,11 @@
         },
         {
           "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1980年10月",
           "count": 1,
           "total_cont": 0
         },
@@ -2591,12 +2592,12 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 15,
+        "total": 16,
         "count": {
           "1": 1,
           "2": 0,
           "3": 0,
-          "4": 0,
+          "4": 1,
           "5": 1,
           "6": 7,
           "7": 4,
@@ -2604,14 +2605,14 @@
           "9": 0,
           "10": 0
         },
-        "score": 6.1
+        "score": 6
       },
       "total_episodes": 50,
       "collection": {
         "on_hold": 6,
-        "dropped": 12,
-        "wish": 42,
-        "collect": 26,
+        "dropped": 13,
+        "wish": 45,
+        "collect": 27,
         "doing": 5
       },
       "id": 37259,
@@ -4184,6 +4185,20 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/d4/37262_8Sc55.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/d4/37262_8Sc55.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/97/d4/37262_8Sc55.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/d4/37262_8Sc55.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/d4/37262_8Sc55.jpg"
+        },
+        "name": "鉄人28号",
+        "name_cn": "铁人28号",
+        "relation": "不同演绎",
+        "type": 2,
+        "id": 37262
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/27/91493_WwOQj.jpg",
           "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/27/91493_WwOQj.jpg",
           "large": "https://lain.bgm.tv/pic/cover/l/b1/27/91493_WwOQj.jpg",
@@ -4225,7 +4240,7 @@
         "id": 400899
       }
     ],
-    "updatedAt": "2026-01-20T12:36:27.787Z"
+    "updatedAt": "2026-04-06T13:20:44.403Z"
   },
   {
     "id": 53898,
@@ -4245,17 +4260,17 @@
       "tags": [
         {
           "name": "TV",
-          "count": 20,
+          "count": 22,
           "total_cont": 0
         },
         {
           "name": "1980s",
-          "count": 15,
+          "count": 16,
           "total_cont": 0
         },
         {
           "name": "科幻",
-          "count": 11,
+          "count": 12,
           "total_cont": 0
         },
         {
@@ -4270,12 +4285,12 @@
         },
         {
           "name": "原创",
-          "count": 6,
+          "count": 7,
           "total_cont": 0
         },
         {
           "name": "山本暎一",
-          "count": 4,
+          "count": 5,
           "total_cont": 0
         },
         {
@@ -4304,17 +4319,22 @@
           "total_cont": 0
         },
         {
-          "name": "麻上洋子",
+          "name": "独",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "补番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "電視",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "東京動画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "独",
           "count": 1,
           "total_cont": 0
         },
@@ -4329,22 +4349,37 @@
           "total_cont": 0
         },
         {
-          "name": "1970.80",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "经典",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "补番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "大和号",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "星辰大海",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "麻上洋子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "XEBEC",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "90s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "中中",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "读卖",
           "count": 1,
           "total_cont": 0
         },
@@ -4359,12 +4394,7 @@
           "total_cont": 0
         },
         {
-          "name": "90s",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "XEBEC",
+          "name": "宮川泰",
           "count": 1,
           "total_cont": 0
         },
@@ -4374,22 +4404,7 @@
           "total_cont": 0
         },
         {
-          "name": "宮川泰",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "星辰大海",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "電視",
           "count": 1,
           "total_cont": 0
         }
@@ -4433,17 +4448,17 @@
         }
       ],
       "rating": {
-        "rank": 0,
-        "total": 48,
+        "rank": 2072,
+        "total": 52,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 1,
           "5": 4,
-          "6": 5,
-          "7": 22,
-          "8": 10,
+          "6": 7,
+          "7": 23,
+          "8": 11,
           "9": 2,
           "10": 4
         },
@@ -4451,11 +4466,11 @@
       },
       "total_episodes": 25,
       "collection": {
-        "on_hold": 14,
+        "on_hold": 15,
         "dropped": 11,
-        "wish": 87,
-        "collect": 75,
-        "doing": 7
+        "wish": 90,
+        "collect": 79,
+        "doing": 6
       },
       "id": 53898,
       "eps": 25,
@@ -4521,6 +4536,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2a/b5/978_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/b5/978_prsn_anidb.jpg"
+        },
+        "name": "松本零士",
+        "relation": "导演",
+        "career": [
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 978,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/3e/df/43_prsn_tzPDe.jpg?r=1749916747",
           "grid": "https://lain.bgm.tv/pic/crt/g/3e/df/43_prsn_tzPDe.jpg?r=1749916747",
           "large": "https://lain.bgm.tv/pic/crt/l/3e/df/43_prsn_tzPDe.jpg?r=1749916747",
@@ -4535,22 +4566,6 @@
         ],
         "type": 1,
         "id": 43,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2a/b5/978_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/b5/978_prsn_anidb.jpg"
-        },
-        "name": "松本零士",
-        "relation": "设定",
-        "career": [
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 978,
         "eps": ""
       },
       {
@@ -4599,6 +4614,22 @@
         ],
         "type": 1,
         "id": 2357,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2a/b5/978_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/b5/978_prsn_anidb.jpg"
+        },
+        "name": "松本零士",
+        "relation": "原作",
+        "career": [
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 978,
         "eps": ""
       },
       {
@@ -4747,22 +4778,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2a/b5/978_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/b5/978_prsn_anidb.jpg"
-        },
-        "name": "松本零士",
-        "relation": "导演",
-        "career": [
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 978,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/83/03/1691_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/83/03/1691_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/83/03/1691_prsn_anidb.jpg",
@@ -4775,22 +4790,6 @@
         ],
         "type": 1,
         "id": 1691,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2a/b5/978_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/b5/978_prsn_anidb.jpg"
-        },
-        "name": "松本零士",
-        "relation": "原作",
-        "career": [
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 978,
         "eps": ""
       },
       {
@@ -4859,6 +4858,22 @@
         ],
         "type": 2,
         "id": 14592,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2a/b5/978_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/b5/978_prsn_anidb.jpg"
+        },
+        "name": "松本零士",
+        "relation": "设定",
+        "career": [
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 978,
         "eps": ""
       }
     ],
@@ -5263,7 +5278,7 @@
         "id": 520707
       }
     ],
-    "updatedAt": "2026-01-20T12:38:35.040Z"
+    "updatedAt": "2026-04-06T13:22:54.943Z"
   },
   {
     "id": 67753,
@@ -5283,62 +5298,62 @@
       "tags": [
         {
           "name": "TV",
-          "count": 207,
+          "count": 223,
           "total_cont": 0
         },
         {
           "name": "1980年10月",
-          "count": 182,
+          "count": 192,
           "total_cont": 0
         },
         {
           "name": "明日之丈",
-          "count": 166,
+          "count": 174,
           "total_cont": 0
         },
         {
           "name": "出崎统",
-          "count": 152,
-          "total_cont": 0
-        },
-        {
-          "name": "拳击",
-          "count": 127,
+          "count": 163,
           "total_cont": 0
         },
         {
           "name": "漫画改",
-          "count": 124,
+          "count": 139,
           "total_cont": 0
         },
         {
-          "name": "TMS",
-          "count": 69,
+          "name": "拳击",
+          "count": 138,
           "total_cont": 0
         },
         {
           "name": "运动",
-          "count": 69,
+          "count": 81,
+          "total_cont": 0
+        },
+        {
+          "name": "TMS",
+          "count": 72,
           "total_cont": 0
         },
         {
           "name": "漫改",
-          "count": 65,
-          "total_cont": 0
-        },
-        {
-          "name": "杉野昭夫",
-          "count": 45,
+          "count": 68,
           "total_cont": 0
         },
         {
           "name": "热血",
-          "count": 42,
+          "count": 53,
+          "total_cont": 0
+        },
+        {
+          "name": "杉野昭夫",
+          "count": 46,
           "total_cont": 0
         },
         {
           "name": "体育",
-          "count": 41,
+          "count": 43,
           "total_cont": 0
         },
         {
@@ -5348,22 +5363,22 @@
         },
         {
           "name": "东京movie",
-          "count": 22,
+          "count": 25,
           "total_cont": 0
         },
         {
           "name": "日本",
-          "count": 17,
+          "count": 24,
           "total_cont": 0
         },
         {
           "name": "日本动画",
-          "count": 17,
+          "count": 18,
           "total_cont": 0
         },
         {
           "name": "神作",
-          "count": 13,
+          "count": 15,
           "total_cont": 0
         },
         {
@@ -5372,22 +5387,27 @@
           "total_cont": 0
         },
         {
+          "name": "1980s",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
           "name": "战斗",
           "count": 8,
           "total_cont": 0
         },
         {
-          "name": "1980s",
+          "name": "竞技",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "竞技",
+          "name": "1980年10月",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "1980年10月",
+          "name": "TMSEntertainment",
           "count": 6,
           "total_cont": 0
         },
@@ -5397,32 +5417,27 @@
           "total_cont": 0
         },
         {
-          "name": "梶原一骑",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
-          "name": "TMSEntertainment",
-          "count": 5,
-          "total_cont": 0
-        },
-        {
           "name": "80s",
           "count": 5,
           "total_cont": 0
         },
         {
-          "name": "1980年10月",
-          "count": 4,
+          "name": "梶原一骑",
+          "count": 5,
           "total_cont": 0
         },
         {
           "name": "续作",
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "燃尽的神场景",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "トムス・エンタテインメント",
+          "name": "1980年10月",
           "count": 4,
           "total_cont": 0
         },
@@ -5573,29 +5588,29 @@
         }
       ],
       "rating": {
-        "rank": 32,
-        "total": 797,
+        "rank": 29,
+        "total": 843,
         "count": {
           "1": 11,
           "2": 2,
           "3": 1,
           "4": 2,
-          "5": 8,
+          "5": 7,
           "6": 20,
-          "7": 56,
-          "8": 165,
-          "9": 287,
-          "10": 245
+          "7": 58,
+          "8": 179,
+          "9": 306,
+          "10": 257
         },
         "score": 8.7
       },
       "total_episodes": 47,
       "collection": {
-        "on_hold": 140,
-        "dropped": 71,
-        "wish": 1088,
-        "collect": 1165,
-        "doing": 132
+        "on_hold": 145,
+        "dropped": 70,
+        "wish": 1146,
+        "collect": 1235,
+        "doing": 139
       },
       "id": 67753,
       "eps": 47,
@@ -7276,10 +7291,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/de/58/155145_crt_3b35B.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/de/58/155145_crt_3b35B.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/de/58/155145_crt_3b35B.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/de/58/155145_crt_3b35B.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/de/58/155145_crt_45D8a.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/de/58/155145_crt_45D8a.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/de/58/155145_crt_45D8a.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/de/58/155145_crt_45D8a.jpg"
         },
         "name": "サチ",
         "summary": "ジョーを兄貴分と慕うドヤ街の子供たちの紅一点。赤いスカートと下駄を常用。屋台のおでんを盗み食いして、ヤクザ鬼姫会に捕まったところをジョーに救われた。ジョーに好意を寄せている。",
@@ -7304,16 +7319,172 @@
         ],
         "type": 1,
         "id": 155145
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7d/49/197298_crt_xOTOl.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7d/49/197298_crt_xOTOl.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7d/49/197298_crt_xOTOl.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7d/49/197298_crt_xOTOl.jpg"
+        },
+        "name": "ゴロマキ権藤",
+        "summary": "受雇于全国的流氓组织的打架专家，“ゴロマキ”是行话“打架”的意思。于第二部动画第一集登场，与退出拳击界成为黑道保镖野狼金串对战，攻击其下巴旧伤处将其打倒。随后想要继续攻击已经失去战意的野狼，被愤怒的丈阻拦并打倒。\r\n不过本人其实也是个拳击迷，在之后的集数也有登场并为丈提供帮助。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/59/de/5328_seiyu_anidb.jpg?r=1490077620",
+              "grid": "https://lain.bgm.tv/pic/crt/g/59/de/5328_seiyu_anidb.jpg?r=1490077620",
+              "large": "https://lain.bgm.tv/pic/crt/l/59/de/5328_seiyu_anidb.jpg?r=1490077620",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/59/de/5328_seiyu_anidb.jpg?r=1490077620"
+            },
+            "name": "渡部猛",
+            "short_summary": "渡部 猛（わたべ たけし、1936年3月21日 - 2010年12月13日）は、日本の男性俳優、声優。高知県出身。最終所属は81プロデュース。それ以前には東京俳優生活協同組合に所属していた。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 5328,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 197298
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2d/98/198620_crt_P7lMm.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2d/98/198620_crt_P7lMm.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2d/98/198620_crt_P7lMm.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2d/98/198620_crt_P7lMm.jpg"
+        },
+        "name": "トン吉",
+        "summary": "丈在宿民街的小跟班之一，猪鼻的光头小孩，脸颊红扑扑的，总是在吹豆腐店的喇叭。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/96/1b/4359_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/96/1b/4359_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/96/1b/4359_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/96/1b/4359_seiyu_anidb.jpg"
+            },
+            "name": "丸山裕子",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 4359,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 198620
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/b1/d6/198621_crt_1kVQz.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/b1/d6/198621_crt_1kVQz.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/b1/d6/198621_crt_1kVQz.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/b1/d6/198621_crt_1kVQz.jpg"
+        },
+        "name": "太郎",
+        "summary": "是宿民街的孩子中年龄最大的、具有领袖气质的少年，身穿补丁累累的校服。\r\n在丈初次来到宿民街时，带领着手下的小孩想给丈来个下马威，被丈打败后，大家都成了丈的小跟班。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/7f/a2/3842_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/7f/a2/3842_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/7f/a2/3842_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7f/a2/3842_seiyu_anidb.jpg"
+            },
+            "name": "鈴木清信",
+            "short_summary": "日本の男性声優、舞台俳優。演出家。81プロデュース所属。新潟県出身。中央大学卒業。\r\n\r\n身長160cm。星座はさそり座。野沢那智主宰の劇団薔薇座出身。現在は、文化学院の講師でもある。",
+            "career": [
+              "seiyu"
+            ],
+            "id": 3842,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 198621
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/93/30/199860_crt_G222K.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/93/30/199860_crt_G222K.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/93/30/199860_crt_G222K.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/93/30/199860_crt_G222K.jpg"
+        },
+        "name": "チュー吉",
+        "summary": "丈在宿民街的小跟班之一，瘦瘦高高，有兔牙。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/28/d5/68615_prsn_yAos1.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/28/d5/68615_prsn_yAos1.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/28/d5/68615_prsn_yAos1.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/28/d5/68615_prsn_yAos1.jpg"
+            },
+            "name": "つかせのりこ",
+            "short_summary": "つかせ のりこ（1945年12月23日 - 1989年5月15日）は、日本の女性声優、歌手。神奈川県出身。青二プロダクション最終所属。つかせのり子とクレジットされている作品もある。\r\n\r\n高校2年生の時に放送コンテスト県大会で2位を獲得。\r\n面白い声をしているというため、好きなことをやってみようと思い、高校卒業後、養成所に入所。\r\nその後、ラジオ関東のディスクジョッキーを経験。\r\n大阪テレビタレントビューロー（TTB）を経て、最後は青二プロダクションに所属していた。\r\n1989年5月15日、直腸癌のため東京都立川病院で死去。43歳没。一時期は退院間近まで回復していた中、再度悪化した後のことであった。\r\n\r\n声種はアルト。\r\n趣味はテニス、水泳、ゴルフ、スキューバダイビング。",
+            "career": [
+              "artist",
+              "seiyu"
+            ],
+            "id": 68615,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 199860
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/75/aa/206105_crt_kYwY3.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/75/aa/206105_crt_kYwY3.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/75/aa/206105_crt_kYwY3.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/75/aa/206105_crt_kYwY3.jpg"
+        },
+        "name": "キノコ",
+        "summary": "丈在宿民街的小跟班之一，个子很矮，戴着一顶很大的鸭舌帽。",
+        "relation": "配角",
+        "actors": [
+          {
+            "images": {
+              "small": "https://lain.bgm.tv/r/100/pic/crt/l/97/7b/4364_seiyu_anidb.jpg",
+              "grid": "https://lain.bgm.tv/pic/crt/g/97/7b/4364_seiyu_anidb.jpg",
+              "large": "https://lain.bgm.tv/pic/crt/l/97/7b/4364_seiyu_anidb.jpg",
+              "medium": "https://lain.bgm.tv/r/400/pic/crt/l/97/7b/4364_seiyu_anidb.jpg"
+            },
+            "name": "堀絢子",
+            "short_summary": "",
+            "career": [
+              "seiyu"
+            ],
+            "id": 4364,
+            "type": 1,
+            "locked": false
+          }
+        ],
+        "type": 1,
+        "id": 206105
       }
     ],
     "subjects": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/50/10404_xGV8a.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/50/10404_xGV8a.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/0a/50/10404_xGV8a.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/50/10404_xGV8a.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/50/10404_xGV8a.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/50/10404_8L2Zd.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/50/10404_8L2Zd.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/0a/50/10404_8L2Zd.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/50/10404_8L2Zd.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/50/10404_8L2Zd.jpg"
         },
         "name": "あしたのジョー",
         "name_cn": "明日之丈",
@@ -7462,7 +7633,7 @@
         "id": 542200
       }
     ],
-    "updatedAt": "2026-01-20T12:39:37.281Z"
+    "updatedAt": "2026-04-06T13:23:57.824Z"
   },
   {
     "id": 220528,
@@ -7481,7 +7652,7 @@
       "name_cn": "古堡勇士莱特雅斯",
       "tags": [
         {
-          "name": "1984",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
@@ -7491,7 +7662,7 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画公司",
+          "name": "1984",
           "count": 1,
           "total_cont": 0
         },
@@ -7502,11 +7673,6 @@
         },
         {
           "name": "TV",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
           "count": 1,
           "total_cont": 0
         }
@@ -7571,7 +7737,7 @@
         "dropped": 5,
         "wish": 7,
         "collect": 1,
-        "doing": 0
+        "doing": 1
       },
       "id": 220528,
       "eps": 26,
@@ -7634,11 +7800,27 @@
         "type": 1,
         "id": 70866,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/48/c0/89193_prsn_0TiCE.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/48/c0/89193_prsn_0TiCE.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/48/c0/89193_prsn_0TiCE.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/48/c0/89193_prsn_0TiCE.jpg"
+        },
+        "name": "中島順三",
+        "relation": "制片人",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 89193,
+        "eps": ""
       }
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-01-20T12:49:43.792Z"
+    "updatedAt": "2026-04-06T13:33:53.002Z"
   },
   {
     "id": 416986,
@@ -7672,32 +7854,17 @@
           "total_cont": 0
         },
         {
-          "name": "银河铁道999",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "漫改",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "TVSP",
-          "count": 2,
+          "name": "银河铁道999",
+          "count": 3,
           "total_cont": 0
         },
         {
           "name": "松本零士",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "東映アニメーション",
           "count": 2,
           "total_cont": 0
         },
@@ -7707,67 +7874,22 @@
           "total_cont": 0
         },
         {
-          "name": "野沢雅子",
-          "count": 1,
+          "name": "東映アニメーション",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "池田昌子",
-          "count": 1,
+          "name": "TVSP",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "西沢信孝",
-          "count": 1,
+          "name": "日本",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "经典",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1980年",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "东映",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "80年代动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "藤川桂介",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "川田武範",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "葛西治",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "SF",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
+          "name": "补番",
           "count": 1,
           "total_cont": 0
         },
@@ -7782,7 +7904,67 @@
           "total_cont": 0
         },
         {
-          "name": "补番",
+          "name": "80年代动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "西沢信孝",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "池田昌子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "野沢雅子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "东映",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1980年",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "经典",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "藤川桂介",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "SF",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "川田武範",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "葛西治",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
           "count": 1,
           "total_cont": 0
         }
@@ -7814,7 +7996,7 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 11,
+        "total": 12,
         "count": {
           "1": 0,
           "2": 0,
@@ -7822,19 +8004,19 @@
           "4": 0,
           "5": 4,
           "6": 3,
-          "7": 1,
+          "7": 2,
           "8": 1,
           "9": 0,
           "10": 1
         },
-        "score": 6
+        "score": 6.1
       },
       "total_episodes": 1,
       "collection": {
         "on_hold": 4,
         "dropped": 3,
-        "wish": 21,
-        "collect": 16,
+        "wish": 23,
+        "collect": 17,
         "doing": 1
       },
       "id": 416986,
@@ -7850,7 +8032,24 @@
       "nsfw": false,
       "type": 2
     },
-    "persons": [],
+    "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2a/b5/978_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/b5/978_prsn_anidb.jpg"
+        },
+        "name": "松本零士",
+        "relation": "原作",
+        "career": [
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 978,
+        "eps": ""
+      }
+    ],
     "characters": [],
     "subjects": [
       {
@@ -7868,6 +8067,6 @@
         "id": 10392
       }
     ],
-    "updatedAt": "2026-01-20T12:58:44.398Z"
+    "updatedAt": "2026-04-06T13:43:05.145Z"
   }
 ]

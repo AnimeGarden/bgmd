@@ -50,27 +50,27 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 2,
+        "total": 3,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 0,
           "5": 2,
-          "6": 0,
+          "6": 1,
           "7": 0,
           "8": 0,
           "9": 0,
           "10": 0
         },
-        "score": 5
+        "score": 5.3
       },
       "total_episodes": 1,
       "collection": {
         "on_hold": 1,
         "dropped": 2,
         "wish": 5,
-        "collect": 4,
+        "collect": 5,
         "doing": 1
       },
       "id": 511877,
@@ -85,7 +85,24 @@
       "nsfw": false,
       "type": 2
     },
-    "persons": [],
+    "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2a/b5/978_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2a/b5/978_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2a/b5/978_prsn_anidb.jpg"
+        },
+        "name": "松本零士",
+        "relation": "原作",
+        "career": [
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 978,
+        "eps": ""
+      }
+    ],
     "characters": [],
     "subjects": [
       {
@@ -117,6 +134,6 @@
         "id": 520707
       }
     ],
-    "updatedAt": "2026-01-20T13:01:18.654Z"
+    "updatedAt": "2026-04-06T13:45:47.649Z"
   }
 ]
