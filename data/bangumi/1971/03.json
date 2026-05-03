@@ -61,11 +61,6 @@
           "total_cont": 0
         },
         {
-          "name": "70年代",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "1970s",
           "count": 2,
           "total_cont": 0
@@ -81,7 +76,17 @@
           "total_cont": 0
         },
         {
-          "name": "子供向",
+          "name": "70年代",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "冒险",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "松島みのり",
           "count": 1,
           "total_cont": 0
         },
@@ -91,7 +96,7 @@
           "total_cont": 0
         },
         {
-          "name": "天地総子",
+          "name": "剧场",
           "count": 1,
           "total_cont": 0
         },
@@ -101,12 +106,17 @@
           "total_cont": 0
         },
         {
-          "name": "-1980",
+          "name": "天地総子",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1970-1979",
+          "name": "子供向",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "アニメ映画",
           "count": 1,
           "total_cont": 0
         },
@@ -116,7 +126,22 @@
           "total_cont": 0
         },
         {
-          "name": "冒险",
+          "name": "剧场动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1970-1979",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "-1980",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "劇場版1",
           "count": 1,
           "total_cont": 0
         },
@@ -131,32 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "劇場版1",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "日本",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "アニメ映画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "松島みのり",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "原创",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "剧场",
           "count": 1,
           "total_cont": 0
         }
@@ -230,7 +235,7 @@
         },
         {
           "key": "背景美术",
-          "value": "陶山尚治、山口俊和、海老澤一男、土屋婦美子"
+          "value": "陶山尚治、山口俊和、海老沢一男、土屋婦美子"
         },
         {
           "key": "特效",
@@ -251,14 +256,14 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 34,
+        "total": 33,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 1,
           "5": 8,
-          "6": 7,
+          "6": 6,
           "7": 12,
           "8": 5,
           "9": 0,
@@ -563,12 +568,12 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a9/6c/12373_prsn_jUEmd.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a9/6c/12373_prsn_jUEmd.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a9/6c/12373_prsn_jUEmd.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a9/6c/12373_prsn_jUEmd.jpg"
         },
-        "name": "海老澤一男",
+        "name": "海老沢一男",
         "relation": "背景美术",
         "career": [
           "producer"
@@ -882,7 +887,7 @@
         "id": 530069
       }
     ],
-    "updatedAt": "2026-04-06T13:25:23.382Z"
+    "updatedAt": "2026-05-03T12:18:45.931Z"
   },
   {
     "id": 378810,
@@ -986,7 +991,7 @@
       "collection": {
         "on_hold": 0,
         "dropped": 4,
-        "wish": 6,
+        "wish": 7,
         "collect": 4,
         "doing": 0
       },
@@ -1036,6 +1041,6 @@
         "id": 53773
       }
     ],
-    "updatedAt": "2026-04-06T13:41:45.339Z"
+    "updatedAt": "2026-05-03T12:43:44.374Z"
   }
 ]

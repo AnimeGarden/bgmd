@@ -17,17 +17,17 @@
       "tags": [
         {
           "name": "1981",
+          "count": 8,
+          "total_cont": 0
+        },
+        {
+          "name": "漫画改",
           "count": 7,
           "total_cont": 0
         },
         {
           "name": "TV",
-          "count": 6,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
-          "count": 6,
+          "count": 7,
           "total_cont": 0
         },
         {
@@ -41,7 +41,7 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
+          "name": "旧物",
           "count": 3,
           "total_cont": 0
         },
@@ -51,57 +51,22 @@
           "total_cont": 0
         },
         {
+          "name": "日本",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "藤子不二雄",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "旧物",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "シンエイ動画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "80s",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "岸間信明",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1980s",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "泡面番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "藤子不二雄Ⓐ",
+          "name": "5クール以上",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "赛璐珞",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "5クール以上",
           "count": 1,
           "total_cont": 0
         },
@@ -117,6 +82,41 @@
         },
         {
           "name": "SHIN-EI",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "80s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "泡面番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "シンエイ動画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "岸間信明",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1980s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "藤子不二雄Ⓐ",
           "count": 1,
           "total_cont": 0
         }
@@ -228,23 +228,6 @@
         ],
         "type": 2,
         "id": 11891,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/88/1c/2852_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/88/1c/2852_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/88/1c/2852_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/88/1c/2852_prsn_anidb.jpg"
-        },
-        "name": "鈴木伸一",
-        "relation": "监修",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 2852,
         "eps": ""
       },
       {
@@ -375,6 +358,23 @@
         ],
         "type": 1,
         "id": 1483,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/88/1c/2852_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/88/1c/2852_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/88/1c/2852_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/88/1c/2852_prsn_anidb.jpg"
+        },
+        "name": "鈴木伸一",
+        "relation": "监修",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 2852,
         "eps": ""
       },
       {
@@ -675,7 +675,7 @@
         "id": 499040
       }
     ],
-    "updatedAt": "2026-04-06T13:22:52.777Z"
+    "updatedAt": "2026-05-03T12:15:07.088Z"
   },
   {
     "id": 132767,
@@ -1039,6 +1039,6 @@
         "id": 446314
       }
     ],
-    "updatedAt": "2026-04-06T13:47:07.064Z"
+    "updatedAt": "2026-05-03T12:23:58.018Z"
   }
 ]

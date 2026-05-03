@@ -66,17 +66,7 @@
           "total_cont": 0
         },
         {
-          "name": "日常",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "加藤みどり",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
@@ -86,42 +76,17 @@
           "total_cont": 0
         },
         {
-          "name": "渡辺米彦",
-          "count": 1,
+          "name": "日常",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "补",
-          "count": 1,
+          "name": "日本动画",
+          "count": 2,
           "total_cont": 0
         },
         {
           "name": "森田浩光",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "动漫界的新闻联播（笑）",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "超长",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "Glovision",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
@@ -141,12 +106,47 @@
           "total_cont": 0
         },
         {
+          "name": "补",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "Glovision",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "1960s",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "童年",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "动漫界的新闻联播（笑）",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "渡辺米彦",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "超长",
           "count": 1,
           "total_cont": 0
         }
@@ -277,7 +277,7 @@
         "on_hold": 15,
         "dropped": 25,
         "wish": 47,
-        "collect": 45,
+        "collect": 46,
         "doing": 17
       },
       "id": 32585,
@@ -2103,6 +2103,22 @@
         "type": 1,
         "id": 88084,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "山口圭子",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 92875,
+        "eps": ""
       }
     ],
     "characters": [],
@@ -2206,7 +2222,7 @@
         "id": 516182
       }
     ],
-    "updatedAt": "2026-04-06T13:20:05.646Z"
+    "updatedAt": "2026-05-03T12:11:03.064Z"
   },
   {
     "id": 53740,
@@ -2240,6 +2256,11 @@
           "total_cont": 0
         },
         {
+          "name": "大平透",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "龙之子",
           "count": 3,
           "total_cont": 0
@@ -2250,22 +2271,7 @@
           "total_cont": 0
         },
         {
-          "name": "大平透",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "貴家堂子",
+          "name": "タツノコプロ",
           "count": 2,
           "total_cont": 0
         },
@@ -2280,22 +2286,22 @@
           "total_cont": 0
         },
         {
-          "name": "タツノコプロ",
+          "name": "漫画改",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "旧物",
-          "count": 1,
+          "name": "貴家堂子",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "原创",
-          "count": 1,
+          "name": "日本",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "冷门老番",
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         },
@@ -2305,7 +2311,12 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "原创",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "8+",
           "count": 1,
           "total_cont": 0
         },
@@ -2315,7 +2326,12 @@
           "total_cont": 0
         },
         {
-          "name": "8+",
+          "name": "冷门老番",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         }
@@ -2457,7 +2473,7 @@
       "collection": {
         "on_hold": 9,
         "dropped": 13,
-        "wish": 24,
+        "wish": 25,
         "collect": 32,
         "doing": 7
       },
@@ -2883,7 +2899,7 @@
         "id": 310518
       }
     ],
-    "updatedAt": "2026-04-06T13:22:48.012Z"
+    "updatedAt": "2026-05-03T12:15:01.374Z"
   },
   {
     "id": 53801,
@@ -2891,11 +2907,11 @@
       "date": "1969-10-02",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/d6/53801_3333R.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/d6/53801_3333R.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/2b/d6/53801_3333R.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/d6/53801_3333R.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d6/53801_3333R.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/d6/53801_B8883.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/d6/53801_B8883.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2b/d6/53801_B8883.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/d6/53801_B8883.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d6/53801_B8883.jpg"
       },
       "summary": "『タイガーマスク』は、東映動画製作、よみうりテレビ・日本テレビ系列にて1969年10月2日から1971年9月30日まで放映。全105話。アニメ化作品の第1作目。",
       "name": "タイガーマスク",
@@ -2927,17 +2943,7 @@
           "total_cont": 0
         },
         {
-          "name": "漫画改",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "1969年十月番",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "东映",
           "count": 3,
           "total_cont": 0
         },
@@ -2947,13 +2953,28 @@
           "total_cont": 0
         },
         {
-          "name": "東映アニメーション",
+          "name": "漫画改",
           "count": 3,
           "total_cont": 0
         },
         {
           "name": "东映动画",
           "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "东映",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "東映アニメーション",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -2967,22 +2988,7 @@
           "total_cont": 0
         },
         {
-          "name": "TVA",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "¬",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "富山敬",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "1960s",
+          "name": "1969年10月",
           "count": 1,
           "total_cont": 0
         },
@@ -2997,26 +3003,6 @@
           "total_cont": 0
         },
         {
-          "name": "1969年10月",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "辻真先",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "7(+2)",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "白根徳重",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "漫画改编",
           "count": 1,
           "total_cont": 0
@@ -3027,7 +3013,17 @@
           "total_cont": 0
         },
         {
-          "name": "无中文字幕",
+          "name": "白根徳重",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1960s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "¬",
           "count": 1,
           "total_cont": 0
         },
@@ -3037,7 +3033,27 @@
           "total_cont": 0
         },
         {
+          "name": "无中文字幕",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "7(+2)",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "辻真先",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "富山敬",
           "count": 1,
           "total_cont": 0
         }
@@ -3105,7 +3121,7 @@
       "collection": {
         "on_hold": 14,
         "dropped": 9,
-        "wish": 56,
+        "wish": 57,
         "collect": 22,
         "doing": 5
       },
@@ -4595,6 +4611,6 @@
         "id": 502513
       }
     ],
-    "updatedAt": "2026-04-06T13:22:54.179Z"
+    "updatedAt": "2026-05-03T12:15:09.157Z"
   }
 ]

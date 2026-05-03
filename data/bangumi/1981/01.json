@@ -31,12 +31,12 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
+          "name": "小说改",
           "count": 4,
           "total_cont": 0
         },
         {
-          "name": "小说改",
+          "name": "TV",
           "count": 4,
           "total_cont": 0
         },
@@ -46,22 +46,22 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "世界名作劇場",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "治愈",
-          "count": 1,
+          "name": "日本",
+          "count": 2,
           "total_cont": 0
         },
         {
           "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "治愈",
           "count": 1,
           "total_cont": 0
         }
@@ -237,7 +237,7 @@
       "collection": {
         "on_hold": 6,
         "dropped": 8,
-        "wish": 39,
+        "wish": 40,
         "collect": 25,
         "doing": 3
       },
@@ -1257,7 +1257,7 @@
         "id": 605113
       }
     ],
-    "updatedAt": "2026-04-06T13:19:07.334Z"
+    "updatedAt": "2026-05-03T12:09:35.546Z"
   },
   {
     "id": 37287,
@@ -1793,6 +1793,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/bd/48/40106_prsn_P6Oep.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/bd/48/40106_prsn_P6Oep.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/bd/48/40106_prsn_P6Oep.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/bd/48/40106_prsn_P6Oep.jpg"
+        },
+        "name": "菊池一仁",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 40106,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/4c/a8/1056_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/4c/a8/1056_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/4c/a8/1056_prsn_anidb.jpg",
@@ -1927,22 +1943,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "菊池一仁",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 40106,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "鈴木行",
         "relation": "演出",
         "career": [
@@ -1966,22 +1966,6 @@
         ],
         "type": 1,
         "id": 850,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "菊池一仁",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 40106,
         "eps": ""
       },
       {
@@ -2222,6 +2206,22 @@
         ],
         "type": 2,
         "id": 189,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/bd/48/40106_prsn_P6Oep.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/bd/48/40106_prsn_P6Oep.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/bd/48/40106_prsn_P6Oep.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/bd/48/40106_prsn_P6Oep.jpg"
+        },
+        "name": "菊池一仁",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 40106,
         "eps": ""
       }
     ],
@@ -2541,7 +2541,7 @@
         "id": 525887
       }
     ],
-    "updatedAt": "2026-04-06T13:20:48.639Z"
+    "updatedAt": "2026-05-03T12:12:03.867Z"
   },
   {
     "id": 219469,
@@ -2908,6 +2908,6 @@
         "id": 630707
       }
     ],
-    "updatedAt": "2026-04-06T13:33:46.032Z"
+    "updatedAt": "2026-05-03T12:31:13.257Z"
   }
 ]

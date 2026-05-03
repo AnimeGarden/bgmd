@@ -17,7 +17,7 @@
       "tags": [
         {
           "name": "TV",
-          "count": 16,
+          "count": 17,
           "total_cont": 0
         },
         {
@@ -27,7 +27,7 @@
         },
         {
           "name": "1976年4月",
-          "count": 9,
+          "count": 10,
           "total_cont": 0
         },
         {
@@ -41,22 +41,22 @@
           "total_cont": 0
         },
         {
+          "name": "原创",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
+          "name": "1976年4月",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
           "name": "柴田秀勝",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "原创",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "1976年4月",
+          "name": "科幻",
           "count": 2,
           "total_cont": 0
         },
@@ -66,28 +66,23 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "robo",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "科幻",
+          "name": "日本动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "旧物",
-          "count": 1,
+          "name": "东映",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "丸山正雄",
-          "count": 1,
+          "name": "日本",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -96,17 +91,7 @@
           "total_cont": 0
         },
         {
-          "name": "待补",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "金田伊功",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "赛璐珞",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
@@ -116,17 +101,27 @@
           "total_cont": 0
         },
         {
+          "name": "金田伊功",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "70s",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "东映",
+          "name": "丸山正雄",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1970s",
+          "name": "待补",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "跳集",
           "count": 1,
           "total_cont": 0
         },
@@ -136,12 +131,12 @@
           "total_cont": 0
         },
         {
-          "name": "动作",
+          "name": "1970s",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "机甲",
+          "name": "动作",
           "count": 1,
           "total_cont": 0
         },
@@ -151,7 +146,12 @@
           "total_cont": 0
         },
         {
-          "name": "跳集",
+          "name": "机甲",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "赛璐珞",
           "count": 1,
           "total_cont": 0
         }
@@ -257,11 +257,11 @@
       },
       "total_episodes": 44,
       "collection": {
-        "on_hold": 9,
+        "on_hold": 10,
         "dropped": 14,
         "wish": 35,
         "collect": 38,
-        "doing": 3
+        "doing": 4
       },
       "id": 37172,
       "eps": 44,
@@ -423,10 +423,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/06/8b/1560_prsn_z3kbW.jpg?r=1674623964",
-          "grid": "https://lain.bgm.tv/pic/crt/g/06/8b/1560_prsn_z3kbW.jpg?r=1674623964",
-          "large": "https://lain.bgm.tv/pic/crt/l/06/8b/1560_prsn_z3kbW.jpg?r=1674623964",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/06/8b/1560_prsn_z3kbW.jpg?r=1674623964"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/06/8b/1560_prsn_73EaA.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/06/8b/1560_prsn_73EaA.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/06/8b/1560_prsn_73EaA.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/06/8b/1560_prsn_73EaA.jpg"
         },
         "name": "谷口守泰",
         "relation": "作画监督",
@@ -919,6 +919,22 @@
         "type": 1,
         "id": 85503,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "東條俊寿",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 92542,
+        "eps": ""
       }
     ],
     "characters": [
@@ -1082,7 +1098,7 @@
         "id": 486205
       }
     ],
-    "updatedAt": "2026-04-06T13:20:32.538Z"
+    "updatedAt": "2026-05-03T12:11:42.195Z"
   },
   {
     "id": 37177,
@@ -1146,12 +1162,12 @@
           "total_cont": 0
         },
         {
-          "name": "长滨忠夫三部曲",
+          "name": "富野由悠季",
           "count": 6,
           "total_cont": 0
         },
         {
-          "name": "富野由悠季",
+          "name": "长滨忠夫三部曲",
           "count": 6,
           "total_cont": 0
         },
@@ -1176,37 +1192,12 @@
           "total_cont": 0
         },
         {
-          "name": "70年代",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "山田俊司",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "三矢雄二",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "1970s",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
           "name": "1976年4月",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "robo",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "70",
+          "name": "70年代",
           "count": 2,
           "total_cont": 0
         },
@@ -1216,37 +1207,62 @@
           "total_cont": 0
         },
         {
-          "name": "五武冬史",
+          "name": "三矢雄二",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "robo",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "山田俊司",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "1970s",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "70",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "生肉",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "孔巴特拉V",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "4クール",
+          "name": "仅了解就好",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "1976年4月",
+          "name": "超电池悠悠",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "机器人",
+          "name": "机战登场作",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "战斗",
+          "name": "阅",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "東映エージエンシー",
+          "name": "東映アニメーション",
           "count": 1,
           "total_cont": 0
         }
@@ -1329,14 +1345,14 @@
         }
       ],
       "rating": {
-        "rank": 6084,
-        "total": 53,
+        "rank": 6170,
+        "total": 54,
         "count": {
           "1": 1,
           "2": 1,
           "3": 3,
           "4": 6,
-          "5": 9,
+          "5": 10,
           "6": 16,
           "7": 13,
           "8": 2,
@@ -1348,10 +1364,10 @@
       "total_episodes": 54,
       "collection": {
         "on_hold": 11,
-        "dropped": 13,
+        "dropped": 14,
         "wish": 76,
-        "collect": 74,
-        "doing": 14
+        "collect": 75,
+        "doing": 13
       },
       "id": 37177,
       "eps": 54,
@@ -1630,6 +1646,22 @@
       },
       {
         "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "金子裕",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 2042,
+        "eps": "22"
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/8f/46/968_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/8f/46/968_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/8f/46/968_prsn_anidb.jpg",
@@ -1707,22 +1739,6 @@
         "type": 1,
         "id": 2819,
         "eps": "5,7,11,14,17,23,27,32,37,42,46,47,51"
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "金子裕",
-        "relation": "脚本",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 2042,
-        "eps": "22"
       },
       {
         "images": {
@@ -1939,10 +1955,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/06/8b/1560_prsn_z3kbW.jpg?r=1674623964",
-          "grid": "https://lain.bgm.tv/pic/crt/g/06/8b/1560_prsn_z3kbW.jpg?r=1674623964",
-          "large": "https://lain.bgm.tv/pic/crt/l/06/8b/1560_prsn_z3kbW.jpg?r=1674623964",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/06/8b/1560_prsn_z3kbW.jpg?r=1674623964"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/06/8b/1560_prsn_73EaA.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/06/8b/1560_prsn_73EaA.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/06/8b/1560_prsn_73EaA.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/06/8b/1560_prsn_73EaA.jpg"
         },
         "name": "谷口守泰",
         "relation": "作画监督",
@@ -2081,10 +2097,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/06/8b/1560_prsn_z3kbW.jpg?r=1674623964",
-          "grid": "https://lain.bgm.tv/pic/crt/g/06/8b/1560_prsn_z3kbW.jpg?r=1674623964",
-          "large": "https://lain.bgm.tv/pic/crt/l/06/8b/1560_prsn_z3kbW.jpg?r=1674623964",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/06/8b/1560_prsn_z3kbW.jpg?r=1674623964"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/06/8b/1560_prsn_73EaA.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/06/8b/1560_prsn_73EaA.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/06/8b/1560_prsn_73EaA.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/06/8b/1560_prsn_73EaA.jpg"
         },
         "name": "谷口守泰",
         "relation": "原画",
@@ -3355,7 +3371,7 @@
         "id": 208855
       }
     ],
-    "updatedAt": "2026-04-06T13:20:34.297Z"
+    "updatedAt": "2026-05-03T12:11:44.063Z"
   },
   {
     "id": 37221,
@@ -3363,11 +3379,11 @@
       "date": "1976-04-06",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/0b/37221_VmXMj.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/0b/37221_VmXMj.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/53/0b/37221_VmXMj.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/0b/37221_VmXMj.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/0b/37221_VmXMj.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/0b/37221_O46GL.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/0b/37221_O46GL.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/53/0b/37221_O46GL.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/0b/37221_O46GL.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/0b/37221_O46GL.jpg"
       },
       "summary": "　　アポロン星王子ダイアポロン因ダザーン軍団的侵略而国破家亡，年幼的ダイアポロン被随从带往地球并化名タケシ隐姓埋名。但不久ダザーン軍団又来侵略地球，タケシ在得知了自己的身世后为了保护地球而操纵UFO战士ダイアポロン挺身而战。",
       "name": "UFO戦士ダイアポロン",
@@ -4261,7 +4277,7 @@
         "id": 631070
       }
     ],
-    "updatedAt": "2026-04-06T13:20:38.214Z"
+    "updatedAt": "2026-05-03T12:11:49.705Z"
   },
   {
     "id": 37292,
@@ -5244,7 +5260,7 @@
         "id": 271609
       }
     ],
-    "updatedAt": "2026-04-06T13:20:49.780Z"
+    "updatedAt": "2026-05-03T12:12:05.050Z"
   },
   {
     "id": 140829,
@@ -5590,7 +5606,7 @@
         "id": 271613
       }
     ],
-    "updatedAt": "2026-04-06T13:29:11.144Z"
+    "updatedAt": "2026-05-03T12:24:39.023Z"
   },
   {
     "id": 220525,
@@ -5614,6 +5630,11 @@
           "total_cont": 0
         },
         {
+          "name": "70s",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "赛璐珞",
           "count": 1,
           "total_cont": 0
@@ -5624,12 +5645,12 @@
           "total_cont": 0
         },
         {
-          "name": "70s",
+          "name": "1976",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "TVA",
+          "name": "小说改",
           "count": 1,
           "total_cont": 0
         },
@@ -5644,7 +5665,7 @@
           "total_cont": 0
         },
         {
-          "name": "1976",
+          "name": "TVA",
           "count": 1,
           "total_cont": 0
         }
@@ -5703,7 +5724,7 @@
         "on_hold": 2,
         "dropped": 4,
         "wish": 5,
-        "collect": 2,
+        "collect": 3,
         "doing": 2
       },
       "id": 220525,
@@ -5805,11 +5826,11 @@
     "subjects": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/bc/36119_BpzVs.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/bc/36119_BpzVs.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/c2/bc/36119_BpzVs.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/bc/36119_BpzVs.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/bc/36119_BpzVs.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/bc/36119_v5724.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/bc/36119_v5724.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/c2/bc/36119_v5724.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/bc/36119_v5724.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/bc/36119_v5724.jpg"
         },
         "name": "Pinocchio",
         "name_cn": "木偶奇遇记",
@@ -5819,11 +5840,11 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/8f/177798_933qu.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/8f/177798_933qu.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/18/8f/177798_933qu.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/8f/177798_933qu.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/8f/177798_933qu.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/8f/177798_DHIki.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/8f/177798_DHIki.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/18/8f/177798_DHIki.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/8f/177798_DHIki.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/8f/177798_DHIki.jpg"
         },
         "name": "樫の木モック",
         "name_cn": "新木偶奇遇记",
@@ -5861,6 +5882,34 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/e3/e7/379954_2RuUU.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e3/e7/379954_2RuUU.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/e3/e7/379954_2RuUU.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e3/e7/379954_2RuUU.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/e3/e7/379954_2RuUU.jpg"
+        },
+        "name": "The New Adventures of Pinocchio",
+        "name_cn": "新匹诺曹历险记",
+        "relation": "不同演绎",
+        "type": 2,
+        "id": 379954
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/bc/410944_dO1Ma.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/bc/410944_dO1Ma.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/42/bc/410944_dO1Ma.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/bc/410944_dO1Ma.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/bc/410944_dO1Ma.jpg"
+        },
+        "name": "Guillermo del Toro's Pinocchio",
+        "name_cn": "吉尔莫·德尔·托罗的匹诺曹",
+        "relation": "不同演绎",
+        "type": 2,
+        "id": 410944
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/200/pic/cover/l/1d/5f/429828_xx1vx.jpg",
           "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1d/5f/429828_xx1vx.jpg",
           "large": "https://lain.bgm.tv/pic/cover/l/1d/5f/429828_xx1vx.jpg",
@@ -5872,8 +5921,22 @@
         "relation": "书籍",
         "type": 1,
         "id": 429828
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/02/487801_52897.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/02/487801_52897.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/fb/02/487801_52897.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/02/487801_52897.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/02/487801_52897.jpg"
+        },
+        "name": "Pinocchio and Friends",
+        "name_cn": "匹诺曹成长记",
+        "relation": "不同演绎",
+        "type": 2,
+        "id": 487801
       }
     ],
-    "updatedAt": "2026-04-06T13:33:52.840Z"
+    "updatedAt": "2026-05-03T12:31:23.258Z"
   }
 ]

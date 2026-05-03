@@ -17,17 +17,17 @@
       "tags": [
         {
           "name": "OVA",
-          "count": 25,
+          "count": 26,
+          "total_cont": 0
+        },
+        {
+          "name": "1986年1月",
+          "count": 17,
           "total_cont": 0
         },
         {
           "name": "SUNRISE",
           "count": 17,
-          "total_cont": 0
-        },
-        {
-          "name": "1986年1月",
-          "count": 16,
           "total_cont": 0
         },
         {
@@ -51,27 +51,17 @@
           "total_cont": 0
         },
         {
-          "name": "robo",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "菊池英博",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "机战",
-          "count": 2,
+          "name": "robo",
+          "count": 3,
           "total_cont": 0
         },
         {
-          "name": "1986年1月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "科幻",
+          "name": "原创",
           "count": 2,
           "total_cont": 0
         },
@@ -81,47 +71,22 @@
           "total_cont": 0
         },
         {
-          "name": "原创",
+          "name": "1986年1月",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "菊池正美",
-          "count": 1,
+          "name": "机战",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "渕崎ゆり子",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "サンライズ",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "吉川惣司",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "出渕裕",
-          "count": 1,
+          "name": "科幻",
+          "count": 2,
           "total_cont": 0
         },
         {
           "name": "机甲",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "80",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "幻想",
           "count": 1,
           "total_cont": 0
         },
@@ -132,6 +97,41 @@
         },
         {
           "name": "机器人",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "出渕裕",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "幻想",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "吉川惣司",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "渕崎ゆり子",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "菊池正美",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "サンライズ",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "80",
           "count": 1,
           "total_cont": 0
         }
@@ -232,7 +232,7 @@
         "on_hold": 4,
         "dropped": 10,
         "wish": 27,
-        "collect": 61,
+        "collect": 62,
         "doing": 1
       },
       "id": 75876,
@@ -1335,7 +1335,7 @@
         "id": 37290
       }
     ],
-    "updatedAt": "2026-04-06T13:24:35.308Z"
+    "updatedAt": "2026-05-03T12:17:36.284Z"
   },
   {
     "id": 134960,
@@ -1354,8 +1354,8 @@
       "name_cn": "枫城物语",
       "tags": [
         {
-          "name": "佐藤顺一",
-          "count": 3,
+          "name": "TV",
+          "count": 4,
           "total_cont": 0
         },
         {
@@ -1364,8 +1364,13 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
+          "name": "佐藤顺一",
           "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -1374,8 +1379,8 @@
           "total_cont": 0
         },
         {
-          "name": "旧物",
-          "count": 1,
+          "name": "1986",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -1384,12 +1389,7 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "柳川茂",
+          "name": "旧物",
           "count": 1,
           "total_cont": 0
         },
@@ -1399,7 +1399,7 @@
           "total_cont": 0
         },
         {
-          "name": "几原邦彦",
+          "name": "柳川茂",
           "count": 1,
           "total_cont": 0
         },
@@ -1409,7 +1409,7 @@
           "total_cont": 0
         },
         {
-          "name": "1986",
+          "name": "几原邦彦",
           "count": 1,
           "total_cont": 0
         },
@@ -1577,9 +1577,9 @@
       },
       "total_episodes": 52,
       "collection": {
-        "on_hold": 10,
+        "on_hold": 11,
         "dropped": 6,
-        "wish": 17,
+        "wish": 18,
         "collect": 5,
         "doing": 3
       },
@@ -1820,6 +1820,22 @@
         ],
         "type": 2,
         "id": 3045,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "山口頼房",
+        "relation": "演出",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 918,
         "eps": ""
       },
       {
@@ -2471,22 +2487,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "山口頼房",
-        "relation": "演出",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 918,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "久岡敬史",
         "relation": "分镜",
         "career": [
@@ -2542,22 +2542,6 @@
         ],
         "type": 1,
         "id": 13111,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "山口頼房",
-        "relation": "分镜",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 918,
         "eps": ""
       },
       {
@@ -2638,6 +2622,22 @@
         ],
         "type": 1,
         "id": 584,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "山口頼房",
+        "relation": "分镜",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 918,
         "eps": ""
       },
       {
@@ -2752,7 +2752,7 @@
         "id": 311734
       }
     ],
-    "updatedAt": "2026-04-06T13:47:07.950Z"
+    "updatedAt": "2026-05-03T12:24:09.900Z"
   },
   {
     "id": 142507,
@@ -3553,7 +3553,7 @@
       }
     ],
     "subjects": [],
-    "updatedAt": "2026-04-06T13:29:14.830Z"
+    "updatedAt": "2026-05-03T12:24:44.042Z"
   },
   {
     "id": 211287,
@@ -3561,11 +3561,11 @@
       "date": "1986-01-05",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/98/211287_vxOMO.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/98/211287_vxOMO.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/31/98/211287_vxOMO.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/98/211287_vxOMO.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/98/211287_vxOMO.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/98/211287_ePb7x.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/98/211287_ePb7x.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/31/98/211287_ePb7x.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/98/211287_ePb7x.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/98/211287_ePb7x.jpg"
       },
       "summary": "",
       "name": "愛少女ポリアンナ物語",
@@ -3971,6 +3971,6 @@
         "id": 472221
       }
     ],
-    "updatedAt": "2026-04-06T13:33:02.534Z"
+    "updatedAt": "2026-05-03T12:30:11.416Z"
   }
 ]
