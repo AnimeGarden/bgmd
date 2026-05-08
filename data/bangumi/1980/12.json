@@ -17,21 +17,31 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 11,
+          "count": 12,
           "total_cont": 0
         },
         {
           "name": "1980年12月",
-          "count": 8,
+          "count": 9,
           "total_cont": 0
         },
         {
           "name": "东映",
-          "count": 4,
+          "count": 5,
+          "total_cont": 0
+        },
+        {
+          "name": "漫画改",
+          "count": 3,
           "total_cont": 0
         },
         {
           "name": "科幻",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "東映アニメーション",
           "count": 3,
           "total_cont": 0
         },
@@ -41,12 +51,7 @@
           "total_cont": 0
         },
         {
-          "name": "漫画改",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "東映アニメーション",
+          "name": "1980年12月",
           "count": 2,
           "total_cont": 0
         },
@@ -56,12 +61,22 @@
           "total_cont": 0
         },
         {
-          "name": "1980年12月",
-          "count": 2,
+          "name": "サイボーグ009",
+          "count": 1,
           "total_cont": 0
         },
         {
-          "name": "战斗",
+          "name": "漫改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "续作",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "补旧番",
           "count": 1,
           "total_cont": 0
         },
@@ -71,7 +86,7 @@
           "total_cont": 0
         },
         {
-          "name": "动作",
+          "name": "80年代动画",
           "count": 1,
           "total_cont": 0
         },
@@ -81,7 +96,7 @@
           "total_cont": 0
         },
         {
-          "name": "1980年十月番",
+          "name": "动作",
           "count": 1,
           "total_cont": 0
         },
@@ -91,7 +106,12 @@
           "total_cont": 0
         },
         {
-          "name": "改编",
+          "name": "日本",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "1980年十月番",
           "count": 1,
           "total_cont": 0
         },
@@ -111,7 +131,17 @@
           "total_cont": 0
         },
         {
-          "name": "80年代动画",
+          "name": "战斗",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "改编",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "井上和彦",
           "count": 1,
           "total_cont": 0
         },
@@ -131,37 +161,7 @@
           "total_cont": 0
         },
         {
-          "name": "井上和彦",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "石ノ森章太郎",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "补旧番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "サイボーグ009",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "漫改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "续作",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
           "count": 1,
           "total_cont": 0
         }
@@ -206,27 +206,27 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 13,
+        "total": 14,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 0,
-          "5": 1,
+          "5": 2,
           "6": 5,
           "7": 1,
           "8": 2,
           "9": 2,
           "10": 2
         },
-        "score": 7.4
+        "score": 7.2
       },
       "total_episodes": 1,
       "collection": {
         "on_hold": 5,
         "dropped": 6,
         "wish": 36,
-        "collect": 21,
+        "collect": 22,
         "doing": 3
       },
       "id": 143040,
@@ -500,12 +500,12 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/a9/6c/12373_prsn_jUEmd.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/a9/6c/12373_prsn_jUEmd.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/a9/6c/12373_prsn_jUEmd.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/a9/6c/12373_prsn_jUEmd.jpg"
         },
-        "name": "海老澤一男",
+        "name": "海老沢一男",
         "relation": "美术监督",
         "career": [
           "producer"
@@ -1089,7 +1089,7 @@
         "id": 108902
       }
     ],
-    "updatedAt": "2026-04-06T13:29:16.231Z"
+    "updatedAt": "2026-05-03T12:24:46.046Z"
   },
   {
     "id": 311842,
@@ -2346,6 +2346,6 @@
         "id": 614231
       }
     ],
-    "updatedAt": "2026-04-06T13:38:47.015Z"
+    "updatedAt": "2026-05-03T12:39:16.885Z"
   }
 ]

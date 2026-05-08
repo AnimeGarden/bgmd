@@ -56,11 +56,6 @@
           "total_cont": 0
         },
         {
-          "name": "漫改",
-          "count": 3,
-          "total_cont": 0
-        },
-        {
           "name": "补旧番",
           "count": 3,
           "total_cont": 0
@@ -68,6 +63,46 @@
         {
           "name": "漫画改",
           "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "漫改",
+          "count": 3,
+          "total_cont": 0
+        },
+        {
+          "name": "1979年3月",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "赛璐珞",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "芦田豊雄",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "70s",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "战斗",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "日本",
+          "count": 2,
           "total_cont": 0
         },
         {
@@ -81,57 +116,7 @@
           "total_cont": 0
         },
         {
-          "name": "日本",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "70s",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "芦田豊雄",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "1979年3月",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "战斗",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "赛璐珞",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "サイボーグ009",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "改编",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "漫画改编",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "金田伊功",
           "count": 1,
           "total_cont": 0
         },
@@ -141,17 +126,27 @@
           "total_cont": 0
         },
         {
+          "name": "补",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "サイボーグ009",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "TVA",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "辻真先",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "动作",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "待補1",
           "count": 1,
           "total_cont": 0
         },
@@ -161,7 +156,12 @@
           "total_cont": 0
         },
         {
-          "name": "日本动画",
+          "name": "金田伊功",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "改编",
           "count": 1,
           "total_cont": 0
         }
@@ -248,11 +248,11 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 19,
+        "total": 20,
         "count": {
           "1": 0,
           "2": 0,
-          "3": 0,
+          "3": 1,
           "4": 2,
           "5": 3,
           "6": 4,
@@ -261,15 +261,15 @@
           "9": 2,
           "10": 1
         },
-        "score": 6.7
+        "score": 6.5
       },
       "total_episodes": 50,
       "collection": {
         "on_hold": 12,
         "dropped": 7,
         "wish": 104,
-        "collect": 28,
-        "doing": 12
+        "collect": 29,
+        "doing": 11
       },
       "id": 13605,
       "eps": 50,
@@ -1469,6 +1469,22 @@
         "type": 1,
         "id": 109,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "芝崎素子",
+        "relation": "色彩指定",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 91603,
+        "eps": ""
       }
     ],
     "characters": [
@@ -1941,7 +1957,7 @@
         "id": 626100
       }
     ],
-    "updatedAt": "2026-04-06T13:17:43.476Z"
+    "updatedAt": "2026-05-03T12:07:30.694Z"
   },
   {
     "id": 37181,
@@ -2170,7 +2186,7 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 16,
+        "total": 17,
         "count": {
           "1": 0,
           "2": 0,
@@ -2179,11 +2195,11 @@
           "5": 1,
           "6": 2,
           "7": 8,
-          "8": 2,
+          "8": 3,
           "9": 2,
           "10": 0
         },
-        "score": 6.9
+        "score": 7
       },
       "total_episodes": 47,
       "collection": {
@@ -2852,7 +2868,7 @@
         "id": 525887
       }
     ],
-    "updatedAt": "2026-04-06T13:20:35.062Z"
+    "updatedAt": "2026-05-03T12:11:45.255Z"
   },
   {
     "id": 449001,
@@ -3169,8 +3185,22 @@
         "relation": "三次元",
         "type": 6,
         "id": 233493
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/0a/640993_JCZOb.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/0a/640993_JCZOb.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/94/0a/640993_JCZOb.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/0a/640993_JCZOb.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/0a/640993_JCZOb.jpg"
+        },
+        "name": "くるみ割り人形",
+        "name_cn": "胡桃夹子幻想 重制版",
+        "relation": "不同演绎",
+        "type": 2,
+        "id": 640993
       }
     ],
-    "updatedAt": "2026-04-06T13:44:04.696Z"
+    "updatedAt": "2026-05-03T12:47:14.466Z"
   }
 ]

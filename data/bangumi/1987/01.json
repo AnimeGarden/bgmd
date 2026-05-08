@@ -5,11 +5,11 @@
       "date": "1987-01-11",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/3e/68703_CNWAW.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/3e/68703_CNWAW.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/c2/3e/68703_CNWAW.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/3e/68703_CNWAW.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/3e/68703_CNWAW.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/3e/68703_2YY09.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/3e/68703_2YY09.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/c2/3e/68703_2YY09.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/3e/68703_2YY09.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/3e/68703_2YY09.jpg"
       },
       "summary": "　《小妇人》（日文：爱の若草物语）是一部由日本动画公司（Nippon Animation）制作的动画，改编自美国女作家露易莎·玫·艾尔考特（Louisa May Alcott）代表作品《小妇人》（Little Women），是《世界名作剧场》系列动画成员。该部动画有两部，分别于昭和62年（1987年）与平成5年（1993年）获颁日本文化厅儿童电视优秀映画赏。 ",
       "name": "愛の若草物語",
@@ -36,12 +36,12 @@
           "total_cont": 0
         },
         {
-          "name": "治愈",
+          "name": "童年",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "童年",
+          "name": "治愈",
           "count": 3,
           "total_cont": 0
         },
@@ -56,6 +56,11 @@
           "total_cont": 0
         },
         {
+          "name": "宫崎晃",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "黑川文男",
           "count": 1,
           "total_cont": 0
@@ -66,12 +71,17 @@
           "total_cont": 0
         },
         {
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
           "name": "优秀子供向",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "宫崎晃",
+          "name": "没看全",
           "count": 1,
           "total_cont": 0
         },
@@ -82,11 +92,6 @@
         },
         {
           "name": "近藤喜文",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "没看全",
           "count": 1,
           "total_cont": 0
         },
@@ -102,11 +107,6 @@
         },
         {
           "name": "世界名作劇場",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
           "count": 1,
           "total_cont": 0
         }
@@ -232,7 +232,7 @@
       "collection": {
         "on_hold": 9,
         "dropped": 8,
-        "wish": 51,
+        "wish": 52,
         "collect": 28,
         "doing": 4
       },
@@ -300,10 +300,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/9a/b7/21473_prsn_0R03H.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/9a/b7/21473_prsn_0R03H.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/9a/b7/21473_prsn_0R03H.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/9a/b7/21473_prsn_0R03H.jpg"
         },
         "name": "山川浩臣",
         "relation": "原画",
@@ -806,7 +806,7 @@
           "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/95/73724_SgP1g.jpg"
         },
         "name": "若草の四姉妹",
-        "name_cn": "小妇人",
+        "name_cn": "小妇人四姐妹",
         "relation": "不同演绎",
         "type": 2,
         "id": 73724
@@ -882,7 +882,7 @@
         "id": 570712
       }
     ],
-    "updatedAt": "2026-04-06T13:24:06.416Z"
+    "updatedAt": "2026-05-03T12:16:54.897Z"
   },
   {
     "id": 134961,
@@ -2047,7 +2047,7 @@
         "id": 134960
       }
     ],
-    "updatedAt": "2026-04-06T13:47:08.449Z"
+    "updatedAt": "2026-05-03T12:24:09.970Z"
   },
   {
     "id": 333344,
@@ -2135,7 +2135,7 @@
         "on_hold": 0,
         "dropped": 2,
         "wish": 4,
-        "collect": 16,
+        "collect": 18,
         "doing": 1
       },
       "id": 333344,
@@ -2167,6 +2167,6 @@
         "id": 73928
       }
     ],
-    "updatedAt": "2026-04-06T13:40:06.960Z"
+    "updatedAt": "2026-05-03T12:41:15.482Z"
   }
 ]
