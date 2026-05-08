@@ -4,9 +4,11 @@ import fs from 'fs-extra';
 import path from 'node:path';
 import { execa } from 'execa';
 
-import type { FullSubject } from '../types';
+import type { FullSubject } from '../types/index.ts';
 
-import { version } from '../package.json';
+import packageJson from '../package.json' with { type: 'json' };
+
+const { version } = packageJson;
 
 const $ = execa({ stdio: 'inherit' });
 
