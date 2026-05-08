@@ -1,5 +1,9 @@
-onlyBuiltDependencies:
-  - esbuild
+allowBuilds:
+  esbuild: true
 
 patchedDependencies:
   lru-cache@11.3.0: patches/lru-cache@11.3.0.patch
+
+gitChecks: false
+ignoreWorkspaceRootCheck: true
+shamefullyHoist: true
