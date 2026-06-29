@@ -48,7 +48,7 @@ jobs:
           pnpm i
           pnpm build
           cd apps/bgmx
-          pnpm link -g
+          pnpm add -g .
           bgmx --version
 
       - name: Sync bangumi data
