@@ -1,8 +1,9 @@
 # Dependencies
-bgmx
+./bgmx
 
 # Dependency directory
 node_modules
+.pnpm-store
 
 # Build output
 dist
