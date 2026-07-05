@@ -36,6 +36,9 @@ jobs:
           node-version: 26.1.0
           cache: pnpm
 
+      - name: Add pnpm global bin to PATH
+        run: pnpm config get global-bin-dir >> "$GITHUB_PATH"
+
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
