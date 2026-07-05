@@ -32,7 +32,7 @@
         },
         {
           "name": "科幻",
-          "count": 25,
+          "count": 26,
           "total_cont": 0
         },
         {
@@ -96,12 +96,7 @@
           "total_cont": 0
         },
         {
-          "name": "SF",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "补番",
+          "name": "サンライズ",
           "count": 2,
           "total_cont": 0
         },
@@ -111,7 +106,7 @@
           "total_cont": 0
         },
         {
-          "name": "旧物",
+          "name": "补完",
           "count": 2,
           "total_cont": 0
         },
@@ -121,47 +116,52 @@
           "total_cont": 0
         },
         {
-          "name": "补完",
+          "name": "补番",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "サンライズ",
+          "name": "SF",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "OP",
+          "name": "旧物",
+          "count": 2,
+          "total_cont": 0
+        },
+        {
+          "name": "待补",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "残念",
+          "name": "1990-1999",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "角色很好看！但是剧情有点赶，有点牵强总的来说最大的特色是漂亮",
+          "name": "渋谷茂",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "ScienceFiction",
+          "name": "乳首",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "待補2",
+          "name": "90年代",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "机器人",
+          "name": "海贼王",
           "count": 1,
           "total_cont": 0
         },
         {
-          "name": "被推荐",
+          "name": "关俊彦",
           "count": 1,
           "total_cont": 0
         }
@@ -301,29 +301,29 @@
         }
       ],
       "rating": {
-        "rank": 5071,
-        "total": 80,
+        "rank": 5439,
+        "total": 83,
         "count": {
           "1": 1,
-          "2": 0,
+          "2": 1,
           "3": 0,
-          "4": 1,
+          "4": 2,
           "5": 20,
-          "6": 25,
+          "6": 26,
           "7": 25,
           "8": 5,
           "9": 2,
           "10": 1
         },
-        "score": 6.2
+        "score": 6.1
       },
       "total_episodes": 26,
       "collection": {
-        "on_hold": 27,
+        "on_hold": 28,
         "dropped": 20,
-        "wish": 226,
-        "collect": 123,
-        "doing": 19
+        "wish": 234,
+        "collect": 128,
+        "doing": 18
       },
       "id": 8292,
       "eps": 26,
@@ -487,6 +487,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/94/94/189_prsn_jKO62.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/94/94/189_prsn_jKO62.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/94/94/189_prsn_jKO62.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/94/94/189_prsn_jKO62.jpg"
+        },
+        "name": "サンライズ",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 189,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -631,10 +647,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/61/d7/13705_prsn_ntlJT.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/61/d7/13705_prsn_ntlJT.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/61/d7/13705_prsn_ntlJT.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/61/d7/13705_prsn_ntlJT.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/61/d7/13705_prsn_c4P54.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/61/d7/13705_prsn_c4P54.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/61/d7/13705_prsn_c4P54.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/61/d7/13705_prsn_c4P54.jpg"
         },
         "name": "石垣純哉",
         "relation": "机械设定",
@@ -836,6 +852,22 @@
         "type": 1,
         "id": 241,
         "eps": "4"
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/94/94/189_prsn_jKO62.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/94/94/189_prsn_jKO62.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/94/94/189_prsn_jKO62.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/94/94/189_prsn_jKO62.jpg"
+        },
+        "name": "サンライズ",
+        "relation": "製作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 189,
+        "eps": ""
       },
       {
         "images": {
@@ -1421,6 +1453,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/94/94/189_prsn_jKO62.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/94/94/189_prsn_jKO62.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/94/94/189_prsn_jKO62.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/94/94/189_prsn_jKO62.jpg"
+        },
+        "name": "サンライズ",
+        "relation": "企画",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 189,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/d7/64/1280_prsn_R338d.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/d7/64/1280_prsn_R338d.jpg",
@@ -1519,22 +1567,6 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/94/94/189_prsn_jKO62.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/94/94/189_prsn_jKO62.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/94/94/189_prsn_jKO62.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/94/94/189_prsn_jKO62.jpg"
-        },
-        "name": "サンライズ",
-        "relation": "企画",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 189,
-        "eps": ""
-      },
-      {
-        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/72/6a/32105_prsn_cZ691.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/72/6a/32105_prsn_cZ691.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/72/6a/32105_prsn_cZ691.jpg",
@@ -1547,22 +1579,6 @@
         ],
         "type": 2,
         "id": 32105,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/94/94/189_prsn_jKO62.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/94/94/189_prsn_jKO62.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/94/94/189_prsn_jKO62.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/94/94/189_prsn_jKO62.jpg"
-        },
-        "name": "サンライズ",
-        "relation": "製作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 189,
         "eps": ""
       },
       {
@@ -1648,10 +1664,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/52/253_prsn_kGMNC.jpg?r=1687855577",
-          "grid": "https://lain.bgm.tv/pic/crt/g/f4/52/253_prsn_kGMNC.jpg?r=1687855577",
-          "large": "https://lain.bgm.tv/pic/crt/l/f4/52/253_prsn_kGMNC.jpg?r=1687855577",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f4/52/253_prsn_kGMNC.jpg?r=1687855577"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/52/253_prsn_jjO6v.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f4/52/253_prsn_jjO6v.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f4/52/253_prsn_jjO6v.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f4/52/253_prsn_jjO6v.jpg"
         },
         "name": "河森正治",
         "relation": "设定",
@@ -1664,10 +1680,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/61/d7/13705_prsn_ntlJT.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/61/d7/13705_prsn_ntlJT.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/61/d7/13705_prsn_ntlJT.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/61/d7/13705_prsn_ntlJT.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/61/d7/13705_prsn_c4P54.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/61/d7/13705_prsn_c4P54.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/61/d7/13705_prsn_c4P54.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/61/d7/13705_prsn_c4P54.jpg"
         },
         "name": "石垣純哉",
         "relation": "设定",
@@ -1836,22 +1852,6 @@
         ],
         "type": 2,
         "id": 35,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/94/94/189_prsn_jKO62.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/94/94/189_prsn_jKO62.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/94/94/189_prsn_jKO62.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/94/94/189_prsn_jKO62.jpg"
-        },
-        "name": "サンライズ",
-        "relation": "动画制作",
-        "career": [
-          "producer"
-        ],
-        "type": 2,
-        "id": 189,
         "eps": ""
       },
       {
@@ -2339,7 +2339,7 @@
         "id": 327670
       }
     ],
-    "updatedAt": "2026-05-03T12:04:46.391Z"
+    "updatedAt": "2026-07-05T17:15:02.945Z"
   },
   {
     "id": 47760,

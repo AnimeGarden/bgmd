@@ -26,12 +26,12 @@
           "total_cont": 0
         },
         {
-          "name": "TV",
+          "name": "童年",
           "count": 7,
           "total_cont": 0
         },
         {
-          "name": "童年",
+          "name": "TV",
           "count": 7,
           "total_cont": 0
         },
@@ -41,7 +41,7 @@
           "total_cont": 0
         },
         {
-          "name": "搞笑",
+          "name": "漫画改",
           "count": 4,
           "total_cont": 0
         },
@@ -51,17 +51,22 @@
           "total_cont": 0
         },
         {
+          "name": "搞笑",
+          "count": 4,
+          "total_cont": 0
+        },
+        {
           "name": "楽しいムーミン一家",
           "count": 3,
           "total_cont": 0
         },
         {
-          "name": "漫画改",
-          "count": 3,
+          "name": "1991年",
+          "count": 2,
           "total_cont": 0
         },
         {
-          "name": "竟然有动画",
+          "name": "テレスクリーン",
           "count": 2,
           "total_cont": 0
         },
@@ -76,17 +81,47 @@
           "total_cont": 0
         },
         {
-          "name": "1991年",
+          "name": "竟然有动画",
           "count": 2,
           "total_cont": 0
         },
         {
-          "name": "テレスクリーン",
-          "count": 2,
+          "name": "没看全",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "冒险日记",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "喜欢",
+          "count": 1,
           "total_cont": 0
         },
         {
           "name": "漫改",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "姆明一族",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "没看完",
+          "count": 1,
+          "total_cont": 0
+        },
+        {
+          "name": "治愈",
           "count": 1,
           "total_cont": 0
         },
@@ -106,47 +141,12 @@
           "total_cont": 0
         },
         {
-          "name": "喜欢",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "治愈",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "冒险日记",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "没看完",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
           "name": "电视的应该没看全",
           "count": 1,
           "total_cont": 0
         },
         {
           "name": "1991年十月番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "姆明一族",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "没看全",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
           "count": 1,
           "total_cont": 0
         }
@@ -250,7 +250,7 @@
       "collection": {
         "on_hold": 5,
         "dropped": 12,
-        "wish": 31,
+        "wish": 32,
         "collect": 52,
         "doing": 2
       },
@@ -910,10 +910,10 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7b/af/579_prsn_gnqAN.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/7b/af/579_prsn_gnqAN.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/7b/af/579_prsn_gnqAN.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7b/af/579_prsn_gnqAN.jpg"
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7b/af/579_prsn_tp8W6.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7b/af/579_prsn_tp8W6.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7b/af/579_prsn_tp8W6.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7b/af/579_prsn_tp8W6.jpg"
         },
         "name": "阿部記之",
         "relation": "分镜",
@@ -1342,6 +1342,22 @@
         "type": 1,
         "id": 92542,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "米岡仁司",
+        "relation": "制作进行",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 94298,
+        "eps": ""
       }
     ],
     "characters": [
@@ -1502,7 +1518,7 @@
         "id": 486088
       }
     ],
-    "updatedAt": "2026-05-03T12:05:19.065Z"
+    "updatedAt": "2026-07-05T17:15:58.189Z"
   },
   {
     "id": 37128,
