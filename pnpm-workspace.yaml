@@ -1,8 +1,8 @@
 allowBuilds:
   esbuild: true
 
-patchedDependencies:
-  lru-cache@11.3.0: patches/lru-cache@11.3.0.patch
+minimumReleaseAgeExclude:
+  - bgmx@0.2.0
 
 gitChecks: false
 ignoreWorkspaceRootCheck: true
