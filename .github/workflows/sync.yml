@@ -37,7 +37,9 @@ jobs:
           cache: pnpm
 
       - name: Add pnpm global bin to PATH
-        run: pnpm config get global-bin-dir >> "$GITHUB_PATH"
+        run: |
+          mkdir -p "$PNPM_HOME/bin"
+          echo "$PNPM_HOME/bin" >> "$GITHUB_PATH"
 
       - name: Checkout repository
         uses: actions/checkout@v5
