@@ -50,6 +50,7 @@ await fs.writeJSON('dist/index.json', {
   subjects: full.map((item) => ({
     id: item.id,
     title: item.title,
+    alias: item.alias,
     platform: item.platform,
     onair_date: item.onair_date,
     rating: item.rating,

@@ -1,57 +1,31 @@
 [
   {
     "id": 113127,
-    "title": "西游记",
+    "title": "西遊記",
     "platform": "剧场版",
     "onair_date": "1960-08-14",
-    "rating": {
-      "score": 5.5,
-      "rank": 0
-    },
     "poster": "https://lain.bgm.tv/pic/cover/l/37/49/113127_tK09v.jpg",
-    "images": [
-      {
-        "provider": "bgm",
-        "quality": "large",
-        "src": "https://lain.bgm.tv/pic/cover/l/37/49/113127_tK09v.jpg"
-      },
-      {
-        "provider": "bgm",
-        "quality": "common",
-        "src": "https://lain.bgm.tv/r/400/pic/cover/l/37/49/113127_tK09v.jpg"
-      },
-      {
-        "provider": "bgm",
-        "quality": "medium",
-        "src": "https://lain.bgm.tv/r/800/pic/cover/l/37/49/113127_tK09v.jpg"
-      },
-      {
-        "provider": "bgm",
-        "quality": "small",
-        "src": "https://lain.bgm.tv/r/200/pic/cover/l/37/49/113127_tK09v.jpg"
-      },
-      {
-        "provider": "bgm",
-        "quality": "grid",
-        "src": "https://lain.bgm.tv/r/100/pic/cover/l/37/49/113127_tK09v.jpg"
-      }
-    ],
     "summary": "本片改编自手冢治虫的漫画《我的孙悟空》。影片讲述了孙悟空从花果山石猴成长为三藏法师仆从，从石中诞生后成为猴王，后因大闹天宫被压五行山，经点化随三藏法师西天取经。途中，孙悟空与猪八戒、沙悟净结识，共同克服艰险，最终抵达天地取得经文。",
-    "alias": [
-      "西游记",
-      "西遊記"
-    ],
+    "alias": {
+      "ja": [
+        "西遊記"
+      ],
+      "zh": [
+        "西游记"
+      ]
+    },
     "tags": [
+      "剧场版",
+      "漫画改",
       "1960-1969",
       "东映",
-      "剧场版",
       "小说改",
       "手冢治虫"
     ],
     "search": {
       "include": [
-        "西游记",
-        "西遊記"
+        "西遊記",
+        "西游记"
       ]
     }
   }
