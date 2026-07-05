@@ -21,8 +21,8 @@ importers:
         specifier: 0.3.0
         version: 0.3.0
       bgmx:
-        specifier: 0.2.0
-        version: 0.2.0(bangumi-data@0.3.212)
+        specifier: 0.2.1
+        version: 0.2.1(bangumi-data@0.3.212)
       execa:
         specifier: 9.6.1
         version: 9.6.1
@@ -166,8 +166,8 @@ packages:
     resolution: {integrity: sha512-Vi4CZ5CSZt54Qh4ns0f9pBiiIgGP4+KiA81NNFA8OrTjtUYhaQRRtUEh9x/FNyb1RAl1y9ov6DQAxL/2LrrqrQ==}
     engines: {node: '>=v24.0.0'}
 
-  bgmx@0.2.0:
-    resolution: {integrity: sha512-L9VH8hpQIIdPk9jaGwv6izeNecEbn6orZVLUe8zWoDy5i2OQwCOOhzXKAwF+jNrx4R+sb6Q9DnG2tLcen5nP6w==}
+  bgmx@0.2.1:
+    resolution: {integrity: sha512-Xr75IOS3A38QLcspycaO/Ddakzlnx8vE5XiW8OjvCOQ1yPlhTUMsj/yRYqfzJde0G5wuJh830BOjwIJbxr1eZg==}
     engines: {node: '>=v24.0.0'}
     hasBin: true
     peerDependencies:
@@ -609,7 +609,7 @@ snapshots:
       bgmc: 0.3.0
       simptrad: 0.2.0
 
-  bgmx@0.2.0(bangumi-data@0.3.212):
+  bgmx@0.2.1(bangumi-data@0.3.212):
     dependencies:
       '@animegarden/client': 0.5.4
       '@clack/prompts': 1.7.0

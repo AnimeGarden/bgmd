@@ -2,7 +2,7 @@ allowBuilds:
   esbuild: true
 
 minimumReleaseAgeExclude:
-  - bgmx@0.2.0
+  - bgmx@0.2.1
 
 gitChecks: false
 ignoreWorkspaceRootCheck: true
