@@ -18,27 +18,27 @@
         {
           "name": "剧场版",
           "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "鬼太郎",
-          "count": 2,
-          "total_cont": 0
+          "total_count": 704188
         },
         {
           "name": "1980",
           "count": 2,
-          "total_cont": 0
+          "total_count": 1312
+        },
+        {
+          "name": "鬼太郎",
+          "count": 2,
+          "total_count": 115
         },
         {
           "name": "神魔",
           "count": 1,
-          "total_cont": 0
+          "total_count": 765
         },
         {
           "name": "子供向",
           "count": 1,
-          "total_cont": 0
+          "total_count": 11830
         }
       ],
       "infobox": [
@@ -85,7 +85,7 @@
         "on_hold": 2,
         "dropped": 6,
         "wish": 6,
-        "collect": 9,
+        "collect": 10,
         "doing": 2
       },
       "id": 211092,
@@ -100,6 +100,22 @@
       "type": 2
     },
     "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "large": "https://lain.bgm.tv/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601"
+        },
+        "name": "東映",
+        "relation": "发行",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 13136,
+        "eps": ""
+      },
       {
         "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/19/da/1671_prsn_nG377.jpg?r=1707097293",
@@ -148,7 +164,7 @@
         "id": 133510
       }
     ],
-    "updatedAt": "2026-05-03T12:30:07.322Z"
+    "updated_at": "2026-08-27T23:44:54.553Z"
   },
   {
     "id": 220040,
@@ -169,77 +185,77 @@
         {
           "name": "剧场版",
           "count": 8,
-          "total_cont": 0
+          "total_count": 722605
         },
         {
           "name": "1980",
           "count": 4,
-          "total_cont": 0
+          "total_count": 1354
         },
         {
           "name": "1980年7月",
           "count": 3,
-          "total_cont": 0
+          "total_count": 3
         },
         {
           "name": "1980年",
           "count": 3,
-          "total_cont": 0
+          "total_count": 77
         },
         {
           "name": "1980年七月番",
           "count": 3,
-          "total_cont": 0
+          "total_count": 4
         },
         {
           "name": "旧物",
           "count": 2,
-          "total_cont": 0
+          "total_count": 3545
         },
         {
           "name": "赛璐珞",
           "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "原创",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "H",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "漫画改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "搞笑",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "无",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "里番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "80s",
-          "count": 1,
-          "total_cont": 0
+          "total_count": 1092
         },
         {
           "name": "剧场版-02",
           "count": 1,
-          "total_cont": 0
+          "total_count": 78
+        },
+        {
+          "name": "搞笑",
+          "count": 1,
+          "total_count": 637182
+        },
+        {
+          "name": "原创",
+          "count": 1,
+          "total_count": 618558
+        },
+        {
+          "name": "80s",
+          "count": 1,
+          "total_count": 632
+        },
+        {
+          "name": "H",
+          "count": 1,
+          "total_count": 4565
+        },
+        {
+          "name": "漫画改",
+          "count": 1,
+          "total_count": 859733
+        },
+        {
+          "name": "无",
+          "count": 1,
+          "total_count": 1004
+        },
+        {
+          "name": "里番",
+          "count": 1,
+          "total_count": 315623
         }
       ],
       "infobox": [
@@ -279,9 +295,9 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 5,
+        "on_hold": 6,
         "dropped": 7,
-        "wish": 8,
+        "wish": 10,
         "collect": 9,
         "doing": 4
       },
@@ -379,6 +395,384 @@
         "id": 477777
       }
     ],
-    "updatedAt": "2026-05-03T12:31:19.523Z"
+    "updated_at": "2026-08-28T17:46:09.361Z"
+  },
+  {
+    "id": 426715,
+    "data": {
+      "date": "1980-07-19",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/2e/426715_Vtt6R.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/2e/426715_Vtt6R.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2f/2e/426715_Vtt6R.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/2e/426715_Vtt6R.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/2e/426715_Vtt6R.jpg"
+      },
+      "summary": "1980年7月19日に、映像を編集したものが劇場版として公開されている。キャストはテレビ版と同じ。興行としては不振であったため、劇場公開1週間で終了した。映像ソフトはVHSソフト、レーザーディスクのみが発売されている。",
+      "name": "母をたずねて三千里",
+      "name_cn": "三千里寻母记 剧场版",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 2,
+          "total_count": 712418
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_count": 3944
+        },
+        {
+          "name": "吉卜力",
+          "count": 1,
+          "total_count": 42465
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "三千里寻母记 剧场版"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "母をたずねて三千里（1980）"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "1980年7月19日"
+        },
+        {
+          "key": "片长",
+          "value": "107分"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 3,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 1
+        },
+        "score": 6.7
+      },
+      "total_episodes": 0,
+      "collection": {
+        "on_hold": 1,
+        "dropped": 6,
+        "wish": 11,
+        "collect": 4,
+        "doing": 2
+      },
+      "id": 426715,
+      "eps": 0,
+      "meta_tags": [
+        "剧场版"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/e8/30/14015_prsn_ffx8v.jpg?r=1674895472",
+          "grid": "https://lain.bgm.tv/pic/crt/g/e8/30/14015_prsn_ffx8v.jpg?r=1674895472",
+          "large": "https://lain.bgm.tv/pic/crt/l/e8/30/14015_prsn_ffx8v.jpg?r=1674895472",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/e8/30/14015_prsn_ffx8v.jpg?r=1674895472"
+        },
+        "name": "岡安肇",
+        "relation": "剪辑",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 14015,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/0d/8a/887_prsn_MJn4N.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/0d/8a/887_prsn_MJn4N.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/0d/8a/887_prsn_MJn4N.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/0d/8a/887_prsn_MJn4N.jpg"
+        },
+        "name": "小田部羊一",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 887,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c8/2c/1040_prsn_sSa17.jpg?r=1611686960",
+          "grid": "https://lain.bgm.tv/pic/crt/g/c8/2c/1040_prsn_sSa17.jpg?r=1611686960",
+          "large": "https://lain.bgm.tv/pic/crt/l/c8/2c/1040_prsn_sSa17.jpg?r=1611686960",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c8/2c/1040_prsn_sSa17.jpg?r=1611686960"
+        },
+        "name": "宮崎駿",
+        "relation": "构图",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1040,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/0d/8a/887_prsn_MJn4N.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/0d/8a/887_prsn_MJn4N.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/0d/8a/887_prsn_MJn4N.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/0d/8a/887_prsn_MJn4N.jpg"
+        },
+        "name": "小田部羊一",
+        "relation": "人物设定",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 887,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/06/c4/1644_prsn_I9SU6.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/06/c4/1644_prsn_I9SU6.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/06/c4/1644_prsn_I9SU6.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/06/c4/1644_prsn_I9SU6.jpg"
+        },
+        "name": "坂田晃一",
+        "relation": "音乐",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1644,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "深沢一夫",
+        "relation": "脚本",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1643,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/cd/78/1506_prsn_KwIDP.jpg?r=1525344346",
+          "grid": "https://lain.bgm.tv/pic/crt/g/cd/78/1506_prsn_KwIDP.jpg?r=1525344346",
+          "large": "https://lain.bgm.tv/pic/crt/l/cd/78/1506_prsn_KwIDP.jpg?r=1525344346",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/cd/78/1506_prsn_KwIDP.jpg?r=1525344346"
+        },
+        "name": "高畑勲",
+        "relation": "导演",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1506,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/48/c0/89193_prsn_0TiCE.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/48/c0/89193_prsn_0TiCE.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/48/c0/89193_prsn_0TiCE.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/48/c0/89193_prsn_0TiCE.jpg"
+        },
+        "name": "中島順三",
+        "relation": "制片人",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 89193,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/81/c6/1642_prsn_anidb.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/81/c6/1642_prsn_anidb.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/81/c6/1642_prsn_anidb.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/81/c6/1642_prsn_anidb.jpg"
+        },
+        "name": "Edmondo de Amicis",
+        "relation": "原作",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1642,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "蔭山康生",
+        "relation": "演出助理",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 70866,
+        "eps": ""
+      }
+    ],
+    "characters": [],
+    "subjects": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/11/18254_cUrYm.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/11/18254_cUrYm.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/ea/11/18254_cUrYm.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/11/18254_cUrYm.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/11/18254_cUrYm.jpg"
+        },
+        "name": "母をたずねて三千里",
+        "name_cn": "三千里寻母记",
+        "relation": "全集",
+        "type": 2,
+        "id": 18254
+      }
+    ],
+    "updated_at": "2026-08-28T17:46:11.203Z"
+  },
+  {
+    "id": 533625,
+    "data": {
+      "date": "1980-07-26",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/92/6a/533625_1k2gF.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/92/6a/533625_1k2gF.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/92/6a/533625_1k2gF.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/92/6a/533625_1k2gF.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/92/6a/533625_1k2gF.jpg"
+      },
+      "summary": "정체를 알수없는 은하계 혹성에서 날아온 우주괴물 총재 X가 지구 정복을 계획하고, 알렉터라는 군단을 조직한 후 괴수 로봇을 앞세워 국제에너지개발연구소와 국제과학기술개발기구를 공격한다. 그러나 유박사가 조직한 정의의 톡공대인 소년 독수리 5형제의 활약으로 그 공격은 실패로 끝나고 만다.",
+      "name": "독수리 5형제",
+      "name_cn": "",
+      "tags": [
+        {
+          "name": "韩国",
+          "count": 1,
+          "total_count": 2935
+        },
+        {
+          "name": "剧场版",
+          "count": 1,
+          "total_count": 627307
+        }
+      ],
+      "infobox": [
+        {
+          "key": "上映年度",
+          "value": "1980年7月26日"
+        },
+        {
+          "key": "导演",
+          "value": "이규홍"
+        },
+        {
+          "key": "制片人",
+          "value": "석진택"
+        },
+        {
+          "key": "脚本",
+          "value": "임웅순"
+        },
+        {
+          "key": "动画制作",
+          "value": "삼정기획"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 0,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 0
+      },
+      "total_episodes": 0,
+      "collection": {
+        "on_hold": 0,
+        "dropped": 1,
+        "wish": 1,
+        "collect": 0,
+        "doing": 1
+      },
+      "id": 533625,
+      "eps": 0,
+      "meta_tags": [
+        "剧场版",
+        "韩国"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    "persons": [],
+    "characters": [],
+    "subjects": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/7a/ee/53767_KG02e.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7a/ee/53767_KG02e.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/7a/ee/53767_KG02e.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7a/ee/53767_KG02e.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/7a/ee/53767_KG02e.jpg"
+        },
+        "name": "科学忍者隊ガッチャマン",
+        "name_cn": "科学小飞侠",
+        "relation": "主线故事",
+        "type": 2,
+        "id": 53767
+      }
+    ],
+    "updated_at": "2026-08-28T01:07:55.047Z"
   }
 ]

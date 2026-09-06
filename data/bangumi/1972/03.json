@@ -17,98 +17,103 @@
       "tags": [
         {
           "name": "剧场版",
-          "count": 10,
-          "total_cont": 0
+          "count": 11,
+          "total_count": 710056
         },
         {
           "name": "1972",
-          "count": 5,
-          "total_cont": 0
+          "count": 6,
+          "total_count": 335
         },
         {
           "name": "东映",
           "count": 4,
-          "total_cont": 0
+          "total_count": 20526
         },
         {
           "name": "東映アニメーション",
           "count": 3,
-          "total_cont": 0
+          "total_count": 9745
         },
         {
           "name": "TV",
           "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "冒险",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "原创",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "小说改",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "-1980",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "子供向",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "小宮山清",
-          "count": 1,
-          "total_cont": 0
+          "total_count": 1361131
         },
         {
           "name": "童话改",
           "count": 1,
-          "total_cont": 0
+          "total_count": 73
+        },
+        {
+          "name": "续篇",
+          "count": 1,
+          "total_count": 1272
         },
         {
           "name": "70s",
           "count": 1,
-          "total_cont": 0
+          "total_count": 263
         },
         {
-          "name": "アニメ映画",
+          "name": "小宮山清",
           "count": 1,
-          "total_cont": 0
+          "total_count": 2
+        },
+        {
+          "name": "小说改",
+          "count": 1,
+          "total_count": 149968
         },
         {
           "name": "勝間田具治",
           "count": 1,
-          "total_cont": 0
+          "total_count": 85
         },
         {
-          "name": "赛璐珞",
+          "name": "アニメ映画",
           "count": 1,
-          "total_cont": 0
+          "total_count": 2806
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_count": 3607
         },
         {
           "name": "鈴木やすし",
           "count": 1,
-          "total_cont": 0
+          "total_count": 1
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1,
+          "total_count": 1082
+        },
+        {
+          "name": "-1980",
+          "count": 1,
+          "total_count": 32
+        },
+        {
+          "name": "原创",
+          "count": 1,
+          "total_count": 603588
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_count": 34325
+        },
+        {
+          "name": "冒险",
+          "count": 1,
+          "total_count": 50763
+        },
+        {
+          "name": "子供向",
+          "count": 1,
+          "total_count": 12137
         }
       ],
       "infobox": [
@@ -175,7 +180,7 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 4,
+        "on_hold": 6,
         "dropped": 9,
         "wish": 10,
         "collect": 31,
@@ -234,22 +239,6 @@
           "large": "",
           "medium": ""
         },
-        "name": "横山賢二",
-        "relation": "企画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 981,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
         "name": "高橋勇",
         "relation": "製作",
         "career": [
@@ -273,6 +262,22 @@
         ],
         "type": 1,
         "id": 2495,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "large": "https://lain.bgm.tv/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601"
+        },
+        "name": "東映",
+        "relation": "发行",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 13136,
         "eps": ""
       },
       {
@@ -331,6 +336,22 @@
           "large": "",
           "medium": ""
         },
+        "name": "横山賢二",
+        "relation": "企画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 981,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
         "name": "松原明徳",
         "relation": "补间动画",
         "career": [
@@ -338,6 +359,38 @@
         ],
         "type": 1,
         "id": 85887,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "小川明弘",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 95560,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "伊藤英治",
+        "relation": "色彩设计",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 95562,
         "eps": ""
       }
     ],
@@ -400,6 +453,6 @@
         "id": 177791
       }
     ],
-    "updatedAt": "2026-05-03T12:18:47.219Z"
+    "updated_at": "2026-08-27T21:03:26.879Z"
   }
 ]

@@ -17,113 +17,113 @@
       "tags": [
         {
           "name": "1961",
-          "count": 17,
-          "total_cont": 0
+          "count": 18,
+          "total_count": 529
         },
         {
           "name": "剧场版",
           "count": 13,
-          "total_cont": 0
+          "total_count": 722833
         },
         {
           "name": "東映動画",
           "count": 6,
-          "total_cont": 0
+          "total_count": 19
         },
         {
           "name": "动画长片",
           "count": 4,
-          "total_cont": 0
+          "total_count": 290
         },
         {
           "name": "东映",
           "count": 4,
-          "total_cont": 0
-        },
-        {
-          "name": "芹川有吾",
-          "count": 3,
-          "total_cont": 0
+          "total_count": 20910
         },
         {
           "name": "住田知仁",
           "count": 3,
-          "total_cont": 0
+          "total_count": 3
         },
         {
           "name": "東映アニメーション",
           "count": 3,
-          "total_cont": 0
+          "total_count": 9928
+        },
+        {
+          "name": "芹川有吾",
+          "count": 3,
+          "total_count": 40
         },
         {
           "name": "東映",
           "count": 2,
-          "total_cont": 0
+          "total_count": 764
         },
         {
           "name": "日本动画",
           "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "佐久間良子",
-          "count": 1,
-          "total_cont": 0
+          "total_count": 34877
         },
         {
           "name": "小说改",
           "count": 1,
-          "total_cont": 0
+          "total_count": 158763
         },
         {
-          "name": "动画电影",
+          "name": "旧物",
           "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "高橋勇",
-          "count": 1,
-          "total_cont": 0
+          "total_count": 3541
         },
         {
           "name": "東映動画長編アニメ映画",
           "count": 1,
-          "total_cont": 0
+          "total_count": 18
         },
         {
           "name": "东映动画",
           "count": 1,
-          "total_cont": 0
+          "total_count": 7296
+        },
+        {
+          "name": "佐久間良子",
+          "count": 1,
+          "total_count": 1
+        },
+        {
+          "name": "动画电影",
+          "count": 1,
+          "total_count": 43675
         },
         {
           "name": "独立剧场版",
           "count": 1,
-          "total_cont": 0
+          "total_count": 965
         },
         {
           "name": "藪下泰司",
           "count": 1,
-          "total_cont": 0
+          "total_count": 10
         },
         {
           "name": "薮下泰司",
           "count": 1,
-          "total_cont": 0
+          "total_count": 20
         },
         {
           "name": "アニメ映画",
           "count": 1,
-          "total_cont": 0
+          "total_count": 2860
         },
         {
           "name": "原创",
           "count": 1,
-          "total_cont": 0
+          "total_count": 618806
+        },
+        {
+          "name": "高橋勇",
+          "count": 1,
+          "total_count": 1
         }
       ],
       "infobox": [
@@ -142,15 +142,15 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 19,
+        "total": 21,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 2,
-          "5": 3,
+          "5": 4,
           "6": 5,
-          "7": 7,
+          "7": 8,
           "8": 2,
           "9": 0,
           "10": 0
@@ -159,10 +159,10 @@
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 1,
+        "on_hold": 3,
         "dropped": 5,
-        "wish": 37,
-        "collect": 37,
+        "wish": 39,
+        "collect": 39,
         "doing": 2
       },
       "id": 38940,
@@ -403,6 +403,22 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "large": "https://lain.bgm.tv/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601"
+        },
+        "name": "東映",
+        "relation": "发行",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 13136,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "https://lain.bgm.tv/r/100/pic/crt/l/67/32/1697_prsn_anidb.jpg",
           "grid": "https://lain.bgm.tv/pic/crt/g/67/32/1697_prsn_anidb.jpg",
           "large": "https://lain.bgm.tv/pic/crt/l/67/32/1697_prsn_anidb.jpg",
@@ -420,6 +436,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-05-03T12:12:44.873Z"
+    "updated_at": "2026-08-28T17:45:36.058Z"
   }
 ]
