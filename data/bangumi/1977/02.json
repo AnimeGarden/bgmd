@@ -18,82 +18,82 @@
         {
           "name": "TV",
           "count": 4,
-          "total_cont": 0
+          "total_count": 1288042
         },
         {
           "name": "漫画改",
           "count": 4,
-          "total_cont": 0
+          "total_count": 776989
         },
         {
           "name": "TVA",
           "count": 3,
-          "total_cont": 0
+          "total_count": 14972
         },
         {
           "name": "手塚治虫",
           "count": 3,
-          "total_cont": 0
+          "total_count": 2820
         },
         {
           "name": "1977",
           "count": 2,
-          "total_cont": 0
+          "total_count": 360
         },
         {
           "name": "日本",
           "count": 2,
-          "total_cont": 0
+          "total_count": 231883
         },
         {
           "name": "日本动画",
           "count": 1,
-          "total_cont": 0
+          "total_count": 33830
         },
         {
           "name": "りんたろう",
           "count": 1,
-          "total_cont": 0
+          "total_count": 222
         },
         {
           "name": "丸山正雄",
           "count": 1,
-          "total_cont": 0
+          "total_count": 411
         },
         {
           "name": "后宫",
           "count": 1,
-          "total_cont": 0
+          "total_count": 277580
         },
         {
           "name": "東映アニメーション",
           "count": 1,
-          "total_cont": 0
+          "total_count": 9376
         },
         {
           "name": "清水マリ",
           "count": 1,
-          "total_cont": 0
+          "total_count": 6
         },
         {
           "name": "70s",
           "count": 1,
-          "total_cont": 0
+          "total_count": 260
         },
         {
           "name": "赛璐珞",
           "count": 1,
-          "total_cont": 0
+          "total_count": 1052
         },
         {
           "name": "旧物",
           "count": 1,
-          "total_cont": 0
+          "total_count": 2930
         },
         {
           "name": "剧场版",
           "count": 1,
-          "total_cont": 0
+          "total_count": 683309
         }
       ],
       "infobox": [
@@ -517,6 +517,23 @@
       },
       {
         "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2b/3b/1513_prsn_anidb.jpg?r=1489325177",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2b/3b/1513_prsn_anidb.jpg?r=1489325177",
+          "large": "https://lain.bgm.tv/pic/crt/l/2b/3b/1513_prsn_anidb.jpg?r=1489325177",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2b/3b/1513_prsn_anidb.jpg?r=1489325177"
+        },
+        "name": "出﨑統",
+        "relation": "分镜",
+        "career": [
+          "producer",
+          "mangaka"
+        ],
+        "type": 1,
+        "id": 1513,
+        "eps": ""
+      },
+      {
+        "images": {
           "small": "",
           "grid": "",
           "large": "",
@@ -577,23 +594,6 @@
         ],
         "type": 1,
         "id": 21975,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2b/3b/1513_prsn_anidb.jpg?r=1489325177",
-          "grid": "https://lain.bgm.tv/pic/crt/g/2b/3b/1513_prsn_anidb.jpg?r=1489325177",
-          "large": "https://lain.bgm.tv/pic/crt/l/2b/3b/1513_prsn_anidb.jpg?r=1489325177",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2b/3b/1513_prsn_anidb.jpg?r=1489325177"
-        },
-        "name": "出﨑統",
-        "relation": "分镜",
-        "career": [
-          "producer",
-          "mangaka"
-        ],
-        "type": 1,
-        "id": 1513,
         "eps": ""
       },
       {
@@ -1098,6 +1098,22 @@
         "type": 1,
         "id": 1318,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "鹿島恒保",
+        "relation": "作画监督",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 95558,
+        "eps": ""
       }
     ],
     "characters": [
@@ -1146,6 +1162,6 @@
         "id": 532688
       }
     ],
-    "updatedAt": "2026-05-03T12:19:36.239Z"
+    "updated_at": "2026-08-28T17:45:34.149Z"
   }
 ]

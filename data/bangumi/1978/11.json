@@ -17,83 +17,93 @@
       "tags": [
         {
           "name": "TV",
+          "count": 4,
+          "total_count": 1405861
+        },
+        {
+          "name": "1978",
           "count": 3,
-          "total_cont": 0
+          "total_count": 610
         },
         {
           "name": "東映アニメーション",
           "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "1978",
-          "count": 2,
-          "total_cont": 0
+          "total_count": 9953
         },
         {
           "name": "勝間田具治",
           "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "日本",
-          "count": 1,
-          "total_cont": 0
+          "total_count": 85
         },
         {
           "name": "科幻",
           "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "TVA",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "SF",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "冷门老番",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "70s",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "増山江威子",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "今田智憲",
-          "count": 1,
-          "total_cont": 0
+          "total_count": 253109
         },
         {
           "name": "広川太一郎",
           "count": 1,
-          "total_cont": 0
+          "total_count": 1
+        },
+        {
+          "name": "冷门老番",
+          "count": 1,
+          "total_count": 53
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_count": 3540
+        },
+        {
+          "name": "东映",
+          "count": 1,
+          "total_count": 20948
+        },
+        {
+          "name": "今田智憲",
+          "count": 1,
+          "total_count": 3
         },
         {
           "name": "赛璐珞",
           "count": 1,
-          "total_cont": 0
+          "total_count": 1096
+        },
+        {
+          "name": "TVA",
+          "count": 1,
+          "total_count": 15444
+        },
+        {
+          "name": "SF",
+          "count": 1,
+          "total_count": 7166
+        },
+        {
+          "name": "日本",
+          "count": 1,
+          "total_count": 297981
+        },
+        {
+          "name": "原创",
+          "count": 1,
+          "total_count": 620832
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_count": 34920
+        },
+        {
+          "name": "70s",
+          "count": 1,
+          "total_count": 264
+        },
+        {
+          "name": "増山江威子",
+          "count": 1,
+          "total_count": 16
         }
       ],
       "infobox": [
@@ -150,8 +160,8 @@
       "collection": {
         "on_hold": 2,
         "dropped": 7,
-        "wish": 13,
-        "collect": 6,
+        "wish": 14,
+        "collect": 7,
         "doing": 2
       },
       "id": 133338,
@@ -213,22 +223,6 @@
         ],
         "type": 1,
         "id": 1033,
-        "eps": ""
-      },
-      {
-        "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
-        },
-        "name": "栗山富郎",
-        "relation": "企画",
-        "career": [
-          "producer"
-        ],
-        "type": 1,
-        "id": 1034,
         "eps": ""
       },
       {
@@ -460,10 +454,26 @@
       },
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/100/pic/crt/l/33/32/1922_prsn_anidb.jpg",
-          "grid": "https://lain.bgm.tv/pic/crt/g/33/32/1922_prsn_anidb.jpg",
-          "large": "https://lain.bgm.tv/pic/crt/l/33/32/1922_prsn_anidb.jpg",
-          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/33/32/1922_prsn_anidb.jpg"
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "栗山富郎",
+        "relation": "企画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1034,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/c2/8a/1922_prsn_53yrJ.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/c2/8a/1922_prsn_53yrJ.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/c2/8a/1922_prsn_53yrJ.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/c2/8a/1922_prsn_53yrJ.jpg"
         },
         "name": "佐藤好春",
         "relation": "补间动画",
@@ -509,6 +519,6 @@
     ],
     "characters": [],
     "subjects": [],
-    "updatedAt": "2026-05-03T12:24:02.490Z"
+    "updated_at": "2026-09-05T12:40:52.114Z"
   }
 ]

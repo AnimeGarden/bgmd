@@ -18,82 +18,82 @@
         {
           "name": "剧场版",
           "count": 8,
-          "total_cont": 0
+          "total_count": 708028
         },
         {
           "name": "1970",
           "count": 3,
-          "total_cont": 0
-        },
-        {
-          "name": "瀬川昌治",
-          "count": 2,
-          "total_cont": 0
-        },
-        {
-          "name": "朝井ゆかり",
-          "count": 2,
-          "total_cont": 0
+          "total_count": 364
         },
         {
           "name": "市原悦子",
           "count": 2,
-          "total_cont": 0
+          "total_count": 4
+        },
+        {
+          "name": "瀬川昌治",
+          "count": 2,
+          "total_count": 2
         },
         {
           "name": "芹川有吾",
           "count": 2,
-          "total_cont": 0
+          "total_count": 39
         },
         {
-          "name": "旧物",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "6(+1)",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "东映",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "アニメ映画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "日本动画",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "東映アニメーション",
-          "count": 1,
-          "total_cont": 0
-        },
-        {
-          "name": "bilibili",
-          "count": 1,
-          "total_cont": 0
+          "name": "朝井ゆかり",
+          "count": 2,
+          "total_count": 3
         },
         {
           "name": "生肉",
           "count": 1,
-          "total_cont": 0
+          "total_count": 135
         },
         {
           "name": "富田耕生",
           "count": 1,
-          "total_cont": 0
+          "total_count": 21
         },
         {
           "name": "1970s",
           "count": 1,
-          "total_cont": 0
+          "total_count": 227
+        },
+        {
+          "name": "東映アニメーション",
+          "count": 1,
+          "total_count": 9718
+        },
+        {
+          "name": "アニメ映画",
+          "count": 1,
+          "total_count": 2806
+        },
+        {
+          "name": "6(+1)",
+          "count": 1,
+          "total_count": 406
+        },
+        {
+          "name": "旧物",
+          "count": 1,
+          "total_count": 3589
+        },
+        {
+          "name": "东映",
+          "count": 1,
+          "total_count": 20486
+        },
+        {
+          "name": "日本动画",
+          "count": 1,
+          "total_count": 34281
+        },
+        {
+          "name": "bilibili",
+          "count": 1,
+          "total_count": 3466
         }
       ],
       "infobox": [
@@ -132,27 +132,27 @@
       ],
       "rating": {
         "rank": 0,
-        "total": 8,
+        "total": 9,
         "count": {
           "1": 0,
           "2": 0,
           "3": 0,
           "4": 0,
-          "5": 1,
+          "5": 2,
           "6": 5,
           "7": 2,
           "8": 0,
           "9": 0,
           "10": 0
         },
-        "score": 6.1
+        "score": 6
       },
       "total_episodes": 1,
       "collection": {
-        "on_hold": 1,
+        "on_hold": 2,
         "dropped": 6,
         "wish": 11,
-        "collect": 15,
+        "collect": 16,
         "doing": 2
       },
       "id": 158777,
@@ -213,6 +213,22 @@
         ],
         "type": 2,
         "id": 3045,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "large": "https://lain.bgm.tv/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f4/8a/13136_prsn_u9Z3l.jpg?r=1746421601"
+        },
+        "name": "東映",
+        "relation": "发行",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 13136,
         "eps": ""
       },
       {
@@ -279,10 +295,10 @@
       },
       {
         "images": {
-          "small": "",
-          "grid": "",
-          "large": "",
-          "medium": ""
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/f0/c2/33574_prsn_I3Di7.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/f0/c2/33574_prsn_I3Di7.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/f0/c2/33574_prsn_I3Di7.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/f0/c2/33574_prsn_I3Di7.jpg"
         },
         "name": "瀬川昌治",
         "relation": "脚本",
@@ -340,6 +356,38 @@
         "type": 1,
         "id": 2432,
         "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "小川明弘",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 95560,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "伊藤英治",
+        "relation": "背景美术",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 95562,
+        "eps": ""
       }
     ],
     "characters": [],
@@ -387,7 +435,7 @@
         "id": 380927
       }
     ],
-    "updatedAt": "2026-05-03T12:25:42.981Z"
+    "updated_at": "2026-08-28T17:45:10.570Z"
   },
   {
     "id": 274337,
@@ -408,42 +456,42 @@
         {
           "name": "剧场版",
           "count": 2,
-          "total_cont": 0
+          "total_count": 683259
         },
         {
           "name": "アニメ映画",
           "count": 1,
-          "total_cont": 0
+          "total_count": 2791
         },
         {
           "name": "長浜忠夫",
           "count": 1,
-          "total_cont": 0
+          "total_count": 105
         },
         {
           "name": "井上真樹夫",
           "count": 1,
-          "total_cont": 0
+          "total_count": 59
         },
         {
           "name": "東京ムービー",
           "count": 1,
-          "total_cont": 0
+          "total_count": 284
         },
         {
           "name": "日本动画",
           "count": 1,
-          "total_cont": 0
+          "total_count": 33830
         },
         {
           "name": "古谷徹",
           "count": 1,
-          "total_cont": 0
+          "total_count": 128
         },
         {
           "name": "1970",
           "count": 1,
-          "total_cont": 0
+          "total_count": 343
         }
       ],
       "infobox": [
@@ -520,11 +568,11 @@
     "subjects": [
       {
         "images": {
-          "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/68/41983_H0ipf.jpg",
-          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/68/41983_H0ipf.jpg",
-          "large": "https://lain.bgm.tv/pic/cover/l/5f/68/41983_H0ipf.jpg",
-          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/68/41983_H0ipf.jpg",
-          "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/68/41983_H0ipf.jpg"
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/68/41983_TthwD.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/68/41983_TthwD.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/5f/68/41983_TthwD.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/68/41983_TthwD.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/68/41983_TthwD.jpg"
         },
         "name": "巨人の星",
         "name_cn": "巨人之星",
@@ -533,7 +581,359 @@
         "id": 41983
       }
     ],
-    "updatedAt": "2026-05-03T12:35:55.360Z"
+    "updated_at": "2026-08-28T17:45:35.134Z"
+  },
+  {
+    "id": 287124,
+    "data": {
+      "date": "1970-03-22",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/fe/287124_dii6B.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/fe/287124_dii6B.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/16/fe/287124_dii6B.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/fe/287124_dii6B.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/fe/287124_dii6B.jpg"
+      },
+      "summary": "The Vulture warns people to stay off the streets, then escapes from Spider-Man on a building site.",
+      "name": "Spider-Man Season 3 (1970)",
+      "name_cn": "蜘蛛人 第三季",
+      "tags": [
+        {
+          "name": "欧美",
+          "count": 3,
+          "total_count": 83887
+        },
+        {
+          "name": "童年",
+          "count": 1,
+          "total_count": 90947
+        },
+        {
+          "name": "美国",
+          "count": 1,
+          "total_count": 26087
+        },
+        {
+          "name": "TV",
+          "count": 1,
+          "total_count": 1344460
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "蜘蛛人 第三季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "蜘蛛侠 第三季"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "13"
+        },
+        {
+          "key": "放送开始",
+          "value": "1970年3月22日"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 0,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 0
+      },
+      "total_episodes": 13,
+      "collection": {
+        "on_hold": 0,
+        "dropped": 6,
+        "wish": 2,
+        "collect": 5,
+        "doing": 2
+      },
+      "id": 287124,
+      "eps": 13,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    "persons": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/7a/56/80153_prsn_7766v.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/7a/56/80153_prsn_7766v.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/7a/56/80153_prsn_7766v.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/7a/56/80153_prsn_7766v.jpg"
+        },
+        "name": "Krantz Films",
+        "relation": "动画制作",
+        "career": [
+          "producer"
+        ],
+        "type": 2,
+        "id": 80153,
+        "eps": ""
+      }
+    ],
+    "characters": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ec/08/171691_crt_pf7uF.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ec/08/171691_crt_pf7uF.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ec/08/171691_crt_pf7uF.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ec/08/171691_crt_pf7uF.jpg"
+        },
+        "name": "Betty Brant",
+        "summary": "作为《号角日报》编辑J.乔纳•詹姆森的秘书，贝蒂成为了摄影记者彼得•帕克（蜘蛛侠）的第一任女友。",
+        "relation": "配角",
+        "actors": [],
+        "type": 1,
+        "id": 171691
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/04/6d/191016_crt_x5D65.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/04/6d/191016_crt_x5D65.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/04/6d/191016_crt_x5D65.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/04/6d/191016_crt_x5D65.jpg"
+        },
+        "name": "Peter Parker / Spider-Man (Earth-6799)",
+        "summary": "",
+        "relation": "主角",
+        "actors": [],
+        "type": 1,
+        "id": 191016
+      }
+    ],
+    "subjects": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/16/287123_G7X75.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/16/287123_G7X75.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/78/16/287123_G7X75.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/16/287123_G7X75.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/16/287123_G7X75.jpg"
+        },
+        "name": "Spider-Man Season 2 (1968)",
+        "name_cn": "蜘蛛人 第二季",
+        "relation": "前传",
+        "type": 2,
+        "id": 287123
+      }
+    ],
+    "updated_at": "2026-09-05T12:31:53.721Z"
+  },
+  {
+    "id": 311183,
+    "data": {
+      "date": "1970-03-17",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/c0/311183_TqGEa.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/c0/311183_TqGEa.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/89/c0/311183_TqGEa.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/c0/311183_TqGEa.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/c0/311183_TqGEa.jpg"
+      },
+      "summary": "第9話「飢えたゴリラマン」と第10話「肉弾メガトンおとし」の再編集ブローアップ版",
+      "name": "タイガーマスク",
+      "name_cn": "虎面人 剧场版",
+      "tags": [
+        {
+          "name": "没资源",
+          "count": 2,
+          "total_count": 13
+        },
+        {
+          "name": "旧物",
+          "count": 2,
+          "total_count": 2939
+        },
+        {
+          "name": "剧场版",
+          "count": 1,
+          "total_count": 683259
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "虎面人 剧场版"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Tiger Mask"
+            },
+            {
+              "v": "タイガーマスク (1970)"
+            },
+            {
+              "v": "虎面人1970年剧场版"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "1970年3月17日"
+        },
+        {
+          "key": "片长",
+          "value": "50分钟"
+        },
+        {
+          "key": "原作",
+          "value": "梶原一騎、辻なおき"
+        },
+        {
+          "key": "音乐",
+          "value": "菊池俊輔"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 1,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 5
+      },
+      "total_episodes": 0,
+      "collection": {
+        "on_hold": 0,
+        "dropped": 5,
+        "wish": 8,
+        "collect": 4,
+        "doing": 2
+      },
+      "id": 311183,
+      "eps": 0,
+      "meta_tags": [
+        "剧场版"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    "persons": [
+      {
+        "images": {
+          "small": "",
+          "grid": "",
+          "large": "",
+          "medium": ""
+        },
+        "name": "土屋幹夫",
+        "relation": "原画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 11929,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/0d/64/1728_prsn_g9Gj7.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/0d/64/1728_prsn_g9Gj7.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/0d/64/1728_prsn_g9Gj7.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/0d/64/1728_prsn_g9Gj7.jpg"
+        },
+        "name": "勝間田具治",
+        "relation": "导演",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1728,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/2f/0c/1409_prsn_9X666.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/2f/0c/1409_prsn_9X666.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/2f/0c/1409_prsn_9X666.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/2f/0c/1409_prsn_9X666.jpg"
+        },
+        "name": "江藤昌治",
+        "relation": "企画",
+        "career": [
+          "producer"
+        ],
+        "type": 1,
+        "id": 1409,
+        "eps": ""
+      },
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/100/pic/crt/l/ae/dd/630_prsn_RH13t.jpg",
+          "grid": "https://lain.bgm.tv/pic/crt/g/ae/dd/630_prsn_RH13t.jpg",
+          "large": "https://lain.bgm.tv/pic/crt/l/ae/dd/630_prsn_RH13t.jpg",
+          "medium": "https://lain.bgm.tv/r/400/pic/crt/l/ae/dd/630_prsn_RH13t.jpg"
+        },
+        "name": "菊池俊輔",
+        "relation": "音乐",
+        "career": [
+          "producer",
+          "artist"
+        ],
+        "type": 1,
+        "id": 630,
+        "eps": ""
+      }
+    ],
+    "characters": [],
+    "subjects": [
+      {
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/d6/53801_SLMtZ.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/d6/53801_SLMtZ.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/2b/d6/53801_SLMtZ.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/d6/53801_SLMtZ.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d6/53801_SLMtZ.jpg"
+        },
+        "name": "タイガーマスク",
+        "name_cn": "虎面人",
+        "relation": "全集",
+        "type": 2,
+        "id": 53801
+      }
+    ],
+    "updated_at": "2026-09-04T12:01:54.996Z"
   },
   {
     "id": 378799,
@@ -554,12 +954,12 @@
         {
           "name": "剧场版",
           "count": 2,
-          "total_cont": 0
+          "total_count": 697642
         },
         {
           "name": "旧物",
           "count": 1,
-          "total_cont": 0
+          "total_count": 3287
         }
       ],
       "infobox": [
@@ -647,6 +1047,6 @@
         "id": 53773
       }
     ],
-    "updatedAt": "2026-05-03T12:43:43.299Z"
+    "updated_at": "2026-09-04T12:59:52.934Z"
   }
 ]
